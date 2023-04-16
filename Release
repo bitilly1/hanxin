@@ -1,0 +1,7 @@
+Origin: BITILLY Repo
+Label: BITILLY Repo
+Description: This is a self-use software source
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
