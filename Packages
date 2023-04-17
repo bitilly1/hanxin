@@ -2,7 +2,7 @@ Package: com.nan.aential
 Version: 0.1.0
 Architecture: iphoneos-arm64
 Maintainer: zhaonan
-Filename: debs/rootless/com.nan.aential_0.1.0_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.nan.aential_0.1.0_iphoneos-arm64.deb
 Size: 1743416
 MD5sum: 83ed6b27dfc04c9368b45107a22f746d
 SHA1: 0eff77ed82617a7e57475aaae91de2363c976944
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: bash
 Replaces: bash, dash
-Filename: debs/rootfull/com.nan.alwaysdefaultbash_0.1.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.alwaysdefaultbash_0.1.4_iphoneos-arm.deb
 Size: 1176
 MD5sum: c85cf2e9d93d86953df80a94d7470cca
 SHA1: be108aea7db00f70e0f77dd64caf877ae963cbab
@@ -38,7 +38,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Conflicts: cy+cpu.arm64
 Provides: cy+cpu.arm64
-Filename: debs/rootfull/com.nan.cy+cpu.arm64_0.1.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.cy+cpu.arm64_0.1.0_iphoneos-arm.deb
 Size: 808
 MD5sum: 8fecfde6bbabcd945f81cec3b8a4f3c7
 SHA1: 3f4a40397bca277c6c42411c42ceb876764c3ca1
@@ -55,7 +55,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: sed, coreutils, findutils
 Conflicts: com.nan.lecho (<< 0.2.1)
-Filename: debs/rootfull/com.nan.deb_0.1.8_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.deb_0.1.8_iphoneos-arm.deb
 Size: 6980
 MD5sum: eaf5ecb2866fbfd3eb7281e2aba33943
 SHA1: e2551d54b0aa81f44c2e8ef53ecf0902d7f6f3f8
@@ -73,7 +73,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 9.0)
 Depends: plutil | com.bingner.plutil
-Filename: debs/rootfull/com.nan.disablelowpoweralerts_0.1.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.disablelowpoweralerts_0.1.0_iphoneos-arm.deb
 Size: 1184
 MD5sum: 1beca897cd25bd28b00d78170137960d
 SHA1: 5a70661d4d661d033744f295ef583bad1780b631
@@ -91,7 +91,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 7.0)
 Depends: plutil | com.bingner.plutil
-Filename: debs/rootfull/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm.deb
 Size: 1208
 MD5sum: d17089a32978d8e4e28be4bb1a71cb59
 SHA1: 65e624348180b8b34897ce8de85a71b3de1abf52
@@ -110,7 +110,7 @@ Maintainer: zhaonan
 Pre-Depends: bash
 Depends: firmware (>= 11.0), sed, coreutils
 Conflicts: com.nan.lecho (<< 0.2.0)
-Filename: debs/rootfull/com.nan.dpkg-fill_0.3.2_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.dpkg-fill_0.3.2_iphoneos-arm.deb
 Size: 3204
 MD5sum: 3fda3a895adf4abf101fa725b1ef3421
 SHA1: c559bba342608f2df2952803aef4d0c08c33aebe
@@ -127,7 +127,7 @@ Version: 0.1.0-b6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: bash, gawk, com.nan.dpkg-fill
-Filename: debs/rootfull/com.nan.dpkg-fill-triggers_0.1.0-b6_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.dpkg-fill-triggers_0.1.0-b6_iphoneos-arm.deb
 Size: 1128
 MD5sum: 83744d5615c8448d0387fa869976451f
 SHA1: ac3c3d69c8cf4b3536efbad8049e865330852b8c
@@ -144,7 +144,7 @@ Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>> 11.0)
-Filename: debs/rootfull/com.nan.enableccmutemodule_0.2.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.enableccmutemodule_0.2.0_iphoneos-arm.deb
 Size: 1220
 MD5sum: fd029d32b6e9f8a75adc308484ccc373
 SHA1: 3a1f6e493e600a634258602e80ec40d0216e26a9
@@ -162,29 +162,11 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 11.0)
 Depends: plutil | com.bingner.plutil
-Filename: debs/rootfull/com.nan.enableknownnetworks_0.1.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.enableknownnetworks_0.1.0_iphoneos-arm.deb
 Size: 1168
 MD5sum: ad6c2b22bf34fa5828d043797703737f
 SHA1: 1cfbf613d645a1031bcd111bd8dccb8a1e9682a2
 SHA256: fe22066889de6638072c30af0c7f27848f78f7c946ca8d14d4a2b240c9811385
-Section: System
-Description: 启用自带 Wi-Fi 下方的已知网络面板
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: Enable known networks
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableknownnetworks/js.json
-
-Package: com.nan.enableknownnetworks
-Version: 0.1.0
-Architecture: iphoneos-arm64
-Maintainer: zhaonan
-Pre-Depends: firmware (>= 11.0)
-Depends: plutil | com.bingner.plutil
-Filename: debs/rootless/com.nan.enableknownnetworks_0.1.0_iphoneos-arm64.deb
-Size: 1176
-MD5sum: 3d92daf2d2c6d59a5a92c3a560a80db9
-SHA1: a687dcc91e75febca7a2a2ed724441cd405c01ba
-SHA256: 904b2f714150e7b64c040cd2438cea8de37c1ae44214ca07d3dc02362adf6928
 Section: System
 Description: 启用自带 Wi-Fi 下方的已知网络面板
 Author: zhaonan
@@ -199,7 +181,7 @@ Maintainer: zhaonan
 Pre-Depends: sed, zip, unzip, tree, uuid, bash
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
 Conflicts: com.nan.lecho (<< 0.2.0)
-Filename: debs/rootfull/com.nan.fh_0.2.5-1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.fh_0.2.5-1_iphoneos-arm.deb
 Size: 6772
 MD5sum: fcd993921a84c55185e796824fc5882d
 SHA1: e47bf40b407a710ac75de8b3c7d1f37c01e6869d
@@ -218,7 +200,7 @@ Maintainer: zhaonan
 Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
 Depends: firmware (>=10.3), rsync, diskdev-cmds
 Conflicts: com.nan.lecho (<< 0.2.0)
-Filename: debs/rootfull/com.nan.ft_0.4.8_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.ft_0.4.8_iphoneos-arm.deb
 Size: 3780
 MD5sum: 420dd5304f1c0c95d2e39f473cb7dc61
 SHA1: af334fe58e2b724039389f946c1fccc4e3429f84
@@ -239,7 +221,7 @@ Pre-Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
 Depends: firmware (>= 11.0)
 Conflicts: com.ichitaso.spenabler
 Provides: com.ichitaso.spenabler
-Filename: debs/rootfull/com.nan.issupervised_0.1.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.issupervised_0.1.0_iphoneos-arm.deb
 Size: 1264
 MD5sum: 5c24e76e66669aca07b2d9cf95291042
 SHA1: e9a67cbdcfc1a6228c4b8943d0e86f49a9e09710
@@ -257,7 +239,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: text-cmds
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/rootfull/com.nan.lecho_0.2.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.lecho_0.2.1_iphoneos-arm.deb
 Size: 1464
 MD5sum: 9700aab530f9bb050a69d3ac4467e9f8
 SHA1: d56a00967e17b9af2cdf39e071d4fd431b08effc
@@ -275,7 +257,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: sed, openssh-server | openssh
 Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Filename: debs/rootfull/com.nan.localhostssh_0.2.7_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.localhostssh_0.2.7_iphoneos-arm.deb
 Size: 1640
 MD5sum: a6c63b19a7725f80a9873aec73bf6275
 SHA1: adfd67b8f39b317b54f33d49a2d639f6629ee0d8
@@ -287,27 +269,12 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/image.pn
 Name: Local SSH
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/js.json
 
-Package: com.nan.mobileicons3x
-Version: 0.14.3
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Filename: debs/rootfull/com.nan.mobileicons3x_0.14.3_iphoneos-arm.deb
-Size: 92660
-MD5sum: a401bd66c257c412464e01c62f7ac68c
-SHA1: aaeb55b9338eae4598384d4c1169c94d8f610f48
-SHA256: 5c7515ddc19978c53576a2e29fcffa41626f8801fa24577099a19cccd1f1f84f
-Section: System
-Description: 为没有 3x 蒙板的设备补全，提取自 8p 14.3，安装后即可卸载。
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: MobileIcons3x
-
 Package: com.nan.patchpath
 Version: 0.1.1-b6
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: grep, mobilesubstrate (= 14)
-Filename: debs/rootfull/com.nan.patchpath_0.1.1-b6_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.patchpath_0.1.1-b6_iphoneos-arm.deb
 Size: 1468
 MD5sum: 31e4cf41146a76fc6663c9120272ee5a
 SHA1: a8f999225b4bae74cf0f61a0d543854f5209653b
@@ -324,7 +291,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.c1d3r.pulloverpro
 Replaces: com.c1d3r.pulloverpro
-Filename: debs/rootfull/com.nan.pulloverpro.zh-Hans_0.1.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.pulloverpro.zh-Hans_0.1.1_iphoneos-arm.deb
 Size: 1928
 MD5sum: 00aeeb6f7673aee3c186052452e4310d
 SHA1: 63f138aa61de68f160287e753ca90573a7a73e2e
@@ -341,7 +308,7 @@ Version: 0.1.4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: com.nan.ft, zsh
-Filename: debs/rootfull/com.nan.resetfonts_0.1.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.resetfonts_0.1.4_iphoneos-arm.deb
 Size: 1236
 MD5sum: 886a152bc0509ac6a7e8603b266059b9
 SHA1: 38f6132fea518503132784aa27818b39b591e497
@@ -358,7 +325,7 @@ Version: 0.2.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: file-cmds
-Filename: debs/rootfull/com.nan.sabotageocsp_0.2.2_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.sabotageocsp_0.2.2_iphoneos-arm.deb
 Size: 1416
 MD5sum: 046a15b895609bed2c4781e88fec7c22
 SHA1: db24e7e939be2a4d73653202b5cd98f6c3804454
@@ -370,31 +337,13 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: Sabotage OCSP
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.sabotageocsp/js.json
 
-Package: com.nan.settingsrevamp.zh-hans
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: com.sop.settingsrevamp
-Replaces: com.sop.settingsrevamp
-Filename: debs/rootfull/com.nan.settingsrevamp.zh-hans_0.1.1_iphoneos-arm.deb
-Size: 2820
-MD5sum: b28ccfe5426774dfad82d50951d2bbe1
-SHA1: 5fcc19ac13cc89198596546cdd266e1f549259f3
-SHA256: f65da0f1eb3d9a55806332ab2f684c0a72b67cde87457091e4ce05ef50396d3c
-Section: Localization
-Description: 为 SettingsRevamp 提供简体中文
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.sop.settingsrevamp/image.png
-Name: zh-Hans for SettingsRevamp
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.sop.settingsrevamp/js.json
-
 Package: com.nan.snap
 Version: 0.3.5
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: firmware (>= 10.3), sed, shell-cmds, diskdev-cmds | firmware-sbin
 Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
-Filename: debs/rootfull/com.nan.snap_0.3.5_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.snap_0.3.5_iphoneos-arm.deb
 Size: 3520
 MD5sum: e4163e6f2099374e05ab8d82eb7cc507
 SHA1: bab5b4a4884287dccedffbc53300b0abfe0ac2a5
@@ -412,7 +361,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Pre-Depends: sed
 Depends: openssh-server | openssh
-Filename: debs/rootfull/com.nan.sshd2_0.2.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.sshd2_0.2.1_iphoneos-arm.deb
 Size: 1332
 MD5sum: c1a7aa2c84c50fba4db792c2e11a2209
 SHA1: 88b22185c02f13955a654c3b92dc1e18c86d9ef9
@@ -430,7 +379,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.qiop1379.swipeextenderx
 Replaces: com.qiop1379.swipeextenderx
-Filename: debs/rootfull/com.nan.swipeextenderx.zh-hans_0.1.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.nan.swipeextenderx.zh-hans_0.1.0_iphoneos-arm.deb
 Size: 3304
 MD5sum: 9ada14fca505516a97cf92c5fc96efc5
 SHA1: 067bbcb3aba895f1f4e8783252e019e0269b6340
