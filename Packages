@@ -1,3 +1,20 @@
+Package: com.bitilly.ddqsb
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Bitilly
+Installed-Size: 274
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.10~beta1), mobilesubstrate, preferenceloader
+Filename: ./debs/rootfull/com.bitilly.ddqsb_1.0.0_iphoneos-arm.deb
+Size: 5228
+MD5sum: 5628e9640ddf451d30fda55807f2cd09
+SHA1: d4f36e7a5ee2d5c263d7b310503f54835ccb3e19
+SHA256: 56673b96e3b0005899d728b1ed1c4a6112a7ccddf0b521d29f4c894700f97c8b
+Section: Bitilly
+Description: 去启动广告首页横屏广告透明刷新
+Author: Bitilly
+Name: 达达骑士优化
+Sponsor: Bitilly
+
 Package: com.nan.aential
 Version: 0.1.0
 Architecture: iphoneos-arm64
