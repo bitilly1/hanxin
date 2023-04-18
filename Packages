@@ -21,11 +21,11 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: ./debs/rootless/com.25mao.miyou.rootless_3.5-8_iphoneos-arm64.deb
-Size: 9768624
-MD5sum: d70dc52aceda5e090ed23ffdf3db7ca7
-SHA1: 7f75d45723596ff23b1225996dc83a9141761737
-SHA256: edd6d1fd2d053cdfdcfdc3f53d5f6fc3367c445afffb50735915acac22610fa9
-Section: Rootless
+Size: 6883280
+MD5sum: c5f08bb68e815f6e49332c526fb347b0
+SHA1: 138d3d0bfe1cf7914613c37ff269b73f60c8642c
+SHA256: 4d18165bf7071d1026c0a76f715a9067f3ffeba9a1013524b1198a8aa8102c9f
+Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
 Author: Mao
@@ -37,12 +37,12 @@ Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootfull/com.HBWechatHelper.ailun _1.1.2_iphoneos-arm.deb
-Size: 4643048
-MD5sum: f0a73dc68100e98724307d01ab1f1998
-SHA1: 8c5af03db804cb6671f542ee857901502d850a9c
-SHA256: b8d7266c71d3fe418cee440c8a6cf9b540aa9998c61713afb5c4f68be14d5f6a
-Section: Tweaks
+Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.1.2_iphoneos-arm.deb
+Size: 3127960
+MD5sum: 7cf08400afd5be7377b719e580654526
+SHA1: 953d88c4ec6e4c515cf66777207ba553aacff88b
+SHA256: c6f3f36e3f399470617ed5342c13d1d7adf2375e942c2dc04811369b91ed3999
+Section: 微信插件
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信娱乐插件群聊点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Dev: HuangBai
@@ -65,6 +65,23 @@ Description: 去启动广告首页横屏广告透明刷新
 Author: Bitilly
 Name: 达达骑士优化
 Sponsor: Bitilly
+
+Package: com.ios.wechat
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Jan<237523005@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.ios.wechat_1.1.5_iphoneos-arm.deb
+Size: 610476
+MD5sum: 5a209b8a9572210e833ef64b779ad98d
+SHA1: f03f29a76f4d089c9b4606f75e7efee2b75e9156
+SHA256: a05c44e84a31260d1749f97d9baf2629db8dacb79ce0107bd8c1fbbf15056b08
+Section: 微信插件
+Priority: optional
+Author: Jan
+Icon: http://repo.ccydia.top/CydiaIcon.png
+Name: WeChat
+Sponsor: Jan<237523005@qq.com>
 
 Package: com.nan.aential
 Version: 0.1.0
@@ -459,17 +476,39 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.
 Name: zh-Hans for SwipeExtenderX
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
 
+Package: me.lightmann.vinyl
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader
+Filename: ./debs/rootfull/me.lightmann.vinyl_1.1.5_iphoneos-arm.deb
+Size: 54364
+MD5sum: d7fcfece403058411b1b0dd496131418
+SHA1: f4af22e4f0a2bf923111285c396577ca22430cf2
+SHA256: 8bced1876cacef8eb7c473f4c7e1d1d75d1b20fe4177182494adaac25c9e419c
+Section: 锁屏优化
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vinylDp
+Description: 锁屏音乐播放器的简化外观！
+Tag: purpose::extension
+Author: Lightmann <lightmanns11@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vinylDp
+Dev: lightmann
+Icon: file:///Library/PreferenceBundles/VinylPrefs.bundle/icon@2x.png
+Name: Vinyl
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: netskao.wechatpurification
 Version: 3.0-6
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/rootfull/netskao.wechatpurification_3.0-6_iphoneos-arm.deb
-Size: 6285168
-MD5sum: 6714193e8e0122af6dd8ebfb320216ef
-SHA1: c16809669146bc5a5a260c1c9e7ddf2c44e069bd
-SHA256: be9ea25b66dfa2ddd3ea809cd67d5455c6264148e5b585001daab2931791d3d3
-Section: Netskao-Tweaks
+Size: 6287144
+MD5sum: 63e5781115f83adb2ff4dab07219474a
+SHA1: 490d113a6a0f0104960d9ddfc8e0a5233f7cba34
+SHA256: 2637f86854cab90edc24f307d5d7388a346c26dfadd806dbbe831878a48f5f62
+Section: 微信插件
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.26及以上版本，设置位于微信-设置
 Author: Netskao
 Name: 微信净化
