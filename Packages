@@ -1,15 +1,66 @@
+Package: com.25mao.MiYou
+Version: 3.5-8
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.25mao.MiYou_3.5-8_iphoneos-arm.deb
+Size: 9770036
+MD5sum: aa0ed9c4214a34cbf58fa4c09a5333a1
+SHA1: 115f385f408e1d6a5217a579a41eaaffacf1166e
+SHA256: 72e2bcf5f9dd6f070b0bd764a83996137a222024e82b56f6947604eef668b1f8
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.5-8
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/rootless/com.25mao.miyou.rootless_3.5-8_iphoneos-arm64.deb
+Size: 9768624
+MD5sum: d70dc52aceda5e090ed23ffdf3db7ca7
+SHA1: 7f75d45723596ff23b1225996dc83a9141761737
+SHA256: edd6d1fd2d053cdfdcfdc3f53d5f6fc3367c445afffb50735915acac22610fa9
+Section: Rootless
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.HBWechatHelper.ailun
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/rootfull/com.HBWechatHelper.ailun _1.1.2_iphoneos-arm.deb
+Size: 4643048
+MD5sum: f0a73dc68100e98724307d01ab1f1998
+SHA1: 8c5af03db804cb6671f542ee857901502d850a9c
+SHA256: b8d7266c71d3fe418cee440c8a6cf9b540aa9998c61713afb5c4f68be14d5f6a
+Section: Tweaks
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信娱乐插件群聊点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Dev: HuangBai
+Name: 黄白助手(微信娱乐插件)
+Sponsor: Mao
+
 Package: com.bitilly.ddqsb
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Bitilly
 Installed-Size: 274
-Depends: com.rpetrich.rocketbootstrap (>= 1.0.10~beta1), mobilesubstrate, preferenceloader
+Depends: firmware (>= 7.0)
 Filename: ./debs/rootfull/com.bitilly.ddqsb_1.0.0_iphoneos-arm.deb
-Size: 5228
-MD5sum: 5628e9640ddf451d30fda55807f2cd09
-SHA1: d4f36e7a5ee2d5c263d7b310503f54835ccb3e19
-SHA256: 56673b96e3b0005899d728b1ed1c4a6112a7ccddf0b521d29f4c894700f97c8b
-Section: Bitilly
+Size: 5196
+MD5sum: 19395acc2e7d9cbf97b494f4ef20f7f0
+SHA1: c89a6a52ca185f0f38c75532be29ec681d32b533
+SHA256: f03be1428da0ae4077b80ebb6ac32c92d8a4960a7db77c9764385925e634747a
+Section: 软件优化
 Description: 去启动广告首页横屏广告透明刷新
 Author: Bitilly
 Name: 达达骑士优化
@@ -407,4 +458,19 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/image.png
 Name: zh-Hans for SwipeExtenderX
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
+
+Package: netskao.wechatpurification
+Version: 3.0-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/rootfull/netskao.wechatpurification_3.0-6_iphoneos-arm.deb
+Size: 6285168
+MD5sum: 6714193e8e0122af6dd8ebfb320216ef
+SHA1: c16809669146bc5a5a260c1c9e7ddf2c44e069bd
+SHA256: be9ea25b66dfa2ddd3ea809cd67d5455c6264148e5b585001daab2931791d3d3
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.26及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化
 
