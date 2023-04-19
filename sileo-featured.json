@@ -4,9 +4,9 @@
  "itemCornerRadius": 10,
  "banners": [
   {
-   "url": "https://invalidunit.github.io/sileodepiction/Default/top_0.png",
+   "url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
    "title": "Local SSH",
-   "package": "com.nan.localhostssh",
+   "package": "cn.bitilly.ddqsb",
    "hideShadow": false
   },
   {
