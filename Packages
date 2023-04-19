@@ -1,20 +1,19 @@
 Package: cn.bitilly.ddqsb
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: Bitilly
-Installed-Size: 274
+Maintainer: bitilly
 Depends: firmware (>= 7.0)
 Filename: ./debs/rootfull/cn.bitilly.ddqsb_1.0.0_iphoneos-arm.deb
-Size: 5228
-MD5sum: 44d0fcf1101801c071c07dde0de8eb9e
-SHA1: b76a367de1269abf07b6fdead4f7a921f282e190
-SHA256: 14322a90feb0c41c7b14070973d903bef969323486975ad9547b121f602a8368
+Size: 5248
+MD5sum: af28e28e501abf39607bf6d9d05ae76b
+SHA1: cc8aa036337c49695479b3fcb7c24719e8c5a910
+SHA256: 9e2d3894b2d3a395904ef004f8a58830adcd9649e936dcc7a244d61636b06029
 Section: 软件优化
-Description: 去启动广告首页横屏广告透明刷新
-Author: Bitilly
+Description: 将 sh 指向 bash
+Author: bitilly <985745559@qq.com>
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: 达达骑士优化
-Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.JSON
-Sponsor: Bitilly
+Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 
 Package: com.25mao.MiYou
 Version: 3.5-8
