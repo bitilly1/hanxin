@@ -26,12 +26,6 @@
                     ]
                 },
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "去除启动广告，首页横幅推荐，透明刷新回归简洁接单模式",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 },
