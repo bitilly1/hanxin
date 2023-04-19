@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "去除启动广告，首页横幅推荐，透明刷新回归简洁接单模式",
+                    "title": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -21,7 +21,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://apt.bitilly.cn/Description\/cn.bitilly.ddqsb\/ddqsb.png"
+                            "url": "https://apt.bitilly.cn/Description/com.tigisoftware.filza64bit/filza.JPG"
                         }
                     ]
                 },
@@ -48,22 +48,22 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "bitilly",
+                    "text": "GITI Software",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.0",
+                    "text": "4.0.1-4",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.0 - 14.9",
+                    "text": "11.0 - 14.9",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2023 年 04 月 19 日",
+                    "text": "2023 年 04 月 20 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -78,13 +78,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.0",
+                    "title": "4.0.1-4",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "新发版本",
+                    "markdown": "最新版本",
                     "useRawFormat": true
                 }
             ]
