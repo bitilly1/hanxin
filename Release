@@ -2,6 +2,6 @@ Origin: Bitilly hanxin
 Label: Bitilly hanxin
 Description: This is a self-use software source
 Suite: stable
-Version: 1.1
+Version: 1.0
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
