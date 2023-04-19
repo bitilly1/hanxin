@@ -5,7 +5,7 @@
  "banners": [
   {
    "url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
-   "title": "Local SSH",
+   "title": "达达骑士优化",
    "package": "cn.bitilly.ddqsb",
    "hideShadow": false
   },
