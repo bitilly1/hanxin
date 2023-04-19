@@ -1,0 +1,163 @@
+{
+  "headerImage": "https:\/\/repo.cydiabc.top\/header.png",
+  "tintColor": "",
+  "tabs": [
+    {
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView",
+          "useBoldText": true
+        },
+        {
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "图片"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": true,
+          "itemSize": "{0, 0}"
+        },
+        {
+          "title": "功能说明",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "useSpacing": false,
+          "class": "DepictionMarkdownView",
+          "markdown": "去除启动广告，首页横幅推荐，透明刷新让软件本身回归简洁"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "预览截图",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https:\/\/repo.cydiabc.top\/image\/20191028\/20191028150643_52697.jpg"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 5,
+          "itemSize": "{160, 309.32}"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}",
+                  "class": "DepictionLabelView",
+                  "text": "开发人员"
+                },
+                {
+                  "fontSize": 17,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "fontWeight": "semibold",
+                  "text": "Bitilly"
+                },
+                {
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}",
+                  "class": "DepictionLabelView",
+                  "text": "当前版本"
+                },
+                {
+                  "fontSize": 17,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "fontWeight": "semibold",
+                  "text": "1.0.0"
+                },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}",
+                  "class": "DepictionLabelView",
+                  "text": "更新时间"
+                },
+                {
+                  "fontSize": 17,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "fontWeight": "semibold",
+                  "text": "2023-04-19"
+                },
+                {
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}",
+                  "class": "DepictionLabelView",
+                  "text": "系统兼容"
+                },
+                {
+                  "fontSize": 17,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "fontWeight": "semibold",
+                  "text": "9.0 ~ 14.8"
+                }
+              ]
+            }
+          ],
+          "orientation": "landscape"
+        },
+        {
+          "tintColor": "#ff0000",
+          "title": "添加QQ群",
+          "openExternal": "true",
+          "class": "DepictionTableButtonView",
+          "action": "https:\/\/apt.bitilly.cn"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "<small style=\"color: #aaa; font-size: 10pt;\">小文寒心 ©2023 - 2023<\/small><style>body { text-align: center; }<\/style>",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "useRawFormat": true
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "版本创建",
+                    "useRawFormat": true
+
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView",
+  "minVersion": "0.1"
+}
