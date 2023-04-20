@@ -567,6 +567,38 @@ Icon: file:///Library/PreferenceBundles/VinylPrefs.bundle/icon@2x.png
 Name: Vinyl
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: netskao.appsmanagercrack
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, com.tigisoftware.appdatamanager
+Filename: ./debs/rootfull/netskao.appsmanagercrack_1.1-2_iphoneos-arm.deb
+Size: 7264
+MD5sum: b54f78824ffcf8cd8e68364732c13e74
+SHA1: 39ce0bc4897e1724a1e10a6755df390ccac59997
+SHA256: 20eb8a7dd2be47030b038ae1eab7af6793f77fb7df48518c4999458e4efb4869
+Section: 文件管理
+Homepage: https://tigisoftware.com/cydia/
+Description: AppsManager unlock full functionality, the main program please install in the official source
+Author: Netskao
+Name: AppsManager Crack
+
+Package: netskao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/rootfull/netskao.filzacrack_1.1-8_iphoneos-arm.deb
+Size: 7316
+MD5sum: b77342c1805156fd72a8646808452ed3
+SHA1: b3db324441f5a7c7890794623dc61f0ea4c998dc
+SHA256: e3dee4ff8bd503c80b6a0c5f205849605d7802d7316d3583a42647c1977839db
+Section: 文件管理
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Netskao
+Name: Filza Crack
+
 Package: netskao.wechatpurification
 Version: 3.0-6
 Architecture: iphoneos-arm
