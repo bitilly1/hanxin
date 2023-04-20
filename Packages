@@ -1,3 +1,20 @@
+Package: am.ldid
+Version: 2.1.5-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software <info@tigisoftware.com>
+Filename: ./debs/rootfull/am.ldid_2.1.5-2_iphoneos-arm.deb
+Size: 1494648
+MD5sum: 6692ee6969ebbb095a310e30180fe8ea
+SHA1: 8be847b1e03811770827282f58cc13843b1414ee
+SHA256: 6bc5a413878efb55e0bcc6a8461e971b0308e53ddd5ee6c7c5ac9d62b71b590b
+Section: 文件管理
+Description: pseudo-codesign Mach-O files for Apps Manager. Built from ProcursusTeam/ldid
+Tag: purpose::console
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Icon: https://apt.bitilly.cn/Description/com.tigiftware.filza64bit/AppIcon.png
+Name: ldid for Apps Manager
+Sileodepiction: https://apt.bitilly.cn/Description/am.ldid/ldid.json
+
 Package: cn.bitilly.ddqsb
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -492,6 +509,22 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/image.png
 Name: zh-Hans for SwipeExtenderX
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
+
+Package: com.tigisoftware.appdatamanager
+Version: 1.8.2-4
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Filename: ./debs/rootfull/com.tigisoftware.appdatamanager_1.8.2-4_iphoneos-arm.deb
+Size: 1449264
+MD5sum: 50af2e43015284d627054b49727f34c7
+SHA1: 41e4635e585ab407c3fe8a8943668a6f46b61ab9
+SHA256: e699d59a77561d9cc8f3d2cfe8fd3a41fca63a06cf55bd58755672246bfa3f87
+Section: 文件管理
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Icon: https://https://apt.bitilly.cn/Description/com.tigiftware.appdatamanager/AppIcon.png
+Name: Apps Manager
+Sileodepiction: https://https://apt.bitilly.cn/Description/com.tigiftware.appdatamanager/appdatamanager.json
 
 Package: com.tigisoftware.filza64bit
 Version: 4.0.1-4
