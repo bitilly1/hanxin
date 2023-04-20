@@ -10,26 +10,11 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "pseudo-codesign Mach-O files for Apps Manager. Built from",
+                    "title": "pseudo-codesign Mach-O files for \r\n Apps Manager. Built from",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
-                {
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://apt.bitilly.cn/Description/am.ldid/ldid.png"
-                        }
-                    ]
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
+                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
