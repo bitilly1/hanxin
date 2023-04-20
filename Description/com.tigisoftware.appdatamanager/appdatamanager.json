@@ -15,6 +15,12 @@
                     "useBottomMargin": false
                 },
                 {
+                    "class": ""
+                },
+                {
+                    "class": ""
+                },
+                {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 346.4533333333333}",
