@@ -10,15 +10,9 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "This tool provides the way to WIPE, BACKUP,\r\n RESTORE AppData for installed Apps",
+                    "title": "This tool provides the way to WIPE, BACKUP,RESTORE AppData for \n installed Apps",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
-                    "class": ""
-                },
-                {
-                    "class": ""
                 },
                 {
                     "class": "DepictionScreenshotsView",
