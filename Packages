@@ -5,13 +5,13 @@ Maintainer: bitilly
 Depends: firmware (>= 7.0)
 Filename: ./debs/rootfull/cn.bitilly.ddqsb_1.0.0_iphoneos-arm.deb
 Size: 5248
-MD5sum: af28e28e501abf39607bf6d9d05ae76b
-SHA1: cc8aa036337c49695479b3fcb7c24719e8c5a910
-SHA256: 9e2d3894b2d3a395904ef004f8a58830adcd9649e936dcc7a244d61636b06029
+MD5sum: 1bdf0016a9dc3063472d0e09320a8fd3
+SHA1: f6ac412eba361a7b5d269ff06f8e852ecba6224f
+SHA256: 984aaa500c4a96174b917a1dc8c0d14c9105ffb62a91214f6cf690a3e6163c5b
 Section: 软件优化
-Description: 将 sh 指向 bash
+Description: 去除启动广告首页横幅推荐透明刷新
 Author: bitilly <985745559@qq.com>
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
 Name: 达达骑士优化
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 
@@ -492,6 +492,25 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/image.png
 Name: zh-Hans for SwipeExtenderX
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
+
+Package: com.tigisoftware.filza64bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Depends: firmware (>= 11.0)
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/rootfull/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm.deb
+Size: 6972984
+MD5sum: 400b5e69284bbb0ca94a3c14315d58e4
+SHA1: 615a3f5c6a9ace73ceb23bf42994cafdd70065cc
+SHA256: cdd4196b99c177dbe0a99366038b8e0b0d6681c93c0f921ab029deb21e95d6d3
+Section: 文件管理
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Icon: https://apt.bitilly.cn/Description/com.tigisoftware.filza64bit/AppIcon.png
+Name: Filza File Manager 64-bit
+Sileodepiction: https://apt.bitilly.cn/Description/com.tigisoftware.filza64bit/filza64bit.json
 
 Package: me.lightmann.vinyl
 Version: 1.1.5
