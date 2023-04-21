@@ -83,6 +83,37 @@ Dev: HuangBai
 Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 
+Package: com.flex2areo.apptools14
+Version: 1.9.4
+Architecture: iphoneos-arm
+Maintainer: aReo
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.flex2areo.apptools14_1.9.4_iphoneos-arm.deb
+Size: 344336
+MD5sum: 10b5a6877d7111ed0111b64972c7e03e
+SHA1: 2a3801f41e692b5a7a46c5ecd5291c6f460561a4
+SHA256: aa2beb738365e8ea9f12984c05f0fb75fb6f149428ca223da34dbeb4c286d832
+Section: 功能助手
+Description: An icon tool.
+Author: aReo
+Name: AppTools for iOS14
+
+Package: com.flex2areo.apptools15rootless
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 920
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.flex2areo.apptools15rootless_1.1.7_iphoneos-arm64.deb
+Size: 163100
+MD5sum: 9c066f118d62926184af051bb473a174
+SHA1: ebbe9b48f19d4ac526ea799a3e5f7cad3a279ae4
+SHA256: 03342801fc38d683bea5dce2a49a6b7c43011cfb73922ff851b5993ff1d288a3
+Section: 功能助手
+Description: AppTools for iOS15 Rootless
+Author: aReo
+Name: AppTools15(Rootless)
+
 Package: com.ios.wechat
 Version: 1.1.5
 Architecture: iphoneos-arm
@@ -580,6 +611,22 @@ Homepage: https://tigisoftware.com/cydia/
 Description: Filza unlock full functionality, the main program please install in the official source
 Author: Netskao
 Name: Filza Crack
+
+Package: netskao.injectipa
+Version: 1.3-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0)
+Filename: ./debs/rootfull/netskao.injectipa_1.3-5_iphoneos-arm.deb
+Size: 5912440
+MD5sum: 9a472c949781762cd5ff9f4bbfb933b5
+SHA1: ff4b502f3f044ead6c630b12bbfe2c078cce27dc
+SHA256: 353f0505ecbc2d2cc3778e6776220f5e79658789d98d435139bf386c7226abcb
+Section: 终端支持
+Homepage: https://github.com/Netskao/MacOS-Utils
+Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
+Author: Netskao
+Name: injectipa
 
 Package: netskao.wechatpurification
 Version: 3.0-6
