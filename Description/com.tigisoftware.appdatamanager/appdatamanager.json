@@ -9,8 +9,8 @@
             "tabname": "描述",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "This tool provides the way to WIPE, BACKUP,RESTORE AppData for \n installed Apps",
+                    "class": "DepictionMarkdownView",
+                    "Markdown": "This tool provides the way to WIPE, BACKUP,RESTORE AppData for installed Apps",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },

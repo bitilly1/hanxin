@@ -9,8 +9,8 @@
             "tabname": "描述",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "pseudo-codesign Mach-O files for \r\n Apps Manager. Built from",
+                    "class": "DepictionMarkdownView",
+                    "markdown": "pseudo-codesign Mach-O files for Apps Manager. Built from",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
