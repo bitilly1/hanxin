@@ -9,9 +9,10 @@
             "tabname": "描述",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "去除启动广告，首页横幅推荐，透明刷新回归\n简洁接单模式",
-                    "useSpacing": true
+                    "class": "DepictionMarkdownView",
+                    "markdown": "去除启动广告，首页横幅推荐，透明刷新回归简洁接单模式",
+                    "useSpacing": true,
+                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionScreenshotsView",
