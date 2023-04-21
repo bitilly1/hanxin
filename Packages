@@ -55,11 +55,11 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: ./debs/rootless/com.25mao.miyou.rootless_3.5-8_iphoneos-arm64.deb
-Size: 6883280
-MD5sum: c5f08bb68e815f6e49332c526fb347b0
-SHA1: 138d3d0bfe1cf7914613c37ff269b73f60c8642c
-SHA256: 4d18165bf7071d1026c0a76f715a9067f3ffeba9a1013524b1198a8aa8102c9f
-Section: 微信插件
+Size: 9768624
+MD5sum: d70dc52aceda5e090ed23ffdf3db7ca7
+SHA1: 7f75d45723596ff23b1225996dc83a9141761737
+SHA256: edd6d1fd2d053cdfdcfdc3f53d5f6fc3367c445afffb50735915acac22610fa9
+Section: Rootless
 Priority: optional
 Description: 微信助手-Rootless版
 Author: Mao
@@ -99,23 +99,6 @@ Author: Jan
 Icon: http://repo.ccydia.top/CydiaIcon.png
 Name: WeChat
 Sponsor: Jan<237523005@qq.com>
-
-Package: com.lenglengyu.dadaqishinojb
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: lenglengyu
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.lenglengyu.dadaqishinojb_0.0.1_iphoneos-arm.deb
-Size: 45112
-MD5sum: 278b08ee9a610157c4b941a3c632d59c
-SHA1: 3c885845bf4bc70acb03e4ea043e07d433e6285c
-SHA256: 6119bbcfe12a4a1d42e93fe556c7123d7215d945fcd151803d75f5606973394b
-Section: 软件优化
-Description: 屏蔽越狱检测。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/dadaqishinojb.html
-Name: 达达骑士【屏蔽越狱】
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/dadaqishinojbsileo
 
 Package: com.nan.aential
 Version: 0.1.0
@@ -223,17 +206,16 @@ Name: Disable SB Lock After Crash
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
 
 Package: com.nan.dpkg-fill
-Version: 0.3.2
+Version: 0.3.4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Pre-Depends: bash
 Depends: firmware (>= 11.0), sed, coreutils
 Conflicts: com.nan.lecho (<< 0.2.0)
-Filename: ./debs/rootfull/com.nan.dpkg-fill_0.3.2_iphoneos-arm.deb
-Size: 3204
-MD5sum: 3fda3a895adf4abf101fa725b1ef3421
-SHA1: c559bba342608f2df2952803aef4d0c08c33aebe
-SHA256: e8cea80e61a42508ab9bf9d5593ddfbc84687b05a2550f6c98c1ac38f03a09f4
+Filename: ./debs/rootfull/com.nan.dpkg-fill_0.3.4_iphoneos-arm.deb
+Size: 3132
+MD5sum: c6608b097188c3519b05a5188e7c6739
+SHA1: d48b2b079f1a1f220bc817f589287164a249ca00
+SHA256: 7810e3761d6b582a621d3f0f93297729ccd0e8581a765451865fd6029335bff7
 Section: Terminal_Support
 Description: 修补因缺少维护者和描述的报错信息
 Author: zhaonan <Invalidunit@icloud.com>
