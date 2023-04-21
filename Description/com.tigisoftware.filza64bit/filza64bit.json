@@ -9,11 +9,11 @@
             "tabname": "描述",
             "views": [
                 {
-                    "useSpacing": false,
+                    "useSpacing": true,
                     "class": "DepictionMarkdownView",
                     "Markdown": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices",
                     "useBoldText": true,
-                    "useBottomMargin": false
+                    "useBottomMargin": true
                 },
                 {
                     "class": "DepictionScreenshotsView",
