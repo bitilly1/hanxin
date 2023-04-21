@@ -131,6 +131,23 @@ Icon: http://repo.ccydia.top/CydiaIcon.png
 Name: WeChat
 Sponsor: Jan<237523005@qq.com>
 
+Package: com.lenglengyu.dadaqishinojb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.lenglengyu.dadaqishinojb_0.0.1_iphoneos-arm.deb
+Size: 45112
+MD5sum: 278b08ee9a610157c4b941a3c632d59c
+SHA1: 3c885845bf4bc70acb03e4ea043e07d433e6285c
+SHA256: 6119bbcfe12a4a1d42e93fe556c7123d7215d945fcd151803d75f5606973394b
+Section: 软件优化
+Description: 屏蔽越狱检测。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dadaqishinojb.html
+Name: 达达骑士【屏蔽越狱】
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dadaqishinojbsileo
+
 Package: com.nan.aential
 Version: 0.1.0
 Architecture: iphoneos-arm64
