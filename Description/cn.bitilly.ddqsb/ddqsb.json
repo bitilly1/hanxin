@@ -10,9 +10,8 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "去除启动广告，首页横幅推荐，透明刷新\n回归简洁接单模式",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "title": "去除启动广告，首页横幅推荐，透明刷新回归简洁接单模式",
+                    "useSpacing": false
                 },
                 {
                     "class": "DepictionScreenshotsView",
