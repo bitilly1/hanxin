@@ -1,3 +1,23 @@
+Package: ai.akemi.appsyncunified
+Version: 110.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: ./debs/rootfull/ai.akemi.appsyncunified_110.0_iphoneos-arm.deb
+Size: 37320
+MD5sum: 7c6b901d850203050c024f7d83101614
+SHA1: 9ef5de6746b5bb1f64a3c0423f38940ba102953c
+SHA256: 40a82681002137629fc9df00a2196ea1d57a8d0fc580e930df226657a01e23f4
+Section: 文件管理
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
 Package: am.ldid
 Version: 2.1.5-2
 Architecture: iphoneos-arm
@@ -562,6 +582,22 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/image.png
 Name: zh-Hans for SwipeExtenderX
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
+
+Package: com.sutuplus.release
+Version: 5.2.5-1
+Architecture: iphoneos-arm
+Maintainer: Carby <super.cat.rabbit@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.sutuplus.release_5.2.5-1_iphoneos-arm.deb
+Size: 592140
+MD5sum: f501f84ac30e9b6a6372369fab2bc349
+SHA1: 3bae5dd1e11af17836093d589bdd77868464c39c
+SHA256: 628f41fa9b9541ca829aca159b6f4f692f79061c3fad67a505041202f58e82ed
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果 - SG WX美化增强工具
 
 Package: com.tigisoftware.appdatamanager
 Version: 1.8.2-4
