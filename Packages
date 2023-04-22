@@ -83,6 +83,29 @@ Dev: HuangBai
 Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 
+Package: com.creaturecoding.shuffle
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/rootfull/com.creaturecoding.shuffle_1.6.1_iphoneos-arm.deb
+Size: 329752
+MD5sum: 596a9a9281cbfdb7cff16cbcb512af6f
+SHA1: c3f47605f942a76bb2de47189e4621ea699f5c21
+SHA256: e2e96e0467dba553f702eec93e7bda11e42072302fdb5b3d14bfac85a3a1bf1a
+Section: 功能助手
+Homepage: https://creaturecoding.com/
+Description: Organize your settings
+Tag: purpose::extension, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Name: Shuffle
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+
 Package: com.flex2areo.apptools14
 Version: 1.9.4
 Architecture: iphoneos-arm
@@ -613,6 +636,36 @@ Description: AppsManager unlock full functionality, the main program please inst
 Author: Netskao
 Name: AppsManager Crack
 
+Package: netskao.bdtbnoads
+Version: 1.2-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/rootfull/netskao.bdtbnoads_1.2-8_iphoneos-arm.deb
+Size: 66644
+MD5sum: 9b027e9a53f19e9d59973f8a1db5064d
+SHA1: cbfb3a861df50f13766a226adfd22a33fb011448
+SHA256: 672246d6edcf23fd1f9c292dd45ee5733fc6603644483584a3da0fd6310186dc
+Section: 软件优化
+Description: 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册
+Author: Netskao
+Name: 百度贴吧 NoAds
+
+Package: netskao.bilibilipure
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/rootfull/netskao.bilibilipure_1.2-6_iphoneos-arm.deb
+Size: 903940
+MD5sum: ae7168bdc36e1094ca86987bd5fd1bef
+SHA1: ed2af219c73f6a3f89ab88ca4db5c416a749ea24
+SHA256: 65183a91c04647a8abb24e11aedea88fe2dc08079bf784a6624480accfab74e3
+Section: 软件优化
+Description: 哔哩哔哩净化，设置位于我的页面顶部，仅支持7.3.0及以上版本
+Author: Netskao
+Name: 哔哩哔哩净化
+
 Package: netskao.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm
@@ -646,17 +699,17 @@ Author: Netskao
 Name: injectipa
 
 Package: netskao.wechatpurification
-Version: 3.0-6
+Version: 3.1-2
 Architecture: iphoneos-arm
 Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/rootfull/netskao.wechatpurification_3.0-6_iphoneos-arm.deb
-Size: 6287144
-MD5sum: 63e5781115f83adb2ff4dab07219474a
-SHA1: 490d113a6a0f0104960d9ddfc8e0a5233f7cba34
-SHA256: 2637f86854cab90edc24f307d5d7388a346c26dfadd806dbbe831878a48f5f62
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/rootfull/netskao.wechatpurification_3.1-2_iphoneos-arm.deb
+Size: 6250240
+MD5sum: 78f2b3ecacd5c442b0acb31fb0cea72d
+SHA1: fabb3eacf6d2b78d66728dad0799351c2e841414
+SHA256: fbfaad564ee2c8bf97bffe5adde0861cc9cb1f8453a0940c5f6dc3df3965a1b5
 Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.26及以上版本，设置位于微信-设置
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.30及以上版本，设置位于微信-设置
 Author: Netskao
 Name: 微信净化
 
