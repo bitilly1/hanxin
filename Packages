@@ -52,6 +52,24 @@ Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
 Name: 达达骑士优化
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 
+Package: cn.bitilly.dumpdecrypter
+Version: 1.3-7
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.dumpdecrypter_1.3-7_iphoneos-arm.deb
+Size: 529036
+MD5sum: 8f8b232ad617c9f207880de4b4e9ac88
+SHA1: e07bb3ab6bcd0fdb96b59ec1830f1d3aadb5acce
+SHA256: 4f4af00216936c8d44f8d66f8a452a682ef914144b60287839597bb9539b290d
+Section: 功能助手
+Description: DumpDecrypter是基于dumpdecrypted的修改封装，使用方式：通过桌面的DumpDecrypter应用程序选择需要解密的应用在dumpdecrypted基础上增加可选删除小组件可选删除手表组件，可选删除版本限制，可选删除设备限制解密完整应用并导出至/var/mobile/Documents/DumpDecrypter，选择应用后自动杀掉应用进程重新开始，解密前加载所有Frameworks等
+A12: 1
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/DumpDecrypter/AppIcon.png
+Name: DumpDecrypter砸壳工具
+Sponsor: bitilly
+
 Package: com.25mao.MiYou
 Version: 3.5-8
 Architecture: iphoneos-arm
@@ -74,12 +92,12 @@ Version: 3.5-8
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/rootless/com.25mao.miyou.rootless_3.5-8_iphoneos-arm64.deb
-Size: 9768624
-MD5sum: d70dc52aceda5e090ed23ffdf3db7ca7
-SHA1: 7f75d45723596ff23b1225996dc83a9141761737
-SHA256: edd6d1fd2d053cdfdcfdc3f53d5f6fc3367c445afffb50735915acac22610fa9
-Section: Rootless
+Filename: ./debs/rootless/com.25mao.miyou.rootless_3.deb
+Size: 6882564
+MD5sum: 39fa059344dc51ad4529a644b16721f9
+SHA1: 04ba5f9542883cd2467858346a55a0206b7262ed
+SHA256: 1690c722f122c8f5f85fc3fea354ff4f9c9e1b7a736e326e0bf1581c9484d45f
+Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
 Author: Mao
@@ -125,6 +143,21 @@ Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: Shuffle
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+
+Package: com.ejiaogl.tuboshuhook
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 土拨鼠
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.ejiaogl.tuboshuhook_0.0.1-1_iphoneos-arm.deb
+Size: 17120
+MD5sum: 720b6fd0acb731d84211f168a05f9157
+SHA1: c31149a586df5865c7e3f9afc3a45f9ef0525545
+SHA256: 6aa9787ff49de4e2a5118b92ae0211957984b562b317a00aa0b434b0041b59d6
+Section: 功能助手
+Description: An awesome MobileSubstrate tweak!
+Author: 土拨鼠
+Name: 土拨鼠个人插件
 
 Package: com.flex2areo.apptools14
 Version: 1.9.4
@@ -190,6 +223,29 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/dadaqishinojb.html
 Name: 达达骑士【屏蔽越狱】
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/dadaqishinojbsileo
+
+Package: com.mika.iwall
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.floatlyricxi.iwall
+Replaces: com.floatlyricxi.iwall
+Filename: ./debs/rootfull/com.mika.iwall_1.4.5_iphoneos-arm.deb
+Size: 679276
+MD5sum: 1666db1f97ebbc29f832c1ffb81c3e92
+SHA1: f2329d8b524ba93b9f3c34b2c2abf8bfa3a17995
+SHA256: 045f970d19535a2bca9045c5354d6fc8a7aa04de64375ba9dbc660902f966025
+Section: 功能助手
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iwallDp
+Description: 可设置桌面、锁屏、控制中心、通话、‘设置’、‘微信’背景为视频
+Tag: purpose::uikit
+Author: Mika <mika368@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iwallDp
+Dev: mika368
+Icon: file:///Library/PreferenceBundles/iwallbundle.bundle/iphone@2x.png
+Name: iWall
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.nan.aential
 Version: 0.1.0
