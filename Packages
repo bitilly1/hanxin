@@ -639,6 +639,25 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.
 Name: zh-Hans for SwipeExtenderX
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
 
+Package: com.ryannair05.cylinder
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1652
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/rootfull/com.ryannair05.cylinder_1.1.1_iphoneos-arm.deb
+Size: 283352
+MD5sum: c69f0bd03380138910145d0c4dda901e
+SHA1: 9ff12d7b8382c684086cadccf4090903d243d6a4
+SHA256: 7c3dd7711df1fa225186937b334d3efc2f2d59e064c946d23b4f645426b93643
+Section: 功能助手
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/cylinder-reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Name: Cylinder Reborn
+
 Package: com.sutuplus.release
 Version: 5.2.5-1
 Architecture: iphoneos-arm
@@ -791,17 +810,17 @@ Author: Netskao
 Name: injectipa
 
 Package: netskao.wechatpurification
-Version: 3.1-6
+Version: 3.1-7
 Architecture: iphoneos-arm
 Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.4)
-Filename: ./debs/rootfull/netskao.wechatpurification_3.1-6_iphoneos-arm.deb
-Size: 6261988
-MD5sum: 7ba0f2648e0c5bd0bbc040ab3ed9c572
-SHA1: 142ba488acf82312a6b5664252d5d69dc2f01f03
-SHA256: 9ba57542bd020b596b0fc8ed7a2a06fd5a56c99b19782081afa8a44c05a4ddba
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/rootfull/netskao.wechatpurification_3.1-7_iphoneos-arm.deb
+Size: 6268952
+MD5sum: 7d34f7dccbb0f58cf45cbb75038592fe
+SHA1: 3ec95dd6eaf55c91ef40753b70bab4f49b5324c7
+SHA256: ddce2f2f7d552754eff4af60820eed06494b30bea3995155b0532f4ccb3524a4
 Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.28及以上版本，设置位于微信-设置
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
 Name: 微信净化
 
