@@ -108,6 +108,22 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: StoreSwitcher 2账号切换
 Sponsor: bitilly
 
+Package: cn.bitilly.tw3so
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/rootfull/cn.bitilly.tw3so_1.1-1_iphoneos-arm.deb
+Size: 13872
+MD5sum: d4fdd4b26a6056c5d2c29b9f7b855536
+SHA1: 1ae5f059d0d3eb7f34ce00241b10e0e594d8ad93
+SHA256: 4a03bd1640008f83384c10833bddac91ffe4f939a0e1026290a3803bc29f0ee5
+Section: 功能助手
+Priority: optional
+Description: Ads Editor +
+Author: @1_lj6
+Name: Ads Editor +
+
 Package: com.25mao.MiYou
 Version: 3.5-8
 Architecture: iphoneos-arm
