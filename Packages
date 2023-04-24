@@ -70,6 +70,24 @@ Icon: https://apt.bitilly.cn/Description/DumpDecrypter/AppIcon.png
 Name: DumpDecrypter砸壳工具
 Sponsor: bitilly
 
+Package: cn.bitilly.storeswitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.storeswitcher2_1.0.3_iphoneos-arm.deb
+Size: 21228
+MD5sum: 6bed2d64b18231930a481923d5c7aa75
+SHA1: ba7ea92276d26e70263d0feb5486ca46e0d4878b
+SHA256: 2ce4ef128b892af8dfc2fef23468a3b3f12dcdc1b0941ad084d2522e21e859e2
+Section: 附加
+Description: App Store快速切换登录过的账号
+A12: 1
+Author: subdiox
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: StoreSwitcher 2账号切换
+Sponsor: bitilly
+
 Package: com.25mao.MiYou
 Version: 3.5-8
 Architecture: iphoneos-arm
