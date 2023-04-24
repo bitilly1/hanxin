@@ -35,6 +35,26 @@ Icon: https://apt.bitilly.cn/Description/com.tigiftware.filza64bit/AppIcon.png
 Name: ldid for Apps Manager
 Sileodepiction: https://apt.bitilly.cn/Description/am.ldid/ldid.json
 
+Package: cn.bitilly.animplus
+Version: 2.5k
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
+Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast, com.pulandres.animationsbefastpluss, jp.novi.fakeclockup, jp.novi.fakeclockup2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Filename: ./debs/rootfull/cn.bitilly.animplus_2.5k_iphoneos-arm.deb
+Size: 79872
+MD5sum: affa6dc98f10b4c965c3ba428116b782
+SHA1: ac075190220edab4fce7075dbd7d64acc3b5d835
+SHA256: 1b50eede00d6871772351b94557196ffe7ba8602caa20ec30d1e4d25f5ab2d1b
+Section: 功能助手
+Description: 加快系统动画速度，可自行调节动画速度
+A12: 1
+Author: eXqusic
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: AnimPlus动画加速
+Sponsor: bitilly
+
 Package: cn.bitilly.ddqsb
 Version: 1.0.0
 Architecture: iphoneos-arm
