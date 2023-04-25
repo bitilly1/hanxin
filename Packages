@@ -90,6 +90,22 @@ Icon: https://apt.bitilly.cn/Description/DumpDecrypter/AppIcon.png
 Name: DumpDecrypter砸壳工具
 Sponsor: bitilly
 
+Package: cn.bitilly.snapper2
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/rootless/cn.bitilly.snapper2_2.6.0_iphoneos-arm64.deb
+Size: 410692
+MD5sum: 4b0f691b8a48fabcecc9bc0482aaa1c2
+SHA1: ef4abeb367c252a37a7607c60761b24c3372ffcd
+SHA256: 30727f76a9e5d99eee35125458efe10e5ba5af812226e5d38accd7e98cd99c6d
+Section: 功能助手
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Name: Snapper 2
+
 Package: cn.bitilly.storeswitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -260,22 +276,6 @@ Author: Jan
 Icon: http://repo.ccydia.top/CydiaIcon.png
 Name: WeChat
 Sponsor: Jan<237523005@qq.com>
-
-Package: com.jontelang.snapper2.packix
-Version: 2.6.0
-Architecture: iphoneos-arm64
-Maintainer: Jonathan Winger-lang
-Depends: mobilesubstrate, firmware (>= 12.1)
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Filename: ./debs/rootless/com.jontelang.snapper2.packix_2.6.0_iphoneos-arm64.deb
-Size: 410652
-MD5sum: 81ce310fb4f6eb9130ee0049fb28bcf9
-SHA1: 4b78351b4f5af986857dd9ef5290a01fbfa4fb77
-SHA256: 385cf91e2045a28e88ffb3161140b0fbd731e72f7ec1e5c2622570d9c649fb27
-Section: 功能助手
-Description: Pin screenshots on the screen.
-Author: Jonathan Winger-lang
-Name: Snapper 2
 
 Package: com.lenglengyu.dadaqishinojb
 Version: 0.0.1
