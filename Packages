@@ -124,22 +124,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: StoreSwitcher 2账号切换
 Sponsor: bitilly
 
-Package: cn.bitilly.sutuplus
-Version: 5.3.2-1
-Architecture: iphoneos-arm
-Maintainer: Carby <super.cat.rabbit@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/cn.bitilly.sutuplus_5.3.2-1_iphoneos-arm.deb
-Size: 611792
-MD5sum: 0d8ba1e29c4f98468cb25a29d55e0445
-SHA1: 6e213b20f20acb38b20297b5e24e514c50367b93
-SHA256: b0f3778c14b9f94f213a3bc32533dd4beca60343d4e5b6978391fc900faa7054
-Section: 微信插件
-Description: 本插件安装包来自苏兔源
-Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
-Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
-Name: 酸果 - SG WX美化增强工具
-
 Package: cn.bitilly.tw3so
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -155,6 +139,25 @@ Priority: optional
 Description: Ads Editor +
 Author: @1_lj6
 Name: Ads Editor +
+
+Package: cn.bitilly.velvet2
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/rootless/cn.bitilly.velvet2_2.0.3_iphoneos-arm64.deb
+Size: 93436
+MD5sum: bc7516afc928f306731a1082c1e047d6
+SHA1: 6cc9bc134c89623597e3c407ed60d30d79d9374d
+SHA256: 2c5bff603be7a0640d61ea3d1604feaf2d50b0c92be90e427ffda3c8698ebe4e
+Section: 附加
+Description: A fully customizable notification experience
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/buy/velvet-2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Name: Velvet 2
 
 Package: com.25mao.MiYou
 Version: 3.5-8
@@ -743,6 +746,22 @@ Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://chariz.com/get/cylinder-reborn
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Name: Cylinder Reborn
+
+Package: com.sutuplus.release
+Version: 5.3.2-1
+Architecture: iphoneos-arm
+Maintainer: Carby <super.cat.rabbit@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.sutuplus.release_5.3.2-1_iphoneos-arm.deb
+Size: 611704
+MD5sum: d36f9f5d35c1f9b28ab5cd5f4e1b19aa
+SHA1: 9095543f570deed2e8dc3ac742d93fb2282ad8ae
+SHA256: 64a9ffba0d2c3d61757e736e47acd11cd0edaf5629f52308c8ec8e667dbfefe4
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果 - SG WX美化增强工具
 
 Package: com.tigisoftware.appdatamanager
 Version: 1.8.2-4
