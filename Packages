@@ -147,13 +147,12 @@ Maintainer: NoisyFlake <support@noisyflake.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet
 Filename: ./debs/rootless/cn.bitilly.velvet2_2.0.3_iphoneos-arm64.deb
-Size: 93436
-MD5sum: bc7516afc928f306731a1082c1e047d6
-SHA1: 6cc9bc134c89623597e3c407ed60d30d79d9374d
-SHA256: 2c5bff603be7a0640d61ea3d1604feaf2d50b0c92be90e427ffda3c8698ebe4e
+Size: 93556
+MD5sum: 95783de611ac3dd268d8ef169b84aa93
+SHA1: 47d64e03f657b45b4508387a3629dd9c8159debf
+SHA256: 3665c67b59886fb378d7f598119003df278c5cf86704bdb048d9d5c38c1cb9b7
 Section: 附加
-Description: A fully customizable notification experience
-Tag: cydia::commercial, compatible_min::ios15.0
+Description: 完全可定制的通知体验
 Author: NoisyFlake <support@noisyflake.com>
 Depiction: https://chariz.com/buy/velvet-2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
