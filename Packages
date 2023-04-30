@@ -278,6 +278,29 @@ Description: AppTools for iOS15 Rootless
 Author: aReo
 Name: AppTools15(Rootless)
 
+Package: com.ginsu.4ders
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ginsu <njl02@outlook.com>
+Filename: ./debs/rootfull/com.ginsu.4ders_1.0.3_iphoneos-arm.deb
+Size: 8264
+MD5sum: fdf3e1ae27c2d6403ead44d0835e3041
+SHA1: 9bd7a6d39fc92d6620575e9d32247403246573de
+SHA256: 5e3b9c2492dbfa5668b65ce61b7dd51e90d6a869f9c0e2abfd3d53e004ab5b30
+Section: 附加
+Homepage: https://ginsu.dev
+Description: 4x4 Folders.
+Tag: role::enduser
+Author: Ginsu <njl02@outlook.com>
+Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.4ders.html
+Icon: https://repo.ginsu.dev/assets/com.ginsu.4ders/icon.png
+Moderndepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.4ders.json
+Name: 4Ders
+Sileodepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.4ders.json
+Someotherentrytocontrol: True
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+Tags: compatible_min::ios14.0, compatible_max::ios15.0
+
 Package: com.ios.wechat
 Version: 1.1.5
 Architecture: iphoneos-arm
