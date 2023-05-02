@@ -755,12 +755,11 @@ Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>
 Depends: mobilesubstrate, firmware (>= 13)
-Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
 Filename: ./debs/rootless/com.p2kdev.arkita_1.0.4_iphoneos-arm64.deb
-Size: 56504
-MD5sum: 97545061eb6e79b7390b35073a74e284
-SHA1: 372d47716b3f597105d6f93a5bc755e72e4475bf
-SHA256: ad7404d3939161277bb9e409526e17bcbf061c6d51813e462c4281c69d40b48c
+Size: 56536
+MD5sum: 0c910ca983203343df582cc5e7610e31
+SHA1: 0f9509b2f7cce2faf6906fd88c427e4668f7d280
+SHA256: 07dc30aba86729e35d310153cd73f476b8c706cbf5f77291a4f324d08463bcbd
 Section: 锁屏优化
 Description: Get in the Groove!
 Author: P2KDev <p2kdev@gmail.com>
