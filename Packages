@@ -375,22 +375,6 @@ Icon: file:///Library/PreferenceBundles/iwallbundle.bundle/iphone@2x.png
 Name: iWall
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.nan.aential
-Version: 0.1.0
-Architecture: iphoneos-arm64
-Maintainer: zhaonan
-Filename: ./debs/rootless/com.nan.aential_0.1.0_iphoneos-arm64.deb
-Size: 1743416
-MD5sum: 83ed6b27dfc04c9368b45107a22f746d
-SHA1: 0eff77ed82617a7e57475aaae91de2363c976944
-SHA256: 28009651305e70e4c2a1dbed3f97af41e38de5dc36480480bd6aa36d7ed5a85e
-Section: Themes
-Description: 基于 Sential 修改的主题
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/image.png
-Name: Aential
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/js.json
-
 Package: com.nan.alwaysdefaultbash
 Version: 0.1.4
 Architecture: iphoneos-arm
@@ -443,24 +427,6 @@ Author: zhaonan <invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: deb
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
-
-Package: com.nan.disablelowpoweralerts
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: firmware (>= 9.0)
-Depends: plutil | com.bingner.plutil
-Filename: ./debs/rootfull/com.nan.disablelowpoweralerts_0.1.0_iphoneos-arm.deb
-Size: 1184
-MD5sum: 1beca897cd25bd28b00d78170137960d
-SHA1: 5a70661d4d661d033744f295ef583bad1780b631
-SHA256: 6566351b0ac702d9cdc1ffc25da6031c1b924ac22f7053a9ed0ede4b5811680c
-Section: System
-Description: 禁用低电量弹窗
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: Disable LowPower Alerts
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablelowpoweralerts/js.json
 
 Package: com.nan.disablesblockaftercrash
 Version: 0.1.0
@@ -712,24 +678,6 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: Sabotage OCSP
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.sabotageocsp/js.json
-
-Package: com.nan.snap
-Version: 0.3.5
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: firmware (>= 10.3), sed, shell-cmds, diskdev-cmds | firmware-sbin
-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
-Filename: ./debs/rootfull/com.nan.snap_0.3.5_iphoneos-arm.deb
-Size: 3520
-MD5sum: e4163e6f2099374e05ab8d82eb7cc507
-SHA1: bab5b4a4884287dccedffbc53300b0abfe0ac2a5
-SHA256: ff700fad2102cc049781f540a2779bb42b1bd7f095e066c5baf67c8ff57d0eb8
-Section: Terminal_Support
-Description: 更便捷的快照管理
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
-Name: snap
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.snap/js.json
 
 Package: com.nan.sshd2
 Version: 0.2.1
