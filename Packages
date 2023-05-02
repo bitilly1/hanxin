@@ -55,6 +55,23 @@ Icon2: 12.png
 Name: AnimPlus动画加速
 Sponsor: bitilly
 
+Package: cn.bitilly.arkita
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Filename: ./debs/rootless/cn.bitilly.arkita_1.0.4_iphoneos-arm64.deb
+Size: 56696
+MD5sum: bd79f782b75e95bd0f71730a95d93353
+SHA1: 88f3825742c2f89a8451f8ea2ab5679569ed662d
+SHA256: b9825fe2b333c7567047dc0b2bb73aae28d169aba5b21443500960e030cd3a35
+Section: 锁屏优化
+Description: Get in the Groove!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/Arkita/icon.png
+Name: Arkita
+
 Package: cn.bitilly.ddqsb
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -749,22 +766,6 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/image.png
 Name: zh-Hans for SwipeExtenderX
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
-
-Package: com.p2kdev.arkita
-Version: 1.0.4
-Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Depends: mobilesubstrate, firmware (>= 13)
-Filename: ./debs/rootless/com.p2kdev.arkita_1.0.4_iphoneos-arm64.deb
-Size: 56536
-MD5sum: 0c910ca983203343df582cc5e7610e31
-SHA1: 0f9509b2f7cce2faf6906fd88c427e4668f7d280
-SHA256: 07dc30aba86729e35d310153cd73f476b8c706cbf5f77291a4f324d08463bcbd
-Section: 锁屏优化
-Description: Get in the Groove!
-Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/Arkita/icon.png
-Name: Arkita
 
 Package: com.ryannair05.cylinder
 Version: 1.1.1
