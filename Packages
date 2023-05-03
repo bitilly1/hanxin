@@ -231,7 +231,7 @@ Version: 1.3.4
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootless/黄白助手1.3.deb
+Filename: ./debs/rootless/com.HBWechatHelper.ailun_1.3.4_iphoneos-arm64.deb
 Size: 6633976
 MD5sum: 2d06803444045cd4abedfa47c38cf3d2
 SHA1: 62d4f1d3b2063253c7a2975d7741f4e10643e888
