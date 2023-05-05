@@ -734,6 +734,24 @@ Depiction: https://chariz.com/get/cylinder-reborn
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Name: Cylinder Reborn
 
+Package: com.shadow.h5ggapp.rootless
+Version: 7.9
+Architecture: iphoneos-arm64
+Maintainer: tuancc, Summit, Shadow-
+Depends: firmware (>= 5.0), mobilesubstrate, oldabi
+Filename: ./debs/rootless/com.shadow.h5ggapp.rootless_7.9_iphoneos-arm64.deb
+Size: 1778516
+MD5sum: c07da6aa3969d5126722ef5b43d8e77d
+SHA1: 0a2a565f0cf2b67432dc16bb2a3f4518cc2a8388
+SHA256: 4bf552af4ef7e7f653d96847463028746e13dd6a0a9f1d9dffa80a75849b1ad0
+Section: 功能助手
+Priority: optional
+Homepage: https://apt.h5gg.app
+Description: H5GG跨进程iOS15专用悬浮版(该版本不支持iPad的原生分屏浮动, 如有需要可使用H5GG跨进程普通版), Credits: BawAppie, Discord https://discord.gg/h5gg
+Author: tuancc, Summit, Shadow-
+Icon: https://apt.h5gg.app/CydiaIcon.png
+Name: H5GG跨进程悬浮版-Rootless
+
 Package: com.sutuplus.release
 Version: 5.3.2-1
 Architecture: iphoneos-arm
