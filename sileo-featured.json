@@ -8,18 +8,6 @@
    "title": "达达骑士优化",
    "package": "cn.bitilly.ddqsb",
    "hideShadow": false
-  },
-  {
-   "url": "https://invalidunit.github.io/sileodepiction/Default/top_1.png",
-   "title": "deb",
-   "package": "com.nan.deb",
-   "hideShadow": false
-  },
-  {
-   "url": "https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/top.png",
-   "title": "Mute Module",
-   "package": "com.nan.enableccmutemodule",
-   "hideShadow": false
   }
  ]
 }
