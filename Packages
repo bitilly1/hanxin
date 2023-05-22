@@ -106,23 +106,6 @@ Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
 Name: 达达骑士优化
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 
-Package: cn.bitilly.ddqsb
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: bitilly
-Depends: firmware (>= 7.0)
-Filename: ./debs/rootfull/cn.bitilly.ddqsb_1.0.1_iphoneos-arm.deb
-Size: 5360
-MD5sum: 166e45e7b8d72bf0eca06d6ad14333b3
-SHA1: c454521af2cb0efe19caf3364818cc794449daeb
-SHA256: b619782a8111ad09034ab1e91d59c34524c8a93c7143f5f3d90ed79b26058675
-Section: 软件优化
-Description: 屏蔽越狱检测,去除启动广告,首页横幅推荐,透明刷新,回归简洁接单模式
-Author: bitilly <985745559@qq.com>
-Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
-Name: 达达骑士优化
-Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
-
 Package: cn.bitilly.dumpdecrypter
 Version: 1.3-7
 Architecture: iphoneos-arm
@@ -368,23 +351,6 @@ Author: Jan
 Icon: http://repo.ccydia.top/CydiaIcon.png
 Name: WeChat
 Sponsor: Jan<237523005@qq.com>
-
-Package: com.lenglengyu.dadaqishinojb
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: lenglengyu
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.lenglengyu.dadaqishinojb_0.0.1_iphoneos-arm.deb
-Size: 45112
-MD5sum: 278b08ee9a610157c4b941a3c632d59c
-SHA1: 3c885845bf4bc70acb03e4ea043e07d433e6285c
-SHA256: 6119bbcfe12a4a1d42e93fe556c7123d7215d945fcd151803d75f5606973394b
-Section: 软件优化
-Description: 屏蔽越狱检测。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/dadaqishinojb.html
-Name: 达达骑士【屏蔽越狱】
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/dadaqishinojbsileo
 
 Package: com.mika.iwall
 Version: 1.4.5
