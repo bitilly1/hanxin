@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "去除启动广告，首页横幅推荐，透明刷新回归简洁接单模式",
+                    "markdown": "屏蔽越狱检测，去除启动广告，首页横幅推荐，透明刷新回归简洁接单模式",
                     "useSpacing": true,
                     "useBottomMargin": false
                 },
@@ -53,7 +53,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.0",
+                    "text": "1.0.1",
                     "title": "最新版本"
                 },
                 {
@@ -63,7 +63,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2023 年 04 月 19 日",
+                    "text": "2023 年 05 月 22 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -76,6 +76,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增屏蔽越狱检测",
+                    "useRawFormat": true
+                }
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.0",
