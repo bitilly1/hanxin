@@ -86,7 +86,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "新增屏蔽越狱检测",
                     "useRawFormat": true
-                }
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.0",
