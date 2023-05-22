@@ -89,6 +89,40 @@ Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
 Name: 达达骑士优化
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 
+Package: cn.bitilly.ddqsb
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: bitilly
+Depends: firmware (>= 7.0), oldabi
+Filename: ./debs/rootless/cn.bitilly.ddqsb_1.0.0_iphoneos-arm64.deb
+Size: 4828
+MD5sum: 3c9ad33629e24aa69757ffd30375d122
+SHA1: 76e05bf132722cc25dde4573500539c338279322
+SHA256: fb498688f10ebb8b47c7559e36d6a9ade39d2c2392cf92b183c435133df9454e
+Section: 软件优化
+Description: 去除启动广告首页横幅推荐透明刷新
+Author: bitilly <985745559@qq.com>
+Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
+Name: 达达骑士优化
+Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
+
+Package: cn.bitilly.ddqsb
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Depends: firmware (>= 7.0)
+Filename: ./debs/rootfull/cn.bitilly.ddqsb_1.0.1_iphoneos-arm.deb
+Size: 5360
+MD5sum: 166e45e7b8d72bf0eca06d6ad14333b3
+SHA1: c454521af2cb0efe19caf3364818cc794449daeb
+SHA256: b619782a8111ad09034ab1e91d59c34524c8a93c7143f5f3d90ed79b26058675
+Section: 软件优化
+Description: 屏蔽越狱检测,去除启动广告,首页横幅推荐,透明刷新,回归简洁接单模式
+Author: bitilly <985745559@qq.com>
+Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
+Name: 达达骑士优化
+Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
+
 Package: cn.bitilly.dumpdecrypter
 Version: 1.3-7
 Architecture: iphoneos-arm
