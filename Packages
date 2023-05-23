@@ -209,16 +209,16 @@ Depiction: https://chariz.com/buy/velvet-2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Name: Velvet 2
 
-Package: com.25mao.MiYou
-Version: 3.5-8
+Package: com.25mao.miyou
+Version: 3.6-0
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.MiYou_3.5-8_iphoneos-arm.deb
-Size: 9770036
-MD5sum: aa0ed9c4214a34cbf58fa4c09a5333a1
-SHA1: 115f385f408e1d6a5217a579a41eaaffacf1166e
-SHA256: 72e2bcf5f9dd6f070b0bd764a83996137a222024e82b56f6947604eef668b1f8
+Filename: ./debs/rootfull/com.25mao.miyou_3.6-0_iphoneos-arm.deb
+Size: 8469592
+MD5sum: 7d4add5deb243c89ce8c01ad34e396b0
+SHA1: e32a508e846bd933cd0da4d273cd9c085bf13a07
+SHA256: 9d19041e4d4d10c84b49a0098409dc2e1c30625f91754ea9b6aa61494b446211
 Section: 微信插件
 Priority: optional
 Description: 微信助手-密友
