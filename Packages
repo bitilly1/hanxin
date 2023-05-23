@@ -920,16 +920,19 @@ Description: injectipa是一款命令行一键注入dylib到ipa工具。用法�
 Author: Netskao
 Name: injectipa
 
-Package: netskao.wechatpurification
-Version: 3.3-3
+Package: netskao.wcpureextension
+Version: 3.3-6
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/rootfull/netskao.wechatpurification_3.3-3_iphoneos-arm.deb
-Size: 6422628
-MD5sum: 8a574c19190fa861b04d6638521ff2f9
-SHA1: 2a5125223f1d3afe8fdea20ddbe8db552ea9d81a
-SHA256: b0168790984b80b56e7c6e8a82076b39dab561a989e3859a68a92749792e6263
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/rootfull/netskao.wcpureextension_3.3-6_iphoneos-arm.deb
+Size: 6285336
+MD5sum: 7df54f4de3890e90ac0b7714a876404c
+SHA1: 67024b449b1fde0e60abb90e5d211548e22eb1bb
+SHA256: 1a2b0d2f1c7efcff8e8bb52d3eaddfcf36676c1e9b3775eb1754417d20fbcb81
 Section: 微信插件
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
