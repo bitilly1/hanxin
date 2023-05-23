@@ -175,6 +175,27 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: StoreSwitcher 2账号切换
 Sponsor: bitilly
 
+Package: cn.bitilly.surge
+Version: 5.0.5
+Architecture: iphoneos-arm
+Maintainer: Laila Azmi <Lailaazmi@my.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.surge_5.0.5_iphoneos-arm.deb
+Size: 157432
+MD5sum: 2abc4ba227eca1b80979990e9d0e0486
+SHA1: f0ee1b513e5113aaca4df456fb8927594413da32
+SHA256: 18b9df20a90d8c552d5eafcb5b80ac2ff4558e9d47eb720ca23d6e0b0fd058ec
+Section: 软件优化
+Description:
+  • Unlocked All Features
+  • Remove Ads & Banners
+  • Premium & Vip Access
+  • Enjoy Premium Lifetime
+Author: Laila Azmi <Lailaazmi@my.com>
+Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.surge.html
+Icon: https://azmilaila.github.io/laila/com.azmilaila.surge/icon.png
+Name: Surge5® Vip
+
 Package: cn.bitilly.tw3so
 Version: 1.1-1
 Architecture: iphoneos-arm
