@@ -110,12 +110,12 @@ Package: cn.bitilly.ddqsb
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: bitilly
-Depends: firmware (>= 7.0), oldabi
+Depends: firmware (>= 7.0)
 Filename: ./debs/rootless/cn.bitilly.ddqsb_1.0.1_iphoneos-arm64.deb
-Size: 4084
-MD5sum: 06370d618dc8727a2675792e7e411135
-SHA1: 13bf66f8d23c44d937b5a5dd5fce6b580e6a8c02
-SHA256: 36402e82dff51bbeb3f1e5cb173ae8a9722c1b551e48087d14281c33cd83d5de
+Size: 4096
+MD5sum: 6c0c6decf9c890cff3d92053b5889fd2
+SHA1: 959492954682c515a4d4045a85d5d73867cbf996
+SHA256: 04b76a694a3d984b6ccc425b156904179d9b2b6d6373c0ea2dd65c6c7c0fb97c
 Section: 软件优化
 Description: 屏蔽越狱检测,去除启动广告,首页横幅推荐,透明刷新,回归简洁接单模式
 Author: bitilly <985745559@qq.com>
