@@ -247,6 +247,23 @@ Author: Mao
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.HBWechatHelper.ailun
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.5.1_iphoneos-arm.deb
+Size: 8498620
+MD5sum: 977af71f0bd4f065b4b4c1a413e022c6
+SHA1: 63d6e186d51a2be48e489b9577d1351a7b0d03a5
+SHA256: 8ea736358a2c0178f9e1a9d281ce983ec1acabcfc559898eecf78c0d7d570726
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Dev: HuangBai
+Name: 黄白助手(微信娱乐插件)
+Sponsor: Mao
+
 Package: com.creaturecoding.shuffle
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -338,23 +355,6 @@ Sileodepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.4ders.json
 Someotherentrytocontrol: True
 Sponsor: Ginsu Tweaks <njl02@outlook.com>
 Tags: compatible_min::ios14.0, compatible_max::ios15.0
-
-Package: com.hbwechathelper.ailun
-Version: 1.4.81
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootfull/com.hbwechathelper.ailun_1.4.81_iphoneos-arm.deb
-Size: 7916296
-MD5sum: bae7da6b48e9217d6d675cde2399482b
-SHA1: abf0436cf39a9492f4dc33ac1be89a4433c4717f
-SHA256: c7a76dc50d57b3c53be796e3643d807596efdc0991a43b766bb6ac845c7b93eb
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
 
 Package: com.ios.wechat
 Version: 1.1.5
