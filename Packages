@@ -264,6 +264,22 @@ Dev: HuangBai
 Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 
+Package: com.bitilly.ifuwu
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: bitilly <985745559@qq.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.bitilly.ifuwu_1.0.0_iphoneos-arm.deb
+Size: 4124
+MD5sum: faab27daf713007277528756f491838a
+SHA1: bc00afd216f78c2f14c66d87f7c4d692e407cb90
+SHA256: 5a730218a84886ef44c1a14a9ea3260c6c0ffb5e41762b8f5486481c5cc6aad6
+Section: 软件优化
+Description: 去除弹窗提醒
+Author: bitilly <985745559@qq.com>
+Name: 爱服务
+
 Package: com.creaturecoding.shuffle
 Version: 1.6.1
 Architecture: iphoneos-arm
