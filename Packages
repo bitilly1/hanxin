@@ -943,18 +943,18 @@ Author: Netskao
 Name: injectipa
 
 Package: netskao.wcpureextension
-Version: 3.3-6
+Version: 3.4-7
 Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: mobilesubstrate, firmware (>= 12.0)
 Conflicts: netskao.wechatpurification
 Replaces: netskao.wechatpurification
 Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.3-6_iphoneos-arm.deb
-Size: 6285336
-MD5sum: 7df54f4de3890e90ac0b7714a876404c
-SHA1: 67024b449b1fde0e60abb90e5d211548e22eb1bb
-SHA256: 1a2b0d2f1c7efcff8e8bb52d3eaddfcf36676c1e9b3775eb1754417d20fbcb81
+Filename: ./debs/rootfull/netskao.wcpureextension_3.4-7_iphoneos-arm.deb
+Size: 6510832
+MD5sum: a5239102aefaacf45a02e1663037daef
+SHA1: 8729958f86d1da8cc3ddf38621e211ed26b28e38
+SHA256: 4ede3872a53219be2e4efadf23fe4a92abc02931a71c4608af0f685b2020fbad
 Section: 微信插件
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
