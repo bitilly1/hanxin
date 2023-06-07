@@ -842,6 +842,26 @@ Icon: https://apt.bitilly.cn/Description/com.tigisoftware.filza64bit/AppIcon.png
 Name: Filza File Manager 64-bit
 Sileodepiction: https://apt.bitilly.cn/Description/com.tigisoftware.filza64bit/filza64bit.json
 
+Package: com.wechat.SLHelper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 神龙助手
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: wechat.SLHelper
+Replaces: wechat.SLHelper
+Provides: wechat.SLHelper
+Filename: ./debs/rootfull/神龙助手.deb
+Size: 226732
+MD5sum: fea8660c2d6e4892d64d6390ab1cba5a
+SHA1: 5b0d18ad3240cdd9391077ab1fdabd9fb5c7f80c
+SHA256: 1a60986156bd9d17a8ea9205714102907cc6510c5b82ffd1ed8fc52d7506f989
+Section: 微信插件
+Priority: optional
+Description: 神龙助手，语音包
+Author: 神龙助手
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 微信神龙助手
+
 Package: me.lightmann.vinyl
 Version: 1.1.5
 Architecture: iphoneos-arm
