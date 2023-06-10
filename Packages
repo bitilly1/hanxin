@@ -1031,3 +1031,21 @@ Description: 微信净化，还原聊天本质，干净的微信给你，仅支�
 Author: Netskao
 Name: 微信净化
 
+Package: netskao.wcpureextension
+Version: 3.6-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/rootfull/netskao.wcpureextension_3.6-3_iphoneos-arm.deb
+Size: 6639644
+MD5sum: 238a0e0704a1ce381ccf830ef68db07a
+SHA1: f774c2aded1a5c529bc823d66f2b9e9ac831097e
+SHA256: 09f275265d9114853b50db659721715c213052bd2d1e16a897c8e0e209c9706c
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化
+
