@@ -824,6 +824,22 @@ Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Name: 酸果 - SG WX美化增强工具
 
+Package: com.sutuplus.release
+Version: 5.3.6-1
+Architecture: iphoneos-arm
+Maintainer: Carby <super.cat.rabbit@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.sutuplus.release_5.3.6-1_iphoneos-arm.deb
+Size: 380080
+MD5sum: 130976d4d628c9563db605cf10ab3d15
+SHA1: 5b543bd74b603987c67a22d121aa17c0e6cdea2d
+SHA256: d2c711e2109e91cc6715aaff779f2717bcecc5c596aab263cd0656f4051d4d76
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果 - SG WX美化增强工具
+
 Package: com.tigisoftware.appdatamanager
 Version: 1.8.2-4
 Architecture: iphoneos-arm
