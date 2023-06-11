@@ -265,6 +265,23 @@ Author: Mao
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou
+Version: 3.6-3
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.25mao.miyou_3.6-3_iphoneos-arm.deb
+Size: 8646708
+MD5sum: 0a0be05065a8715557787098a37abda5
+SHA1: 7b82bb25da74a1ceb6a569c64f03022076f76403
+SHA256: 957feeec1695b9cbc0f48a0c7c0e654380980625e83e533dc24f0cf790b03c99
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.miyou.rootless
 Version: 3.5-8
 Architecture: iphoneos-arm64
