@@ -271,14 +271,15 @@ Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/rootfull/com.25mao.miyou_3.6-3_iphoneos-arm.deb
-Size: 8646708
-MD5sum: 0a0be05065a8715557787098a37abda5
-SHA1: 7b82bb25da74a1ceb6a569c64f03022076f76403
-SHA256: 957feeec1695b9cbc0f48a0c7c0e654380980625e83e533dc24f0cf790b03c99
+Size: 8646840
+MD5sum: e20ac675bc0ce8842c68c50ddf5994b2
+SHA1: e677bc04e42e1532c7c606c373f0a3eba3247eed
+SHA256: 8029207933596fed73a0ad181d580a1fb25f870fa144d9e58d4e7968cd384ba7
 Section: 微信插件
 Priority: optional
 Description: 微信助手-密友
 Author: Mao
+Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信助手
 Sponsor: admin@25mao.com
 
@@ -322,14 +323,15 @@ Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: firmware (>= 7.0), mobilesubstrate
 Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.5.3_iphoneos-arm.deb
-Size: 8140888
-MD5sum: e329d274ca3135cbf51fd71ce51351de
-SHA1: 7078c6a9362e80edabdabb71033711421f4fe483
-SHA256: e06f205769879f76614115db1ea8af77e0bf114942adae837c1a50039922a22f
+Size: 8130240
+MD5sum: e8b2411a71a224a88317ad8c05772e8c
+SHA1: c8225a608460d4afe762505ed20e4337dd9c77a6
+SHA256: ea83e54f21cb2fdc961f857059cb2c0e2a6f718e7c9ddee71538fc0dd0787a24
 Section: 微信插件
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Dev: HuangBai
+Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 
@@ -448,14 +450,14 @@ Architecture: iphoneos-arm
 Maintainer: Jan<237523005@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/rootfull/com.ios.wechat_1.1.5_iphoneos-arm.deb
-Size: 610476
-MD5sum: 5a209b8a9572210e833ef64b779ad98d
-SHA1: f03f29a76f4d089c9b4606f75e7efee2b75e9156
-SHA256: a05c44e84a31260d1749f97d9baf2629db8dacb79ce0107bd8c1fbbf15056b08
+Size: 609612
+MD5sum: 6e27eb2b4a1b3a6850962228b88ac7d8
+SHA1: 83b09f522d12d44da1f01a52a8ce779257efcf11
+SHA256: bbf0bbb27805f0a3c62f6a377dcbfbbc551449d71995de1084fd7e362c6a92f6
 Section: 微信插件
 Priority: optional
 Author: Jan
-Icon: http://repo.ccydia.top/CydiaIcon.png
+Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: WeChat
 Sponsor: Jan<237523005@qq.com>
 
@@ -881,14 +883,15 @@ Architecture: iphoneos-arm
 Maintainer: Carby <super.cat.rabbit@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/com.sutuplus.release_5.3.6-1_iphoneos-arm.deb
-Size: 380080
-MD5sum: 130976d4d628c9563db605cf10ab3d15
-SHA1: 5b543bd74b603987c67a22d121aa17c0e6cdea2d
-SHA256: d2c711e2109e91cc6715aaff779f2717bcecc5c596aab263cd0656f4051d4d76
+Size: 380072
+MD5sum: 0061a5ae1d6e6d9f8a2d31b89c152e92
+SHA1: 9820120d3e91855b5ecb2fd718d7bf40d45cdca2
+SHA256: 227bab4b556d0e6d68f161808df456edeea9c3a19047b69acd8bbc2551f98974
 Section: 微信插件
 Description: 本插件安装包来自苏兔源
 Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 酸果 - SG WX美化增强工具
 
 Package: com.tigisoftware.appdatamanager
@@ -934,16 +937,16 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: wechat.SLHelper
 Replaces: wechat.SLHelper
 Provides: wechat.SLHelper
-Filename: ./debs/rootfull/神龙助手.deb
-Size: 226732
-MD5sum: fea8660c2d6e4892d64d6390ab1cba5a
-SHA1: 5b0d18ad3240cdd9391077ab1fdabd9fb5c7f80c
-SHA256: 1a60986156bd9d17a8ea9205714102907cc6510c5b82ffd1ed8fc52d7506f989
+Filename: ./debs/rootfull/com.wechat.SLHelper_1.0_iphoneos-arm.deb
+Size: 226700
+MD5sum: 77af320c3206c03e4392542c01cb9cc0
+SHA1: 3d480a3caef8a5e0a506f118fbb50b29061cd0ef
+SHA256: aa39e3bf244953df7387b0107ff8d80faffecc1c6132ac36c0a5cdb244fda195
 Section: 微信插件
 Priority: optional
 Description: 神龙助手，语音包
 Author: 神龙助手
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信神龙助手
 
 Package: me.lightmann.vinyl
