@@ -164,15 +164,15 @@ Architecture: iphoneos-arm
 Maintainer: bitilly
 Depends: firmware (>= 11), mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.storeswitcher2_1.0.3_iphoneos-arm.deb
-Size: 21228
-MD5sum: 6bed2d64b18231930a481923d5c7aa75
-SHA1: ba7ea92276d26e70263d0feb5486ca46e0d4878b
-SHA256: 2ce4ef128b892af8dfc2fef23468a3b3f12dcdc1b0941ad084d2522e21e859e2
-Section: 附加
+Size: 21224
+MD5sum: 38c42e1b58ed3c42b8c780cc8b28e58d
+SHA1: 49d7987364dab650bbcbf8596663ddece9ab405a
+SHA256: 4db43de71a9e161f301e7ff7c0dcf7b4cd3e068c62dad3ef1f601c428c0cd131
+Section: 软件优化
 Description: App Store快速切换登录过的账号
 A12: 1
 Author: subdiox
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon: https://apt.bitilly.cn/Description/cn.bitilly.storeswitcher2/AppIcon.png
 Name: StoreSwitcher 2账号切换
 Sponsor: bitilly
 
