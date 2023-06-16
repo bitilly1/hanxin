@@ -182,10 +182,10 @@ Architecture: iphoneos-arm
 Maintainer: Laila Azmi <Lailaazmi@my.com>
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.surge_5.0.5_iphoneos-arm.deb
-Size: 157432
-MD5sum: 2abc4ba227eca1b80979990e9d0e0486
-SHA1: f0ee1b513e5113aaca4df456fb8927594413da32
-SHA256: 18b9df20a90d8c552d5eafcb5b80ac2ff4558e9d47eb720ca23d6e0b0fd058ec
+Size: 157536
+MD5sum: f28d65a1232a78aa4d867a68170980b1
+SHA1: 961b9ec471ae90940dffad563368f1502b066e7e
+SHA256: 55f456707bab4140d149cde2b082c9086e66e4cd19689c8b8c1375507cadb226
 Section: 软件优化
 Description:
   • Unlocked All Features
@@ -194,7 +194,7 @@ Description:
   • Enjoy Premium Lifetime
 Author: Laila Azmi <Lailaazmi@my.com>
 Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.surge.html
-Icon: https://azmilaila.github.io/laila/com.azmilaila.surge/icon.png
+Icon: https://apt.bitilly.cn/Description/surge/AppIcon.png
 Name: Surge5® Vip
 
 Package: cn.bitilly.tw3so
@@ -1009,13 +1009,14 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/rootfull/netskao.bilibilipure_1.2-6_iphoneos-arm.deb
-Size: 903940
-MD5sum: ae7168bdc36e1094ca86987bd5fd1bef
-SHA1: ed2af219c73f6a3f89ab88ca4db5c416a749ea24
-SHA256: 65183a91c04647a8abb24e11aedea88fe2dc08079bf784a6624480accfab74e3
+Size: 904108
+MD5sum: 97969b32ca4adadd01e0d3ca39d6fbba
+SHA1: 49318feb3e061c2490bec2ea33524ad4a895a0d9
+SHA256: a3acd6e8dd2faa58208ee118f8cd85e86c289a3100622f46f4c9f0c06c973c98
 Section: 软件优化
 Description: 哔哩哔哩净化，设置位于我的页面顶部，仅支持7.3.0及以上版本
 Author: Netskao
+Icon: https://apt.bitilly.cn/Description/bilibilipure/AppIcon.png
 Name: 哔哩哔哩净化
 
 Package: netskao.filzacrack
