@@ -493,6 +493,22 @@ Description: AppTools for iOS15 Rootless
 Author: aReo
 Name: AppTools15(Rootless)
 
+Package: com.flex2areo.apptools15rootless
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.flex2areo.apptools15rootless_1.2.1_iphoneos-arm64.deb
+Size: 195032
+MD5sum: b1a037f1e28563f79814204be892848b
+SHA1: 692e56c43add57229e7a41142875ebe99e2e1ee6
+SHA256: df28f0e3fd7b09095dc196684fd388dc804c8cfcfc64352d1485fab9d723cbc3
+Section: 功能助手
+Description: AppTools for iOS15 Rootless
+Author: aReo
+Icon: https://apt.bitilly.cn/images/apptools.png
+Name: AppTools15(Rootless)
+
 Package: com.ginsu.4ders
 Version: 1.0.3
 Architecture: iphoneos-arm
