@@ -550,6 +550,24 @@ Name: WeChat
 Sponsor: Jan<237523005@qq.com>
 
 Package: com.jontelang.snapper3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix
+Filename: ./debs/rootfull/com.jontelang.snapper3_1.0_iphoneos-arm.deb
+Size: 905380
+MD5sum: b26a360f2f268ffd5cf4525a99c26d9f
+SHA1: 7735cffeeb4e1c6778ced49e2c436bc26f0372c5
+SHA256: 6939a9153dacf3a8e462c1833414e1365396aae2667c2c85dbb7336144e99a9f
+Section: 功能助手
+Description: 截图神器
+Author: Jonathan Winger-lang
+Icon: https://apt.bitilly.cn/Description/snapper3/Icon.png
+Name: Snapper 3
+Sponsor: Jonathan Winger-lang
+
+Package: com.jontelang.snapper3
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: bitilly
