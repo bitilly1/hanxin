@@ -1207,6 +1207,21 @@ Description: injectipa是一款命令行一键注入dylib到ipa工具。用法�
 Author: Netskao
 Name: injectipa
 
+Package: netskao.injectipa-rootless
+Version: 1.3-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0)
+Filename: ./debs/rootless/netskao.injectipa-rootless_1.3-7_iphoneos-arm64.deb
+Size: 5962288
+MD5sum: 8933318be5be34a6fc24d497ce7b6760
+SHA1: 79c6ad0b81b7ff29f2260f77ee56b303887c73f7
+SHA256: 6d08809e8a0b5c23f620b9562ca43f4a5564a016baa59cb3d33460ec69af8e20
+Section: 附加
+Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
+Author: Netskao
+Name: injectipa-Rootless
+
 Package: netskao.wcpureextension
 Version: 3.4-7
 Architecture: iphoneos-arm
