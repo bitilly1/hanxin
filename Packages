@@ -556,10 +556,10 @@ Maintainer: bitilly
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix
 Filename: ./debs/rootfull/com.jontelang.snapper3_1.0_iphoneos-arm.deb
-Size: 905380
-MD5sum: b26a360f2f268ffd5cf4525a99c26d9f
-SHA1: 7735cffeeb4e1c6778ced49e2c436bc26f0372c5
-SHA256: 6939a9153dacf3a8e462c1833414e1365396aae2667c2c85dbb7336144e99a9f
+Size: 904604
+MD5sum: dc536fa283e313c142a73a2d50d2bb5c
+SHA1: 76b2eeddcdd2160f312b2b805a5498f08c19ec25
+SHA256: 56854c9b8ef2221067cef756bead0c33a6c009dcefe1c2ee4e38e4b475e4376b
 Section: 功能助手
 Description: 截图神器
 Author: Jonathan Winger-lang
