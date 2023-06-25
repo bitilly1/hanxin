@@ -1334,3 +1334,41 @@ Author: Netskao
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信净化
 
+Package: xc.lzsxcl.o2
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 17640
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootfull/xc.lzsxcl.o2_4.1_iphoneos-arm.deb
+Size: 9213176
+MD5sum: 31be232cef5c59ab21aef12d30ccc52c
+SHA1: e308e3269038e42dcfa150be67e494fb62818332
+SHA256: 7da00933fc3509ab5f1ee49b4812e135e3f9363a5d1fd31eb062f4cc11f531c4
+Section: 功能助手
+Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.o2.rootless
+Version: 4.1
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 17656
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_4.1_iphoneos-arm64.deb
+Size: 9224544
+MD5sum: c66acbd8906253222ed2118a88fdc725
+SHA1: e3b9a0a7cfa26ccd645be3a997009873e91981b9
+SHA256: 2fce500a1214f131014fef1bc5b5fec4d9a4e7e6270eac6cfe901a1d573900b0
+Section: 功能助手
+Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro rootless
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
