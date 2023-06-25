@@ -435,14 +435,14 @@ Architecture: iphoneos-arm
 Maintainer: 土拨鼠
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/com.ejiaogl.tuboshuhook_0.0.1-1_iphoneos-arm.deb
-Size: 17160
-MD5sum: 571a15af0ba8c4857169b7fae06e02a9
-SHA1: c3f28279816a28d736faefefd212c9c90badc78e
-SHA256: a3cb7cdecd3ad0a215e87e4aa14681e5df4723eaed59c136a0a3eba92f32a4ed
+Size: 17180
+MD5sum: 79e96107b8d54734b9813d30fd27de71
+SHA1: 7348ef2c4ea5b4963c7f247d0623b8deaac49049
+SHA256: 9be721827aa3bc5e36be4d526cf5a9592b62eff2f80420a559d4321ccc230503
 Section: 功能助手
 Description: An awesome MobileSubstrate tweak!
 Author: 土拨鼠
-Icon: https://apt.bitilly.cn/images/Preferences.png
+Icon: https://apt.bitilly.cn/Description/tuboshu/icon.png
 Name: 土拨鼠个人插件
 
 Package: com.flex2areo.apptools14
