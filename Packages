@@ -1376,15 +1376,15 @@ Maintainer: lzsxcl
 Installed-Size: 17656
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_4.1_iphoneos-arm64.deb
-Size: 9224544
-MD5sum: c66acbd8906253222ed2118a88fdc725
-SHA1: e3b9a0a7cfa26ccd645be3a997009873e91981b9
-SHA256: 2fce500a1214f131014fef1bc5b5fec4d9a4e7e6270eac6cfe901a1d573900b0
+Size: 9225044
+MD5sum: d09af08a42b3ac36aaff0a4e4a3afe67
+SHA1: fb481eefb3f42fd6893b8bd840f2aa61690307bf
+SHA256: 29c57263af27e2968e86dc961e06c5fbce8c6180b05e7a5d42c5aa3452ba7d93
 Section: 功能助手
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro rootless
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+Sileodepiction: https://apt.bitilly.cn/Description/O2pro/O2pro.json
 
