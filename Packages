@@ -1376,11 +1376,11 @@ Maintainer: lzsxcl
 Installed-Size: 17592
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_4.1.1_iphoneos-arm.deb
-Size: 9208192
-MD5sum: 59f5438051960212103493b5531373e7
-SHA1: 21b0f9ec1f0db238f35cbe2eff8d4637b96e8de2
-SHA256: 9c53a2c37c422b3afcec14b2caeca468f6542aa85e56825da59079ee621ba14f
-Section: Tweaks
+Size: 9208432
+MD5sum: e3b271892d88e6cb0ac57ebd37cf1fe0
+SHA1: 6b04af539c66fd0ad8444fbb7ecf63cbe2de0075
+SHA256: 07326254321739ce673754f16f93e4df8247c499515ec103bc71411f2471ae7e
+Section: 功能助手
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -1414,11 +1414,11 @@ Maintainer: lzsxcl
 Installed-Size: 17656
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_4.1.1_iphoneos-arm64.deb
-Size: 9224708
-MD5sum: 1b2250ccf477a91f571cb40b8dfa10dc
-SHA1: bbb0c68c6c7b5d553b71c887965d30f9121db72d
-SHA256: df2d455587b6a9b29da5823c80717f555eeb3568be6103eb2459abc2218da2b6
-Section: Tweaks
+Size: 9224312
+MD5sum: cee7ee06e8376849d50e0a9d2bd98593
+SHA1: b259282f7ecc8e3b4a050cc5e74e9189595ee3bb
+SHA256: 9f0b5390bad4ea71d3064644f13bc20ef006cbd07476c4b2218cff2a3ebf0df6
+Section: 功能助手
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
