@@ -1229,11 +1229,11 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0)
 Filename: ./debs/rootless/netskao.injectipa-rootless_1.3-7_iphoneos-arm64.deb
-Size: 5962288
-MD5sum: 8933318be5be34a6fc24d497ce7b6760
-SHA1: 79c6ad0b81b7ff29f2260f77ee56b303887c73f7
-SHA256: 6d08809e8a0b5c23f620b9562ca43f4a5564a016baa59cb3d33460ec69af8e20
-Section: 附加
+Size: 5944908
+MD5sum: 7d28226c8873b36e66ea89afe3f914b6
+SHA1: 21f83b1d32b978f6954b452cb245a561052a438c
+SHA256: de3c83b6f653c5ddb3799d02a793d2c18f4782d8b759fe47ea6f1c960a613b7e
+Section: 终端支持
 Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
 Author: Netskao
 Name: injectipa-Rootless
