@@ -101,10 +101,7 @@
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 1、重新编译，极致优化，增强稳定性，解决可能内存泄露溢出等导致无故注销潜在问题；  
-2、修复功能菜单显示不完整等异常问题；  
-3、修复后台、禁止注入功能无法开启问题；  
-4、解决解锁屏幕后可能卡顿掉帧的问题。",
+					"markdown": "\t\n\u2023 1、重新编译，极致优化，增强稳定性，解决可能内存泄露溢出等导致无故注销潜在问题；<br>2、修复功能菜单显示不完整等异常问题；<br>3、修复后台、禁止注入功能无法开启问题；<br>4、解决解锁屏幕后可能卡顿掉帧的问题。",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -115,9 +112,7 @@
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 1、新增白灰和黑灰UI菜单；  
-2、修复文件夹菜单崩溃问题；  
-3、优化编译,解决可能无故注销等问题。",
+					"markdown": "\t\n\u2023 1、新增白灰和黑灰UI菜单；<br>2、修复文件夹菜单崩溃问题；<br>3、优化编译,解决可能无故注销等问题。",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
