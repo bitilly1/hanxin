@@ -95,13 +95,24 @@
 			"tabname": "更新",
 			"views": [
 				{
+					"title": "AppTools14 v2.0.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 1、重新编译，极致优化，增强稳定性，解决可能内存泄露溢出等导致无故注销潜在问题；\n2、修复功能菜单显示不完整等异常问题；\n3、修复后台、禁止注入功能无法开启问题；\n4、解决解锁屏幕后可能卡顿掉帧的问题。",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+            {
 					"title": "AppTools14 v2.0.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 1.新增白灰和黑灰UI菜单;2.修复文件夹菜单崩溃问题;3.优化编译,解决可能无故注销等问题.",
+					"markdown": "\t\n\u2023 1、新增白灰和黑灰UI菜单；\n2、修复文件夹菜单崩溃问题；\n3、优化编译,解决可能无故注销等问题。",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
