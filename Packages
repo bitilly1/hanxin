@@ -336,6 +336,24 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.6-4.1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/rootless/com.25mao.miyou.rootless_3.6-4.1_iphoneos-arm64.deb
+Size: 8661316
+MD5sum: 2064888abdb18080b7de96738dadc0d4
+SHA1: 480f93eec605d0d8a9b41a79319d4e621a51a8ec
+SHA256: 58d132d908173df9e6fafd3faebc4d42c94020226b6e179ce969fe783b285f25
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.HBWechatHelper.ailun
 Version: 1.5.1
 Architecture: iphoneos-arm
