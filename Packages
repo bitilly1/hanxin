@@ -1548,6 +1548,25 @@ Author: Netskao
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信净化
 
+Package: netskao.wcpureextension
+Version: 3.7-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/rootfull/netskao.wcpureextension_3.7-1_iphoneos-arm.deb
+Size: 6726804
+MD5sum: 79222529db7062bbdb019586cd3bd538
+SHA1: ed5990822c67b075b05445a8b927444eca5c0608
+SHA256: 855d9dc4696a48c8a31f6a1aa5fa06099f8abb75a64ffa2a5abf5423e485e076
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信净化
+
 Package: netskao.wcpureextension-rootless
 Version: 3.6-9
 Architecture: iphoneos-arm64
