@@ -1004,24 +1004,6 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: patch path(beta)
 
-Package: com.nan.pulloverpro.zh-Hans
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: com.c1d3r.pulloverpro
-Replaces: com.c1d3r.pulloverpro
-Filename: ./debs/rootfull/com.nan.pulloverpro.zh-Hans_0.1.1_iphoneos-arm.deb
-Size: 1928
-MD5sum: 00aeeb6f7673aee3c186052452e4310d
-SHA1: 63f138aa61de68f160287e753ca90573a7a73e2e
-SHA256: 0ae9aafd9b0329585f9d35a7ac3b13f831f4f12b9ef34eb79a6515cdccba6abd
-Section: Localization
-Description: 为 PullOver Pro 提供简体中文
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.c1d3r.pulloverpro/image.png
-Name: zh-Hans for PullOver Pro
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.c1d3r.pulloverpro/js.json
-
 Package: com.nan.resetfonts
 Version: 0.1.4
 Architecture: iphoneos-arm
@@ -1073,24 +1055,6 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
 Name: sshd2
 Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.sshd2/js.json
-
-Package: com.nan.swipeextenderx.zh-hans
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: com.qiop1379.swipeextenderx
-Replaces: com.qiop1379.swipeextenderx
-Filename: ./debs/rootfull/com.nan.swipeextenderx.zh-hans_0.1.0_iphoneos-arm.deb
-Size: 3304
-MD5sum: 9ada14fca505516a97cf92c5fc96efc5
-SHA1: 067bbcb3aba895f1f4e8783252e019e0269b6340
-SHA256: 17e6d36a063cd96ca440ea744bb57fe03e6cf9655b5f2f2ddec8ec4bbb6fc095
-Section: Localization
-Description: 为 SwipeExtenderX 提供简体中文
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/image.png
-Name: zh-Hans for SwipeExtenderX
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
 
 Package: com.ryannair05.cylinder
 Version: 1.1.1
