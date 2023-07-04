@@ -982,26 +982,6 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: ft
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.ft/js.json
 
-Package: com.nan.issupervised
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Depends: firmware (>= 11.0)
-Conflicts: com.ichitaso.spenabler
-Provides: com.ichitaso.spenabler
-Filename: ./debs/rootfull/com.nan.issupervised_0.1.0_iphoneos-arm.deb
-Size: 1264
-MD5sum: 5c24e76e66669aca07b2d9cf95291042
-SHA1: e9a67cbdcfc1a6228c4b8943d0e86f49a9e09710
-SHA256: 51b4939a9be22257bdd7f683a99eaf740ddcf417b5d640f35d7d3b1577e12162
-Section: System
-Description: 启用监督模式，主要用于配合描述文件，升级到部分无法通过 iTunes 升级的系统
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: Is Supervised
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.issupervised/js.json
-
 Package: com.nan.lecho
 Version: 0.2.1
 Architecture: iphoneos-arm
@@ -1070,41 +1050,6 @@ Author: zhaonan <Invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/image.png
 Name: reset fonts
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/js.json
-
-Package: com.nan.sabotageocsp
-Version: 0.2.2
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: file-cmds
-Filename: ./debs/rootfull/com.nan.sabotageocsp_0.2.2_iphoneos-arm.deb
-Size: 1416
-MD5sum: 046a15b895609bed2c4781e88fec7c22
-SHA1: db24e7e939be2a4d73653202b5cd98f6c3804454
-SHA256: 309fd9cc3b2cf1e88708b24e0d8216869d576e93dd6edd1736d17f025995ef9f
-Section: System
-Description: 破坏系统文件来让使用苹果吊销签名的应用可以正常打开
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: Sabotage OCSP
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.sabotageocsp/js.json
-
-Package: com.nan.sshd2
-Version: 0.2.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: sed
-Depends: openssh-server | openssh
-Filename: ./debs/rootfull/com.nan.sshd2_0.2.1_iphoneos-arm.deb
-Size: 1332
-MD5sum: c1a7aa2c84c50fba4db792c2e11a2209
-SHA1: 88b22185c02f13955a654c3b92dc1e18c86d9ef9
-SHA256: 4c742ccb77b36ea702db1f37d2e08ee936fceeae575631e52047d91c9b468c24
-Section: Addons
-Description: 无聊的补丁，将 sshd 修改为 sshd2 的同时不影响 openssh 正常使用
-Author: zhaonan
-Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
-Name: sshd2
-Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.sshd2/js.json
 
 Package: com.ryannair05.cylinder
 Version: 1.1.1
@@ -1388,14 +1333,15 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Depends: firmware (>= 11.0)
 Filename: ./debs/rootfull/netskao.injectipa_1.3-7_iphoneos-arm.deb
-Size: 6020608
-MD5sum: 095054a76d9b525c92b26b3e6f3f0a11
-SHA1: d88a85f14cad36b97c03c03430e4f5ca69edcd06
-SHA256: 87c6dd2400a0a68ceb17f8ac02f64aa2c639be5209651dad04d5131fcf9958d0
-Section: 终端支持
+Size: 6028004
+MD5sum: 4008925c91e874f6f9addfe8d2875db7
+SHA1: 6306d59879c4ab3164cfb919b0e5ac993a4c5429
+SHA256: 9476222eda2056c97c965938073b8d5e585441d2fc50197f38e8c424b259b6f7
+Section: Terminal_Support
 Homepage: https://github.com/Netskao/MacOS-Utils
 Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
 Author: Netskao
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: injectipa
 
 Package: netskao.injectipa-rootless
