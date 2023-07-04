@@ -1051,6 +1051,22 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/image.png
 Name: reset fonts
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/js.json
 
+Package: com.pingfan.wechat
+Version: 2.1-3
+Architecture: iphoneos-arm
+Maintainer: pingfan
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.pingfan.wechat_2.1-3_iphoneos-arm.deb
+Size: 3570836
+MD5sum: b3095bea241ac33d78777c417e6e8971
+SHA1: d55e5db4e6a5d29645c9cb41bbe30d447caa5419
+SHA256: 43622cd0675cb991b1a4f56c41eba549e3ca2c802a9b3b1bd3bcffab96777d46
+Section: 微信插件
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询,新增语音包，一键已读消息等。
+Author: pingfan
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 虚拟视频
+
 Package: com.ryannair05.cylinder
 Version: 1.1.1
 Architecture: iphoneos-arm
@@ -1310,22 +1326,6 @@ Homepage: https://tigisoftware.com/cydia/
 Description: Filza unlock full functionality, the main program please install in the official source
 Author: Netskao
 Name: Filza Crack
-
-Package: netskao.injectipa
-Version: 1.3-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0)
-Filename: ./debs/rootfull/netskao.injectipa_1.3-5_iphoneos-arm.deb
-Size: 5912440
-MD5sum: 9a472c949781762cd5ff9f4bbfb933b5
-SHA1: ff4b502f3f044ead6c630b12bbfe2c078cce27dc
-SHA256: 353f0505ecbc2d2cc3778e6776220f5e79658789d98d435139bf386c7226abcb
-Section: 终端支持
-Homepage: https://github.com/Netskao/MacOS-Utils
-Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
-Author: Netskao
-Name: injectipa
 
 Package: netskao.injectipa
 Version: 1.3-7
