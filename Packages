@@ -42,16 +42,15 @@ Maintainer: bitilly
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
 Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast, com.pulandres.animationsbefastpluss, jp.novi.fakeclockup, jp.novi.fakeclockup2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
 Filename: ./debs/rootfull/cn.bitilly.animplus_2.5k_iphoneos-arm.deb
-Size: 79872
-MD5sum: affa6dc98f10b4c965c3ba428116b782
-SHA1: ac075190220edab4fce7075dbd7d64acc3b5d835
-SHA256: 1b50eede00d6871772351b94557196ffe7ba8602caa20ec30d1e4d25f5ab2d1b
+Size: 80236
+MD5sum: cbc8b3e472f7a2d7c351b5f124d6852b
+SHA1: a40f9c258c8e79498c31be4a70366012177c7961
+SHA256: 0d898dab2befafa41c455ee02cd17bb285de8b12bf45624c0add0d414e0ead0e
 Section: 功能助手
 Description: 加快系统动画速度，可自行调节动画速度
 A12: 1
 Author: eXqusic
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Icon2: 12.png
+Icon: https://apt.bitilly.cn/Description/AnimPlus/icon.png
 Name: AnimPlus动画加速
 Sponsor: bitilly
 
@@ -203,14 +202,15 @@ Architecture: iphoneos-arm
 Maintainer: @1_lj6
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/rootfull/cn.bitilly.tw3so_1.1-1_iphoneos-arm.deb
-Size: 13872
-MD5sum: d4fdd4b26a6056c5d2c29b9f7b855536
-SHA1: 1ae5f059d0d3eb7f34ce00241b10e0e594d8ad93
-SHA256: 4a03bd1640008f83384c10833bddac91ffe4f939a0e1026290a3803bc29f0ee5
+Size: 13912
+MD5sum: 81c08d81ad87523ecc37c98378483d0d
+SHA1: bfc9181f08accb40f555a8c320eb621a5bf71061
+SHA256: e442d72b173dfed8a5e087a3c0cb004d6ded7e777a71af5be28f0485d32e9d9b
 Section: 功能助手
 Priority: optional
-Description: Ads Editor +
+Description: 视频广告加速器
 Author: @1_lj6
+Icon: https://apt.bitilly.cn/Description/AdsEditor/icon.png
 Name: Ads Editor +
 
 Package: cn.bitilly.velvet2
