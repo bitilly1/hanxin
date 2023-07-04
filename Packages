@@ -710,25 +710,21 @@ Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools15.json
 Package: com.ginsu.4ders
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: Ginsu <njl02@outlook.com>
+Maintainer: Ginsu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.ginsu.4ders_1.0.3_iphoneos-arm.deb
-Size: 8264
-MD5sum: fdf3e1ae27c2d6403ead44d0835e3041
-SHA1: 9bd7a6d39fc92d6620575e9d32247403246573de
-SHA256: 5e3b9c2492dbfa5668b65ce61b7dd51e90d6a869f9c0e2abfd3d53e004ab5b30
-Section: 附加
-Homepage: https://ginsu.dev
-Description: 4x4 Folders.
-Tag: role::enduser
-Author: Ginsu <njl02@outlook.com>
-Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.4ders.html
-Icon: https://repo.ginsu.dev/assets/com.ginsu.4ders/icon.png
-Moderndepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.4ders.json
+Size: 8208
+MD5sum: 722dbf8b5a9d160db43d99e18b2edf21
+SHA1: 62628ef833c3940d1a2810845fd5a47f3eea6c19
+SHA256: 7f28d349f79ce5e485f30c3df590f3300714d3cfee002a9da499b4192196ee9b
+Section: 文件管理
+Description: 4x4 文件夹
+Author: Ginsu
+Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.4ders
+Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.4ders/icon.png
 Name: 4Ders
-Sileodepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.4ders.json
-Someotherentrytocontrol: True
-Sponsor: Ginsu Tweaks <njl02@outlook.com>
-Tags: compatible_min::ios14.0, compatible_max::ios15.0
+Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.4ders.json
 
 Package: com.ios.wechat
 Version: 1.1.5
