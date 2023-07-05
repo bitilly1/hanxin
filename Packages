@@ -1226,6 +1226,21 @@ Author: 神龙助手
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信神龙助手
 
+Package: com.x1a0.ena
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x1a0
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.x1a0.ena_1.0.0_iphoneos-arm64.deb
+Size: 90564664
+MD5sum: 38288cdbf965ec200faceab8a7371614
+SHA1: c7d4a011cdc0a6439b819c6afcce36545fed756d
+SHA256: e11278e105fe2836291bf8ea00622e2068a3016b52f47dc44d7f1b920a89dc23
+Section: 功能助手
+Description: Extract Nearly Anything
+Author: x1a0
+Name: ENA - Extract Nearly Anything
+
 Package: me.lightmann.vinyl
 Version: 1.1.5
 Architecture: iphoneos-arm
