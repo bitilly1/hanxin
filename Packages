@@ -1543,6 +1543,50 @@ Author: Netskao
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信净化-Rootless
 
+Package: netskao.wechatpurification
+Version: 2.2-3.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2113
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/netskao.wechatpurification_2.2-3.6_iphoneos-arm.deb
+Size: 587940
+MD5sum: 1566a7dbf93afc0437832f1ebc5f0a1f
+SHA1: 7c285129a1170e3e0f1337716df35a0015f4c18f
+SHA256: abfca79443cdecf3bd2762ec3213de07aa7d00e641b5420b21d2e0e6018c5041
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.18及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.wechatpurification
+Version: 2.2-3.6
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 2113
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debs/rootless/netskao.wechatpurification_2.2-3.6_iphoneos-arm64.deb
+Size: 588156
+MD5sum: 8fbff4e2d78544c14d987533ca55b193
+SHA1: ff1ae2580d346b62375a99c8ea76311cf47c259b
+SHA256: 9067c26c482d94bc4cd29b6e3182ea6c5523f446bb77c46cd46cb6f90fdc8916
+Section: 微信插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.18及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: netskao.wfnoads
 Version: 1.6-6
 Architecture: iphoneos-arm
