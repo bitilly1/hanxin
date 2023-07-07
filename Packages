@@ -232,58 +232,6 @@ Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Name: Velvet 2
 
 Package: com.25mao.miyou
-Version: 3.6-0
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.6-0_iphoneos-arm.deb
-Size: 8469592
-MD5sum: 7d4add5deb243c89ce8c01ad34e396b0
-SHA1: e32a508e846bd933cd0da4d273cd9c085bf13a07
-SHA256: 9d19041e4d4d10c84b49a0098409dc2e1c30625f91754ea9b6aa61494b446211
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
-Version: 3.6-2
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.6-2_iphoneos-arm.deb
-Size: 8547188
-MD5sum: b82ee26ae1eec49999634437c9b69c34
-SHA1: 52c3ece04a0d7236ab3e277aefd9870c9c79956d
-SHA256: 4285799358458ce22a19c3143c8603956ea1d5c13fe79a3e3fa19f424f36f85c
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
-Version: 3.6-3
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.6-3_iphoneos-arm.deb
-Size: 8646840
-MD5sum: e20ac675bc0ce8842c68c50ddf5994b2
-SHA1: e677bc04e42e1532c7c606c373f0a3eba3247eed
-SHA256: 8029207933596fed73a0ad181d580a1fb25f870fa144d9e58d4e7968cd384ba7
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
 Version: 3.6-4.1
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
@@ -318,112 +266,6 @@ Author: Mao
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
-Package: com.25mao.miyou.rootless
-Version: 3.6-3
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/rootless/com.25mao.miyou.rootless_3.6-3_iphoneos-arm64.deb
-Size: 8646688
-MD5sum: a49e6c79162ae62715ef7e227428bfd1
-SHA1: 1ebdcb99b55bad636f73b4d044c0663ea4fea6fe
-SHA256: d00ea9bcea67282a4a455f15aca1a340449b0ce8345fde8f0c6e7e05aea97e18
-Section: 微信插件
-Priority: optional
-Description: 微信助手-Rootless版
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手-Rootless
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou.rootless
-Version: 3.6-4.1
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/rootless/com.25mao.miyou.rootless_3.6-4.1_iphoneos-arm64.deb
-Size: 8661316
-MD5sum: 2064888abdb18080b7de96738dadc0d4
-SHA1: 480f93eec605d0d8a9b41a79319d4e621a51a8ec
-SHA256: 58d132d908173df9e6fafd3faebc4d42c94020226b6e179ce969fe783b285f25
-Section: 微信插件
-Priority: optional
-Description: 微信助手-Rootless版
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手-Rootless
-Sponsor: admin@25mao.com
-
-Package: com.HBWechatHelper.ailun
-Version: 1.5.1
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.5.1_iphoneos-arm.deb
-Size: 8498620
-MD5sum: 977af71f0bd4f065b4b4c1a413e022c6
-SHA1: 63d6e186d51a2be48e489b9577d1351a7b0d03a5
-SHA256: 8ea736358a2c0178f9e1a9d281ce983ec1acabcfc559898eecf78c0d7d570726
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-
-Package: com.HBWechatHelper.ailun
-Version: 1.5.3
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.5.3_iphoneos-arm.deb
-Size: 8130240
-MD5sum: e8b2411a71a224a88317ad8c05772e8c
-SHA1: c8225a608460d4afe762505ed20e4337dd9c77a6
-SHA256: ea83e54f21cb2fdc961f857059cb2c0e2a6f718e7c9ddee71538fc0dd0787a24
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-
-Package: com.HBWechatHelper.ailun
-Version: 1.5.3-1
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootless/com.HBWechatHelper.ailun_1.5.3-1_iphoneos-arm64.deb
-Size: 7986956
-MD5sum: 8f2a0928d7e16489d9a95d4c59a68fdd
-SHA1: 2913106382158651a6ec7ced1f545dd146d7cc19
-SHA256: a256d4b53d54c8985243819a40cb6b6ae2ace17c6dce2fb23694c92fd574d43d
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Name: 黄白助手(微信娱乐插件)-rootless
-Sponsor: Mao
-
-Package: com.HBWechatHelper.ailun
-Version: 1.5.4
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.5.4_iphoneos-arm.deb
-Size: 6714288
-MD5sum: 3fca29e1b61116f6484b242497d6cb2e
-SHA1: 53fc9b3358b7329589323ebbe7ff310c5ebfdaf6
-SHA256: e90d0636346a795e6300ed5fd6864789b0b43a13ea18909c2d275a9174d9aa4f
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-
 Package: com.HBWechatHelper.ailun
 Version: 1.5.4
 Architecture: iphoneos-arm64
@@ -434,78 +276,6 @@ Size: 6698456
 MD5sum: 574a76ca0f07dcc4c6624aa382dd83fa
 SHA1: 9732348236ec7ef8ecb07c2f2f5f66b24f170383
 SHA256: f674521a29955b60248812f95d822f2281aa6ca304ada16796eb51e2bd27d8f4
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-
-Package: com.HBWechatHelper.ailun
-Version: 1.5.5
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.5.5_iphoneos-arm.deb
-Size: 7356392
-MD5sum: 1b39f74293c44b04ae5617dbf939868f
-SHA1: 6ff319b8833588905bb178e2f62c88d3c53514f5
-SHA256: 0b8ccf4c275a65833bfc9e2914bfeda563d3991c0f87d5ebef8b3d8725b65d7a
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-
-Package: com.HBWechatHelper.ailun
-Version: 1.5.5
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootless/com.HBWechatHelper.ailun_1.5.5_iphoneos-arm64.deb
-Size: 7212624
-MD5sum: c0b26844fadb68d53a77c811a18b9fd5
-SHA1: d73bf1a0991a1da79a8e1f2de1cded12edccb75a
-SHA256: 7173f4c77329aa1f24efb4b50f44132905e1a5819d59fbbf02342d13c5388469
-Section: Tweaks
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-
-Package: com.HBWechatHelper.ailun
-Version: 1.5.6
-Architecture: iphoneos-arm
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.5.6_iphoneos-arm.deb
-Size: 7775820
-MD5sum: 96fa084830972d2e87654782dc05f04e
-SHA1: 35e9969fd951eab1f3aaf41a665542333259485c
-SHA256: 48eea7e852bf591bfb5ea2f75841b77db4788cefb87c9fc6b9f1a855f459bf1f
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-
-Package: com.HBWechatHelper.ailun
-Version: 1.5.6
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootless/com.HBWechatHelper.ailun_1.5.6_iphoneos-arm64.deb
-Size: 7627928
-MD5sum: 584fe2fbb5f9a5a854c072af06d9de0b
-SHA1: 980090e94471179b67f709d1ba215f6891482b27
-SHA256: f1c1756819eb0738bee85bfd911d610d8cade51feb5574a564e58d40a0d1c32c
 Section: 微信插件
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
@@ -1365,13 +1135,14 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0)
 Filename: ./debs/rootless/netskao.injectipa-rootless_1.3-7_iphoneos-arm64.deb
-Size: 5944908
-MD5sum: 7d28226c8873b36e66ea89afe3f914b6
-SHA1: 21f83b1d32b978f6954b452cb245a561052a438c
-SHA256: de3c83b6f653c5ddb3799d02a793d2c18f4782d8b759fe47ea6f1c960a613b7e
+Size: 5952324
+MD5sum: dde5d67d6dfe091e1cee0c9f6fdc1931
+SHA1: c3c447e2349c70cf7e78d847e145d61ff39b9880
+SHA256: f6aa3fab9e5b25367a0e49fe13e4101ff8d318988ec719d05019587a35b0848c
 Section: 终端支持
 Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
 Author: Netskao
+Icon: https://apt.bitilly.cn/sileodepiction/Default/image_terminal.png
 Name: injectipa-Rootless
 
 Package: netskao.wcpureextension
@@ -1390,138 +1161,6 @@ SHA256: 4ede3872a53219be2e4efadf23fe4a92abc02931a71c4608af0f685b2020fbad
 Section: 微信插件
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
-Name: 微信净化
-
-Package: netskao.wcpureextension
-Version: 3.6-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.6-2_iphoneos-arm.deb
-Size: 6637696
-MD5sum: 7bc10ef2294bbacdf105170a7b736851
-SHA1: dd996b989fe50897dccc373b6823ba696f4b2418
-SHA256: 7d470d027eee1cefb6838033004d867dee4085ff6b608e73825ae862eb480c0b
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Name: 微信净化
-
-Package: netskao.wcpureextension
-Version: 3.6-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.6-3_iphoneos-arm.deb
-Size: 6643852
-MD5sum: 3c23e12aa41af8c8f8543dd70cc5b40d
-SHA1: e45991fbbe32d7f532d137ce88d331f65d5b7188
-SHA256: 9c54fb61481532c3c64c32dbee4e702dbfdfc4cc12e6c7c371b53026fa3a5d9b
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信净化
-
-Package: netskao.wcpureextension
-Version: 3.6-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.6-5_iphoneos-arm.deb
-Size: 6679616
-MD5sum: a3dbe23f594aafffebd620180cca35b0
-SHA1: 805b73edbbf2d245b8911576e2f8cee9d4ec8360
-SHA256: e39cae84108127c3a74c9ddb10239bb8d2de03b9cee35684d8e110bbb92aabbc
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信净化
-
-Package: netskao.wcpureextension
-Version: 3.6-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.6-6_iphoneos-arm.deb
-Size: 6677024
-MD5sum: 8488a016e81a5d8c730b391286d5146b
-SHA1: f131692cb7fd0eeea919543f9258344c0ff96e33
-SHA256: 44b6ae37628435b0a2553cf1f1a446ea248deee1e91b84c09e303129efa27939
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信净化
-
-Package: netskao.wcpureextension
-Version: 3.6-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.6-8_iphoneos-arm.deb
-Size: 6695244
-MD5sum: 2a3c0e280798e4e479642e19c52e85bb
-SHA1: 46bb2e3807027d5db433752c68057c131386892b
-SHA256: 42a766446139a5fe008513de83260338ced189ffc61d0615d08ce16ff52d1445
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信净化
-
-Package: netskao.wcpureextension
-Version: 3.6-9
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.6-9_iphoneos-arm.deb
-Size: 6712328
-MD5sum: 534a71dc7ff3136decef0d054173458a
-SHA1: d5b092347df7531b5df1e99cfcd3519e48340cdd
-SHA256: 10acea1e8886d81e7bd1968ac3aad8d10a22622dc059f5efb38e9270ffa0b20d
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信净化
-
-Package: netskao.wcpureextension
-Version: 3.7-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.7-1_iphoneos-arm.deb
-Size: 6726804
-MD5sum: 79222529db7062bbdb019586cd3bd538
-SHA1: ed5990822c67b075b05445a8b927444eca5c0608
-SHA256: 855d9dc4696a48c8a31f6a1aa5fa06099f8abb75a64ffa2a5abf5423e485e076
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信净化
 
 Package: netskao.wcpureextension-rootless
