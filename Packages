@@ -36,16 +36,16 @@ Name: ldid for Apps Manager
 Sileodepiction: https://apt.bitilly.cn/Description/am.ldid/ldid.json
 
 Package: cn.bitilly.animplus
-Version: 2.5k
+Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: bitilly
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
 Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast, com.pulandres.animationsbefastpluss, jp.novi.fakeclockup, jp.novi.fakeclockup2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
-Filename: ./debs/rootfull/cn.bitilly.animplus_2.5k_iphoneos-arm.deb
-Size: 80236
-MD5sum: cbc8b3e472f7a2d7c351b5f124d6852b
-SHA1: a40f9c258c8e79498c31be4a70366012177c7961
-SHA256: 0d898dab2befafa41c455ee02cd17bb285de8b12bf45624c0add0d414e0ead0e
+Filename: ./debs/rootfull/cn.bitilly.animplus_2.5_iphoneos-arm.deb
+Size: 80212
+MD5sum: 73363bcfeddb3afee15abb40307a554e
+SHA1: ce3889f4e8f0bb2dded8134f67233c6d15eb2481
+SHA256: d55d98b1eebd08cc5eeed28cb0522bb97a1072106834f7b6ee80e716ca18991c
 Section: 功能助手
 Description: 加快系统动画速度，可自行调节动画速度
 A12: 1
