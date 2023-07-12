@@ -1013,6 +1013,21 @@ Name: ENA - Extract Nearly Anything
 
 Package: com.x1a0.ena
 Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: x1a0
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.x1a0.ena_1.0.1_iphoneos-arm.deb
+Size: 59859476
+MD5sum: 3d6904f1138999a45fa0ad8bcb64181a
+SHA1: ab4d77dac36490b78edcf0e27301594e027322b9
+SHA256: 4fcb5310fcbfa041ac78e88c30d00c21b334d96022cc5c918a41a7a68dfb6f2e
+Section: 功能助手
+Description: 提取几乎所有内容
+Author: x1a0
+Name: ENA - Extract Nearly Anything
+
+Package: com.x1a0.ena
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: x1a0
 Depends: mobilesubstrate (>= 0.9.5000)
