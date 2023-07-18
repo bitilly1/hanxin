@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/lzsxcl/repo/main/assets/Banners/nineanim2.jpg",
+	"headerImage": "https://apt.bitilly.cn/Description/O2pro/IMG_3753.png",
 	"tintColor": "#3784d2",
 	"tabs": [
 		{
@@ -12,28 +12,28 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Featured Animes",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3752.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3752.png"
 						},
 						{
 							"accessibilityText": "Recently Viewed",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_2.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_2.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3749.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3749.png"
 						},
 						{
 							"accessibilityText": "Search",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_3.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_3.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3750.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3750.png"
 						},
 						{
 							"accessibilityText": "Search Results",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_4.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_4.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3751.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3751.png"
 						},
 						{
 							"accessibilityText": "Featured Animes",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_5.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_5.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3754.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3754.png"
 						},						
 						
 						
@@ -45,8 +45,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Featured Animes",
-								"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png"
+								"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3752.png",
+								"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3752.png"
 							},
 						],
 						"class": "DepictionScreenshotView"
@@ -95,18 +95,18 @@
 			"tabname": "更新",
 			"views": [
 				{
-					"title": "开发者很懒",
+					"title": "开发者很忙",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 不再提供更新日志，有日志页也不会有人看",
+					"markdown": "\t\n\u2023 Bug很多，随缘更新",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.02.02</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.18</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
