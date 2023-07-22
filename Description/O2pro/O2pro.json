@@ -12,29 +12,49 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3752.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3752.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png"
 						},
 						{
 							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3749.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3749.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3773.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3773.png"
 						},
 						{
 							"accessibilityText": "Search",
-							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3750.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3750.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3774.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3774.png"
 						},
 						{
 							"accessibilityText": "Search Results",
-							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3751.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3751.png"
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3775.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3775.png"
 						},
 						{
 							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3754.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3754.png"
-						},						
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3776.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3776.png"
+						},	
+						{
+							"accessibilityText": "Recently Viewed",
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3777.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3777.png"
+						},
+						{
+							"accessibilityText": "Search",
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3778.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3778.png"
+						},
+						{
+							"accessibilityText": "Search Results",
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3779.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3779.png"
+						},
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3780.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3780.png"
+						},					
 						
 						
 						
@@ -45,8 +65,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3752.png",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3752.png"
+								"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png",
+								"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png"
 							},
 						],
 						"class": "DepictionScreenshotView"
@@ -94,6 +114,22 @@
 		{
 			"tabname": "更新",
 			"views": [
+				{
+					"title": "开发者5.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 1. 极简模式，2. *台前调度，3. 竖屏下横屏游戏，4. 重新优化ui布局，5. 重新整理设置项，6. 修复横屏问题，7. 调整窗口调度，8. 修复各种水土不服，9. 历经一千多个debug版本，让每次更新都有进步。",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.22</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "开发者很忙",
 					"useBoldText": true,
