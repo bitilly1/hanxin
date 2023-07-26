@@ -1476,3 +1476,21 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro rootless
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
 
+Package: xc.lzsxcl.o2.rootless
+Version: 5.1-11
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.1-11_iphoneos-arm64.deb
+Size: 10355608
+MD5sum: 93777f3b4695b023e00f3eb2b6528bb2
+SHA1: 3320c2c6d4be45d0ef701073e2e360590018ff93
+SHA256: 5db97facd8531201de7906ded8e266c28e0059b96570660bbc9e3e4169fd2d6c
+Section: 功能助手
+Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro rootless
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
+
