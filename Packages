@@ -356,6 +356,24 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 
+Package: com.brend0n.volumemixer
+Version: 0.0.6~beta2
+Architecture: iphoneos-arm
+Maintainer: Brend0n <brendonjkding@126.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, ws.hbang.common (>= 1.11)
+Filename: ./debs/rootfull/com.brend0n.volumemixer_0.0.6~beta2_iphoneos-arm.deb
+Size: 207704
+MD5sum: 804bacf31cc5b163d15a9c45ed20ea62
+SHA1: e294fe11b1177842a96e7ac9f2105aca8fb6faec
+SHA256: e7affb44aa40124cbcb54c0434907034906a542920ac70ce4e1a74d79da89782
+Section: 功能助手
+Description: Volume control for individual app
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
+Name: VolumeMixer
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.creaturecoding.shuffle
 Version: 1.6.1
 Architecture: iphoneos-arm
