@@ -267,24 +267,6 @@ Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
 Package: com.HBWechatHelper.ailun
-Version: 1.5.4
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: firmware (>= 7.0), mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debs/rootless/黄白助手1.5.deb
-Size: 6698456
-MD5sum: 574a76ca0f07dcc4c6624aa382dd83fa
-SHA1: 9732348236ec7ef8ecb07c2f2f5f66b24f170383
-SHA256: f674521a29955b60248812f95d822f2281aa6ca304ada16796eb51e2bd27d8f4
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Dev: HuangBai
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信娱乐插件)
-Sponsor: Mao
-
-Package: com.HBWechatHelper.ailun
 Version: 1.5.7
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
@@ -330,6 +312,42 @@ Size: 7383740
 MD5sum: 801a00178c300e96d5604e8eda6e7301
 SHA1: 659c759e208e27f3280eece65938f9e91873e0a7
 SHA256: cd20a7b41f49529e43ad61de3211f4bbdf9d4f901c8bf46334442fda1f4b9888
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Dev: HuangBai
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信娱乐插件)
+Sponsor: Mao
+
+Package: com.HBWechatHelper.ailun
+Version: 1.5.9-1
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.5.9-1_iphoneos-arm.deb
+Size: 7974508
+MD5sum: da578db10db2e62b3cafd89896cf3061
+SHA1: 359ac22181c0bcb0cb67f82de962094d0c5c97b2
+SHA256: bd5c3ac32932a842b6e7ed2e88f75dc0fc3d4c8b17fcd5e9e1e674b0376cf38a
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Dev: HuangBai
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信娱乐插件)
+Sponsor: Mao
+
+Package: com.HBWechatHelper.ailun
+Version: 1.5.9-1
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/rootless/com.HBWechatHelper.ailun_1.5.9-1_iphoneos-arm64.deb
+Size: 7821212
+MD5sum: d18c41c32cf83d940b4e742fb7c9fc47
+SHA1: 7bf2aa4aa9d9bb73a6b29218fdf2d38fefe68835
+SHA256: f8b01c9d90bc278c656a19d63a9fede9d7be0c05c0e54d5ac7620160758cc49a
 Section: 微信插件
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
