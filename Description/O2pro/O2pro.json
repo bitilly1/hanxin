@@ -115,6 +115,21 @@
 			"tabname": "更新",
 			"views": [
 				{
+					"title": "最后版5.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 o2Pro服务器关闭最后一个版本。",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.27</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},				{
 					"title": "猪叫版5.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
