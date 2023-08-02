@@ -121,7 +121,7 @@
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 o2Pro服务器关闭最后一个版本。",
+					"markdown": "\t\n\u2023 o2Pro服务器关闭最后一个版本，请自行保存Token，丢失无法激活。",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
