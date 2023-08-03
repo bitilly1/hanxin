@@ -878,22 +878,6 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/image.pn
 Name: Local SSH
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/js.json
 
-Package: com.nan.patchpath
-Version: 0.1.1-b6
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: grep, mobilesubstrate (= 14)
-Filename: ./debs/rootfull/com.nan.patchpath_0.1.1-b6_iphoneos-arm.deb
-Size: 1468
-MD5sum: 31e4cf41146a76fc6663c9120272ee5a
-SHA1: a8f999225b4bae74cf0f61a0d543854f5209653b
-SHA256: e734b9427e2ac68ebfc42cba9bedd9fe550e1749992b3557975604d97232992a
-Section: Addons
-Description: 将插件路径修补到 /var/jb/，这应该会解决 xinna 无法使用 apt 正常卸载插件的问题，不知道干嘛的请不要安装
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: patch path(beta)
-
 Package: com.nan.resetfonts
 Version: 0.1.4
 Architecture: iphoneos-arm
@@ -1264,43 +1248,6 @@ Description: injectipa是一款命令行一键注入dylib到ipa工具。用法�
 Author: Netskao
 Icon: https://apt.bitilly.cn/sileodepiction/Default/image_terminal.png
 Name: injectipa-Rootless
-
-Package: netskao.wcpureextension
-Version: 3.4-7
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_3.4-7_iphoneos-arm.deb
-Size: 6510832
-MD5sum: a5239102aefaacf45a02e1663037daef
-SHA1: 8729958f86d1da8cc3ddf38621e211ed26b28e38
-SHA256: 4ede3872a53219be2e4efadf23fe4a92abc02931a71c4608af0f685b2020fbad
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Name: 微信净化
-
-Package: netskao.wcpureextension-rootless
-Version: 3.6-9
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: netskao.wechatpurification-rootless
-Replaces: netskao.wechatpurification-rootless
-Provides: netskao.wechatpurification-rootless
-Filename: ./debs/rootless/netskao.wcpureextension-rootless_3.6-9_iphoneos-arm64.deb
-Size: 6711064
-MD5sum: b44d0f4e98c239084b589d9fd266ef03
-SHA1: 7c06c265bcd078386165a9799a38dc0a59718942
-SHA256: 39ff10196002b28d36658204f85a94a320384f92dbb521bcd9154f26974de868
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信净化-Rootless
 
 Package: netskao.wechatpurification
 Version: 2.2-3.6
