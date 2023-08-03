@@ -10,8 +10,8 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "Markdown": "This tool provides the way to WIPE, BACKUP,RESTORE AppData for installed Apps",
-                    "useBoldText": true,
+                    "markdown": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices",
+                    "useSpacing": true,
                     "useBottomMargin": false
                 },
                 {
@@ -21,7 +21,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://apt.bitilly.cn/Description/com.tigisoftware.appdatamanager/appdatamanager.png"
+                            "url": "https://apt.bitilly.cn/Description/filza64bit/filza.JPG"
                         }
                     ]
                 },
@@ -48,12 +48,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "TIGI Software",
+                    "text": "GITI Software",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.8.2-4",
+                    "text": "4.0.1-4",
                     "title": "最新版本"
                 },
                 {
@@ -78,7 +78,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.8.2-4",
+                    "title": "4.0.1-4",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
