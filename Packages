@@ -1523,11 +1523,11 @@ Maintainer: lzsxcl
 Installed-Size: 18820
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.2-5_iphoneos-arm64.deb
-Size: 10371500
-MD5sum: e7297a4ec499d7258c25db659ea851c8
-SHA1: 1f11bdd8a6bc63d919dcb81dc82e916cf91fc7bb
-SHA256: 11ab95a821b515a65651c4089ea654634b0df641cabaf694ff87ae5e0c49a9d7
-Section: Tweaks
+Size: 10373812
+MD5sum: d526562af8afd6255ae38692465cb9c1
+SHA1: 5971f38f5f796af735353a270ece5993703e47a0
+SHA256: 226535ffd23ba0b82914598d03f6e0c2d9d11aabef7d00fbaf26dee489f4487c
+Section: 功能助手
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
