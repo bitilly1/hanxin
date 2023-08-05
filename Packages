@@ -141,6 +141,23 @@ Icon: https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/AppIcon.png
 Name: 爱服务
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.json
 
+Package: cn.bitilly.powercuff
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./debs/rootfull/cn.bitilly.powercuff_0.1_iphoneos-arm.deb
+Size: 11188
+MD5sum: ae787b292744efbd660daf1bfc38705c
+SHA1: f252f2818884470adb9bce31a5cd6cd7a7921574
+SHA256: 80deb9ec46386bdf08c9fcca7d83b770457552f5d6f4a967940c095a7353ecf2
+Section: 功能助手
+Description: 从其他低功耗设备状态中选择
+Author: Ryan Petrich
+Icon: https://apt.bitilly.cn/Description/Powercuff/Powercuff.png
+Name: Powercuff 降低设备功耗
+Sponsor: Ryan Petrich
+
 Package: cn.bitilly.snapper2
 Version: 2.6.0
 Architecture: iphoneos-arm64
