@@ -396,12 +396,12 @@ Version: 2.0-1
 Architecture: iphoneos-arm64
 Maintainer: 乌漆麻黑
 Installed-Size: 356
-Depends: mobilesubstrate (>= 0.9.5000),preferenceloader
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,ws.hbang.alderis
 Filename: ./debs/rootless/com.coolcc.rootless_2.0-1_iphoneos-arm64.deb
-Size: 24468
-MD5sum: f6096698dd79ed9b7c324a3198cc6138
-SHA1: 046b0267e07b8e7c6e8b29c60f947b3764d15fc5
-SHA256: 04290b16a7a521249128dfb80447ad85611c9b3e205867cc1db3837834d9074d
+Size: 24520
+MD5sum: b68bf0da6e64c5c759aa63ef8b8687f5
+SHA1: c1a141345d072bdda76d7c64e2d26a6802ea5b17
+SHA256: 50ae4dd5e80131b01961527fb63a6468c975b0e9e678f7cdd19923949a766901
 Section: 功能助手
 Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootless.
 Author: 4nni3
