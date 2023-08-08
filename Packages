@@ -391,6 +391,22 @@ Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
 Name: VolumeMixer
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.coolcc.rootless
+Version: 2.0-1
+Architecture: iphoneos-arm64
+Maintainer: 乌漆麻黑
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader
+Filename: ./debs/rootless/com.coolcc.rootless_2.0-1_iphoneos-arm64.deb
+Size: 24468
+MD5sum: f6096698dd79ed9b7c324a3198cc6138
+SHA1: 046b0267e07b8e7c6e8b29c60f947b3764d15fc5
+SHA256: 04290b16a7a521249128dfb80447ad85611c9b3e205867cc1db3837834d9074d
+Section: 功能助手
+Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootless.
+Author: 4nni3
+Name: CoolCC Reborn
+
 Package: com.creaturecoding.shuffle
 Version: 1.6.1
 Architecture: iphoneos-arm
