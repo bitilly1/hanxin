@@ -18,6 +18,22 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
+Package: alias20.coolcc.rootless
+Version: 2.0-1
+Architecture: iphoneos-arm64
+Maintainer: 乌漆麻黑&来了老弟
+Installed-Size: 356
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,ws.hbang.alderis
+Filename: ./debs/rootless/alias20.coolcc.rootless_2.0-1_iphoneos-arm64.deb
+Size: 24508
+MD5sum: 240d42e4362988c5668e172d41ac2438
+SHA1: 1116d284562d66cecb3bcb6844cda77a8235b040
+SHA256: 0af1239e0d6e169a402b16c55ea5f54a01000af572e70cb289a7a7a3b9628a8f
+Section: 功能助手
+Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootless.
+Author: alias20
+Name: CoolCC Reborn
+
 Package: am.ldid
 Version: 2.1.5-2
 Architecture: iphoneos-arm
@@ -390,22 +406,6 @@ Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemi
 Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
 Name: VolumeMixer
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
-
-Package: com.coolcc.rootless
-Version: 2.0-1
-Architecture: iphoneos-arm64
-Maintainer: 乌漆麻黑
-Installed-Size: 356
-Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,ws.hbang.alderis
-Filename: ./debs/rootless/com.coolcc.rootless_2.0-1_iphoneos-arm64.deb
-Size: 24520
-MD5sum: b68bf0da6e64c5c759aa63ef8b8687f5
-SHA1: c1a141345d072bdda76d7c64e2d26a6802ea5b17
-SHA256: 50ae4dd5e80131b01961527fb63a6468c975b0e9e678f7cdd19923949a766901
-Section: 功能助手
-Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootless.
-Author: 4nni3
-Name: CoolCC Reborn
 
 Package: com.creaturecoding.shuffle
 Version: 1.6.1
