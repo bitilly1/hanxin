@@ -1148,6 +1148,23 @@ Description: Extract Nearly Anything
 Author: x1a0
 Name: ENA - Extract Nearly Anything
 
+Package: dev.traurige.kayoko
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Traurige
+Installed-Size: 992
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/dev.traurige.kayoko_1.2-2_iphoneos-arm64.deb
+Size: 115328
+MD5sum: 53b1b871285c42d89f6a1d08cb383b9d
+SHA1: bda14677966b9a5e89e88578d01a32f1fb1f7c69
+SHA256: 27a5c60eeca115003c0b284ba8e4e714206f43ab5b2b4b2f8b65bd31a4d70f67
+Section: 功能助手
+Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈。1.2-1更新：适配多巴胺；1.2-2更新：修复窗口高度设置
+Author: Traurige <hello@traurige.dev>
+Name: 剪贴板 Kayoko
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/dev.traurige.kayoko/depiction.json
+
 Package: me.lightmann.vinyl
 Version: 1.1.5
 Architecture: iphoneos-arm
