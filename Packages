@@ -619,39 +619,6 @@ Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.4ders/icon.png
 Name: 4Ders
 Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.4ders.json
 
-Package: com.ginsu.libgscommon
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: Ginsu
-Filename: ./debs/rootless/com.ginsu.libgscommon_1.1.1_iphoneos-arm64.deb
-Size: 52308
-MD5sum: f0b9657dfd2c978c3721565d9861b1c0
-SHA1: f00589b1fb1144b5579e1765706b8441d95cdd7c
-SHA256: d49823015f86912ba9631d404b4559381da0fcb7d510e623c63ac2dedd4c3b36
-Section: 功能助手
-Description: A library for Ginsu's tweaks!
-Author: Ginsu
-Name: libgscommon
-
-Package: com.ginsu.notchbanners
-Version: 2.2.5
-Architecture: iphoneos-arm64
-Maintainer: Ginsu
-Installed-Size: 2016
-Depends: dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.libgscommon, emt.paisseon.xinamine (>= 0.0.5)
-Filename: ./debs/rootless/com.ginsu.notchbanners_2.2.5_iphoneos-arm64.deb
-Size: 224788
-MD5sum: 15c445fd0e4c5a540b543df2bc0728be
-SHA1: 39d9cb0057f61e5643426eaf7205ead4dcb3e8df
-SHA256: b57c64dac3404cdd536329b7ecc4451c69df94896ee58bc12861d4fe16cc5e7a
-Section: 功能助手
-Description: Banners from the notch!
-Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.notchbanners
-Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.notchbanners/icon.png
-Name: NotchBanners
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.notchbanners.json
-
 Package: com.ios.wechat
 Version: 1.1.5
 Architecture: iphoneos-arm
