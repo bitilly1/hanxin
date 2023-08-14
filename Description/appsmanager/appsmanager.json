@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "Markdown": "This tool provides the way to WIPE, BACKUP,RESTORE AppData for installed Apps",
+                    "Markdown": "此工具为已安装的应用程序提供了WIPE、BACKUP、RESTORE AppData的方法",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -21,7 +21,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://apt.bitilly.cn/Description/appdatamanager/appdatamanager.png"
+                            "url": "https://apt.bitilly.cn/Description/appsmanager/appsmanager.png"
                         }
                     ]
                 },

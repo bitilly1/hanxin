@@ -1082,21 +1082,21 @@ Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 酸果 - SG WX美化增强工具
 
-Package: com.tigisoftware.appdatamanager
+Package: com.tigisoftware.appsamanager
 Version: 1.8.2-4
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
-Filename: ./debs/rootfull/com.tigisoftware.appdatamanager_1.8.2-4_iphoneos-arm.deb
-Size: 1450452
-MD5sum: 90d1f76abec2c428ea0426b57e5b3cbd
-SHA1: b94b15e3897ee1c4bbb63b0e105b98046b9025ea
-SHA256: 5b765f4ca75bc78f8d77cb7e19b49f01ff53af3ebf9f1c4fb82e0fb7b6ea1a93
+Filename: ./debs/rootfull/com.tigisoftware.appsamanager_1.8.2-4_iphoneos-arm.deb
+Size: 1450744
+MD5sum: b15ac6e329b5b54b487b64be5f22d3fb
+SHA1: ba746f257362afc08de9256ab92d7a522ec97182
+SHA256: d835f8118b79191dc34e342462ccef83359d18d306bd9b8b6283d135d793b8b1
 Section: 文件管理
 Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
 Author: TIGI Software
-Icon: https://https://apt.bitilly.cn/Description/appdatamanager/AppIcon.png
+Icon: https://apt.bitilly.cn/Description/appsmanager/Icon.png
 Name: Apps Manager
-Sileodepiction: https://https://apt.bitilly.cn/Description/appdatamanager/appdatamanager.json
+Sileodepiction: https://apt.bitilly.cn/Description/appsmanager/appsmanager.json
 
 Package: com.tigisoftware.filza64bit
 Version: 4.0.1-4
