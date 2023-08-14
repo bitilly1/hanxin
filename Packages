@@ -246,6 +246,40 @@ Author: @1_lj6
 Icon: https://apt.bitilly.cn/Description/AdsEditor/icon.png
 Name: Ads Editor +
 
+Package: cn.bitilly.unidream
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 神秘人
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/cn.bitilly.unidream_0.0.1_iphoneos-arm.deb
+Size: 3296
+MD5sum: c9f33a3fc60d15d55b362870612b5460
+SHA1: 9e3550e589faae7c53e675f1794ce674fbda4550
+SHA256: 0174fdb05dfc3c69562b50d70a7faa58a32335e28bda12fe561d36c2be43c787
+Section: 软件优化
+Description: 永久会员，无需登录
+Author: 神秘人
+Icon: https://apt.bitilly.cn/Description/UniDream/Icon.png
+Name: Ai绘画UniDream
+
+Package: cn.bitilly.unidream
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 神秘人
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.bitilly.unidream_0.0.1_iphoneos-arm64.deb
+Size: 3172
+MD5sum: 616b920c34239b33030b7b0804a15919
+SHA1: dfc8d820e5bf7fa202500f44f1155c5128dd358a
+SHA256: 7bf96f9139b764e1a2b30d9706fcc63ba802c347cf11e61b68a9ff3a7b2d7a33
+Section: 软件优化
+Description: 永久会员，无需登录
+Author: 神秘人
+Icon: https://apt.bitilly.cn/Description/UniDream/Icon.png
+Name: Ai绘画UniDream
+
 Package: cn.bitilly.velvet2
 Version: 2.0.3
 Architecture: iphoneos-arm64
