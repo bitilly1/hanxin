@@ -253,15 +253,16 @@ Maintainer: 神秘人
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/cn.bitilly.unidream_0.0.1_iphoneos-arm.deb
-Size: 3296
-MD5sum: c9f33a3fc60d15d55b362870612b5460
-SHA1: 9e3550e589faae7c53e675f1794ce674fbda4550
-SHA256: 0174fdb05dfc3c69562b50d70a7faa58a32335e28bda12fe561d36c2be43c787
+Size: 3320
+MD5sum: 003bb42da304ca31674d584f83024635
+SHA1: 961fb42aabd35149a874ebdaec35d761c144d010
+SHA256: b956d12cfcda9d6fec5a9e50489d1cdfb18a26becaab993f551edd970d44356f
 Section: 软件优化
 Description: 永久会员，无需登录
 Author: 神秘人
 Icon: https://apt.bitilly.cn/Description/UniDream/Icon.png
 Name: Ai绘画UniDream
+Sileodepiction: https://apt.bitilly.cn/Description/UniDream/UniDream.json
 
 Package: cn.bitilly.unidream
 Version: 0.0.1
@@ -270,15 +271,16 @@ Maintainer: 神秘人
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/cn.bitilly.unidream_0.0.1_iphoneos-arm64.deb
-Size: 3172
-MD5sum: 616b920c34239b33030b7b0804a15919
-SHA1: dfc8d820e5bf7fa202500f44f1155c5128dd358a
-SHA256: 7bf96f9139b764e1a2b30d9706fcc63ba802c347cf11e61b68a9ff3a7b2d7a33
+Size: 3192
+MD5sum: 943f7aba680838fd7000c68ef51b0dcf
+SHA1: b99dc1a2330f71528ef32acd15c266fae4b3fcee
+SHA256: 53f18e710489913709f7d6f59b6fb73caea5a5295bce8ab079d64bb31246e55e
 Section: 软件优化
 Description: 永久会员，无需登录
 Author: 神秘人
 Icon: https://apt.bitilly.cn/Description/UniDream/Icon.png
 Name: Ai绘画UniDream
+Sileodepiction: https://apt.bitilly.cn/Description/UniDream/UniDream.json
 
 Package: cn.bitilly.velvet2
 Version: 2.0.3
