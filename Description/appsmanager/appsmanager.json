@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "Markdown": "此工具为已安装的应用程序提供了WIPE、备份、恢复数据的方法",
+                    "Markdown": "此工具为已安装的应用程序提供了清除、备份、恢复数据的方法",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
