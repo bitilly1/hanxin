@@ -235,16 +235,17 @@ Architecture: iphoneos-arm
 Maintainer: @1_lj6
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/rootfull/cn.bitilly.tw3so_1.1-1_iphoneos-arm.deb
-Size: 13912
-MD5sum: 81c08d81ad87523ecc37c98378483d0d
-SHA1: bfc9181f08accb40f555a8c320eb621a5bf71061
-SHA256: e442d72b173dfed8a5e087a3c0cb004d6ded7e777a71af5be28f0485d32e9d9b
+Size: 13944
+MD5sum: c919329c1fe0c1a965e752628390cd3f
+SHA1: 898250c9c2822181bb9a4d746c4d6ed73a38dd8f
+SHA256: 2e01e7d733c7c55df63aea31626e9bba41bb98a853dcd562ba5ba6f8359d358e
 Section: 功能助手
 Priority: optional
 Description: 视频广告加速器
 Author: @1_lj6
 Icon: https://apt.bitilly.cn/Description/AdsEditor/icon.png
 Name: Ads Editor +
+Sileodepiction: https://apt.bitilly.cn/Description/AdsEditor/AdsEditor.json
 
 Package: cn.bitilly.unidream
 Version: 0.0.1
