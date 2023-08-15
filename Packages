@@ -70,15 +70,15 @@ Name: AnimPlus动画加速
 Sileodepiction: https://apt.bitilly.cn/Description/AnimPlus/AnimPlus.json
 Sponsor: eXqusic
 
-Package: cn.bitilly.appsamanager
+Package: cn.bitilly.appsmanager
 Version: 1.8.2-4
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
-Filename: ./debs/rootfull/cn.bitilly.appsamanager_1.8.2-4_iphoneos-arm.deb
-Size: 1450304
-MD5sum: fc17d9358b8793203db1f7a71fecae85
-SHA1: 383bac98f723c655cb89b0f75381033d0e0c5141
-SHA256: d94599906cc934c2aa57096aa1037a60c124a733c02f51f0c176c5cfce417404
+Filename: ./debs/rootfull/cn.bitilly.appsmanager_1.8.2-4_iphoneos-arm.deb
+Size: 1449800
+MD5sum: c19ab8a1392abdd664d8b39caabc7a78
+SHA1: 38a797ca1279eb57fc1a93883598e88e7add3aab
+SHA256: 1e0d98a7f287b956c3ed2ce2f951cd94a7cdcec6756f933ef169009a94131dda
 Section: 文件管理
 Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
 Author: TIGI Software
