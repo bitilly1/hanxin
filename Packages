@@ -443,6 +443,25 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
 
+Package: com.bitilly.4ders
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ginsu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.bitilly.4ders_1.0.3_iphoneos-arm.deb
+Size: 8240
+MD5sum: 50c031942cc0e0b2810833fa11bdc804
+SHA1: 45ba66942e931dd861d2f1b8d71aca9dac5793b6
+SHA256: c21c76536156f0e01a216613d35ea0a75173e1e560c6939b01a408f8de24cfd6
+Section: 文件管理
+Description: 4x4 文件夹
+Author: Ginsu
+Depiction: 4Ders通过将iOS标准3x3布局增加到改进的4x4布局，使您的文件夹更大。
+Icon: https://apt.bitilly.cn/Description/4Ders/Icon.png
+Name: 4Ders
+Sileodepiction: https://apt.bitilly.cn/Description/4Ders/4Ders.json
+
 Package: com.brend0n.volumemixer
 Version: 0.0.6~beta2
 Architecture: iphoneos-arm
@@ -653,25 +672,6 @@ Author: aReo
 Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
 Name: AppTools15(Rootless)
 Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools15.json
-
-Package: com.ginsu.4ders
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: Ginsu
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.ginsu.4ders_1.0.3_iphoneos-arm.deb
-Size: 8208
-MD5sum: 722dbf8b5a9d160db43d99e18b2edf21
-SHA1: 62628ef833c3940d1a2810845fd5a47f3eea6c19
-SHA256: 7f28d349f79ce5e485f30c3df590f3300714d3cfee002a9da499b4192196ee9b
-Section: 文件管理
-Description: 4x4 文件夹
-Author: Ginsu
-Depiction: https://ginsu.dev/repo/depictions/index.html?packageId=com.ginsu.4ders
-Icon: https://ginsu.dev/repo/api/packageinfo/com.ginsu.4ders/icon.png
-Name: 4Ders
-Sileodepiction: https://ginsu.dev/repo/depictions/native/com.ginsu.4ders.json
 
 Package: com.ios.wechat
 Version: 1.1.5
