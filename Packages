@@ -90,12 +90,12 @@ Package: cn.bitilly.appsmanagercrack
 Version: 1.1-7
 Architecture: iphoneos-arm
 Maintainer: Netskao
-Depends: mobilesubstrate, cn.bitilly.appdatamanager
+Depends: mobilesubstrate, cn.bitilly.appsmanager
 Filename: ./debs/rootfull/cn.bitilly.appsmanagercrack_1.1-7_iphoneos-arm.deb
-Size: 15624
-MD5sum: eaa5cbd74aaa3101cf28ceb2f509bb20
-SHA1: 58fffcf64ec92387db7e10b2084d0f9de7c7af1b
-SHA256: 43131ecda4df14d12e866cf84a0f4de86f52f4039748165e4ef4afcf55d614eb
+Size: 15656
+MD5sum: 144023ec361b5084b80000e846b8e562
+SHA1: 3b3ae55fc21609f5a33f5de6a77f22c467561c08
+SHA256: 6e440d0889d23bff2b47c5d2394a31c4045992a7bffee450bd7caffc5be15e9a
 Section: 文件管理
 Homepage: https://tigisoftware.com/cydia/
 Description: AppsManager解锁全部功能，主程序请在源内安装
