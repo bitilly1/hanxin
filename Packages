@@ -70,6 +70,40 @@ Name: AnimPlus动画加速
 Sileodepiction: https://apt.bitilly.cn/Description/AnimPlus/AnimPlus.json
 Sponsor: eXqusic
 
+Package: cn.bitilly.appsamanager
+Version: 1.8.2-4
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Filename: ./debs/rootfull/cn.bitilly.appsamanager_1.8.2-4_iphoneos-arm.deb
+Size: 1450304
+MD5sum: fc17d9358b8793203db1f7a71fecae85
+SHA1: 383bac98f723c655cb89b0f75381033d0e0c5141
+SHA256: d94599906cc934c2aa57096aa1037a60c124a733c02f51f0c176c5cfce417404
+Section: 文件管理
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: TIGI Software
+Icon: https://apt.bitilly.cn/Description/appsmanager/Icon.png
+Name: Apps Manager
+Sileodepiction: https://apt.bitilly.cn/Description/appsmanager/appsmanager.json
+
+Package: cn.bitilly.appsmanagercrack
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Depends: mobilesubstrate, cn.bitilly.appdatamanager
+Filename: ./debs/rootfull/cn.bitilly.appsmanagercrack_1.1-7_iphoneos-arm.deb
+Size: 15624
+MD5sum: eaa5cbd74aaa3101cf28ceb2f509bb20
+SHA1: 58fffcf64ec92387db7e10b2084d0f9de7c7af1b
+SHA256: 43131ecda4df14d12e866cf84a0f4de86f52f4039748165e4ef4afcf55d614eb
+Section: 文件管理
+Homepage: https://tigisoftware.com/cydia/
+Description: AppsManager解锁全部功能，主程序请在源内安装
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/appsmanager/Icon.png
+Name: AppsManager Crack
+Sileodepiction: https://apt.bitilly.cn/Description/appsmanagercrack/appsmanagercrack.json
+
 Package: cn.bitilly.arkita
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -1102,22 +1136,6 @@ Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 酸果 - SG WX美化增强工具
 
-Package: com.tigisoftware.appsamanager
-Version: 1.8.2-4
-Architecture: iphoneos-arm
-Maintainer: TIGI Software
-Filename: ./debs/rootfull/com.tigisoftware.appsamanager_1.8.2-4_iphoneos-arm.deb
-Size: 1450744
-MD5sum: b15ac6e329b5b54b487b64be5f22d3fb
-SHA1: ba746f257362afc08de9256ab92d7a522ec97182
-SHA256: d835f8118b79191dc34e342462ccef83359d18d306bd9b8b6283d135d793b8b1
-Section: 文件管理
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
-Author: TIGI Software
-Icon: https://apt.bitilly.cn/Description/appsmanager/Icon.png
-Name: Apps Manager
-Sileodepiction: https://apt.bitilly.cn/Description/appsmanager/appsmanager.json
-
 Package: com.tigisoftware.filza64bit
 Version: 4.0.1-4
 Architecture: iphoneos-arm
@@ -1240,22 +1258,6 @@ Dev: lightmann
 Icon: file:///Library/PreferenceBundles/VinylPrefs.bundle/icon@2x.png
 Name: Vinyl
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: netskao.appsmanagercrack
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate, com.tigisoftware.appdatamanager
-Filename: ./debs/rootfull/netskao.appsmanagercrack_1.1-2_iphoneos-arm.deb
-Size: 7264
-MD5sum: b54f78824ffcf8cd8e68364732c13e74
-SHA1: 39ce0bc4897e1724a1e10a6755df390ccac59997
-SHA256: 20eb8a7dd2be47030b038ae1eab7af6793f77fb7df48518c4999458e4efb4869
-Section: 文件管理
-Homepage: https://tigisoftware.com/cydia/
-Description: AppsManager unlock full functionality, the main program please install in the official source
-Author: Netskao
-Name: AppsManager Crack
 
 Package: netskao.awemepurification-rootless
 Version: 2.8-4
