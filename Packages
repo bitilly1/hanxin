@@ -141,20 +141,20 @@ Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 Package: cn.bitilly.dumpdecrypter
 Version: 1.3-7
 Architecture: iphoneos-arm
-Maintainer: bitilly
+Maintainer: Netskao
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.dumpdecrypter_1.3-7_iphoneos-arm.deb
-Size: 529036
-MD5sum: 8f8b232ad617c9f207880de4b4e9ac88
-SHA1: e07bb3ab6bcd0fdb96b59ec1830f1d3aadb5acce
-SHA256: 4f4af00216936c8d44f8d66f8a452a682ef914144b60287839597bb9539b290d
+Size: 532176
+MD5sum: 7c9dfac11329caced5b0bf4f44e3c833
+SHA1: aed9b6b2557eb23aa50e3aa9de243fdd769b558c
+SHA256: 93fe86b1b599c76bd8334cdc4017722f46dbfe15220bf9bfc7d965ce17b53f06
 Section: 功能助手
 Description: DumpDecrypter是基于dumpdecrypted的修改封装，使用方式：通过桌面的DumpDecrypter应用程序选择需要解密的应用在dumpdecrypted基础上增加可选删除小组件可选删除手表组件，可选删除版本限制，可选删除设备限制解密完整应用并导出至/var/mobile/Documents/DumpDecrypter，选择应用后自动杀掉应用进程重新开始，解密前加载所有Frameworks等
-A12: 1
 Author: Netskao
-Icon: https://apt.bitilly.cn/Description/DumpDecrypter/AppIcon.png
+Icon: https://apt.bitilly.cn/Description/DumpDecrypter/Icon.png
 Name: DumpDecrypter砸壳工具
-Sponsor: bitilly
+Sileodepiction: https://apt.bitilly.cn/Description/DumpDecrypter/DumpDecrypter.json
+Sponsor: Netskao
 
 Package: cn.bitilly.ifuwu
 Version: 1.0.0

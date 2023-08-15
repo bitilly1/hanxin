@@ -1,0 +1,95 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+	"tintColor": "#3784d2",
+	"tabs": [
+		{
+			"tabname": "预览",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/Description/DumpDecrypter/Showcase.jpg",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/DumpDecrypter/Showcase.jpg"
+						},
+											
+						
+						
+						
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Featured Animes",
+								"url": "https://apt.bitilly.cn/Description/DumpDecrypter/Showcase.jpg",
+								"fullSizeURL": "https://apt.bitilly.cn/Description/DumpDecrypter/Showcase.jpg"
+							},
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## 主要功能\n DumpDecrypter是基于dumpdecrypted的修改封装，使用方式：通过桌面的DumpDecrypter应用程序选择需要解密的应用在dumpdecrypted基础上增加可选删除小组件可选删除手表组件，可选删除版本限制，可选删除设备限制解密完整应用并导出至/var/mobile/Documents/DumpDecrypter，选择应用后自动杀掉应用进程重新开始，解密前加载所有Frameworks等"
+				},
+
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "开发者",
+					"text": "Netskao",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容",
+					"text": "11.0 - 14.8",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "支持设备",
+					"text": "6S-12PM",
+					"class": "DepictionTableTextView"
+				},				
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新",
+			"views": [
+				{
+					"title": "正式版1.3-7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 新发版本",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.15</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
