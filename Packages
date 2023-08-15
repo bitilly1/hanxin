@@ -71,16 +71,16 @@ Sileodepiction: https://apt.bitilly.cn/Description/AnimPlus/AnimPlus.json
 Sponsor: eXqusic
 
 Package: cn.bitilly.appsmanager
-Version: 1.8.2-4
+Version: 1.8.2-5
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
-Filename: ./debs/rootfull/cn.bitilly.appsmanager_1.8.2-4_iphoneos-arm.deb
-Size: 1449800
-MD5sum: c19ab8a1392abdd664d8b39caabc7a78
-SHA1: 38a797ca1279eb57fc1a93883598e88e7add3aab
-SHA256: 1e0d98a7f287b956c3ed2ce2f951cd94a7cdcec6756f933ef169009a94131dda
+Filename: ./debs/rootfull/cn.bitilly.appsmanager_1.8.2-5_iphoneos-arm.deb
+Size: 2516716
+MD5sum: 8e5d99f455e5caea407e92257466bcb6
+SHA1: d83c2f0c349e165f29af687e0ac42e8dc32ef526
+SHA256: b99ac211845c8eea7b9ddfddcc279de17e91668a515efa8c76ce30c2a67577e2
 Section: 文件管理
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Description: 此工具为已安装的应用程序提供了清除、备份、恢复数据的方法。
 Author: TIGI Software
 Icon: https://apt.bitilly.cn/Description/appsmanager/Icon.png
 Name: Apps Manager
