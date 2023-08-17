@@ -37,11 +37,11 @@ Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.HBWechatHelper_1.5.9-2_iphoneos-arm.deb
-Size: 8015832
-MD5sum: f2516f1498a84bdb239cee8c76f88b4c
-SHA1: 7ec27ffac6e4312be84bc395e86e2da2060918d7
-SHA256: bb47bb3e889461c8bf1406890faa43eb31acd499dba379f573a4d540d059ebc8
-Section: Mao
+Size: 8011880
+MD5sum: 439547f85c206ea2f08ef59d8d30a940
+SHA1: 4f74d6c6e754c67625600fe8d26720a635237b73
+SHA256: fce0433b3d660b4906fa34bbc28b6ed659f62f29a9a5d45e99c2243f850d2f9f
+Section: 微信插件
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://apt.bitilly.cn/images/WeChat.png
@@ -54,11 +54,11 @@ Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.5.9-2_iphoneos-arm64.deb
-Size: 7865900
-MD5sum: 1c53b2271b75a303b55bb1117bc1c930
-SHA1: 045a23c0a9d034db923045dc75da149b1a6faf6c
-SHA256: 10cfef7acaedf0e1a95496879c5b57c30401a8a31bc99c95cc33c814359590e4
-Section: Mao
+Size: 7863948
+MD5sum: f5078786adc19dc3ecfd6e84e7edcc96
+SHA1: 4d71806121a6cc80220e6f0306dee0ffc4782b44
+SHA256: de0bd946cb05a1997ee28b49d36de73a99178083e0053a2336e9021e5e98e716
+Section: 微信插件
 Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://apt.bitilly.cn/images/WeChat.png
