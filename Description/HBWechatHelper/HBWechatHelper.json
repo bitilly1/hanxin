@@ -1,0 +1,98 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+	"tintColor": "#3784d2",
+	"tabs": [
+		{
+			"tabname": "预览",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png"
+						},						                {
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase2.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase2.png"
+						},
+											
+						
+						
+						
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Featured Animes",
+								"url": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png",
+								"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png"
+							},
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## 主要功能\n一个微信插件文本转语音以及点歌，发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包、自定义信息尾巴、自定义拍一拍、百变小尾巴、实时尾巴时间等功能"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "开发者",
+					"text": "HuangBai",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容",
+					"text": "7.0 - 15.4.1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "支持设备",
+					"text": "6S-13PM",
+					"class": "DepictionTableTextView"
+				},				
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新",
+			"views": [
+				{
+					"title": "1.5.9-2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 修复引用尾巴重复发送问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.17</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
