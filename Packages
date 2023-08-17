@@ -263,6 +263,23 @@ Icon: https://apt.bitilly.cn/Description/Powercuff/Powercuff.png
 Name: Powercuff 降低设备功耗
 Sponsor: Ryan Petrich
 
+Package: cn.bitilly.qqpurification
+Version: 2.3-3
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/rootfull/cn.bitilly.qqpurification_2.3-3_iphoneos-arm.deb
+Size: 1006952
+MD5sum: 6478b006368da73a3ae569290e147637
+SHA1: a4377b4800b1875ba633699609e97242e5074b6d
+SHA256: afd6efc7745b4aa411fec89ab1cf1e87b7003a11ea7a05c7fe7ee6e82b313db8
+Section: 软件优化
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.9.0及以上版本, 及8.9.58以下版本。本插件已不再维护
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/qqpurification/Icon.png
+Name: QQ净化
+Sileodepiction: https://apt.bitilly.cn/Description/qqpurification/qqpurification.json
+
 Package: cn.bitilly.snapper2
 Version: 2.6.0
 Architecture: iphoneos-arm64
@@ -324,10 +341,10 @@ Architecture: iphoneos-arm
 Maintainer: @1_lj6
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/rootfull/cn.bitilly.tw3so_1.1-1_iphoneos-arm.deb
-Size: 13944
-MD5sum: c919329c1fe0c1a965e752628390cd3f
-SHA1: 898250c9c2822181bb9a4d746c4d6ed73a38dd8f
-SHA256: 2e01e7d733c7c55df63aea31626e9bba41bb98a853dcd562ba5ba6f8359d358e
+Size: 14024
+MD5sum: 1329e1304cc39c93b9e9453849512f27
+SHA1: 3ca86c3205f74fa9e9fd23ae156abd1aa3249911
+SHA256: 31b23d4e631866820124a2d61d95cf0fd6611620545748f03b426c9015e00995
 Section: 功能助手
 Priority: optional
 Description: 视频广告加速器
