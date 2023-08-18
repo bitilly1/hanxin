@@ -1,0 +1,91 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+	"tintColor": "#3784d2",
+	"tabs": [
+		{
+			"tabname": "预览",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/images/Showcase.png",
+							"fullSizeURL": "https://apt.bitilly.cn/images/Showcase.png"
+						},
+											
+						
+						
+						
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Featured Animes",
+								"url": "https://apt.bitilly.cn/images/Showcase.png",
+								"fullSizeURL": "https://apt.bitilly.cn/images/Showcase.png"
+							},
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## 主要功能\n 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册。"
+				},
+
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "开发者",
+					"text": "Netskao",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容",
+					"text": "9.0 - 15.4.1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "支持设备",
+					"text": "6S-13PM",
+					"class": "DepictionTableTextView"
+				},				
+				{
+					"spacing": 8,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新",
+			"views": [
+				{
+					"title": "1.2-8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 保存版本",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.18</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

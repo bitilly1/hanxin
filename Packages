@@ -158,6 +158,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/Arkita/icon.png
 Name: Arkita
 
+Package: cn.bitilly.bdtbnoads
+Version: 1.2-8
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.bdtbnoads_1.2-8_iphoneos-arm.deb
+Size: 66728
+MD5sum: 47aee7daa499f5bd395d1a2daff8addd
+SHA1: cd7e65a4c9d8c6d56f19686c58ccea94be089d72
+SHA256: 7f806d76a2be23d422262e954eafc75a01044e051c2d68ebf35537aeec221a8c
+Section: 软件优化
+Description: 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/bdtbnoads/AppIcon.png
+Name: 百度贴吧 NoAds
+Sileodepiction: https://apt.bitilly.cn/Description/bdtbnoads/bdtbnoads.json
+
 Package: cn.bitilly.ddqsb
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -1277,22 +1294,6 @@ Section: 软件优化
 Description: 抖音净化！设置位于抖音-设置，仅支持22.5.0及以上版本抖音
 Author: Netskao
 Name: 抖音净化-Rootless
-
-Package: netskao.bdtbnoads
-Version: 1.2-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/rootfull/netskao.bdtbnoads_1.2-8_iphoneos-arm.deb
-Size: 66692
-MD5sum: 3c03713ea8207187a609b21d6cac0111
-SHA1: 6c3afee666bdd07e3a93ff71cd75082ab9bfa138
-SHA256: cd1db69a5ff257872ea992a1f4a925669857dd72b8dd3bd2c6f9d5a2de52e5cc
-Section: 软件优化
-Description: 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册
-Author: Netskao
-Icon: https://apt.bitilly.cn/Description/bdtbnoads/AppIcon.png
-Name: 百度贴吧 NoAds
 
 Package: netskao.bilibilipure
 Version: 1.2-6
