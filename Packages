@@ -387,18 +387,20 @@ Sileodepiction: https://apt.bitilly.cn/Description/ldid/ldid.json
 Package: cn.bitilly.powercuff
 Version: 0.1
 Architecture: iphoneos-arm
-Maintainer: bitilly
+Maintainer: Ryan Petrich
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./debs/rootfull/cn.bitilly.powercuff_0.1_iphoneos-arm.deb
-Size: 11188
-MD5sum: ae787b292744efbd660daf1bfc38705c
-SHA1: f252f2818884470adb9bce31a5cd6cd7a7921574
-SHA256: 80deb9ec46386bdf08c9fcca7d83b770457552f5d6f4a967940c095a7353ecf2
+Size: 11208
+MD5sum: 53c2e48e664cfc2ac852f14ffb289786
+SHA1: 8cad3bfb4ac4ef5d9fcaa52ebc9a5b8c73bde112
+SHA256: a2886330149d9b0941e4a992d3b83fbc3d00716edc8336022f9c705dbe8e4bab
 Section: 功能助手
 Description: 从其他低功耗设备状态中选择
 Author: Ryan Petrich
 Icon: https://apt.bitilly.cn/Description/Powercuff/Powercuff.png
+Moderndepiction: 降低设备功耗
 Name: Powercuff 降低设备功耗
+Sileodepiction: https://apt.bitilly.cn/Description/Powercuff/Powercuff.json
 Sponsor: Ryan Petrich
 
 Package: cn.bitilly.qqpurification
