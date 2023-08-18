@@ -436,6 +436,44 @@ Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
 Name: Snapper 2
 
+Package: cn.bitilly.snapper3
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jontelang
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix
+Filename: ./debs/rootfull/cn.bitilly.snapper3_1.0_iphoneos-arm.deb
+Size: 904632
+MD5sum: e51f377dd5a5ed78fd2a9421300b0b86
+SHA1: c7af8aa098f910282997757fe366df391432b8d9
+SHA256: aa18a039ea5fe2feb5f83128c55c4f4a933c424add5a36aeee1035a4965e487e
+Section: 功能助手
+Description: 截图神器
+Author: jontelang
+Icon: https://apt.bitilly.cn/Description/snapper3/Icon.png
+Name: Snapper 3
+Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3.json
+Sponsor: jontelang
+
+Package: cn.bitilly.snapper3
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: jontelang
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/rootless/cn.bitilly.snapper3_1.0.2_iphoneos-arm64.deb
+Size: 911568
+MD5sum: 01851dbfa6a22d65dd76e60e7578acb2
+SHA1: 8c8d7b4904e6ae89b619d47f6ad5c1c63584b687
+SHA256: 9709471edc2c997b5ea84fa50c64f722741da727bab796c3707a1cd9c0fc6704
+Section: 功能助手
+Description: 截图神器
+Author: jontelang
+Icon: https://apt.bitilly.cn/Description/snapper3/Icon.png
+Name: Snapper 3-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3.json
+Sponsor: jontelang
+
 Package: cn.bitilly.storeswitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -844,42 +882,6 @@ Author: Jan
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: WeChat
 Sponsor: Jan<237523005@qq.com>
-
-Package: com.jontelang.snapper3
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: bitilly
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix
-Filename: ./debs/rootfull/com.jontelang.snapper3_1.0_iphoneos-arm.deb
-Size: 904604
-MD5sum: dc536fa283e313c142a73a2d50d2bb5c
-SHA1: 76b2eeddcdd2160f312b2b805a5498f08c19ec25
-SHA256: 56854c9b8ef2221067cef756bead0c33a6c009dcefe1c2ee4e38e4b475e4376b
-Section: 功能助手
-Description: 截图神器
-Author: Jonathan Winger-lang
-Icon: https://apt.bitilly.cn/Description/snapper3/Icon.png
-Name: Snapper 3
-Sponsor: Jonathan Winger-lang
-
-Package: com.jontelang.snapper3
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: bitilly
-Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
-Filename: ./debs/rootless/com.jontelang.snapper3_1.0.2_iphoneos-arm64.deb
-Size: 911720
-MD5sum: 7d476d40e6387bc64bf63c03aecc24d0
-SHA1: 82a41cb573246d32010e417cfc400693d579850e
-SHA256: d49b53069810e34cabfbf54b24177bad33ec9c9d0dbf28083e26429a2e67fe1f
-Section: 功能助手
-Description: 截图神器
-Author: Jonathan Winger-lang
-Icon: https://apt.bitilly.cn/Description/snapper3/Icon.png
-Name: Snapper 3-Rootless
-Sponsor: bitilly
 
 Package: com.mika.iwall
 Version: 1.4.5
