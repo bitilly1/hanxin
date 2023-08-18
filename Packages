@@ -175,6 +175,23 @@ Icon: https://apt.bitilly.cn/Description/bdtbnoads/AppIcon.png
 Name: 百度贴吧 NoAds
 Sileodepiction: https://apt.bitilly.cn/Description/bdtbnoads/bdtbnoads.json
 
+Package: cn.bitilly.bilibilipure
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.bilibilipure_1.2-6_iphoneos-arm.deb
+Size: 903656
+MD5sum: c82d7f905d10f953f2f32d097b02a290
+SHA1: 2ab66e6e3d3837292f2584a79bb199c479929893
+SHA256: dffdc988fea38563b4db839076c449e05ac070402a74cf24c4511246da054439
+Section: 软件优化
+Description: 哔哩哔哩净化，设置位于我的页面顶部，仅支持7.3.0及以上版本
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/bilibilipure/AppIcon.png
+Name: 哔哩哔哩净化
+Sileodepiction: https://apt.bitilly.cn/Description/bilibilipure/bilibilipure.json
+
 Package: cn.bitilly.ddqsb
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -1294,22 +1311,6 @@ Section: 软件优化
 Description: 抖音净化！设置位于抖音-设置，仅支持22.5.0及以上版本抖音
 Author: Netskao
 Name: 抖音净化-Rootless
-
-Package: netskao.bilibilipure
-Version: 1.2-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/rootfull/netskao.bilibilipure_1.2-6_iphoneos-arm.deb
-Size: 904108
-MD5sum: 97969b32ca4adadd01e0d3ca39d6fbba
-SHA1: 49318feb3e061c2490bec2ea33524ad4a895a0d9
-SHA256: a3acd6e8dd2faa58208ee118f8cd85e86c289a3100622f46f4c9f0c06c973c98
-Section: 软件优化
-Description: 哔哩哔哩净化，设置位于我的页面顶部，仅支持7.3.0及以上版本
-Author: Netskao
-Icon: https://apt.bitilly.cn/Description/bilibilipure/AppIcon.png
-Name: 哔哩哔哩净化
 
 Package: netskao.injectipa
 Version: 1.3-7
