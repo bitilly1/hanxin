@@ -58,11 +58,7 @@
 					"class": "DepictionTableTextView"
 				},				
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
+					"spacing": 8,
 					"class": "DepictionSpacerView"
 				}
 			],
@@ -78,7 +74,7 @@
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 新发版本",
+					"markdown": "\t\n\u2023 保存版本",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},

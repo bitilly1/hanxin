@@ -58,13 +58,9 @@
 					"class": "DepictionTableTextView"
 				},				
 				{
-					"spacing": 16,
+					"spacing": 8,
 					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
+				}	
 			],
 			"class": "DepictionStackView"
 		},
