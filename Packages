@@ -14,6 +14,25 @@ Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootles
 Author: alias20
 Name: CoolCC Reborn
 
+Package: cn.bitilly.4ders
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ginsu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/cn.bitilly.4ders_1.0.3_iphoneos-arm.deb
+Size: 8244
+MD5sum: 65ec23f525ae96abfee912d5018d20cc
+SHA1: 1e8e606eab6b6d293aac42879c0bbefc09a825c5
+SHA256: 2e154e69e16ae94bdec35e332adebdf0536d06a01a1888e346f102528928a968
+Section: 文件管理
+Description: 4x4 文件夹
+Author: Ginsu
+Depiction: 4Ders通过将iOS标准3x3布局增加到改进的4x4布局，使您的文件夹更大。
+Icon: https://apt.bitilly.cn/Description/4Ders/Icon.png
+Name: 4Ders
+Sileodepiction: https://apt.bitilly.cn/Description/4Ders/4Ders.json
+
 Package: cn.bitilly.HBWechatHelper
 Version: 1.5.9-2
 Architecture: iphoneos-arm
@@ -544,25 +563,6 @@ Dev: HuangBai
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信娱乐插件)
 Sponsor: Mao
-
-Package: com.bitilly.4ders
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: Ginsu
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.bitilly.4ders_1.0.3_iphoneos-arm.deb
-Size: 8240
-MD5sum: 50c031942cc0e0b2810833fa11bdc804
-SHA1: 45ba66942e931dd861d2f1b8d71aca9dac5793b6
-SHA256: c21c76536156f0e01a216613d35ea0a75173e1e560c6939b01a408f8de24cfd6
-Section: 文件管理
-Description: 4x4 文件夹
-Author: Ginsu
-Depiction: 4Ders通过将iOS标准3x3布局增加到改进的4x4布局，使您的文件夹更大。
-Icon: https://apt.bitilly.cn/Description/4Ders/Icon.png
-Name: 4Ders
-Sileodepiction: https://apt.bitilly.cn/Description/4Ders/4Ders.json
 
 Package: com.brend0n.volumemixer
 Version: 0.0.6~beta2
