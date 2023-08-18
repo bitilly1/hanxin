@@ -36,7 +36,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用"
+					"markdown": "## 主要功能\n injectipa一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用"
 				},
 
 				{
@@ -58,11 +58,7 @@
 					"class": "DepictionTableTextView"
 				},				
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
+					"spacing": 8,
 					"class": "DepictionSpacerView"
 				}
 			],
