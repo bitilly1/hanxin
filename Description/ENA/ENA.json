@@ -59,7 +59,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n ENA几乎可以提取你照片中的任何内容。您只需要：•打开照片app•打开您的照片•长按所需对象；ENA可以提取给定位置的显著对象，而不是提取图像中最显著的对象；所有的计算任务都在设备上执行，ENA已在iOS 15.4（Palera1n）上进行了测试。"
+					"markdown": "## 主要功能\n ENA几乎可以提取你照片中的任何内容。您只需要：•打开照片app•打开您的照片•长按所需对象；ENA可以提取给定位置的显著对象，而不是提取图像中最显著的对象；所有的计算任务都在设备上执行，ENA已在iOS 15.4（Palera1n）上进行了测试。"
 				},
 				{
 					"class": "DepictionSeparatorView"
