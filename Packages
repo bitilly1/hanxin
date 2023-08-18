@@ -14,23 +14,6 @@ Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootles
 Author: alias20
 Name: CoolCC Reborn
 
-Package: am.ldid
-Version: 2.1.5-2
-Architecture: iphoneos-arm
-Maintainer: TIGI Software <info@tigisoftware.com>
-Filename: ./debs/rootfull/am.ldid_2.1.5-2_iphoneos-arm.deb
-Size: 1494648
-MD5sum: 6692ee6969ebbb095a310e30180fe8ea
-SHA1: 8be847b1e03811770827282f58cc13843b1414ee
-SHA256: 6bc5a413878efb55e0bcc6a8461e971b0308e53ddd5ee6c7c5ac9d62b71b590b
-Section: 文件管理
-Description: pseudo-codesign Mach-O files for Apps Manager. Built from ProcursusTeam/ldid
-Tag: purpose::console
-Author: Jay Freeman (saurik) <saurik@saurik.com>
-Icon: https://apt.bitilly.cn/Description/com.tigiftware.filza64bit/AppIcon.png
-Name: ldid for Apps Manager
-Sileodepiction: https://apt.bitilly.cn/Description/am.ldid/ldid.json
-
 Package: cn.bitilly.HBWechatHelper
 Version: 1.5.9-2
 Architecture: iphoneos-arm
@@ -330,6 +313,23 @@ Author: bitilly <985745559@qq.com>
 Icon: https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/AppIcon.png
 Name: 爱服务
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.json
+
+Package: cn.bitilly.ldid
+Version: 2.1.5-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software <info@tigisoftware.com>
+Filename: ./debs/rootfull/cn.bitilly.ldid_2.1.5-2_iphoneos-arm.deb
+Size: 1495500
+MD5sum: 14971f8725842c4615ad20146471bece
+SHA1: e40d00d1dca1990f867cfb79ba51a2ad95890fac
+SHA256: 1991117cc838e32a584ef7f39cc26369d0f3e97bff35641627f69c000f7633d2
+Section: 文件管理
+Description: 用于Apps Manager的伪代码设计Mach-O文件。基于ProcursusTeam/ldid构建
+Tag: purpose::console
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Icon: https://apt.bitilly.cn/Description/filza64bit/AppIcon.png
+Name: ldid for Apps Manager
+Sileodepiction: https://apt.bitilly.cn/Description/ldid/ldid.json
 
 Package: cn.bitilly.powercuff
 Version: 0.1
