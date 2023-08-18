@@ -437,20 +437,20 @@ Name: Snapper 2
 Package: cn.bitilly.storeswitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: bitilly
+Maintainer: subdiox
 Depends: firmware (>= 11), mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.storeswitcher2_1.0.3_iphoneos-arm.deb
 Size: 21224
-MD5sum: 38c42e1b58ed3c42b8c780cc8b28e58d
-SHA1: 49d7987364dab650bbcbf8596663ddece9ab405a
-SHA256: 4db43de71a9e161f301e7ff7c0dcf7b4cd3e068c62dad3ef1f601c428c0cd131
+MD5sum: 49f322a067941aea97741cc93d361757
+SHA1: f1eedbba1d6136eb39c7fa0149e801767f732949
+SHA256: abb36b10af6486706164ac12c63ebd0680baa3e26e53c55387eee02aa046d0a1
 Section: 软件优化
 Description: App Store快速切换登录过的账号
-A12: 1
 Author: subdiox
-Icon: https://apt.bitilly.cn/Description/cn.bitilly.storeswitcher2/AppIcon.png
+Icon: https://apt.bitilly.cn/Description/storeswitcher2/AppIcon.png
 Name: StoreSwitcher 2账号切换
-Sponsor: bitilly
+Sileodepiction: https://apt.bitilly.cn/Description/storeswitcher2/storeswitcher2.json
+Sponsor: subdiox
 
 Package: cn.bitilly.surge
 Version: 5.0.5
