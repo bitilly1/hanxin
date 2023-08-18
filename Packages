@@ -545,6 +545,23 @@ Depiction: https://chariz.com/buy/velvet-2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Name: Velvet 2
 
+Package: cn.bitilly.wfnoads
+Version: 1.6-6
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.wfnoads_1.6-6_iphoneos-arm.deb
+Size: 97288
+MD5sum: 6dbdb47d933ac9f128f36b517a20d18a
+SHA1: 0ff85c39e2926aa2e74a36b86cf1092b45ce050b
+SHA256: 66b27b019feca211d5d252031e7989184126f580285d79e92e395f75e0d633ee
+Section: 软件优化
+Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，仅支持6.8.5及以上版本
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/wfnoads/icon.png
+Name: 威锋 NoAds
+Sileodepiction: https://apt.bitilly.cn/Description/wfnoads/wfnoads.json
+
 Package: com.25mao.miyou
 Version: 3.6-4.1
 Architecture: iphoneos-arm
@@ -1405,22 +1422,6 @@ Dev: netskao
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信净化
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: netskao.wfnoads
-Version: 1.6-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/rootfull/netskao.wfnoads_1.6-6_iphoneos-arm.deb
-Size: 97384
-MD5sum: 9815daeb28ac1243a2b7e1a46abd7a51
-SHA1: 876ec6367ab2ebd8ca01ba7782a625e7404f00ed
-SHA256: 18bc2ad3450ee89a293bd9beff384067ecaeb0c9b4e5dc51cf7eddca1a5be7ec
-Section: 软件优化
-Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，仅支持6.8.5及以上版本
-Author: Netskao
-Icon: https://apt.bitilly.cn/Description/fengapp/icon.png
-Name: 威锋 NoAds
 
 Package: xc.lzsxcl.o2
 Version: 4.1
