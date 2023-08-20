@@ -1405,18 +1405,17 @@ Sileodepiction: https://apt.bitilly.cn/Description/injectipa/injectipa.json
 Package: netskao.injectipa
 Version: 1.4-2
 Architecture: iphoneos-arm
-Maintainer: Nets
+Maintainer: Netskao
 Depends: firmware (>= 11.0)
 Filename: ./debs/rootfull/netskao.injectipa_1.4-2_iphoneos-arm.deb
-Size: 1517780
-MD5sum: f29d5e936f234a00c415040e01a9660c
-SHA1: b88afa6136915d2bbe5fedd46df7bb4431ff8d85
-SHA256: dc9fb9060299defba3b9b8a13feb35a4bf7e6cdffecfbdd4095d799a0da2d3ac
+Size: 1520304
+MD5sum: d597bcc24c634f4f290cc7f865a8d584
+SHA1: 795fad3499d1ea5180e0441b232cc300c8e4629d
+SHA256: 7aaaeb3fea3e038f203da4abce453c02f6f006d7b5c6146ac417697ee93c178c
 Section: 终端支持
-Homepage: https://github.com/Netskao/MacOS-Utils
- Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
 Description: injectipa是一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用
 Author: Netskao
+Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
 Name: injectipa
 Sileodepiction: https://apt.bitilly.cn/Description/injectipa/injectipa.json
 
