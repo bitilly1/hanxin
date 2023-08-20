@@ -367,6 +367,41 @@ Icon: https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/AppIcon.png
 Name: 爱服务
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.json
 
+Package: cn.bitilly.kayoko
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Traurige <hello@traurige.dev>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/rootfull/cn.bitilly.kayoko_1.4.2_iphoneos-arm.deb
+Size: 88112
+MD5sum: 5450e0f322b51745dcd9dc342be02f90
+SHA1: 5a61c3d88699f0fed9e9274cb21276f5ae50fbfd
+SHA256: 0328025677d58a78b09351d599e27ce8b6a3b98cd588b80000462ea139aae776
+Section: 功能助手
+Description: 功能丰富的iOS剪贴板管理器
+Author: Traurige <hello@traurige.dev>
+Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
+
+Package: cn.bitilly.kayoko
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 956
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/rootless/cn.bitilly.kayoko_1.4.2_iphoneos-arm64.deb
+Size: 79648
+MD5sum: 9206455cb0d12ccaaf32ec8582373b53
+SHA1: e1693b0a89c480f67b27db4e1af9b58a9e9e9383
+SHA256: bfad532d79a4db0cf74feac93a373f63a7bc44467777c0d317deea3949913f27
+Section: 功能助手
+Description: 功能丰富的iOS剪贴板管理器
+Author: Traurige <hello@traurige.dev>
+Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
+
 Package: cn.bitilly.ldid
 Version: 2.1.5-2
 Architecture: iphoneos-arm
