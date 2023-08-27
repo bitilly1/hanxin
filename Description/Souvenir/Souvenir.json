@@ -1,0 +1,95 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+	"tintColor": "#3784d2",
+	"tabs": [
+		{
+			"tabname": "预览",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png"
+						},						                {
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase2.png",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase2.png"
+						},
+											
+						
+						
+						
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Featured Animes",
+								"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png",
+								"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png"
+							},
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## 主要功能\n锁屏调整"
+				},
+
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "开发者",
+					"text": "Elio Feghali",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容",
+					"text": "14.0 - 15.7.8",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "支持设备",
+					"text": "6S-13PM",
+					"class": "DepictionTableTextView"
+				},				
+				{
+					"spacing": 8,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新",
+			"views": [
+				{
+					"title": "1.0.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 免费版本",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.28</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
