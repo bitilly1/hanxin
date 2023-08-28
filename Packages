@@ -552,16 +552,16 @@ Maintainer: zhaonan
 Depends: cn.bitilly.souvenir
 Replaces: cn.bitilly.souvenir
 Filename: ./debs/rootfull/cn.bitilly.souvenir.zh-Hans_0.1.0_iphoneos-arm.deb
-Size: 2660
-MD5sum: d0413b2e5ceadbd2af7d439c0342680e
-SHA1: 8d13fa960cba9780b978605bbbde7f63fe7f6155
-SHA256: 8a76792b82cd9899fd19c3d95b6b0679ba511f38ceb35f2931b09f9aa38462ca
+Size: 2664
+MD5sum: afd74eb38102212cf3eb260819e938d2
+SHA1: 6d981f961b703704c271c689e0bc6242d2d8a120
+SHA256: e970168fdd1dd2a1e032fa93b0445a93ec333459e2ac139204d09392e69e7a6d
 Section: 锁屏插件
 Description: 为 Souvenir 提供简体中文
 Author: zhaonan
 Icon: https://apt.bitilly.cn/images/zh.png
 Name: zh-Hans for Souvenir
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
+Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir-zh.json
 
 Package: cn.bitilly.souvenir.zh-Hans
 Version: 0.1.0
@@ -570,16 +570,16 @@ Maintainer: zhaonan
 Depends: cn.bitilly.souvenir
 Replaces: cn.bitilly.souvenir
 Filename: ./debs/rootless/cn.bitilly.souvenir.zh-Hans_0.1.0_iphoneos-arm64.deb
-Size: 2732
-MD5sum: e88d323e4b1f361c2a2c8eae9f3575d4
-SHA1: f9c4284066443040842e6f7a39426b9ada51dd66
-SHA256: 18a0562238d40596d902e6e2d60508cf7fa7178a4f5aa4e4e6efac638ac52d65
+Size: 2728
+MD5sum: 62e0c5c0a71323a919165d47f7ebf2f4
+SHA1: d2b0fdd7e097afce173055e42487d6a09d8b55c3
+SHA256: 502dd1df5409da869d589d4925cd461e4aa7907fbadb3210668cc6cbc1754850
 Section: 锁屏插件
 Description: 为 Souvenir 提供简体中文
 Author: zhaonan
 Icon: https://apt.bitilly.cn/images/zh.png
 Name: zh-Hans for Souvenir
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
+Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir-zh.json
 
 Package: cn.bitilly.storeswitcher2
 Version: 1.0.3
