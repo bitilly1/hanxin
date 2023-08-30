@@ -72,6 +72,22 @@
 			"tabname": "更新",
 			"views": [
 				{
+					"title": "1.08",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 1.增加了时间、日期和计时器的透明度选项，2.修复了首选项中的一些单词。",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.30</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "1.07",
 					"useBoldText": true,
 					"useBottomMargin": true,
