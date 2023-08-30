@@ -1068,10 +1068,10 @@ Maintainer: aReo
 Installed-Size: 1056
 Depends: mobilesubstrate
 Filename: ./debs/rootless/com.flex2areo.apptools15rootless_1.2.3_iphoneos-arm64.deb
-Size: 196684
-MD5sum: 371cb81ac6c92c0e9b8b80c0e2bd207a
-SHA1: 461c8e484d9fe44d65e5369de231b0336f245a10
-SHA256: 84c1d2199c7cf747a1d9917c4c0173acc5547bd1e01b4cf4b298b41373163cd3
+Size: 195296
+MD5sum: 0a5d4afce7f948edcc57686003c82d80
+SHA1: e32c264bae999033d33b09d16f08accd50565f46
+SHA256: fea68a238d5c4bb9e76f6badbd9d9099fc6b211d47af2d49380ebf8d31d64454
 Section: 功能助手
 Description: AppTools for iOS15 Rootless
 Author: aReo
