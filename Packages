@@ -426,16 +426,16 @@ Maintainer: bitilly
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.nobetaalert_1.0.0_iphoneos-arm.deb
-Size: 4712
-MD5sum: a5bf4191a8f964d0a64150d7864c9e4d
-SHA1: 1f9e6d880973248872eced0d2c735dd6d889cea8
-SHA256: b243b695d1f18f9b46ef783ce2e7de03f0551fd428e741444f2de653480952e1
+Size: 4708
+MD5sum: 22f8a720f22015096c01c39012a0a861
+SHA1: c309c02620c0a7d25ae2d775905dc1a005e46e1a
+SHA256: 102a6bfcdf7a181a9b0d55b84e3883be8397c81d5a447d872b7c7157f1c71880
 Section: 软件优化
 Description: 删除在测试版固件上解锁设备时弹出的提示
 Author: bitilly
 Icon: https://apt.bitilly.cn/images/springboard.png
 Name: 屏蔽Beta弹窗
-Sileodepiction: https://apt.bitilly.cn/var/Description/noBetaAlert/noBetaAlert.json
+Sileodepiction: https://apt.bitilly.cn/Description/noBetaAlert/noBetaAlert.json
 
 Package: cn.bitilly.nobetaalert
 Version: 1.0.0
@@ -444,16 +444,16 @@ Maintainer: bitilly
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/rootless/cn.bitilly.nobetaalert_1.0.0_iphoneos-arm64.deb
-Size: 4904
-MD5sum: 8f11aa4cb3796c145fa4f67577bc6909
-SHA1: d9d0e6bea79b03fe6e9f43e7e74a8bb2904b3c03
-SHA256: 9799d7af02b707f692e1ddd6e63922c46782cb86e90b7ab07c60044269267ec6
+Size: 4900
+MD5sum: e5920ea43eb0d8f65cf8ad9b8b2cd09a
+SHA1: ab54d2bf191aba8a2f2c4eff81e1cb07ed62a2bf
+SHA256: 01514601772895f52d6988d71a664520c8372759e9f48c5d140a9ace61bc662e
 Section: 软件优化
 Description: 删除在测试版固件上解锁设备时弹出的提示
 Author: bitilly
 Icon: https://apt.bitilly.cn/images/springboard.png
 Name: 屏蔽Beta弹窗
-Sileodepiction: https://apt.bitilly.cn/var/Description/noBetaAlert/noBetaAlert.json
+Sileodepiction: https://apt.bitilly.cn/Description/noBetaAlert/noBetaAlert.json
 
 Package: cn.bitilly.powercuff
 Version: 0.1
