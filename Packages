@@ -262,25 +262,6 @@ Name: 禁用自动化通知
 Sileodepiction: https://apt.bitilly.cn/Description/disableautomationnotice/disableautomationnotice.json
 Sponsor: Netskao
 
-Package: cn.bitilly.disableautomationnotice
-Version: 1.1-5
-Architecture: iphoneos-arm64
-Maintainer: bitilly
-Depends: mobilesubstrate
-Conflicts: netskao.disableshortcutsnotification
-Filename: ./debs/rootless/cn.bitilly.disableautomationnotice_1.1-5_iphoneos-arm64.deb
-Size: 6548
-MD5sum: c9087d5e237aabdd451cb92f5aea3ae6
-SHA1: e7964e07581ad498fcec90547a925492e7ec8bc3
-SHA256: b89cbb5480ca75e78a5062526fe66f86cbf5d6e3c19ab653f557c7fec6009f29
-Section: 插件
-Description: 禁用快捷指令自动化自动执行后的通知
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/springboard.png
-Name: 禁用自动化通知
-Sileodepiction: https://apt.bitilly.cn/Description/disableautomationnotice/disableautomationnotice.json
-Sponsor: Netskao
-
 Package: cn.bitilly.dumpdecrypter
 Version: 1.3-7
 Architecture: iphoneos-arm
