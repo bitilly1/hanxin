@@ -251,10 +251,10 @@ Depends: mobilesubstrate
 Conflicts: netskao.disableshortcutsnotification
 Filename: ./debs/rootfull/cn.bitilly.disableautomationnotice_1.1-5_iphoneos-arm.deb
 Size: 6388
-MD5sum: 26b5522fddea7777d427c45ff78871b0
-SHA1: 447818c4e8cedb88eb4657cdbbeb7e90af0ed418
-SHA256: da33c2bcf93ba5c536455032f33248f32f48c9fa5100ec74c381cffc706d760d
-Section: 插件
+MD5sum: 59f6671193df791940597b23591e420b
+SHA1: 55afcda3b4b29074068a9d4fe206c1ca2401b488
+SHA256: cffed2817f5ec7e9f8326c92cbe5014b05a3dcad5ff993d13eda4b31759111ca
+Section: System
 Description: 禁用快捷指令自动化自动执行后的通知
 Author: Netskao
 Icon: https://apt.bitilly.cn/images/springboard.png
