@@ -386,6 +386,26 @@ Icon: https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/AppIcon.png
 Name: 爱服务
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.json
 
+Package: cn.bitilly.jade
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Installed-Size: 1245
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/rootless/cn.bitilly.jade_1.0_iphoneos-arm64.deb
+Size: 277172
+MD5sum: 17ebff9db984d3daf5fef9d290a9ea0a
+SHA1: c02a0baa2cfc30c7d8b08fe8d79eba9885ad5a9d
+SHA256: 714d705c598ad45ef69f6f12eba5c0215621f369573c1f54dd50ba0fb52e0c00
+Section: 功能助手
+Description: 你的控制中心，又来了。
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depiction: https://chariz.com/buy/jade
+Icon: https://apt.bitilly.cn/Description/Jade/Icon.png
+Name: Jade
+Sileodepiction: https://apt.bitilly.cn/Description/Jade/Jade.json
+
 Package: cn.bitilly.kayoko
 Version: 1.4.2
 Architecture: iphoneos-arm
