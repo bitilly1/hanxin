@@ -393,13 +393,12 @@ Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Installed-Size: 1245
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/rootless/cn.bitilly.jade_1.0_iphoneos-arm64.deb
-Size: 277172
-MD5sum: 17ebff9db984d3daf5fef9d290a9ea0a
-SHA1: c02a0baa2cfc30c7d8b08fe8d79eba9885ad5a9d
-SHA256: 714d705c598ad45ef69f6f12eba5c0215621f369573c1f54dd50ba0fb52e0c00
+Size: 277176
+MD5sum: 99d539132ba8c3307267453ae3dfee0d
+SHA1: 5259e053b923641cb5c5d8bf438e49081b4f5d12
+SHA256: 069172246180ae59a15e6a90850332c817ad9cf2e513058127cccb345023ceb8
 Section: 功能助手
 Description: 你的控制中心，又来了。
-Tag: cydia::commercial, compatible_min::ios15.0
 Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Depiction: https://chariz.com/buy/jade
 Icon: https://apt.bitilly.cn/Description/Jade/Icon.png
