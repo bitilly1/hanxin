@@ -1334,45 +1334,6 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: Enable known networks
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableknownnetworks/js.json
 
-Package: com.nan.fh
-Version: 0.2.5-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: sed, zip, unzip, tree, uuid, bash
-Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Conflicts: com.nan.lecho (<< 0.2.0)
-Filename: ./debs/rootfull/com.nan.fh_0.2.5-1_iphoneos-arm.deb
-Size: 6772
-MD5sum: fcd993921a84c55185e796824fc5882d
-SHA1: e47bf40b407a710ac75de8b3c7d1f37c01e6869d
-SHA256: d6f3895e34e2ea3b04bd30f61c03633eccb5d6c2ea404ea88411958717f56996
-Section: Terminal_Support
-Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份<invalidunit@icloud.com>
-Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
-Name: fh
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/js.json
-
-Package: com.nan.ft
-Version: 0.4.8
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
-Depends: firmware (>=10.3), rsync, diskdev-cmds
-Conflicts: com.nan.lecho (<< 0.2.0)
-Filename: ./debs/rootfull/com.nan.ft_0.4.8_iphoneos-arm.deb
-Size: 3780
-MD5sum: 420dd5304f1c0c95d2e39f473cb7dc61
-SHA1: af334fe58e2b724039389f946c1fccc4e3429f84
-SHA256: 4d1e931dcac920bfac83b86447a6956c0ea007e06d04e7d92fdfe2f050e37741
-Section: Terminal_Support
-Description: 一个从设备首张快照提取字体的脚本
-Tag: role::hacker
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
-Name: ft
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.ft/js.json
-
 Package: com.nan.lecho
 Version: 0.2.1
 Architecture: iphoneos-arm
