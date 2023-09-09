@@ -1228,24 +1228,6 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: cy+cpu.arm64
 
-Package: com.nan.deb
-Version: 0.1.8
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: sed, coreutils, findutils
-Conflicts: com.nan.lecho (<< 0.2.1)
-Filename: ./debs/rootfull/com.nan.deb_0.1.8_iphoneos-arm.deb
-Size: 6980
-MD5sum: eaf5ecb2866fbfd3eb7281e2aba33943
-SHA1: e2551d54b0aa81f44c2e8ef53ecf0902d7f6f3f8
-SHA256: 47c7b97efbebefd6109371de2fa0b72970b4eea2a63a384918989fba55502144
-Section: Terminal_Support
-Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
-Author: zhaonan <invalidunit@icloud.com>
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
-Name: deb
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
-
 Package: com.nan.disablesblockaftercrash
 Version: 0.1.0
 Architecture: iphoneos-arm
