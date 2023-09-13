@@ -43,13 +43,13 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "开发者",
-					"text": "jontelang",
+"title": "开发者",
+"text": "Jonathan Winger-lang",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "兼容",
-					"text": "11.0 - 14.8",
+					"text": "11.0 - 15.4.1",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -68,7 +68,7 @@
 			"tabname": "更新",
 			"views": [
 				{
-					"title": "汉化版1.0",
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
