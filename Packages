@@ -1815,17 +1815,17 @@ Maintainer: lzsxcl
 Installed-Size: 22884
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_6.0.1_iphoneos-arm.deb
-Size: 13885596
-MD5sum: 9f0e75cec5ba3e72da28c167ef7cd227
-SHA1: 10e5c2325d33acac2de294fe1860dd31c4d970e1
-SHA256: 31cb6d326e6ed44b1e6408f12f219b352eaeacc349008ca9ec8977fa132e3878
+Size: 13885220
+MD5sum: 23919fb1a2bb25e2734fc4179e4c16d4
+SHA1: f06b0c8ecbf2ffa5ce3988268885e274e061ce19
+SHA256: 678371d01b30ab02db4e56c50b6b13808016b756fc39f3a8eb0c2ada52544ac7
 Section: 功能助手
 Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro
-Sileodepiction: https://lzsxcl.github.io/repo/Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
 
 Package: xc.lzsxcl.o2
 Version: 6.0.1
