@@ -175,6 +175,24 @@ Icon: https://apt.bitilly.cn/Description/bdtbnoads/AppIcon.png
 Name: 百度贴吧 NoAds
 Sileodepiction: https://apt.bitilly.cn/Description/bdtbnoads/bdtbnoads.json
 
+Package: cn.bitilly.bigshotsnapper3plugin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
+Filename: ./debs/rootfull/cn.bitilly.bigshotsnapper3plugin_1.0_iphoneos-arm.deb
+Size: 14048
+MD5sum: c310550b4124d4e84289c612d33e1a66
+SHA1: 48a6278ac8e91ddd53a560159da51799e49c92bc
+SHA256: da969f3c7d988dadaa2c5c99dca7b05eb7bc2edaac06786f39c422de2483239a
+Section: 功能助手
+Description: Snapper3的长截图扩展，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。
+Author: Jonathan Winger-lang
+Icon: https://apt.bitilly.cn/Description/snapper3/icon.png
+Name: Snapper3 长截图扩展
+Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3-1.json
+
 Package: cn.bitilly.bilibilipure
 Version: 1.2-6
 Architecture: iphoneos-arm

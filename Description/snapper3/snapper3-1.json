@@ -1,0 +1,91 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+	"tintColor": "#3784d2",
+	"tabs": [
+		{
+			"tabname": "预览",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase1.jpg",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase1.jpg"
+						},
+											
+						
+						
+						
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Featured Animes",
+								"url": "https://apt.bitilly.cn/Description/snapper3/Showcase1.jpg",
+								"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase1.jpg"
+							},
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## 主要功能\n snapper3 长截图扩展"
+				},
+
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "开发者",
+					"text": "jontelang",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容",
+					"text": "11.0 - 14.8",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "支持设备",
+					"text": "6S-12PM",
+					"class": "DepictionTableTextView"
+				},				
+				{
+					"spacing": 8,
+					"class": "DepictionSpacerView"
+				}	
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新",
+			"views": [
+				{
+					"title": "汉化版1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 新发版本",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.13</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
