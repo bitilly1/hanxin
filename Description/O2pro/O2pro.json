@@ -111,13 +111,28 @@
 			"tabname": "更新",
 			"views": [
 				{
-					"title": "最后版5.2",
+					"title": "关服版6.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 o2Pro服务器关闭最后一个版本，请自行保存Token，丢失无法激活。",
+					"markdown": "\t\n\u2023 1.新增图钉2.新增通知小窗接3.极简模式开放自定义4.横屏键盘窗口自适应5.新增一些其他功能6.修复一些已知问题7.全新的设置界面，提示：ios15无根arm64需要卸载旧版后再安装，已统一有根与无根安装包标识符。",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.13</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},				{
+					"title": "关服版5.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 o2Pro服务器关闭后第一个版本，请自行保存Token，丢失无法激活。",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
