@@ -494,6 +494,24 @@ Icon: https://apt.bitilly.cn/Description/filza64bit/AppIcon.png
 Name: ldid for Apps Manager
 Sileodepiction: https://apt.bitilly.cn/Description/ldid/ldid.json
 
+Package: cn.bitilly.medusa
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: uz.ra
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.bitilly.medusa_1.1_iphoneos-arm64.deb
+Size: 3636
+MD5sum: 178074a7142454832945b4aa4f3935f0
+SHA1: b8b67140b43ac2a5b6593fc6f939e39dbebd934b
+SHA256: e450848599d8c98ac6275f9515d969c4805716cdb404f44112335527c90edac3
+Section: 功能助手
+Description: 在你的iPhone上启用“美杜莎”功能，通常称为iPad多任务功能！
+Author: uz.ra
+Icon: https://apt.bitilly.cn/Description/medusa/Icon.png
+Name: 美杜莎-rootless
+Sileodepiction: https://apt.bitilly.cn/Description/medusa/medusa.json
+
 Package: cn.bitilly.nobetaalert
 Version: 1.0.0
 Architecture: iphoneos-arm
