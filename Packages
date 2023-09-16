@@ -1641,15 +1641,16 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0)
 Filename: ./debs/rootless/netskao.injectipa-rootless_1.3-7_iphoneos-arm64.deb
-Size: 5952324
-MD5sum: dde5d67d6dfe091e1cee0c9f6fdc1931
-SHA1: c3c447e2349c70cf7e78d847e145d61ff39b9880
-SHA256: f6aa3fab9e5b25367a0e49fe13e4101ff8d318988ec719d05019587a35b0848c
+Size: 5961940
+MD5sum: 2d711074d0d777265a2b8605f1d6d111
+SHA1: 78ff946bf0d3e3f9240d1cadf990f43a43e575ff
+SHA256: 6231f144179bde63dfae924bfb6f2e9778f185c994364c35ca52d98bf21da1c8
 Section: 终端支持
 Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
 Author: Netskao
-Icon: https://apt.bitilly.cn/sileodepiction/Default/image_terminal.png
+Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
 Name: injectipa-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/injectipa/injectipa.json
 
 Package: netskao.wechatpurification
 Version: 2.2-3.6
