@@ -72,18 +72,18 @@
 			"tabname": "更新",
 			"views": [
 				{
-					"title": "1.13",
+					"title": "1.14",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 增加了农历位置修改。",
+					"markdown": "\t\n\u2023 •添加了将浅色模式预设复制到深色模式的选项，反之亦然。",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.14</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.16</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
