@@ -12,8 +12,12 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase1.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase1.jpg"
+							"url": "https://apt.bitilly.cn/Description/BigShot/Showcase1.jpg",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/BigShot/Showcase1.jpg"
+						},						                {
+							"accessibilityText": "Featured Animes",
+							"url": "https://apt.bitilly.cn/Description/BigShot/Showcase2.jpg",
+							"fullSizeURL": "https://apt.bitilly.cn/Description/BigShot/Showcase2.jpg"
 						},
 											
 						
@@ -26,8 +30,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/snapper3/Showcase1.jpg",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase1.jpg"
+								"url": "https://apt.bitilly.cn/Description/BigShot/Showcase1.jpg",
+								"fullSizeURL": "https://apt.bitilly.cn/Description/BigShot/Showcase1.jpg"
 							},
 						],
 						"class": "DepictionScreenshotView"
@@ -36,15 +40,15 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n snapper3与CCSupport长截图扩展"
+					"markdown": "## 主要功能\n Snapper3与CCSupport长截图扩展"
 				},
 
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-"title": "开发者",
-"text": "Jonathan Winger-lang",
+					"title": "开发者",
+					"text": "Jonathan Winger-lang",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -60,7 +64,7 @@
 				{
 					"spacing": 8,
 					"class": "DepictionSpacerView"
-				}	
+				}
 			],
 			"class": "DepictionStackView"
 		},
@@ -74,7 +78,8 @@
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 更新版本"					"useSpacing": false,
+					"markdown": "\t\n\u2023 新发版本",
+					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{

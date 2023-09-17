@@ -167,16 +167,16 @@ Installed-Size: 536
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper
 Filename: ./debs/rootfull/cn.bitilly.bigshotsnapper3plugin_1.1_iphoneos-arm.deb
-Size: 19980
-MD5sum: 7c0c863b618b115f2e3e75caf1bd8301
-SHA1: 8cc3bb1faee795ecb7ae503d651c4cc8350acd7d
-SHA256: bb5a3d26b4ca8d37cfc95d3b428f2bb294d59d940642936a20ccd554ca1a477d
+Size: 19944
+MD5sum: 1f6761ea871cbd1afc79f15b9edcb855
+SHA1: 33744ec6566fe4fe94aa587771948269a92b4e34
+SHA256: 0a2ca1cbd67eee066b3ff16178b4e55e9a249ce3431a8e5e88bf201f2fff9d7f
 Section: 功能助手
 Description: 适用于iOS 15/16（和Snapper 3）的长截图扩展
 Author: Jonathan Winger-lang
-Icon: https://apt.bitilly.cn/Description/snapper3/Icon2.png
+Icon: https://apt.bitilly.cn/Description/BigShot/Icon.png
 Name: 长截图扩展
-Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3-1.json
+Sileodepiction: https://apt.bitilly.cn/Description/BigShot/BigShot.json
 
 Package: cn.bitilly.bigshotsnapper3plugin
 Version: 1.1
@@ -186,16 +186,16 @@ Installed-Size: 536
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper
 Filename: ./debs/rootless/cn.bitilly.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
-Size: 19968
-MD5sum: 4f2767d8bc1c986c8761f87afccdfe42
-SHA1: f2c59922c7991c2b2c1f1fb0ff6a0589ec1eecec
-SHA256: e6e4a6696bc7365915496a05fd0427bbf21db5e7bb8cf90566488facd46d159a
+Size: 19980
+MD5sum: 55aa363cee557975dc540dd3dad7ab6c
+SHA1: 2a228349bd90800d10aaf4ccdb8b45889d998f75
+SHA256: a8fd178a4ff7bb9787a6b97e967e6e8566c91107692ad4bb954a91b98f58b8cb
 Section: 功能助手
 Description: 适用于iOS 15/16（和Snapper 3）的长截图扩展
 Author: Jonathan Winger-lang
-Icon: https://apt.bitilly.cn/Description/snapper3/Icon2.png
+Icon: https://apt.bitilly.cn/Description/BigShot/Icon.png
 Name: 长截图扩展
-Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3-1.json
+Sileodepiction: https://apt.bitilly.cn/Description/BigShot/BigShot.json
 
 Package: cn.bitilly.bilibilipure
 Version: 1.2-6
