@@ -196,6 +196,44 @@ Icon: https://apt.bitilly.cn/Description/snapper3/Icon2.png
 Name: Snapper3长截图扩展
 Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3-1.json
 
+Package: cn.bitilly.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Installed-Size: 536
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper
+Filename: ./debs/rootfull/cn.bitilly.bigshotsnapper3plugin_1.1_iphoneos-arm.deb
+Size: 19980
+MD5sum: 7c0c863b618b115f2e3e75caf1bd8301
+SHA1: 8cc3bb1faee795ecb7ae503d651c4cc8350acd7d
+SHA256: bb5a3d26b4ca8d37cfc95d3b428f2bb294d59d940642936a20ccd554ca1a477d
+Section: 功能助手
+Description: 适用于iOS 15/16（和Snapper 3）的长截图扩展
+Author: Jonathan Winger-lang
+Icon: https://apt.bitilly.cn/Description/snapper3/Icon2.png
+Name: 长截图扩展
+Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3-1.json
+
+Package: cn.bitilly.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 536
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper
+Filename: ./debs/rootless/cn.bitilly.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
+Size: 19968
+MD5sum: 4f2767d8bc1c986c8761f87afccdfe42
+SHA1: f2c59922c7991c2b2c1f1fb0ff6a0589ec1eecec
+SHA256: e6e4a6696bc7365915496a05fd0427bbf21db5e7bb8cf90566488facd46d159a
+Section: 功能助手
+Description: 适用于iOS 15/16（和Snapper 3）的长截图扩展
+Author: Jonathan Winger-lang
+Icon: https://apt.bitilly.cn/Description/snapper3/Icon2.png
+Name: 长截图扩展
+Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3-1.json
+
 Package: cn.bitilly.bilibilipure
 Version: 1.2-6
 Architecture: iphoneos-arm

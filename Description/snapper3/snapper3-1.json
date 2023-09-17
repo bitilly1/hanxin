@@ -36,7 +36,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n snapper3 长截图扩展"
+					"markdown": "## 主要功能\n snapper3与CCSupport的长截图扩展"
 				},
 
 				{
@@ -49,7 +49,7 @@
 				},
 				{
 					"title": "兼容",
-					"text": "11.0 - 15.4.1",
+					"text": "14.0 - 15.4.1",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -68,18 +68,17 @@
 			"tabname": "更新",
 			"views": [
 				{
-					"title": "1.0",
+					"title": "1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},				
 				{
-					"markdown": "\t\n\u2023 新发版本",
-					"useSpacing": false,
+					"markdown": "\t\n\u2023 更新版本"					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.13</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.17</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
