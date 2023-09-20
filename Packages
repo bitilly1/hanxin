@@ -1001,6 +1001,42 @@ Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
 Name: Souvenir
 Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
 
+Package: com.eliofeghali.souvenir
+Version: 1.15
+Architecture: iphoneos-arm
+Maintainer: Elio Feghali
+Installed-Size: 600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.eliofeghali.souvenir_1.15_iphoneos-arm.deb
+Size: 93976
+MD5sum: a5302301fe367172e38bbf92036536f3
+SHA1: 0f24a49dfc52354de4e1b5d13112a330af941b5f
+SHA256: 8ca434e458435a4c461867ca61d2b1920d191066068f3fd77456bfeeacb3f894
+Section: 锁屏优化
+Description: 锁定屏幕自定义调整！
+Author: Elio Feghali
+Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
+Name: Souvenir
+Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
+
+Package: com.eliofeghali.souvenir
+Version: 1.15
+Architecture: iphoneos-arm64
+Maintainer: Elio Feghali
+Installed-Size: 600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.eliofeghali.souvenir_1.15_iphoneos-arm64.deb
+Size: 95804
+MD5sum: 5215da09fcb827b95342c76d01e5ad3a
+SHA1: ac58c488b9ab4afb1d78158ecba555026f705d05
+SHA256: 81685b0fb4780851fc2269f2c18881680701f2bf8a00368c0d4c5b28a0f73927
+Section: 锁屏优化
+Description: 锁定屏幕自定义调整！
+Author: Elio Feghali
+Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
+Name: Souvenir-rootless
+Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
+
 Package: com.flex2areo.apptools14
 Version: 1.9.4
 Architecture: iphoneos-arm
