@@ -72,7 +72,7 @@
 			"tabname": "更新",
 			"views": [
 				{
-					"title": "1.18",
+					"title": "1.19",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
@@ -83,7 +83,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.27</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.10.01</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
