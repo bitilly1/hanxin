@@ -1081,15 +1081,15 @@ Maintainer: Elio Feghali
 Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.eliofeghali.souvenir_1.19_iphoneos-arm64.deb
-Size: 98532
-MD5sum: f41b1227bb47c80f7a9bfd6f614a1823
-SHA1: 0356b586681228c8358a19071a93f5451897dd04
-SHA256: e41896dcdd1069dd7f37db9c50354ec7c5706e6d6ea571d8a56945d714b8771c
+Size: 98492
+MD5sum: daf3c156dd6f5df92c7a9b7fe323cf24
+SHA1: c2da34a3b8765b19f595f2452e650130201d7001
+SHA256: 7288f37b5114cf8f874ae354c29e7b1c85845ffe49bb287a0e4a81d80da02f7d
 Section: 锁屏优化
 Description: 锁定屏幕自定义调整！
 Author: Elio Feghali
 Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
-Name: Souvenir
+Name: Souvenir-rootless
 Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
 
 Package: com.flex2areo.apptools14
