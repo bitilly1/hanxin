@@ -1063,10 +1063,10 @@ Maintainer: Elio Feghali
 Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.eliofeghali.souvenir_1.19_iphoneos-arm.deb
-Size: 96220
-MD5sum: aa90d53621f16f10e8a0507e79370924
-SHA1: fe6efc06fb0b92dc9b99a21ab8b7f4ace5842b3a
-SHA256: a27188f9550a8494fa1113c5ef63acd962b1a734492ebedb2844afda81b509d5
+Size: 96196
+MD5sum: f104c40bd2f9b2e10549330419ba0c13
+SHA1: 6c64c74d5101cd246afc87acc1f7873b870430c7
+SHA256: 97c39bee46f5d578eaa66c6c2aeef10a5e721a200603abdd2ba7d2955ea1e174
 Section: 锁屏优化
 Description: 锁定屏幕自定义调整！
 Author: Elio Feghali
