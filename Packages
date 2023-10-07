@@ -51,6 +51,40 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
+Package: cn.bitilly.HBWechatHelper
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.HBWechatHelper_1.6.2_iphoneos-arm.deb
+Size: 9454828
+MD5sum: b519cfecd9eb215f67b014055e9b5c54
+SHA1: a4957d4d97e9b49dd225c5d581bb7987ef48dca4
+SHA256: b2b12a4879b59563882177b6b0bbb413ca201712fe68159f7938edcc2b2cc5ec
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信插件)
+Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+
+Package: cn.bitilly.HBWechatHelper
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.6.2_iphoneos-arm64.deb
+Size: 9268684
+MD5sum: 2c087a8b3980f9d3441f499a38db4b0d
+SHA1: 964628ee171bc129672a489e3274bfcc9bb1c375
+SHA256: e23b5960f3b19699d1a490ea6727eea313ccc5ab19d1264ba9fc5cbfee67904d
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+
 Package: cn.bitilly.animplus
 Version: 2.5k
 Architecture: iphoneos-arm
