@@ -111,6 +111,22 @@
 			"tabname": "更新",
 			"views": [
 				{
+					"title": "关服版7.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2023 1.新增水晶球、推土机2.加强图钉功能5.新增一些其他功能6.修复一些已知问题。",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.10.07</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "关服版6.0",
 					"useBoldText": true,
 					"useBottomMargin": true,

@@ -1887,6 +1887,25 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
 
+Package: xc.lzsxcl.o2
+Version: 7.0
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 30940
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootfull/xc.lzsxcl.o2_7.0_iphoneos-arm.deb
+Size: 20938748
+MD5sum: a97ce2360d9959d012fb3a97c42d0726
+SHA1: 2f6a83ae4d035a501568067e2886c48eac805a9d
+SHA256: 679e71472bb61b482bd5b7854aad190a2c4b41afde73a91c0513850c288afea3
+Section: 功能助手
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
+
 Package: xc.lzsxcl.o2.rootless
 Version: 4.1
 Architecture: iphoneos-arm64
@@ -2013,6 +2032,25 @@ SHA1: e7a3960c3f76b7a33b9081ca19f4cc434d00968f
 SHA256: 09051f1dfa8ac949102a5845845ac5f93c35f66feb5f476a72a80ebe4ce17766
 Section: 功能助手
 Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro rootless
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
+
+Package: xc.lzsxcl.o2.rootless
+Version: 7.0
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 30924
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_7.0_iphoneos-arm64.deb
+Size: 20937908
+MD5sum: 5e5310a799700463769479836219f267
+SHA1: 8535e82229f8a8a8138948cb0ea8c038af837346
+SHA256: 972a4a529be186ba537e44c7789a6e87d1284474da3e74b3c19babebab4a87ce
+Section: 功能助手
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
