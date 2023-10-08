@@ -9,6 +9,10 @@
 			function hideURLbar() {
 				window.scrollTo(0, 1);
 			}
+window.addEventListener('DOMContentLoaded', (event) => {
+        const bgMusic = document.getElementById('bg-music');
+        bgMusic.play();
+    });
 		</script>
 		<link rel="stylesheet" href="./css/style.css" type="text/css" media="all" />
 		<link href="css/font-awesome.min.css" rel="stylesheet">
@@ -16,7 +20,9 @@
 	<body>
 		<div class="main-bg"/>
 		<h1>Bitilly hanxin</h1>
-		<div class="sub-main-w3"/>
+		<div class="sub-main-w3" style="text-align: center;">
+		<audio id="bg-music" src="music/yylx.mp3" loop autoplay controls></audio>
+	
 		<div class="bg-content-w3pvt"/>
 		<div class="top-content-style"/>
 		<img src="./images/hanxin.png" alt=""/>
