@@ -125,7 +125,7 @@ table {
     border-spacing: 0;
 }
 
-/* start editing from here */
+/* 从这里开始编辑 */
 a {
     text-decoration: none;
 }
@@ -134,67 +134,67 @@ a {
     text-align: right;
 }
 
-/* text align right */
+/* 文本向右对齐 */
 .txt-lt {
     text-align: left;
 }
 
-/* text align left */
+/* 文本左对齐 */
 .txt-center {
     text-align: center;
 }
 
-/* text align center */
+/* 文本居中对齐 */
 .float-rt {
     float: right;
 }
 
-/* float right */
+/* 向右浮动 */
 .float-lt {
     float: left;
 }
 
-/* float left */
+/* 向左浮动 */
 .clear {
     clear: both;
 }
 
-/* clear float */
+/* 透明浮子 */
 .pos-relative {
     position: relative;
 }
 
-/* Position Relative */
+/* 相对位置 */
 .pos-absolute {
     position: absolute;
 }
 
-/* Position Absolute */
+/* 绝对位置 */
 .vertical-base {
     vertical-align: baseline;
 }
 
-/* vertical align baseline */
+/* 垂直对齐基线 */
 .vertical-top {
     vertical-align: top;
 }
 
-/* vertical align top */
+/* 垂直对齐顶部 */
 nav.vertical ul li {
     display: block;
 }
 
-/* vertical menu */
+/* 垂直菜单 */
 nav.horizontal ul li {
     display: inline-block;
 }
 
-/* horizontal menu */
+/* 水平菜单 */
 img {
-    max-width: 100%;
+    max-width: 70%;
 }
 
-/* //end reset */
+/* //结束复位 */
 body {
     font-size: 100%;
     font-family: 'Source Sans Pro', sans-serif;
@@ -202,7 +202,7 @@ body {
 
 .main-bg {
     /* background: url(../images/beijing.png) no-repeat center; */
-    background-image: linear-gradient(0deg, #30DDCE 0%, #536976 100%);
+    background-image: linear-gradient(100deg, #30DDCE 10%, #536976 90%);
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -211,10 +211,18 @@ body {
     min-height: 100vh;
 }
 
+.follow-button {
+        display: inline-block;
+        padding: 4px 8px;
+        border: 1.5px solid #000;
+        border-radius: 5%;
+        text-decoration: none;
+    }
+
 /* title */
 h1 {
     font-size: 2.8vw;
-    color: #fff;
+    color: #ED7318;
     text-align: center;
     padding: 1.5vw 1vw 2vw;
     letter-spacing: 3px;
@@ -238,7 +246,13 @@ h1 {
 
 .top-content-style {
     padding: 2vw 4vw 4vw;
+    max-height: 400px;
     background: #1cc7d0;
+  border-radius: 20px 20px 0 0; 
+  -webkit-border-radius: 20px 20px 0 0;
+    -moz-border-radius: 20px 20px 0 0;
+    -ms-border-radius: 20px 20px 0 0;
+    -o-border-radius: 20px 20px 0 0;  
 }
 
 .top-content-style img {
