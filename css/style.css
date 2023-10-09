@@ -211,16 +211,6 @@ body {
     min-height: 100vh;
 }
 
-a.follow-button {
-        display: inline-block;
-        padding: 4px 8px;
-        font-size: 16px;
-        color: #FF8000;
-        margin: 0em 1em 2em;
-        letter-spacing: 1px;
-        text-shadow: 0px 0px 1px #ACACAC;
-    }
-
 /* title */
 h1 {
   font-size: 18vw;
@@ -469,7 +459,7 @@ p.legend span {
     transition: 0.5s all;
 } 
 a.bottom-text-w3ls {
-    color: #000;
+    color: #285FF5;
     font-size: 16px;
     display: inline-block;
     margin: 0em 1em 2em;
