@@ -403,14 +403,13 @@ p.legend span {
     margin-left: 24px;
 }
 
- /* .input {
+.input {
     position: relative;
     margin: 20px auto;
     width: 100%
 } 
-*/
 
-/* .input span {
+.input span {
     position: absolute;
     display: block;
     color: #1cc7d0;
@@ -418,9 +417,8 @@ p.legend span {
     top: 12px;
     font-size: 16px;
 } 
-*/
 
-/* .input input {
+.input input {
     width: 100%;
     padding: 13px 10px 13px 34px;
     display: block;
@@ -436,9 +434,8 @@ p.legend span {
     -moz-box-shadow: 2px 5px 16px 2px rgba(16, 16, 16, 0.18);
     box-shadow: 2px 5px 16px 2px rgba(16, 16, 16, 0.18);
 } 
-*/
 
-/* .submit {
+.submit {
     width: 45px;
     height: 45px;
     display: block;
@@ -456,16 +453,14 @@ p.legend span {
     -moz-transition: 0.5s all;
     -ms-transition: 0.5s all;
     transition: 0.5s all;
-} 
-*/
+}
 
-/* .submit span {
+.submit span {
     color: #fff;
     font-size: 20px;
 } 
-*/
 
-/* .submit:hover {
+.submit:hover {
     opacity: .8;
     -webkit-transition: 0.5s all;
     -o-transition: 0.5s all;
@@ -473,9 +468,7 @@ p.legend span {
     -ms-transition: 0.5s all;
     transition: 0.5s all;
 } 
-*/
-
-/* a.bottom-text-w3ls {
+a.bottom-text-w3ls {
     color: #000;
     font-size: 16px;
     display: inline-block;
@@ -483,7 +476,6 @@ p.legend span {
     letter-spacing: 1px;
     text-shadow: 0px 0px 1px #ACACAC;
 } 
-*/
 
 /* //content */
 
