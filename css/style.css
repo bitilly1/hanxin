@@ -216,7 +216,11 @@ body {
         padding: 4px 8px;
         border: 1.5px solid #000;
         border-radius: 5%;
-        text-decoration: none;
+        font-size: 16px;
+        color: #000;
+        margin: 0em 1em 2em;
+        letter-spacing: 1px;
+        text-shadow: 0px 0px 1px #ACACAC;
     }
 
 /* title */
