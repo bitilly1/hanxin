@@ -15,24 +15,50 @@ window.addEventListener('DOMContentLoaded', (event) => {
     });
 		</script>
 		<link rel="stylesheet" href="./css/style.css" type="text/css" media="all" />
-		<link href="css/font-awesome.min.css" rel="stylesheet">
+		<link href="css/animate.css" rel="stylesheet">
 	</head>
 	<body>
+		<div class="top-content-style"/>
+		<img class="rotate-img" src="./images/hanxin.png" alt=""/>
+</br>
+	   <audio id="bg-music" src="music/yylx.mp3" loop autoplay controls></audio>
+      </div>
 		<div class="main-bg"/>
 		<h1>Bitilly hanxin</h1>
 		<div class="sub-main-w3" style="text-align: center;">
-		<audio id="bg-music" src="music/yylx.mp3" loop autoplay controls></audio>
-	
-		<div class="bg-content-w3pvt"/>
-		<div class="top-content-style"/>
-		<img class="rotate-img" src="./images/hanxin.png" alt=""/>
-		</div>
-		<form action="#" method="post">
-				<p class="legend">添加软件源到 Sileo<span class="fa fa-hand-o-down"></span></p>
-				<a href="sileo://source/https://apt.bitilly.cn/" class="bottom-text-w3ls"/>添加</a>
-		</form>
+
+<center>
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlcydia">
+ <div class="cydiablur zoom">
+  <div class="cydiablur-inside">
+    <img onclick="location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.bitilly.cn/';" src="./images/cydia.png" style="width: 60px; height: 60px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadecydia" id="caption">Cydia</div>
+</div>
+
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlsileo">
+ <div class="sileoblur zoom">
+  <div class="sileoblur-inside">
+    <img onclick="location.href='sileo://source/https://apt.bitilly.cn/';" src="./images/sileo.png" style="width: 60px; height: 60px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadesileo" id="caption">Sileo</div>
+</div>
+
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlzebra">
+ <div class="zebrablur zoom">
+  <div class="zebrablur-inside">
+    <img onclick="location.href='zbra://sources/add/https://apt.bitilly.cn/';" src="./images/zebra.png" style="width: 60px; height: 60px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadezebra" id="caption">Zebra</div>
+</div>		
+</center>
+</br>
+</br>
     <p class="legend"></span></p>
-		<a href="./problems.html" class="bottom-text-w3ls"/>其他问题</a>
+		<a href="./problems.html" id="caption"/>其他问题</a>
 		</br>
 		</br>
 		</br>
