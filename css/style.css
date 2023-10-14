@@ -180,6 +180,7 @@ border-radius: 20px 20px 0 0; 和浏览器特定的前缀属性：将元素的�
     -ms-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
+    text-align: center;
 }
 /* 旋转图片 */
 .rotate-img {
@@ -489,12 +490,12 @@ p{
   content: "";
   position: absolute;
   width: 60px; height: 60px;
-  border-radius: 15px;
+  border-radius: 10px;
   box-shadow: 0px 0px 150px 8px rgba(210,149,106,0.85);
   animation: pulse2 4s infinite;
-  margin-left: 10px;
+  margin-left: 0px;
   margin-right: 0px;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
@@ -510,12 +511,12 @@ p{
   content: "";
   position: absolute;
   width: 60px; height: 60px;
-  border-radius: 15px;
+  border-radius: 10px;
   box-shadow: 0px 0px 150px 8px rgba(47,218,202,0.85);
   animation: pulse2 4s infinite;
-  margin-left: 10px;
+  margin-left: 0px;
   margin-right: 0px;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
@@ -531,12 +532,12 @@ p{
   content: "";
   position: absolute;
   width: 60px; height: 60px;
-  border-radius: 15px;
+  border-radius: 10px;
   box-shadow: 0px 0px 150px 8px rgba(255,255,255,0.85);
   animation: pulse2 4s infinite;
-  margin-left: 10px;
+  margin-left: 0px;
   margin-right: 0px;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
