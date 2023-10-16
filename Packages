@@ -891,20 +891,21 @@ Name: 微信助手
 Sponsor: admin@25mao.com
 
 Package: com.25mao.miyou.rootless
-Version: 3.5-8
+Version: 3.6-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/rootless/com.25mao.miyou.rootless_3.deb
-Size: 6882564
-MD5sum: 39fa059344dc51ad4529a644b16721f9
-SHA1: 04ba5f9542883cd2467858346a55a0206b7262ed
-SHA256: 1690c722f122c8f5f85fc3fea354ff4f9c9e1b7a736e326e0bf1581c9484d45f
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootless/com.25mao.miyou.rootless_3.6-6_iphoneos-arm64.deb
+Size: 8559196
+MD5sum: 7239af55ea0588150d3b3fc4c5a86375
+SHA1: cd134b22216c6d8c1f7e3a71a12fe8f262bdf8da
+SHA256: 6934e7b3f8b2c89ba28b99c91ef5088522ff0198de86ce98b2b5011dbb3fac66
 Section: 微信插件
 Priority: optional
-Description: 微信助手-Rootless版
+Description: 微信助手-密友
 Author: Mao
-Name: 微信助手-Rootless
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信助手
 Sponsor: admin@25mao.com
 
 Package: com.brend0n.volumemixer
