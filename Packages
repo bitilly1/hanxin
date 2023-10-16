@@ -836,6 +836,24 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 虚拟视频
 Sileodepiction: https://apt.bitilly.cn/Description/xnsp/xnsp.json
 
+Package: com.25mao.MiYou
+Version: 3.6-6
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.25mao.miyou_3.6-6_iphoneos-arm.deb
+Size: 8559460
+MD5sum: c291ff6b29eada16bac3d7c351657c2e
+SHA1: 45f1af19ed763a50e97a61a22fa53af665ac35bf
+SHA256: 4289bd8e85ad516fc085d8477920de5e346e96d247281a44e02ffd69550c4198
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.miyou
 Version: 3.6-4.1
 Architecture: iphoneos-arm
