@@ -301,18 +301,19 @@ Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 Package: cn.bitilly.ddqsb
 Version: 1.0.1
 Architecture: iphoneos-arm64
-Maintainer: bitilly
-Depends: firmware (>= 7.0)
+Maintainer: bitilly <985745559@qq.com>
+Installed-Size: 172
+Depends: mobilesubstrate
 Filename: ./debs/rootless/cn.bitilly.ddqsb_1.0.1_iphoneos-arm64.deb
-Size: 5544
-MD5sum: e0c92134b9dab9673ce91cb7811339e2
-SHA1: 302689d1af4adf07799785bf66b77bdbd98a0301
-SHA256: 6a88fe39a986ac804f0cb1ec9b143afb8977e310a49dd0c71c7198b177880a84
+Size: 4960
+MD5sum: 8035b7223d256340eaf2f497484eeb57
+SHA1: 646e03b517ce789308243fe1543baa0e8baeb8bc
+SHA256: 030d241a1e61cfdfd477438e7add2781230a271ecff07e9cf9a224319286f37b
 Section: 软件优化
 Description: 屏蔽越狱检测,去除启动广告,首页横幅推荐,透明刷新,回归简洁接单模式
 Author: bitilly <985745559@qq.com>
 Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
-Name: 达达骑士优化-rootless
+Name: 达达骑士版优化-rootless
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 
 Package: cn.bitilly.disableautomationnotice
