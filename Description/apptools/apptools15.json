@@ -87,6 +87,22 @@
 			"tabname": "更新",
 			"views": [
 				{
+					"title": "AppTools15 v1.2.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+            {
+					"markdown": "\t\n\u2023 修复无根手势触发功能失效问题。",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+            	{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.10.20</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+			   },
+            {
 					"title": "AppTools15 v1.2.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
