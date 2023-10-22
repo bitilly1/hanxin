@@ -1790,12 +1790,12 @@ Version: 2.2-3
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 2013
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.lenglengyu.wxqzgz
 Filename: ./debs/rootfull/netskao.wechatpurification_2.2-3_iphoneos-arm.deb
-Size: 559840
-MD5sum: b24665ed0154b4b63ce1b8d033a0c611
-SHA1: 6afe41ab3894c2fcb697a806610eb6bcf93e1233
-SHA256: 8ff329470888092d97bffff82bf4c8286c47dc2ec8d4d7351c0a51840936c5b3
+Size: 564160
+MD5sum: 9c6bbd8d1ace641d74c953458cdafeb3
+SHA1: 9b6d9dd4198743b15c4814c96d9223d4a581e585
+SHA256: 74380377843b21d758fbd446083976b829b4977a7bdf64c0034081c8f8dbcead
 Section: 微信插件
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.18及以上版本，设置位于微信-设置
