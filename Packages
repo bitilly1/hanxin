@@ -1357,6 +1357,23 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信公众号强制关注
 Sileodepiction: https://apt.bitilly.cn/Description/wxqzgz/wxqzgz.js
 
+Package: com.lenglengyu.wxqzgz
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.lenglengyu.wxqzgz_0.0.1_iphoneos-arm64.deb
+Size: 53172
+MD5sum: 27940edae740ec8bb16dbafaf0198123
+SHA1: 9bc8a6bb4da596b4d0047812266ae1247cea7261
+SHA256: 58b7490428bfbdf9b992019fe229cf4203dcc4fbcabf2dedb238526fad337ec3
+Section: 微信插件
+Description: 强制关注微信公众号。
+Author: lenglengyu
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信公众号强制关注-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/wxqzgz/wxqzgz.js
+
 Package: com.mika.iwall
 Version: 1.4.5
 Architecture: iphoneos-arm
@@ -1806,6 +1823,23 @@ Dev: netskao
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信净化旧版
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.wechatpurification
+Version: 2.2-3
+Architecture: iphoneos-arm64
+Maintainer: bitilly
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.lenglengyu.wxqzgz
+Filename: ./debs/rootless/netskao.wechatpurification_2.2-3_iphoneos-arm64.deb
+Size: 550556
+MD5sum: 82fac7433053ccc2978bb3d0b0176373
+SHA1: 61f6a2031f119ca906bfd92410cc03a383fb957b
+SHA256: 348af60d035cee177b975ad93fc26579b8cd26a077c046f036708030a73d794d
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.18及以上版本，设置位于微信-设置
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信净化旧版-rootless
+Sponsor: bitilly
 
 Package: xc.lzsxcl.o2
 Version: 4.1
