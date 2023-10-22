@@ -786,6 +786,24 @@ Name: 威锋 NoAds
 Sileodepiction: https://apt.bitilly.cn/Description/wfnoads/wfnoads.json
 
 Package: cn.bitilly.xnsp
+Version: 2.1-3
+Architecture: iphoneos-arm64
+Maintainer: bitilly
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.bitilly.xnsp_2.1-3_iphoneos-arm64.deb
+Size: 3563032
+MD5sum: 81427386dc3d980c224eb89a01a6e629
+SHA1: 742ee534ee905fa8763f680ff756e8b68ce30125
+SHA256: ead46ab4155c13ad02173826f66ff344a4eeb1ae94ad4919dee81d206f870d45
+Section: 微信插件
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询,语音包，一键已读消息等。
+Author: pingfan
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信虚拟视频-rootless
+Sileodepiction: https://apt.bitilly.cn/Description/xnsp/xnsp.json
+Sponsor: bitilly
+
+Package: cn.bitilly.xnsp
 Version: 2.1-4
 Architecture: iphoneos-arm
 Maintainer: 平凡
@@ -795,23 +813,6 @@ Size: 4020208
 MD5sum: 6676c0be828cbcf9bf5290b233cc4b42
 SHA1: ba666c6816e0c011f7faf13b46c9af447314f35b
 SHA256: 6d178ddc778a5ea91c8661207b0df70fe1838a5af7b6b502f1b64a3870e8b50a
-Section: 微信插件
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询等;修复文字防撤回，修复转账金额移动复原，添加文字修改,语音包,一键已读,新增多端登录设备隐藏 文字转语音 修复部分bug以及代码优化。
-Author: 平凡
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 虚拟视频
-Sileodepiction: https://apt.bitilly.cn/Description/xnsp/xnsp.json
-
-Package: cn.bitilly.xnsp
-Version: 2.1-4
-Architecture: iphoneos-arm64
-Maintainer: 平凡
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.bitilly.xnsp_2.1-4_iphoneos-arm64.deb
-Size: 4017028
-MD5sum: 260f52a60a052112df7aff7bcf013a4e
-SHA1: 1c10f5205a9ed3750ab3710a9d10fb0975739bab
-SHA256: d4ea2b40ad8a356355fb99c61b70f38607c749d3a26485e1134bb0facb2bae31
 Section: 微信插件
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询等;修复文字防撤回，修复转账金额移动复原，添加文字修改,语音包,一键已读,新增多端登录设备隐藏 文字转语音 修复部分bug以及代码优化。
 Author: 平凡
