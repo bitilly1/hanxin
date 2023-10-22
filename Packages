@@ -220,15 +220,15 @@ Installed-Size: 536
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper
 Filename: ./debs/rootless/cn.bitilly.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
-Size: 19980
-MD5sum: 55aa363cee557975dc540dd3dad7ab6c
-SHA1: 2a228349bd90800d10aaf4ccdb8b45889d998f75
-SHA256: a8fd178a4ff7bb9787a6b97e967e6e8566c91107692ad4bb954a91b98f58b8cb
+Size: 20088
+MD5sum: fc644ea1940b2341d902b79643397f7a
+SHA1: 2f6947af23f2ed70de513db3ee1ddea5d6bf600d
+SHA256: 20c5782a083cf9ae900fba3c678e46100ded43121871cb476102e4949d78fc1d
 Section: 功能助手
 Description: 适用于iOS 15/16（和Snapper 3）的长截图扩展
 Author: Jonathan Winger-lang
 Icon: https://apt.bitilly.cn/Description/BigShot/Icon.png
-Name: 长截图扩展
+Name: 长截图扩展-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/BigShot/BigShot.json
 
 Package: cn.bitilly.bilibilipure
@@ -484,15 +484,15 @@ Maintainer: Traurige <hello@traurige.dev>
 Installed-Size: 956
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/rootless/cn.bitilly.kayoko_1.4.2_iphoneos-arm64.deb
-Size: 79648
-MD5sum: 9206455cb0d12ccaaf32ec8582373b53
-SHA1: e1693b0a89c480f67b27db4e1af9b58a9e9e9383
-SHA256: bfad532d79a4db0cf74feac93a373f63a7bc44467777c0d317deea3949913f27
+Size: 80076
+MD5sum: 38d94c08cc94307aa8ab0f6284773fc4
+SHA1: d4ae66021cdad39db6876f479e867e80fff6b669
+SHA256: 5ae5da653c6ab8c9163f701193176e294ce0859a928155ba09c22b9ede0512f2
 Section: 功能助手
 Description: 功能丰富的iOS剪贴板管理器
 Author: Traurige <hello@traurige.dev>
 Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
-Name: Kayoko 剪切板
+Name: Kayoko 剪切板-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
 
 Package: cn.bitilly.ldid
@@ -609,15 +609,15 @@ Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware (>= 12.1)
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2
 Filename: ./debs/rootless/cn.bitilly.snapper2_2.6.0_iphoneos-arm64.deb
-Size: 410604
-MD5sum: 67a9e12a14d70dabdefa5558f09cc376
-SHA1: d6514c0ef199cfa1ac4d7292b2d18eff8fa719ef
-SHA256: bdfec637fe7228f8a4d79371f4799027da4d26e3fe28eb78c9ef854c62d3548a
+Size: 410664
+MD5sum: 860d91063cd564434eb3ea868b3a1457
+SHA1: ba301fb82c3799bff000e69a5a2fa137a9148c84
+SHA256: d134372cfe3f3fe0f848d11d5ca3ce80f2192268e79f3079a950b083ffd4030b
 Section: 功能助手
 Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
 Https: //apt.bitilly.cn/Description/snapper3/Icon.png
-Name: Snapper 2
+Name: Snapper 2-Rootless
 
 Package: cn.bitilly.snapper3
 Version: 1.0
@@ -1816,6 +1816,23 @@ SHA1: 78ff946bf0d3e3f9240d1cadf990f43a43e575ff
 SHA256: 6231f144179bde63dfae924bfb6f2e9778f185c994364c35ca52d98bf21da1c8
 Section: 终端支持
 Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
+Name: injectipa-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/injectipa/injectipa.json
+
+Package: netskao.injectipa-rootless
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0)
+Filename: ./debs/rootless/netskao.injectipa-rootless_1.4-4_iphoneos-arm64.deb
+Size: 964472
+MD5sum: ecbe04bfc6bdb55ce99e58963e0c0c00
+SHA1: afc408e4c450a12901ffebd4f8e62e14f0db7cc9
+SHA256: 3ae0fdf7b54e69493cc621c1211b9483b2433b4e2c0437be124b72966578a24d
+Section: 终端支持
+Description: injectipa是一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用
 Author: Netskao
 Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
 Name: injectipa-Rootless
