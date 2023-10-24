@@ -85,6 +85,40 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
+Package: cn.bitilly.HBWechatHelper
+Version: 1.6.3
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.HBWechatHelper_1.6.3_iphoneos-arm.deb
+Size: 9482268
+MD5sum: bfb6c817498c4175c675e9fb112ad4d3
+SHA1: 55c143274d49c7530693fb332bd6cfe3103dd9f1
+SHA256: 7a902212b8ca2c4595c1aabd8e672b3a40fb207becec7acf8aea823fec209b3c
+Section: 微信插件
+Description: 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信插件)
+Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+
+Package: cn.bitilly.HBWechatHelper
+Version: 1.6.3
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.6.3_iphoneos-arm64.deb
+Size: 9301004
+MD5sum: bcdda3609184d828b0b1df2a94dadb25
+SHA1: 080b9528adcdee963a674d080ad4c564ee21fd69
+SHA256: 1a0bbe66d58af0b4de192d8c77d18ef04c1d0b920d7c64ab7cde19df14bd1bcc
+Section: 微信插件
+Description: 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+
 Package: cn.bitilly.animplus
 Version: 2.5k
 Architecture: iphoneos-arm
