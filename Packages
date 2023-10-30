@@ -210,6 +210,24 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/Arkita/icon.png
 Name: Arkita
 
+Package: cn.bitilly.awemepurification
+Version: 2.3-4
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.awemepurification
+Filename: ./debs/rootfull/cn.bitilly.awemepurification_2.3-4_iphoneos-arm.deb
+Size: 153280
+MD5sum: 366ce13392bb7efe6e416067e6b4b9d0
+SHA1: a4dce2f6e9bd505d3888b43fa1de012ce6ab5322
+SHA256: e0413958260302e9657d3c55aa9b59cda2f0498957cc5147f4ae2caac902d01d
+Section: 软件优化
+Description: 抖音净化！设置位于抖音-设置，仅支持15.7.0至16.3.0版本
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: 抖音净化旧版
+
 Package: cn.bitilly.bdtbnoads
 Version: 1.2-8
 Architecture: iphoneos-arm
