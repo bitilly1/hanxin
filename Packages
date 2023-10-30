@@ -218,15 +218,16 @@ Installed-Size: 556
 Depends: mobilesubstrate, firmware (>= 9.0)
 Replaces: netskao.awemepurification
 Filename: ./debs/rootfull/cn.bitilly.awemepurification_2.3-4_iphoneos-arm.deb
-Size: 153280
-MD5sum: 366ce13392bb7efe6e416067e6b4b9d0
-SHA1: a4dce2f6e9bd505d3888b43fa1de012ce6ab5322
-SHA256: e0413958260302e9657d3c55aa9b59cda2f0498957cc5147f4ae2caac902d01d
+Size: 153404
+MD5sum: 57bee0cce885563571cd55e504343eab
+SHA1: 4d1e36071df3a4f73d36b4c8b2fb277ad013f948
+SHA256: 37a1c48a1c6c8bd334cbe8d798ddfa56716c76de6f2d2806ea36873465803404
 Section: 软件优化
 Description: 抖音净化！设置位于抖音-设置，仅支持15.7.0至16.3.0版本
 Author: Netskao
 Icon: https://apt.bitilly.cn/images/douyin.png
 Name: 抖音净化旧版
+Sileodepiction: https://apt.bitilly.cn/Description/douyin/douyin.json
 
 Package: cn.bitilly.bdtbnoads
 Version: 1.2-8
