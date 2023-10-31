@@ -1,3 +1,35 @@
+Package: cn.bitilly.1a1
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.bitilly.1a1_1.3_iphoneos-arm64.deb
+Size: 3760
+MD5sum: a8b98c89eb0606684f26321510148674
+SHA1: 412cc74b92744561bebd06ffdb5e354af7c17c70
+SHA256: 69f2b00c1174015bbc834e51545a43fc7e87c7e6e932b70af2021e2dc9dbdf8d
+Section: 功能助手
+Description: 时间倒流，检查插件注入情况。若还不显示，检查bundle对的上不，可解包自行添加
+Author: 来了老弟
+Name: 时间主宰-rootless
+
+Package: cn.bitilly.1a1
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.bitilly.1a1_1.4_iphoneos-arm64.deb
+Size: 3764
+MD5sum: 66c32af208ed644054fed35756d4d35f
+SHA1: fcd0e3577002cf9de40abc064a0b1d0071a5f84e
+SHA256: dae03544ed4257d1bbca5ffa81e063c60d681d115ecdc3eafd6ef31f413d0930
+Section: 功能助手
+Description: 时间倒流，检查插件注入情况。若还不显示，检查bundle对的上不，可解包自行添加
+Author: 来了老弟
+Name: 时间主宰-rootless
+
 Package: cn.bitilly.4ders
 Version: 1.0.3
 Architecture: iphoneos-arm
