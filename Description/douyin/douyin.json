@@ -44,10 +44,10 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 特色功能\n抖音净化！设置位于抖音-设置，仅支持15.7.0至16.3.0版本。"
+					"markdown": "## 特色功能\n抖音净化！设置位于抖音-设置，仅支持15.7.0至19.2.0版本，其它版本测试会闪退。"
 				},
 				{
-					"title": "下载抖音",
+					"title": "旧版抖音",
 					"action": "https://www.123pan.com/s/DuR5Vv-NwJwv.html",
 					"class": "DepictionTableButtonView"
 				},
