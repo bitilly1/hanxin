@@ -436,6 +436,23 @@ Name: DumpDecrypter砸壳工具
 Sileodepiction: https://apt.bitilly.cn/Description/DumpDecrypter/DumpDecrypter.json
 Sponsor: Netskao
 
+Package: cn.bitilly.dytm
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.dytm_0.0.1_iphoneos-arm.deb
+Size: 4744
+MD5sum: 27d25844c5e21f0e6f9046c9aa9cdca2
+SHA1: d42867fb25a94b0d7c8c2b5ff550930b99cec164
+SHA256: adab7272d4120440cca8c486e21c2112d6a4962831cfc8e86211f473ee6d5f8f
+Section: 软件优化
+Description: 爱心评论分享等图标去除，无设置项，无效请查看注入情况。
+Author: bitilly
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: 抖音透明
+
 Package: cn.bitilly.ena
 Version: 1.0.0
 Architecture: iphoneos-arm64
