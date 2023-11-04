@@ -38,7 +38,11 @@
 					"class": "DepictionMarkdownView",
 					"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。"
 				},
-
+				{
+					"title": "已注入版",
+					"action": "https://www.123pan.com/s/DuR5Vv-fYJwv.html",
+					"class": "DepictionTableButtonView"
+				},
 				{
 					"class": "DepictionSeparatorView"
 				},
