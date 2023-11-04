@@ -399,6 +399,24 @@ Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
 Name: 达达骑士优化
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 
+Package: cn.bitilly.ddqsb
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Installed-Size: 280
+Depends: firmware (>= 7.0)
+Filename: ./debs/rootfull/cn.bitilly.ddqsb_1.0.2_iphoneos-arm.deb
+Size: 5472
+MD5sum: 3b3e85a5d57690a7c25f61ee2daa3607
+SHA1: 29dea09f4296dc4398071cedf1cca56429664415
+SHA256: 5568936e5562644964e1ff5e2bdf6143b0862127e26e0fcd10bc1ee816e29324
+Section: 软件优化
+Description: 屏蔽越狱检测,去除启动广告,首页横幅推荐,透明刷新,回归简洁接单模式
+Author: bitilly <985745559@qq.com>
+Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
+Name: 达达骑士优化
+Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
+
 Package: cn.bitilly.disableautomationnotice
 Version: 1.1-5
 Architecture: iphoneos-arm
@@ -443,10 +461,10 @@ Maintainer: bitilly
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.dytm_0.0.1_iphoneos-arm.deb
-Size: 4744
-MD5sum: 27d25844c5e21f0e6f9046c9aa9cdca2
-SHA1: d42867fb25a94b0d7c8c2b5ff550930b99cec164
-SHA256: adab7272d4120440cca8c486e21c2112d6a4962831cfc8e86211f473ee6d5f8f
+Size: 4756
+MD5sum: 5021970d56ff3d196bdf1c1d29cc829d
+SHA1: 93cd2b314dae3e23535558b076ae574c83186afb
+SHA256: a94fe84cf9ee6c31020754a1eff0d69ad197fa242816d5aefaa9a91e374ea59c
 Section: 软件优化
 Description: 爱心评论分享等图标去除，无设置项，无效请查看注入情况。
 Author: bitilly
