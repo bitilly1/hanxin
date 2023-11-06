@@ -832,6 +832,24 @@ Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.surge.html
 Icon: https://apt.bitilly.cn/Description/surge/AppIcon.png
 Name: Surge5® Vip
 
+Package: cn.bitilly.tiktokhooks
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 304
+Depends: mobilesubstrate, firmware (>= 9.3)
+Filename: ./debs/rootfull/cn.bitilly.tiktokhooks_1.1-4_iphoneos-arm.deb
+Size: 82040
+MD5sum: 937f30ab566fc5d12e32ba71a52b49e2
+SHA1: d1d14499f9fd9655d1bb237b19360b75a268429d
+SHA256: d126cbb3104bccde6d000c89e4381ce680fed573ad9d89c0c37da58da858df42
+Section: 软件优化
+Description: TikTok保存无水印视频，点击原始共享按钮使用。可以在设置页面上选择TikTok区域。仅支持20.7.0及以上版本
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: TikTok Hooks
+Sileodepiction: https://apt.bitilly.cn/Description/TikTok/TikTok.json
+
 Package: cn.bitilly.tw3so
 Version: 1.1-1
 Architecture: iphoneos-arm
