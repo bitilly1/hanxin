@@ -37,13 +37,14 @@ Maintainer: 来了老弟
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/cn.bitilly.1a1_1.4_iphoneos-arm64.deb
-Size: 3764
-MD5sum: 66c32af208ed644054fed35756d4d35f
-SHA1: fcd0e3577002cf9de40abc064a0b1d0071a5f84e
-SHA256: dae03544ed4257d1bbca5ffa81e063c60d681d115ecdc3eafd6ef31f413d0930
+Size: 3812
+MD5sum: ac7d0aa783ca23844893353409435e26
+SHA1: 66487a402729db67cc1b198659a663bf3069ccea
+SHA256: 326479de54b97ef5843d3fecd7116a3d68eec282e3ce28a51db4f4dd716faae2
 Section: 功能助手
 Description: 时间倒流，检查插件注入情况。若还不显示，检查bundle对的上不，可解包自行添加
 Author: 来了老弟
+Icon: https://apt.bitilly.cn/images/1a1.png
 Name: 时间主宰-rootless
 
 Package: cn.bitilly.4ders
@@ -356,13 +357,14 @@ Maintainer: lclrc&来了老弟
 Installed-Size: 356
 Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,ws.hbang.alderis
 Filename: ./debs/rootless/cn.bitilly.coolcc_2.0-1_iphoneos-arm64.deb
-Size: 24492
-MD5sum: c5397a01ea8b1b4ac991da59b47ef34e
-SHA1: b4dfc0aceaa0833d8f4de3c9c3cb48f8e820a2f0
-SHA256: ebcdbb7182a252f9dcd961e8853f5fce093a5f5a16dee9c237a4f540b1629d4c
+Size: 24588
+MD5sum: 859dec592c6f422488db58664dc07514
+SHA1: 11899493c046c28cdb6f927074c8cf3cca9d784c
+SHA256: e07ba1906d27120333f9c119a54377377b0977622d5bfd9384e4c5879bc47584
 Section: 功能助手
 Description: 此调整使ControlCenter非常酷！与iOS15兼容/rootless.
 Author: alias20
+Icon: https://apt.bitilly.cn/Description/CoolCC/icon.png
 Name: CoolCC-rootless
 
 Package: cn.bitilly.ddqsb
