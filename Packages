@@ -47,6 +47,24 @@ Author: 来了老弟
 Icon: https://apt.bitilly.cn/images/1a1.png
 Name: 时间主宰-rootless
 
+Package: cn.bitilly.3dappversionspoofer
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 420
+Depends: com.opa334.altlist
+Filename: ./debs/rootless/cn.bitilly.3dappversionspoofer_1.2_iphoneos-arm64.deb
+Size: 54400
+MD5sum: 8b5d83c39ecedf8df3799835f2dbf2f8
+SHA1: 7c55888808c3519481184b9cf0ab7ff4244850cd
+SHA256: c2f681cefa7f5f08f168c3ef3992b3d9009d6ae96de7fea0632be446d1a9b57e
+Section: 功能助手
+Description: 直接从3D菜单和偏好中添加应用程序修改版本号功能
+Author: 0xkuj
+Icon: https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/icon.png
+Name: 3DAppVersionSpoofer-rootless
+Sileodepiction: https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/3DAppVersionSpooferPrefs.json
+
 Package: cn.bitilly.4ders
 Version: 1.0.3
 Architecture: iphoneos-arm
