@@ -278,6 +278,25 @@ Icon: https://apt.bitilly.cn/images/douyin.png
 Name: 抖音净化旧版
 Sileodepiction: https://apt.bitilly.cn/Description/douyin/douyin.json
 
+Package: cn.bitilly.awemepurification
+Version: 2.3-4
+Architecture: iphoneos-arm64
+Maintainer: netskao
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: netskao.awemepurification-rootless
+Filename: ./debs/rootless/cn.bitilly.awemepurification_2.3-4_iphoneos-arm64.deb
+Size: 153168
+MD5sum: 0c678f3de61be4b87ec3573b2bb132f9
+SHA1: 15f4048cdd2bdc806a12ea2a0e0fad50364d49a7
+SHA256: ceba028032f5d5200981425e7d2ed36fd27a78aff9532fc902f42e0795e358c3
+Section: 软件优化
+Description: 抖音净化！设置位于抖音-设置，仅支持15.7.0至19.2.0版本，其它版本测试会闪退。
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: 抖音净化旧版-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/douyin/douyin.json
+Sponsor: Netskao
+
 Package: cn.bitilly.bdtbnoads
 Version: 1.2-8
 Architecture: iphoneos-arm
