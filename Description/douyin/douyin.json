@@ -61,12 +61,12 @@
 				},
 				{
 					"title": "兼容",
-					"text": "11.0 - 14.9",
+					"text": "9.0 - 15.4.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "支持设备",
-					"text": "6S-12PM",
+					"text": "6S-13PM",
 					"class": "DepictionTableTextView"
 				},				
 				{
