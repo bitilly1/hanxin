@@ -1064,6 +1064,24 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.7-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/rootless/com.25mao.miyou.rootless_3.7-0_iphoneos-arm64.deb
+Size: 8619280
+MD5sum: b53444d4672bbd76a557b4c1dcc78867
+SHA1: ad14dd943c610a30330a54864895005d0521c2ee
+SHA256: 01a535fa26e80cf0a2f2eba20073a308b4be0824efd4812b273408b27eb2cd1c
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.brend0n.volumemixer
 Version: 0.0.6~beta2
 Architecture: iphoneos-arm
@@ -1880,23 +1898,6 @@ SHA1: 78ff946bf0d3e3f9240d1cadf990f43a43e575ff
 SHA256: 6231f144179bde63dfae924bfb6f2e9778f185c994364c35ca52d98bf21da1c8
 Section: 终端支持
 Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
-Author: Netskao
-Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
-Name: injectipa-Rootless
-Sileodepiction: https://apt.bitilly.cn/Description/injectipa/injectipa.json
-
-Package: netskao.injectipa-rootless
-Version: 1.4-4
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0)
-Filename: ./debs/rootless/netskao.injectipa-rootless_1.4-4_iphoneos-arm64.deb
-Size: 964472
-MD5sum: ecbe04bfc6bdb55ce99e58963e0c0c00
-SHA1: afc408e4c450a12901ffebd4f8e62e14f0db7cc9
-SHA256: 3ae0fdf7b54e69493cc621c1211b9483b2433b4e2c0437be124b72966578a24d
-Section: 终端支持
-Description: injectipa是一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用
 Author: Netskao
 Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
 Name: injectipa-Rootless
