@@ -500,10 +500,10 @@ Maintainer: bitilly
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.dytm_0.0.1_iphoneos-arm.deb
-Size: 4756
-MD5sum: 5021970d56ff3d196bdf1c1d29cc829d
-SHA1: 93cd2b314dae3e23535558b076ae574c83186afb
-SHA256: a94fe84cf9ee6c31020754a1eff0d69ad197fa242816d5aefaa9a91e374ea59c
+Size: 4780
+MD5sum: 81fadf9b7343f31755cb3e1833773534
+SHA1: 1f85fbfcf09d309fd19d9e9967f1730b707acb65
+SHA256: 013c8a223b7802899246d15667f2fa32da973db19246677d6c05f49188066fae
 Section: 软件优化
 Description: 爱心评论分享等图标去除，无设置项，无效请查看注入情况。
 Author: bitilly
@@ -1082,6 +1082,24 @@ Priority: optional
 Description: 微信助手-密友
 Author: Mao
 Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou
+Version: 3.7-0
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.25mao.miyou_3.7-0_iphoneos-arm.deb
+Size: 8618176
+MD5sum: 3dd9678ecae9226f9d33ab89b3213dc3
+SHA1: 0324a1b8fd20c4010ea94cb7ddc074488d3c17d4
+SHA256: 72c8e1a66e5f6f258958db427fbd7e1e69224f7ae6ff0bf47be237bb62cf1e70
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Con: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信助手
 Sponsor: admin@25mao.com
 
