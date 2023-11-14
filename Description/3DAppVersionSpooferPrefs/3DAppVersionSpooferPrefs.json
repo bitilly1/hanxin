@@ -72,7 +72,7 @@
 			"tabname": "更新",
 			"views": [
 				{
-					"title": "正式版1.2",
+					"title": "正式版1.2(无根)&1.1.4(有根)",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"

@@ -1645,41 +1645,6 @@ Icon: file:///Library/PreferenceBundles/iwallbundle.bundle/iphone@2x.png
 Name: iWall
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.nan.alwaysdefaultbash
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: bash
-Replaces: bash, dash
-Filename: ./debs/rootfull/com.nan.alwaysdefaultbash_0.1.4_iphoneos-arm.deb
-Size: 1176
-MD5sum: c85cf2e9d93d86953df80a94d7470cca
-SHA1: be108aea7db00f70e0f77dd64caf877ae963cbab
-SHA256: 9c7140ab60bf1ea513bda6eb608befcd95ff06bd3398f4284c42dae3023deea6
-Section: Terminal_Support
-Description: 将 sh 指向 bash
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: Always Default Bash
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.alwaysdefaultbash/js.json
-
-Package: com.nan.cy+cpu.arm64
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Conflicts: cy+cpu.arm64
-Provides: cy+cpu.arm64
-Filename: ./debs/rootfull/com.nan.cy+cpu.arm64_0.1.0_iphoneos-arm.deb
-Size: 808
-MD5sum: 8fecfde6bbabcd945f81cec3b8a4f3c7
-SHA1: 3f4a40397bca277c6c42411c42ceb876764c3ca1
-SHA256: d284a55f7d1fa93bbf7711c5d04adfc8167dc2a92bb933617aa1413c70582899
-Section: System
-Description: 虚拟依赖，用于解决 Chimera 环境下的 cy+cpu.arm64 虚拟依赖报错问题
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: cy+cpu.arm64
-
 Package: com.nan.disablesblockaftercrash
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -1733,41 +1698,6 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: dpkg-fill triggers
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js_triggers.json
 
-Package: com.nan.enableccmutemodule
-Version: 0.2.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>> 11.0)
-Filename: ./debs/rootfull/com.nan.enableccmutemodule_0.2.0_iphoneos-arm.deb
-Size: 1220
-MD5sum: fd029d32b6e9f8a75adc308484ccc373
-SHA1: 3a1f6e493e600a634258602e80ec40d0216e26a9
-SHA256: ea44a196aa88d939a740f0cd004e70283ca2f14d6ab5fab391fa1865944d64a9
-Section: System
-Description: 激活原生 iPhone 控制中心静音模块
-Author: zhaonan <invalidunit@icloud.com>
-Icon: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/image.png
-Name: Enable CC MuteModule
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/js.json
-
-Package: com.nan.enableknownnetworks
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: firmware (>= 11.0)
-Depends: plutil | com.bingner.plutil
-Filename: ./debs/rootfull/com.nan.enableknownnetworks_0.1.0_iphoneos-arm.deb
-Size: 1168
-MD5sum: ad6c2b22bf34fa5828d043797703737f
-SHA1: 1cfbf613d645a1031bcd111bd8dccb8a1e9682a2
-SHA256: fe22066889de6638072c30af0c7f27848f78f7c946ca8d14d4a2b240c9811385
-Section: System
-Description: 启用自带 Wi-Fi 下方的已知网络面板
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: Enable known networks
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableknownnetworks/js.json
-
 Package: com.nan.lecho
 Version: 0.2.1
 Architecture: iphoneos-arm
@@ -1803,23 +1733,6 @@ Author: zhaonan
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/image.png
 Name: Local SSH
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/js.json
-
-Package: com.nan.resetfonts
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: com.nan.ft, zsh
-Filename: ./debs/rootfull/com.nan.resetfonts_0.1.4_iphoneos-arm.deb
-Size: 1236
-MD5sum: 886a152bc0509ac6a7e8603b266059b9
-SHA1: 38f6132fea518503132784aa27818b39b591e497
-SHA256: 891b5a3c4464c419d914a62d477ad154332d230713315dfce2ee2e511b175279
-Section: System
-Description: 安装卸载都会还原一次字体
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/image.png
-Name: reset fonts
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/js.json
 
 Package: com.ryannair05.cylinder
 Version: 1.1.1
