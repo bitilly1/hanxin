@@ -71,6 +71,7 @@
 			"tabname": "更新",
 			"views": [
 				{
+					
 					"title": "正式版1.6.4",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -84,7 +85,7 @@
 								"accessibilityText": "Featured Animes",
 								"url": "https://apt.bitilly.cn/Description/HBWechatHelper/IMG_0.PNG",
 								"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/IMG_0.PNG"
-							},
+							}
 						],
 					"class": "DepictionMarkdownView"
 				},
