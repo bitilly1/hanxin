@@ -204,6 +204,40 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
+Package: cn.bitilly.HBWechatHelper
+Version: 1.6.4
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.HBWechatHelper_1.6.4_iphoneos-arm.deb
+Size: 8361236
+MD5sum: a1d648310f9ae96fd0b5ec19b24b9319
+SHA1: 9771c4fd1aca689628e6805918aa5f8f7ac7e33c
+SHA256: 8c8d0dba539ecbfa027f7dd0c7daedc86df0e95ecf4fc4abfb0561b3e847f4d9
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信插件)
+Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+
+Package: cn.bitilly.HBWechatHelper
+Version: 1.6.4
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.6.4_iphoneos-arm64.deb
+Size: 8197548
+MD5sum: afb8cbbbf3c8287cd5cbc7919e2fd88e
+SHA1: 1ab91b73de935106625fd78dda920689daf68eea
+SHA256: dcfb7feb23a4fcd52d880377ac28f01f41afddd52ecdb59077cb7e698ac20695
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+
 Package: cn.bitilly.animplus
 Version: 2.5k
 Architecture: iphoneos-arm
