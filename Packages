@@ -1645,59 +1645,6 @@ Icon: file:///Library/PreferenceBundles/iwallbundle.bundle/iphone@2x.png
 Name: iWall
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.nan.disablesblockaftercrash
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: firmware (>= 7.0)
-Depends: plutil | com.bingner.plutil
-Filename: ./debs/rootfull/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm.deb
-Size: 1208
-MD5sum: d17089a32978d8e4e28be4bb1a71cb59
-SHA1: 65e624348180b8b34897ce8de85a71b3de1abf52
-SHA256: e4083b74c9930d9ef5db532953ceff19bfb1efc9d990ae54ef63f8a62e9312a3
-Section: System
-Description: 禁用 SpringBoard 崩溃后自动锁定的策略
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: Disable SB Lock After Crash
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
-
-Package: com.nan.dpkg-fill
-Version: 0.3.4
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 11.0), sed, coreutils
-Conflicts: com.nan.lecho (<< 0.2.0)
-Filename: ./debs/rootfull/com.nan.dpkg-fill_0.3.4_iphoneos-arm.deb
-Size: 3132
-MD5sum: c6608b097188c3519b05a5188e7c6739
-SHA1: d48b2b079f1a1f220bc817f589287164a249ca00
-SHA256: 7810e3761d6b582a621d3f0f93297729ccd0e8581a765451865fd6029335bff7
-Section: Terminal_Support
-Description: 修补因缺少维护者和描述的报错信息
-Author: zhaonan <Invalidunit@icloud.com>
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
-Name: dpkg-fill
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js.json
-
-Package: com.nan.dpkg-fill-triggers
-Version: 0.1.0-b6
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: bash, gawk, com.nan.dpkg-fill
-Filename: ./debs/rootfull/com.nan.dpkg-fill-triggers_0.1.0-b6_iphoneos-arm.deb
-Size: 1128
-MD5sum: 83744d5615c8448d0387fa869976451f
-SHA1: ac3c3d69c8cf4b3536efbad8049e865330852b8c
-SHA256: 0d917ca4c9ebd4480fffbe16dbcff9f6ec784d8bf50bf44a6aff6fc0c7b450de
-Section: Addons
-Description: 一个自动触发器，可以在插件安装时被触发，释放一个不受控制的脚本执行 dpkg-fill
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
-Name: dpkg-fill triggers
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js_triggers.json
-
 Package: com.nan.lecho
 Version: 0.2.1
 Architecture: iphoneos-arm
@@ -1715,24 +1662,6 @@ Author: zhaonan <invalidunit@icloud.com>
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: lecho
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.lecho/js.json
-
-Package: com.nan.localhostssh
-Version: 0.2.7
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Pre-Depends: sed, openssh-server | openssh
-Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
-Filename: ./debs/rootfull/com.nan.localhostssh_0.2.7_iphoneos-arm.deb
-Size: 1640
-MD5sum: a6c63b19a7725f80a9873aec73bf6275
-SHA1: adfd67b8f39b317b54f33d49a2d639f6629ee0d8
-SHA256: 0ce55cea1ed3fc2c3ef6342f7710af8c63e41a4a92793f7550486d0747826896
-Section: Addons
-Description: 仅为 iOS 本地 SSH 访问启用 2222 端口
-Author: zhaonan
-Icon: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/image.png
-Name: Local SSH
-Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.localhostssh/js.json
 
 Package: com.ryannair05.cylinder
 Version: 1.1.1
