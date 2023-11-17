@@ -71,25 +71,19 @@
 			"tabname": "更新",
 			"views": [
 				{
-					
-					"title": "正式版1.6.4",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
 					"itemCornerRadius": 6,
 					"itemSize": "{160, 275.41333333333336}",
 					"screenshots": [
 							{
 								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/HBWechatHelper/IMG_0.PNG",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/IMG_0.PNG"
+								"url": "https://apt.bitilly.cn/Description/HBWechatHelper/img_0.png",
+								"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/img_0.png"
 							}
 						],
-					"class": "DepictionMarkdownView"
-				},
+						"class": "DepictionScreenshotView"
+					},
 				{
+					"class": "DepictionMarkdownView",
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.17</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView" 
