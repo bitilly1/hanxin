@@ -545,22 +545,41 @@ Name: DumpDecrypter砸壳工具
 Sileodepiction: https://apt.bitilly.cn/Description/DumpDecrypter/DumpDecrypter.json
 Sponsor: Netskao
 
-Package: cn.bitilly.dytm
-Version: 0.0.1
+Package: cn.bitilly.dyhook
+Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: bitilly
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/cn.bitilly.dytm_0.0.1_iphoneos-arm.deb
-Size: 4780
-MD5sum: 81fadf9b7343f31755cb3e1833773534
-SHA1: 1f85fbfcf09d309fd19d9e9967f1730b707acb65
-SHA256: 013c8a223b7802899246d15667f2fa32da973db19246677d6c05f49188066fae
+Maintainer: x✨
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/cn.bitilly.dyhook_1.0.1_iphoneos-arm.deb
+Size: 33696
+MD5sum: 2e09b7987a1fb742258512d3741133aa
+SHA1: 227cdfe7851313c22134f0323c8c35f5828095e3
+SHA256: 982978a6d382ffbfa49f4348276b0be1c99527710f2137b49a55b28598fb4846
 Section: 软件优化
-Description: 爱心评论分享等图标去除，无设置项，无效请查看注入情况。
-Author: bitilly
+Description: 首页视频界面双指双击弹出设置UI--测试群里大佬制作
+Author: x✨
 Icon: https://apt.bitilly.cn/images/douyin.png
 Name: 抖音透明
+Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
+
+Package: cn.bitilly.dyhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.bitilly.dyhook_1.0.1_iphoneos-arm64.deb
+Size: 34636
+MD5sum: 739d6e71f313a11f231ce4ddd99cd733
+SHA1: 8ad990e7249fdb32830d663e2ee27abf03d6d996
+SHA256: b1b49f124fa78e5de6902b58ac04144400dde65be1a47e332bf72a21795b4291
+Section: 软件优化
+Description: 首页视频界面双指双击弹出设置UI-- 测试群里大佬制作
+Author: x✨
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: 抖音图层一些调整
+Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.ena
 Version: 1.0.0
