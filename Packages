@@ -238,6 +238,46 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
+Package: cn.bitilly.SLHelper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 神龙助手
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: wechat.SLHelper
+Replaces: wechat.SLHelper
+Provides: wechat.SLHelper
+Filename: ./debs/rootfull/cn.bitilly.SLHelper_1.0_iphoneos-arm.deb
+Size: 226848
+MD5sum: 631f6b432aa0dd7c16fdbbf73198cc2b
+SHA1: d2452935ccd4a465423694de37d69c2215868502
+SHA256: 96e801faf02c517aa1ceff605b1109f1479255b4f12b8af28971f57080211050
+Section: 微信插件
+Priority: optional
+Description: 神龙助手，语音包
+Author: 神龙助手
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信神龙助手
+
+Package: cn.bitilly.SLHelper
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 神龙助手
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: wechat.SLHelper
+Replaces: wechat.SLHelper
+Provides: wechat.SLHelper
+Filename: ./debs/rootless/cn.bitilly.SLHelper_1.0_iphoneos-arm64.deb
+Size: 224148
+MD5sum: c0d00e45b070fe307dbb2264d7743539
+SHA1: 074379196cde60a69413ddb35850d70e99286732
+SHA256: 9d47ecd184a375b302db2928ad43b4481a47e97c39b03e32ae966f08042dd2e3
+Section: 微信插件
+Priority: optional
+Description: 神龙助手，语音包
+Author: 神龙助手
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信神龙助手
+
 Package: cn.bitilly.animplus
 Version: 2.5k
 Architecture: iphoneos-arm
@@ -1891,26 +1931,6 @@ Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
 Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 酸果 - SG WX美化增强工具
-
-Package: com.wechat.SLHelper
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 神龙助手
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: wechat.SLHelper
-Replaces: wechat.SLHelper
-Provides: wechat.SLHelper
-Filename: ./debs/rootfull/com.wechat.SLHelper_1.0_iphoneos-arm.deb
-Size: 226700
-MD5sum: 77af320c3206c03e4392542c01cb9cc0
-SHA1: 3d480a3caef8a5e0a506f118fbb50b29061cd0ef
-SHA256: aa39e3bf244953df7387b0107ff8d80faffecc1c6132ac36c0a5cdb244fda195
-Section: 微信插件
-Priority: optional
-Description: 神龙助手，语音包
-Author: 神龙助手
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信神龙助手
 
 Package: me.lightmann.vinyl
 Version: 1.1.5
