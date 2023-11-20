@@ -855,10 +855,10 @@ Maintainer: bitilly
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/rootless/cn.bitilly.nobetaalert_1.0.0_iphoneos-arm64.deb
-Size: 4900
-MD5sum: e5920ea43eb0d8f65cf8ad9b8b2cd09a
-SHA1: ab54d2bf191aba8a2f2c4eff81e1cb07ed62a2bf
-SHA256: 01514601772895f52d6988d71a664520c8372759e9f48c5d140a9ace61bc662e
+Size: 4376
+MD5sum: 4929c842dda589636e0c66481b12a04e
+SHA1: 4fe027412e011a1a94722346dcc6e7e091de98ec
+SHA256: ed93095431dfeb67abf21541f6808dd3b311b68f404d9708209c8d095c1700f7
 Section: 软件优化
 Description: 删除在测试版固件上解锁设备时弹出的提示
 Author: bitilly
