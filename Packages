@@ -2054,46 +2054,6 @@ Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
 Name: injectipa-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/injectipa/injectipa.json
 
-Package: netskao.wcpureextension
-Version: 4.2-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 19672
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootfull/netskao.wcpureextension_4.2-5_iphoneos-arm.deb
-Size: 6979124
-MD5sum: 4d894c36db9f88d64b384056f64034fc
-SHA1: 702992e7ebf8e849f941fbcaa5c8a2dd80736e4c
-SHA256: 31daf38a30da2e44a8856f7bd0c9e063af6833c86ec99aa58aa38622923ab635
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信净化
-
-Package: netskao.wcpureextension
-Version: 4.2-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 19672
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/rootless/netskao.wcpureextension_4.2-5_iphoneos-arm64.deb
-Size: 6978916
-MD5sum: 88d3c6748b7f48c289be832171cb7df4
-SHA1: ce60dbe9f366aeff48599fac45f6d32ac1f3ec0e
-SHA256: 73cfc473879ef12ba33630bc4acc3e93bad1b282b8e9ef0bbbfc9d8bdddb6cc2
-Section: 微信插件
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信净化-rootless
-
 Package: netskao.wechatpurification
 Version: 2.2-3
 Architecture: iphoneos-arm
