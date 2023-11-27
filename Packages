@@ -238,6 +238,40 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
+Package: cn.bitilly.HBWechatHelper
+Version: 1.6.6
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.HBWechatHelper_1.6.6_iphoneos-arm.deb
+Size: 9659952
+MD5sum: 41761a307adbb9e057f6dd645f6fe471
+SHA1: a7aa89b2e0abcb56f9cc73defb853c06daadd277
+SHA256: 1ae2b698a1968385c3d0058014a93354680774cf6c06d07e974baedb64fbff2c
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信插件)
+Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+
+Package: cn.bitilly.HBWechatHelper
+Version: 1.6.6
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.6.6_iphoneos-arm64.deb
+Size: 9495320
+MD5sum: 46f19a16834c255562262cefabf45122
+SHA1: b0312c04b7bd34b3717d0875b0d06bee808ff91a
+SHA256: bb63c7429997d8d393ac25daf3f2ad7b0dacdf08344346410ea32321aaf635d8
+Section: 微信插件
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 黄白助手(微信插件)-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+
 Package: cn.bitilly.SLHelper
 Version: 1.0
 Architecture: iphoneos-arm
