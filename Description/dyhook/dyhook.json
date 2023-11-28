@@ -68,6 +68,22 @@
 "tabname": "更新",
 "views": [
 {
+"title": "1.0.4",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 Add video, image, and audio analysis and remove small advertisements",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.29</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
 "title": "1.0.3",
 "useBoldText": true,
 "useBottomMargin": true,
