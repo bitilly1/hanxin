@@ -4,7 +4,7 @@
 "tintColor": "#3784d2",
 "tabs": [
 {
-"tabname": "预览",
+"tabname": "详情",
 "views": [
 {
 "itemCornerRadius": 6,
@@ -43,18 +43,18 @@
 "class": "DepictionSeparatorView"
 },
 {
-"title": "开发者",
+"title": "开发作者",
 "text": "x✨",
 "class": "DepictionTableTextView"
 },
 {
-"title": "兼容",
+"title": "兼容系统",
 "text": "13.0 - 15.4.1",
 "class": "DepictionTableTextView"
 },
 {
 "title": "支持设备",
-"text": "6S-13PM",
+"text": "6S - 13PM",
 "class": "DepictionTableTextView"
 },
 {
@@ -65,7 +65,7 @@
 "class": "DepictionStackView"
 },
 {
-"tabname": "更新",
+"tabname": "更新日志",
 "views": [
 {
 "title": "1.0.5",
