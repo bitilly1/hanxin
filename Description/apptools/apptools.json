@@ -1,178 +1,178 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/Description/apptools/apptools.jpg",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/apptools/img1.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img1.jpg"
-						},
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/apptools/img2.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img2.jpg"
-						},
-						{
-							"accessibilityText": "Search",
-							"url": "https://apt.bitilly.cn/Description/apptools/img3.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img3.jpg"
-						},
-						{
-							"accessibilityText": "Search Results",
-							"url": "https://apt.bitilly.cn/Description/apptools/img4.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img4.jpg"
-						},
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/apptools/img5.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img5.jpg"
-						},						
-						
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/apptools/img1.jpg",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img1.jpg"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 特色功能\n备份应用、自定图标、锁定高刷、清理缓存、清理角标、自定义分辨率、禁止插件注入等强大的App类辅助插件，系付费插件，点下面授权激活优惠5元。"
-				},
-				{
-					"title": "激活授权",
-					"action": "https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003127650346%26chInfo%3DCTerminalShare%26page%3Dpages%252FgoToCTerminal%252Findex%253Fpid%253D2088502810731355%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DD779648F-26A2-4C32-9C26-7F3C3968B698%26shareBizType%3DztokenV0_zRCswMEt",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "aReo",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "14.0 - 14.9",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-12PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "AppTools14 v2.0.6",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-            {
-					"markdown": "\t\n\u2023 新增隐藏应用商店更新。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-            	{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.29</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-			   },
-            {
-					"title": "AppTools14 v2.0.5",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-            {
-					"markdown": "\t\n\u2023 修复恢复图标安全模式问题。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-            	{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.17</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-			   },
-            {
-					"title": "AppTools14 v2.0.4",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 1、修复紧致角标不立即生效问题；2、修复备份文档问题。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-            	{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.11</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-			   },
-            {
-					"title": "AppTools14 v2.0.3",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 1、重新编译，极致优化，增强稳定性，解决可能内存泄露溢出等导致无故注销潜在问题；2、修复功能菜单显示不完整等异常问题；3、修复后台、禁止注入功能无法开启问题；4、解决解锁屏幕后可能卡顿掉帧的问题。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-            	{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.06.28</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-			   {
-					"title": "AppTools14 v2.0.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 1、新增白灰和黑灰UI菜单；2、修复文件夹菜单崩溃问题；3、优化编译,解决可能无故注销等问题。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.06.28</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/Description/apptools/apptools.jpg",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/apptools/img1.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img1.jpg"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/apptools/img2.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img2.jpg"
+},
+{
+"accessibilityText": "Search",
+"url": "https://apt.bitilly.cn/Description/apptools/img3.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img3.jpg"
+},
+{
+"accessibilityText": "Search Results",
+"url": "https://apt.bitilly.cn/Description/apptools/img4.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img4.jpg"
+},
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/apptools/img5.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img5.jpg"
+},
+
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/apptools/img1.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/apptools/img1.jpg"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 特色功能\n备份应用、自定图标、锁定高刷、清理缓存、清理角标、自定义分辨率、禁止插件注入等强大的App类辅助插件，系付费插件，点下面授权激活优惠5元。"
+},
+{
+"title": "激活授权",
+"action": "https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003127650346%26chInfo%3DCTerminalShare%26page%3Dpages%252FgoToCTerminal%252Findex%253Fpid%253D2088502810731355%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DD779648F-26A2-4C32-9C26-7F3C3968B698%26shareBizType%3DztokenV0_zRCswMEt",
+"class": "DepictionTableButtonView"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "aReo",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "14.0 - 14.9",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 12PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "AppTools14 v2.0.6",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 新增隐藏应用商店更新。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.29</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
+"title": "AppTools14 v2.0.5",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 修复恢复图标安全模式问题。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.17</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
+"title": "AppTools14 v2.0.4",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 1、修复紧致角标不立即生效问题；2、修复备份文档问题。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.11</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
+"title": "AppTools14 v2.0.3",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 1、重新编译，极致优化，增强稳定性，解决可能内存泄露溢出等导致无故注销潜在问题；2、修复功能菜单显示不完整等异常问题；3、修复后台、禁止注入功能无法开启问题；4、解决解锁屏幕后可能卡顿掉帧的问题。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.06.28</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
+"title": "AppTools14 v2.0.2",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 1、新增白灰和黑灰UI菜单；2、修复文件夹菜单崩溃问题；3、优化编译,解决可能无故注销等问题。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.06.28</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }
