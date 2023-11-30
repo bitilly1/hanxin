@@ -1,91 +1,91 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/images/Showcase.png",
-							"fullSizeURL": "https://apt.bitilly.cn/images/Showcase.png"
-						},
-											
-						
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/images/Showcase.png",
-								"fullSizeURL": "https://apt.bitilly.cn/images/Showcase.png"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n 哔哩哔哩净化，设置位于我的页面顶部，仅支持7.3.0及以上版本。"
-				},
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/images/Showcase.png",
+"fullSizeURL": "https://apt.bitilly.cn/images/Showcase.png"
+},
 
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "Netskao",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "9.0 - 15.4.1",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-13PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "1.2-6",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 保存版本",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.18</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/images/Showcase.png",
+"fullSizeURL": "https://apt.bitilly.cn/images/Showcase.png"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n 哔哩哔哩净化，设置位于我的页面顶部，仅支持7.3.0及以上版本。"
+},
+
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "Netskao",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "9.0 - 15.4.1",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "自用版本1.2-6",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 保存版本",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.18</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }

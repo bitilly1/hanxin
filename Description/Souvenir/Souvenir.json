@@ -1,95 +1,95 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png"
-						},						                {
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase2.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase2.png"
-						},
-											
-						
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n锁定屏幕自定义调整！"
-				},
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png"
+},						                {
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase2.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase2.png"
+},
 
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "Elio Feghali",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "14.0 - 15.7.8",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-13PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "1.22",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 •添加了自定义手电筒图标颜色选项•添加了自定义相机图标颜色选项",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.2</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Souvenir/Showcase.png"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n锁定屏幕自定义调整！"
+},
+
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "Elio Feghali",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "14.0 - 15.7.8",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "免费版1.22",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 •添加了自定义手电筒图标颜色选项•添加了自定义相机图标颜色选项",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.2</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }

@@ -1,128 +1,128 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/Description/ENA/Head.jpg",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/ENA/Showcase1.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase1.jpg"
-						},
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/ENA/Showcase2.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase2.jpg"
-						},
-						{
-							"accessibilityText": "Search",
-							"url": "https://apt.bitilly.cn/Description/ENA/Showcase3.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase3.jpg"
-						},
-						{
-							"accessibilityText": "Search Results",
-							"url": "https://apt.bitilly.cn/Description/ENA/Showcase4.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase4.jpg"
-						},
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/ENA/Showcase5.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase5.jpg"
-						},	
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/ENA/Showcase6.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase6.jpg"
-						},					
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/ENA/Showcase1.jpg",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase1.jpg"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n ENA几乎可以提取你照片中的任何内容。您只需要：•打开照片app•打开您的照片•长按所需对象；ENA可以提取给定位置的显著对象，而不是提取图像中最显著的对象；所有的计算任务都在设备上执行，ENA已在iOS 15.4（Palera1n）上进行了测试。"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "xia0",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "14.0 - 16.5.1",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-13PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "1.0.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 • 减少了调整的大小• 检测对象时更准确• 添加了共享表以共享检测到的对象。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.10</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},				{
-					"title": "1.0.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 ENA 几乎可以提取照片中的所有内容。您所需要做的就是：• 打开照片应用程序• 打开您的照片• 长按您想要的对象然后复制或保存该对象。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.04</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/Description/ENA/Head.jpg",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/ENA/Showcase1.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase1.jpg"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/ENA/Showcase2.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase2.jpg"
+},
+{
+"accessibilityText": "Search",
+"url": "https://apt.bitilly.cn/Description/ENA/Showcase3.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase3.jpg"
+},
+{
+"accessibilityText": "Search Results",
+"url": "https://apt.bitilly.cn/Description/ENA/Showcase4.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase4.jpg"
+},
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/ENA/Showcase5.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase5.jpg"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/ENA/Showcase6.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase6.jpg"
+},
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/ENA/Showcase1.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/ENA/Showcase1.jpg"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n ENA几乎可以提取你照片中的任何内容。您只需要：•打开照片app•打开您的照片•长按所需对象；ENA可以提取给定位置的显著对象，而不是提取图像中最显著的对象；所有的计算任务都在设备上执行，ENA已在iOS 15.4（Palera1n）上进行了测试。"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "xia0",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "14.0 - 16.5.1",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "免费版1.0.1",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 • 减少了调整的大小• 检测对象时更准确• 添加了共享表以共享检测到的对象。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.10</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},				{
+"title": "免费版1.0.0",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 ENA 几乎可以提取照片中的所有内容。您所需要做的就是：• 打开照片应用程序• 打开您的照片• 长按您想要的对象然后复制或保存该对象。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.04</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }

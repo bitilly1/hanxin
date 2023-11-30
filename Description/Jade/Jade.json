@@ -1,106 +1,106 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/Description/Jade/Head.jpg",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/Jade/Showcase1.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase1.jpg"
-						},
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/Jade/Showcase2.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase2.jpg"
-						},
-						{
-							"accessibilityText": "Search",
-							"url": "https://apt.bitilly.cn/Description/Jade/Showcase3.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase3.jpg"
-						},
-						{
-							"accessibilityText": "Search Results",
-							"url": "https://apt.bitilly.cn/Description/Jade/Showcase4.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase4.jpg"
-						},
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/Jade/Showcase5.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase5.jpg"
-						},											
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/Jade/Showcase1.jpg",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase1.jpg"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n 可定制性Jade有许多可供狂热爱好者定制的选项，与Prysm主题的互动性为Jade的主题化提供了一种无缝接壤的体验。所包含的模块在颜色和位置方面也非常可定制。"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/Description/Jade/Head.jpg",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Jade/Showcase1.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase1.jpg"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/Jade/Showcase2.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase2.jpg"
+},
+{
+"accessibilityText": "Search",
+"url": "https://apt.bitilly.cn/Description/Jade/Showcase3.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase3.jpg"
+},
+{
+"accessibilityText": "Search Results",
+"url": "https://apt.bitilly.cn/Description/Jade/Showcase4.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase4.jpg"
+},
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Jade/Showcase5.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase5.jpg"
+},
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Jade/Showcase1.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Jade/Showcase1.jpg"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n 可定制性Jade有许多可供狂热爱好者定制的选项，与Prysm主题的互动性为Jade的主题化提供了一种无缝接壤的体验。所包含的模块在颜色和位置方面也非常可定制。"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
 "text": "Nightwind and thetimeloop",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "15.0 - 16.5",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-13PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "1.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 共享版本",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.09</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "15.0 - 16.5",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "免费版1.0",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 保存版本",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.09</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }

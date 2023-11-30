@@ -1,133 +1,133 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/Description/snapper3/Head.png",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase1.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase1.png"
-						},
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase2.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase2.png"
-						},
-						{
-							"accessibilityText": "Search",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase3.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase3.png"
-						},
-						{
-							"accessibilityText": "Search Results",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase4.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase4.png"
-						},
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase5.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase5.png"
-						},	
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase6.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase6.png"
-						},
-						{
-							"accessibilityText": "Search",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase7.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase7.png"
-						},
-						{
-							"accessibilityText": "Search Results",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase8.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase8.png"
-						},
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase9.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase9.png"
-						},					
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/snapper3/Showcase10.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase10.png"
-						},						
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/snapper3/Showcase1.png",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase1.png"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n固定裁剪的屏幕截图以显示应用程序中的信息\n即时复制、共享和保存屏幕的裁剪选择\n对照片和屏幕截图中的文本执行OCR\n直接从屏幕扫描二维码\n访问Snapper 3历史记录以查看保存的图像\n将图像直接上传到Imgur\n利用Translomatic、Tranzlo和HammerIt等插件进行文本翻译/管理。"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "jontelang",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "14.0 - 16.5",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-13PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "1.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 免费版",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.18</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/Description/snapper3/Head.png",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase1.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase1.png"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase2.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase2.png"
+},
+{
+"accessibilityText": "Search",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase3.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase3.png"
+},
+{
+"accessibilityText": "Search Results",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase4.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase4.png"
+},
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase5.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase5.png"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase6.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase6.png"
+},
+{
+"accessibilityText": "Search",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase7.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase7.png"
+},
+{
+"accessibilityText": "Search Results",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase8.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase8.png"
+},
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase9.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase9.png"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase10.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase10.png"
+},
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/snapper3/Showcase1.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/snapper3/Showcase1.png"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n固定裁剪的屏幕截图以显示应用程序中的信息\n即时复制、共享和保存屏幕的裁剪选择\n对照片和屏幕截图中的文本执行OCR\n直接从屏幕扫描二维码\n访问Snapper 3历史记录以查看保存的图像\n将图像直接上传到Imgur\n利用Translomatic、Tranzlo和HammerIt等插件进行文本翻译/管理。"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "jontelang",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "14.0 - 16.5",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "免费版1.0",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 保存版本",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.18</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }

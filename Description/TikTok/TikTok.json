@@ -1,93 +1,93 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG"
-						}
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 特色功能\n TikTok保存无水印视频，点击原始共享按钮使用，可以在设置页面上选择TikTok区域，仅支持20.7.0及以上版本。"
-				},
-				{
-					"title": "已注入版",
-					"action": "https://www.123pan.com/s/DuR5Vv-NwJwve.html",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "Netskao",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "11.0 - 14.9",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-12PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "TikTokhooks1.1-4",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 保存版本。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.06</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG",
+"fullSizeURL": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG"
+}
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG",
+"fullSizeURL": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 特色功能\n TikTok保存无水印视频，点击原始共享按钮使用，可以在设置页面上选择TikTok区域，仅支持20.7.0及以上版本。"
+},
+{
+"title": "已注入版",
+"action": "https://www.123pan.com/s/DuR5Vv-NwJwve.html",
+"class": "DepictionTableButtonView"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "Netskao",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "11.0 - 14.9",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 12PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "TikTokhooks1.1-4",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 保存版本。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.06</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }

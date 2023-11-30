@@ -1,127 +1,127 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png"
-						},
-											
-						
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。"
-				},
-				{
-					"title": "已注入版",
-					"action": "https://www.123pan.com/s/DuR5Vv-fYJwv.html",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "bitilly",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "7.0 - 15.4.1",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-13PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "正式版1.0.2",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 新增去除首次打开软件接单设置弹窗",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.04</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "正式版1.0.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 新增屏蔽越狱",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.05.22</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "测试版1.0.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 新发版本",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.05.18</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png"
+},
+
+
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。"
+},
+{
+"title": "已注入版",
+"action": "https://www.123pan.com/s/DuR5Vv-fYJwv.html",
+"class": "DepictionTableButtonView"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "bitilly",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "7.0 - 15.4.1",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "正式版1.0.2",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 新增去除首次打开软件接单设置弹窗",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.04</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
+"title": "正式版1.0.1",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 新增屏蔽越狱",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.05.22</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
+"title": "测试版1.0.0",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 新发版本",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.05.18</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }

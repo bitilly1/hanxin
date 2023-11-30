@@ -1,103 +1,103 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/douyin/IMG_0551.JPG",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/douyin/IMG_0551.JPG"
-						},
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://apt.bitilly.cn/Description/douyin/IMG_0550.JPG",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/douyin/IMG_0550.JPG"
-						},
-						{
-							"accessibilityText": "Search",
-							"url": "https://apt.bitilly.cn/Description/douyin/IMG_0549.JPG",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/douyin/IMG_0549.JPG"
-						}
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/douyin/IMG_0551.JPG",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/douyin/IMG_0551.JPG"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 特色功能\n抖音净化！设置位于抖音-设置，仅支持15.7.0至19.2.0版本，其它版本测试会闪退。"
-				},
-				{
-					"title": "旧版抖音",
-					"action": "https://www.123pan.com/s/DuR5Vv-NwJwv.html",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "Netskao",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "9.0 - 15.4.1",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-13PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "抖音净化 2.3-4",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 保存版本。",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.10.30</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/douyin/IMG_0551.JPG",
+"fullSizeURL": "https://apt.bitilly.cn/Description/douyin/IMG_0551.JPG"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/douyin/IMG_0550.JPG",
+"fullSizeURL": "https://apt.bitilly.cn/Description/douyin/IMG_0550.JPG"
+},
+{
+"accessibilityText": "Search",
+"url": "https://apt.bitilly.cn/Description/douyin/IMG_0549.JPG",
+"fullSizeURL": "https://apt.bitilly.cn/Description/douyin/IMG_0549.JPG"
+}
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/douyin/IMG_0551.JPG",
+"fullSizeURL": "https://apt.bitilly.cn/Description/douyin/IMG_0551.JPG"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 特色功能\n抖音净化！设置位于抖音-设置，仅支持15.7.0至19.2.0版本，其它版本测试会闪退。"
+},
+{
+"title": "旧版抖音",
+"action": "https://www.123pan.com/s/DuR5Vv-NwJwv.html",
+"class": "DepictionTableButtonView"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "Netskao",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "9.0 - 15.4.1",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "抖音净化 2.3-4",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 保存版本。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.10.30</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }
