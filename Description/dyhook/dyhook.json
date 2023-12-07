@@ -68,6 +68,22 @@
 "tabname": "更新日志",
 "views": [
 {
+"title": "1.0.8",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 新增一些小功能",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.07</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+{
 "title": "1.0.7",
 "useBoldText": true,
 "useBottomMargin": true,
