@@ -1120,6 +1120,23 @@ Icon: https://apt.bitilly.cn/Description/medusa/Icon.png
 Name: 美杜莎-rootless
 Sileodepiction: https://apt.bitilly.cn/Description/medusa/medusa.json
 
+Package: cn.bitilly.milkyway3
+Version: 0.2.15
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/rootfull/cn.bitilly.milkyway3_0.2.15_iphoneos-arm.deb
+Size: 55492
+MD5sum: 9a1b9430a5e024af44d8b0c637c2e0ca
+SHA1: 0d96ec5787eeb0f4b30a81d6aca7dcc9d76fcf92
+SHA256: cfcd67dc50686fc5c1bb9c3e788b2cb1d076c177984718e67f4b211e87c80e38
+Section: 分屏工具
+Description: iOS 14-15的多任务处理。
+Author: akusio
+Icon: https://apt.bitilly.cn/Description/MilkyWay3/icon.png
+Name: MilkyWay3 (iOS 14 - 15)
+Sileodepiction: https://apt.bitilly.cn/Description/MilkyWay3/MilkyWay3.json
+
 Package: cn.bitilly.nobetaalert
 Version: 1.0.0
 Architecture: iphoneos-arm
