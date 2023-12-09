@@ -1428,6 +1428,23 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 虚拟视频
 Sileodepiction: https://apt.bitilly.cn/Description/xnsp/xnsp.json
 
+Package: cn.bitilly.zetsu
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Dcsyhi
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, firmware (>= 14.0), com.lacertosusrepo.libdeusprefs (>= 1.0), com.a3tweaks.flipswitch, libactivator
+Filename: ./debs/rootfull/cn.bitilly.zetsu_1.4.1_iphoneos-arm.deb
+Size: 1620280
+MD5sum: bd972476d1d79976901d69ab776ebeb1
+SHA1: 3ad0d3d0bed8a43d3ddbfbb5ec5da16d6030d179
+SHA256: 532673bccb14a87885607136b9412004b1171ce09add7609a4dbd505f7e470f8
+Section: 分屏工具
+Description: iOS14.x上的多任务处理
+Author: Dcsyhi
+Icon: https://apt.bitilly.cn/Description/zetsu/icon.png
+Name: Zetsu
+Sileodepiction: https://apt.bitilly.cn/Description/zetsu/zetsu.json
+
 Package: com.25mao.MiYou
 Version: 3.6-6
 Architecture: iphoneos-arm
