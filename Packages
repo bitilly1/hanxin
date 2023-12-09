@@ -1110,10 +1110,10 @@ Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/cn.bitilly.medusa_1.1_iphoneos-arm64.deb
 Size: 3636
-MD5sum: 178074a7142454832945b4aa4f3935f0
-SHA1: b8b67140b43ac2a5b6593fc6f939e39dbebd934b
-SHA256: e450848599d8c98ac6275f9515d969c4805716cdb404f44112335527c90edac3
-Section: 功能助手
+MD5sum: 159cd8082ef892a16fe0ac49e20fd123
+SHA1: bc713e6b9e8c218eed286052c466f25464348f22
+SHA256: 723891e8d98834dffc2c92153dfdfcad011d57b5f1e24865862351c4294fd963
+Section: 分屏工具
 Description: 在你的iPhone上启用“美杜莎”功能，通常称为iPad多任务功能！
 Author: uz.ra
 Icon: https://apt.bitilly.cn/Description/medusa/Icon.png
@@ -1208,6 +1208,24 @@ Description: 一个更好的多任务处理方式！修复对iOS14-iOS15的支�
 Author: c1d3r
 Icon: https://apt.bitilly.cn/Description/PullOverPro/icon.png
 Name: PullOver Pro
+Sileodepiction: https://apt.bitilly.cn/Description/PullOverPro/pulloverpro.json
+
+Package: cn.bitilly.pulloverpro
+Version: 2.1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/rootless/cn.bitilly.pulloverpro_2.1.4-1_iphoneos-arm64.deb
+Size: 904572
+MD5sum: 346ab1d87a8fc9168c711ac18b3adbdb
+SHA1: 714237d6ad0039ad7299b454cef937337491b911
+SHA256: eed36205d62441d2d55742fd727140b61e937945e38a47b9ac7ab66b575f961d
+Section: 分屏工具
+Description: 一个更好的多任务处理方式！修复对iOS15的支持+
+Author: c1d3r
+Icon: https://apt.bitilly.cn/Description/PullOverPro/icon.png
+Name: PullOver Pro-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/PullOverPro/pulloverpro.json
 
 Package: cn.bitilly.qqpurification
@@ -2437,11 +2455,11 @@ Maintainer: lzsxcl
 Installed-Size: 17640
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_4.1_iphoneos-arm.deb
-Size: 9213288
-MD5sum: af4d4c89783017ab102a3f70252dbb78
-SHA1: 4a1cd00fb15743407785642c6f11cfd1a735f107
-SHA256: 6f3a8f6955d110409f311c320e53c3f1fdac4ed9cb5fd0baf7836004ee9b3acb
-Section: 功能助手
+Size: 9213924
+MD5sum: 62ac5dc27075156df72fa1f2fa6d4719
+SHA1: a4922ff11c424812e84218ddac0b0872fb6ad552
+SHA256: f83e86f3197b460d89af585ad3fc7bed19063a3ae7aa76edeb07c688802c1bdc
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2456,11 +2474,11 @@ Maintainer: lzsxcl
 Installed-Size: 17592
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_4.1.1_iphoneos-arm.deb
-Size: 9208432
-MD5sum: e3b271892d88e6cb0ac57ebd37cf1fe0
-SHA1: 6b04af539c66fd0ad8444fbb7ecf63cbe2de0075
-SHA256: 07326254321739ce673754f16f93e4df8247c499515ec103bc71411f2471ae7e
-Section: 功能助手
+Size: 9209232
+MD5sum: 4c68107880baa162130b92e57afc626a
+SHA1: c14bd5aaecaab219bea9bb172cc46b7549662b1e
+SHA256: f8d9652b733b166cc18e992b967d70a8342c48be761febd62b1f4725995c2b68
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2475,11 +2493,11 @@ Maintainer: lzsxcl
 Installed-Size: 20008
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_5.0-14_iphoneos-arm.deb
-Size: 10540688
-MD5sum: 59902369c0ad82fd5798cf4110691a8b
-SHA1: 92a28024af3259fe40397542dea1a1dcf7f79902
-SHA256: a9291114365db3f1705048fbe2a72ea1136e4768dd28b186730fa672704746c5
-Section: 功能助手
+Size: 10540592
+MD5sum: e5ecbbdf190672015667961a3c47143d
+SHA1: 1f252e9d22c09dafa2e02e8df12c5c021e9b8597
+SHA256: 8f876d4c1f45364124031a2b73b0fcacf6adf0774604c899ca0489775e29500f
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2493,11 +2511,11 @@ Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_5.1-1_iphoneos-arm.deb
-Size: 10349420
-MD5sum: 516454a287ffb4ef3c4232eb41bb71df
-SHA1: 6e44969e6fa91717a7fa43a4b39f959058b87d2d
-SHA256: 1cc9a0520b0102c01c9692ef9ebd88aac817338ce2498fdba50fed6eba49d4ec
-Section: 功能助手
+Size: 10349504
+MD5sum: 080f5c835540df045e6dee6b176969ff
+SHA1: b8ddd9dadd75b2f4ae86c67c7602d7b8b585e7b1
+SHA256: bdc06a2a5ff7cc946c3924f7f06ae3e65e227e64fb4333b12920722dee6753fa
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2512,11 +2530,11 @@ Maintainer: lzsxcl
 Installed-Size: 18788
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_5.2-2_iphoneos-arm.deb
-Size: 10363340
-MD5sum: 3b8e3192e12b6edbf94e07a904f271fd
-SHA1: 530df492d4677e56c9b4fd1b4da22792e45b60be
-SHA256: 2e9ab4883231d12b8c2731dff9c70f7c3238d8beca6213c1683e77aa1f0e6c6f
-Section: 功能助手
+Size: 10363268
+MD5sum: e49b30d4936fb0304157ed12dc030793
+SHA1: 271fc818c0df5e6965159029309e6425d3c10fae
+SHA256: ac114b857be6e2f858df1090df6bbdac38f2e61e22d54961322188b3acc63da6
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2531,11 +2549,11 @@ Maintainer: lzsxcl
 Installed-Size: 18820
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_5.2-4_iphoneos-arm.deb
-Size: 10368936
-MD5sum: 7dc0fcf8512232b954b1b346217f004d
-SHA1: d64232e2bf13e3caca38c953ae25516721cd1051
-SHA256: 5302621c085e3dea1d508937d5bbeaad3db30a854753cb5224323dc5b56f7f3d
-Section: 功能助手
+Size: 10368176
+MD5sum: 9c4c290dd05ac140c3687e53ed9dc129
+SHA1: a30337c7daa529ef961e773759fa8371c89aa410
+SHA256: 8e31e2612c82a87d5ed71f04a6082d7d2973322dadd17d06bfa166f4efeeff81
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2550,11 +2568,11 @@ Maintainer: lzsxcl
 Installed-Size: 22884
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_6.0.1_iphoneos-arm.deb
-Size: 13885220
-MD5sum: 23919fb1a2bb25e2734fc4179e4c16d4
-SHA1: f06b0c8ecbf2ffa5ce3988268885e274e061ce19
-SHA256: 678371d01b30ab02db4e56c50b6b13808016b756fc39f3a8eb0c2ada52544ac7
-Section: 功能助手
+Size: 13885948
+MD5sum: 63f2068f28a84e2031b1d86caad335fa
+SHA1: 860fd2b6cc126c6beef7fbb8891dffacb75a59eb
+SHA256: 8f5dcf46766b85b4f3b19b00002dd69f7227dbba4ac4669ee5c51ea632f6b430
+Section: 分屏工具
 Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2569,11 +2587,11 @@ Maintainer: lzsxcl
 Installed-Size: 30940
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootfull/xc.lzsxcl.o2_7.0_iphoneos-arm.deb
-Size: 20938748
-MD5sum: a97ce2360d9959d012fb3a97c42d0726
-SHA1: 2f6a83ae4d035a501568067e2886c48eac805a9d
-SHA256: 679e71472bb61b482bd5b7854aad190a2c4b41afde73a91c0513850c288afea3
-Section: 功能助手
+Size: 20939072
+MD5sum: 17eba7517c48a3e6863d9b659553549f
+SHA1: 2d63acf78470644c68742a4d76227e868dfd1baa
+SHA256: 5bc73e45d26974438cf29d4546b14a18526d0198cc79d5a4efc6cfff2a5e85d2
+Section: 分屏工具
 Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2588,11 +2606,11 @@ Maintainer: lzsxcl
 Installed-Size: 17656
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_4.1_iphoneos-arm64.deb
-Size: 9225044
-MD5sum: d09af08a42b3ac36aaff0a4e4a3afe67
-SHA1: fb481eefb3f42fd6893b8bd840f2aa61690307bf
-SHA256: 29c57263af27e2968e86dc961e06c5fbce8c6180b05e7a5d42c5aa3452ba7d93
-Section: 功能助手
+Size: 9222208
+MD5sum: df488fe1c716338fa3cdd9f22cb091a1
+SHA1: 21c4c120484f602b6b8a3339195beda2229c05e2
+SHA256: 64d595411119de38be8d0db7ae92c31251c832337376c420ccf18ced17b241a0
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2607,11 +2625,11 @@ Maintainer: lzsxcl
 Installed-Size: 17656
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_4.1.1_iphoneos-arm64.deb
-Size: 9224312
-MD5sum: cee7ee06e8376849d50e0a9d2bd98593
-SHA1: b259282f7ecc8e3b4a050cc5e74e9189595ee3bb
-SHA256: 9f0b5390bad4ea71d3064644f13bc20ef006cbd07476c4b2218cff2a3ebf0df6
-Section: 功能助手
+Size: 9225512
+MD5sum: a5b90596aaeddfe2ca85618b66f848ae
+SHA1: ff1a4442f0c816200b3c68cdcd549718f1a6de38
+SHA256: add026947c79eb06b448172354bf7c99dce6e78b988ecd68ac5d0969b97aa603
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2626,11 +2644,11 @@ Maintainer: lzsxcl
 Installed-Size: 20104
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.0-1061_iphoneos-arm64.deb
-Size: 10577004
-MD5sum: 72955a8711cb53b59ff4a1e9ffff3633
-SHA1: d1c33474c99a78d35ae2e1f25d12b8b1dd663001
-SHA256: b545dfa28eb1bf1d9106bb9db5c598049fe16de5e4e7e22ffc5c246cb7038240
-Section: 功能助手
+Size: 10579348
+MD5sum: a01440fc85c2b1a4cd24cae681d8090b
+SHA1: 5ba69e362b11e779c0877d77b5485b15fc0d2e6e
+SHA256: bb326ac58c2ccd63a08b8bcb8bea62217d9e3aa0b862c58bb9e2ed8e466ab710
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2644,11 +2662,11 @@ Architecture: iphoneos-arm64
 Maintainer: lzsxcl
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.1-11_iphoneos-arm64.deb
-Size: 10355608
-MD5sum: 93777f3b4695b023e00f3eb2b6528bb2
-SHA1: 3320c2c6d4be45d0ef701073e2e360590018ff93
-SHA256: 5db97facd8531201de7906ded8e266c28e0059b96570660bbc9e3e4169fd2d6c
-Section: 功能助手
+Size: 10356456
+MD5sum: 111d7b336a330047bf429617c3881a02
+SHA1: 3003ccd26ed9d21005e3db8ebe36a64f484eba3b
+SHA256: 2e8dcf8ec7af92078823b450e434ff275d4bd596f8a4098e9981617781fc3938
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2663,11 +2681,11 @@ Maintainer: lzsxcl
 Installed-Size: 18820
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.2-3_iphoneos-arm64.deb
-Size: 10366912
-MD5sum: d6dd0f1784f5ea29386f368398c41c82
-SHA1: 4eef2d3770c78f60918ddcb44664a7a02cc2d606
-SHA256: f9c08c12eb66de0a545391a31b10b664dc05a6f0d4c4c653871070ae6c09132a
-Section: 功能助手
+Size: 10365432
+MD5sum: 9e7206ff3b35c9b3f7059f4847dfbc1b
+SHA1: 0d9a36a7f372e45b94d2c0c8edc2fa4eea96589c
+SHA256: e71308f968c70bc5f19e97654bc33f96c149bdebb211e4b46d499cabed7fe7f4
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2682,11 +2700,11 @@ Maintainer: lzsxcl
 Installed-Size: 18820
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.2-5_iphoneos-arm64.deb
-Size: 10373812
-MD5sum: d526562af8afd6255ae38692465cb9c1
-SHA1: 5971f38f5f796af735353a270ece5993703e47a0
-SHA256: 226535ffd23ba0b82914598d03f6e0c2d9d11aabef7d00fbaf26dee489f4487c
-Section: 功能助手
+Size: 10371500
+MD5sum: 313f26b355f2202d31abddb8713bfb3c
+SHA1: 0b382d0c61be3580caf314c0d57c4737455981e4
+SHA256: 7b26392ad1f33692f375683900b482452d646ab334e543cfeb2ec7802f5cbf8d
+Section: 分屏工具
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2701,11 +2719,11 @@ Maintainer: lzsxcl
 Installed-Size: 22852
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_6.0.1_iphoneos-arm64.deb
-Size: 13882132
-MD5sum: 0513851acc0a48223b034dba539214e8
-SHA1: e7a3960c3f76b7a33b9081ca19f4cc434d00968f
-SHA256: 09051f1dfa8ac949102a5845845ac5f93c35f66feb5f476a72a80ebe4ce17766
-Section: 功能助手
+Size: 13882608
+MD5sum: fa801d9945b108062e80f4747c72860c
+SHA1: 56b9153f73849a87e5781e5e6a88c97d01d09ff4
+SHA256: 6b1a64c052480807cba95c65ecc4d945d9c555f583d56fd0eca1ceaddf1d4f07
+Section: 分屏工具
 Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
@@ -2720,11 +2738,11 @@ Maintainer: lzsxcl
 Installed-Size: 30924
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_7.0_iphoneos-arm64.deb
-Size: 20937908
-MD5sum: 5e5310a799700463769479836219f267
-SHA1: 8535e82229f8a8a8138948cb0ea8c038af837346
-SHA256: 972a4a529be186ba537e44c7789a6e87d1284474da3e74b3c19babebab4a87ce
-Section: 功能助手
+Size: 20937120
+MD5sum: 305853ff239be92f0337d8660fda4248
+SHA1: a52d5a4cca5c4439211c3a8b9986c6e52d2544d6
+SHA256: 748d9955be143dd9e077a89d94ad397bfb01c0602f2638e3057b24ee8faed338
+Section: 分屏工具
 Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
