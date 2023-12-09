@@ -2252,6 +2252,23 @@ Icon: https://apt.bitilly.cn/Description/zetsu/icon.png
 Name: Zetsu
 Sileodepiction: https://apt.bitilly.cn/Description/zetsu/zetsu.json
 
+Package: jp.dcsyhi.zetsurootless15
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/rootless/jp.dcsyhi.zetsurootless15_1.2_iphoneos-arm64.deb
+Size: 1824720
+MD5sum: faeffb761948c5aff064961e5e8681e7
+SHA1: 3516a6df66d96ae7d77493adf9e13c3100779f7d
+SHA256: e3bb1b8372a2d4930aed998aaff9130ec2a4aab137c2b9dc42af3dae93e7289a
+Section: 分屏工具
+Description: iOS15上的多任务处理。
+Author: Dcsyhi
+Icon: https://apt.bitilly.cn/Description/zetsu/icon.png
+Name: Zetsu-rootless
+Sileodepiction: https://apt.bitilly.cn/Description/zetsu/zetsu.json
+
 Package: me.lightmann.vinyl
 Version: 1.1.5
 Architecture: iphoneos-arm

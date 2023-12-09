@@ -57,7 +57,7 @@
 },
 {
 "title": "兼容系统",
-"text": "14.0 - 14.9",
+"text": "14.0 - 15.4.1",
 "class": "DepictionTableTextView"
 },
 {
@@ -76,7 +76,7 @@
 "tabname": "更新日志",
 "views": [
 {
-"title": "1.4.1",
+"title": "1.4.1有根&1.2无根",
 "useBoldText": true,
 "useBottomMargin": true,
 "class": "DepictionSubheaderView"
