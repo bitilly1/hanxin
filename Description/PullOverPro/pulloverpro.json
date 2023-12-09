@@ -1,0 +1,99 @@
+{
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/PullOverPro/knockout1.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/PullOverPro/knockout1.jpg"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/PullOverPro/knockout2.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/PullOverPro/knockout2.jpg"
+}
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/PullOverPro/knockout1.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/PullOverPro/knockout1.jpg"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/PullOverPro/knockout2.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/PullOverPro/knockout2.jpg"
+}
+
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 特色功能\n一个更好的多任务处理方式！修复对iOS14-iOS15的支持"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "c1d3r",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "14.0 - 15.4.1",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "2.1.4-1",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 保存版本。",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.09</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
+}

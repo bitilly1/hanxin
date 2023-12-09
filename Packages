@@ -1175,6 +1175,24 @@ Name: Powercuff 降低设备功耗
 Sileodepiction: https://apt.bitilly.cn/Description/Powercuff/Powercuff.json
 Sponsor: Ryan Petrich
 
+Package: cn.bitilly.pulloverpro
+Version: 2.1.4-1
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/rootfull/cn.bitilly.pulloverpro_2.1.4-1_iphoneos-arm.deb
+Size: 338300
+MD5sum: 8ffc2f3cade8ba27f72d469a25f6a571
+SHA1: 7878b41a5ba548d05775e168f749bf7c57e0cc47
+SHA256: 8c8526e7dc29d2f0980a7a329d3d26ba55230f750c632806ff2a3bd68b3b8f7c
+Section: 分屏工具
+Description: 一个更好的多任务处理方式！修复对iOS14-iOS15的支持
+Author: c1d3r
+Icon: https://apt.bitilly.cn/Description/PullOverPro/icon.png
+Name: PullOver Pro
+Sileodepiction: https://apt.bitilly.cn/Description/PullOverPro/pulloverpro.json
+
 Package: cn.bitilly.qqpurification
 Version: 2.3-3
 Architecture: iphoneos-arm
