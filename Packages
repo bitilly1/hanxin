@@ -2186,6 +2186,43 @@ Author: tuancc, Summit, Shadow-
 Icon: https://apt.h5gg.app/CydiaIcon.png
 Name: H5GG跨进程悬浮版-Rootless
 
+Package: com.snail.always120
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/rootfull/com.snail.always120_1.0.9_iphoneos-arm.deb
+Size: 152076
+MD5sum: a863ea46ff35da08f0fb17df0f558ab9
+SHA1: df4f1fd0016d024eceb15957fa386fa7ddfcbde6
+SHA256: 299e3333cbbfaa8217abda81e26bc8ce9a86c4b32a51c9f525440933a53d7633
+Section: 功能助手
+Description: 使iOS 15越狱高刷机型自适应/锁定120HZ。 Make iOS 15 ProMotion Devices auto-adpat/reach to 120Hz.
+Author: Snail <mu514983786@gmail.com>
+Icon: https://apt.bitilly.cn/Description/Always120/icon.png
+Name: Always120
+Sileodepiction: https://apt.bitilly.cn/Description/Always120/always120.json
+
+Package: com.snail.always120.rootless
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Snail
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/rootless/com.snail.always120.rootless_1.1.0_iphoneos-arm64.deb
+Size: 156264
+MD5sum: afc984522187d2f430d761cd981859bf
+SHA1: bbca5c7164ef37339e915f076b26a4a97b2c6ea6
+SHA256: 27918d90ce157942e56b28d61130d74407defec0ab0a0ab82359c0f402f5bf6b
+Section: 功能助手
+Description: 使iOS 15越狱高刷机型自适应/锁定120HZ。 Make iOS 15 ProMotion Devices auto-adpat/reach to 120Hz.
+Author: Snail
+Icon: https://apt.bitilly.cn/Description/Always120/icon.png
+Name: Always120-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/Always120/always120.json
+Sponsor: Snail
+
 Package: com.sutuplus.release
 Version: 5.3.5-1
 Architecture: iphoneos-arm

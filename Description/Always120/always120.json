@@ -1,0 +1,126 @@
+{
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/Description/Always120/IMG_0884.WEBP",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "详情",
+"views": [
+{
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0885.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0885.WEBP"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0886.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0886.WEBP"
+},
+{
+"accessibilityText": "Search",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0887.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0887.WEBP"
+},
+{
+"accessibilityText": "Search Results",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0888.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0888.WEBP"
+},
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0889.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0889.WEBP"
+},
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0885.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0885.WEBP"
+},
+{
+"accessibilityText": "Recently Viewed",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0886.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0886.WEBP"
+},
+{
+"accessibilityText": "Search",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0887.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0887.WEBP"
+},
+{
+"accessibilityText": "Search Results",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0888.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0888.WEBP"
+},
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/Always120/IMG_0889.WEBP",
+"fullSizeURL": "https://apt.bitilly.cn/Description/Always120/IMG_0889.WEBP"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n 插件背景：众所周知苹果在iPhone 13 Pro以上支持了高刷，但是很多三方APP没有适应120Hz，并且系统会因为续航等固定为80HZ。\n插件功能：在iOS 15系统上，全局所有APP自适应120HZ，视图运动时帧率120Hz，静止时0Hz；也可以针对APP锁定120Hz，锁定后任何时候都是120Hz。\n插件支持：iOS 15越狱都支持，支持高刷类机型iPhone 13 Pro/Pro Max。（非高刷机型，能有效稳定自适应/锁定在60Hz，即非高刷机型也可强制到最大刷新率60Hz，测试机型iPhone xR 15.1/ iPhone X 16.1.2）。"
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发作者",
+"text": "Snail",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容系统",
+"text": "14.0 - 16.5.1",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S - 13PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新日志",
+"views": [
+{
+"title": "有根版1.0.9&无根包1.1.0",
+"useBoldText": true,
+"useBottomMargin": true,
+"class": "DepictionSubheaderView"
+},
+{
+"markdown": "\t\n\u2023 保存版本",
+"useSpacing": false,
+"class": "DepictionMarkdownView"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.12</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
+}
