@@ -1146,10 +1146,10 @@ Maintainer: x✨
 Installed-Size: 908
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/cn.bitilly.dyhook_1.1.4_iphoneos-arm.deb
-Size: 247236
-MD5sum: f8f7aea88ef5a864e14bfa1bebc0cb52
-SHA1: 8d4c99cfbf62dbb762fcc6fd3e329e391d70f054
-SHA256: e69272f7157147cd26981b3afeeba01edb0d6abc698b5ce8b29a1b1bc9af423e
+Size: 247564
+MD5sum: 8b986b198b7d68bf1d47b969d52f751a
+SHA1: cc04d593a6fa3bc45a442b863ed07f1a581cc21d
+SHA256: 44fa631fdf22b8a86db586011accda4534954eb405b1a3daf43d1c1de0c5932b
 Section: 软件优化
 Description: 首页视频界面双指双击弹出设置UI--测试群里大佬制作
 Author: x✨
@@ -1161,13 +1161,13 @@ Package: cn.bitilly.dyhook
 Version: 1.1.4
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 924
+Installed-Size: 908
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/cn.bitilly.dyhook_1.1.4_iphoneos-arm64.deb
-Size: 247404
-MD5sum: 3e1c69087d9e1edfa2cb9e9ee40d589b
-SHA1: 535a90523aed75a03b43b4d79c8b9d75469946ac
-SHA256: e82affdd50ecdedd8d2e621081f69d5b091e0dfd2627f6310d15331dc4ae8efd
+Size: 248276
+MD5sum: ec40f89ce3a3fc83b50a1d07ef00e499
+SHA1: f1da634fd3ace58180e64cf4485c3e318fe1ee0d
+SHA256: 099054fa63ad228b94dde71eed7ff7ba8b4ba488a3aa879f257c7a5640d6c60d
 Section: 软件优化
 Description: 首页视频界面双指双击弹出设置UI--测试群里大佬制作
 Author: x✨
