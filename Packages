@@ -634,6 +634,24 @@ Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
 Name: 达达骑士优化
 Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
 
+Package: cn.bitilly.ddqsb
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: bitilly
+Installed-Size: 88
+Depends: firmware (>= 15.0)
+Filename: ./debs/roothide/cn.bitilly.ddqsb_1.0.2_iphoneos-arm64e.deb
+Size: 2788
+MD5sum: 78b67a5547f9855c354d1ade8aaae070
+SHA1: f95d22b9246e4d47fe2f9d7a72f4730be96325b1
+SHA256: c234c4507203707de1b076adcb20e9dcdf81b80cc73ca3379e2a75acc69b7be1
+Section: 软件优化
+Description: 屏蔽越狱检测,去除启动广告,首页横幅推荐,透明刷新,回归简洁接单模式
+Author: bitilly <985745559@qq.com>
+Icon: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/AppIcon.png
+Name: 达达骑士优化-Roothide
+Sileodepiction: https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.json
+
 Package: cn.bitilly.disableautomationnotice
 Version: 1.1-5
 Architecture: iphoneos-arm
