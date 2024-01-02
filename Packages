@@ -1622,6 +1622,23 @@ Name: Snapper 3-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/snapper3/snapper3.json
 Sponsor: jontelang
 
+Package: cn.bitilly.speedster
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Hoangdus
+Depends: firmware (>= 13.0)
+Filename: ./debs/rootfull/cn.bitilly.speedster_1.1.1_iphoneos-arm.deb
+Size: 39152
+MD5sum: a68618f45d145fca9f2e89155290bc7b
+SHA1: 4600b7ef9eb9a87e208a8d312219961bc826bc61
+SHA256: 1a4b24fdc7151e673c571fb6702ed04b476f5edd0af2d5181f06f9abad540563
+Section: 功能助手
+Description: 更快的iOS动画.
+Author: Hoangdus
+Icon: https://apt.bitilly.cn/Description/Speedster/icon.png
+Name: Speedster
+Sileodepiction: https://apt.bitilly.cn/Description/Speedster/Speedster.json
+
 Package: cn.bitilly.storeswitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
