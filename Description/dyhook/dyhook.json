@@ -35,10 +35,10 @@
 "class": "DepictionScreenshotsView"
 },
 {
-"class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n 首页视频界面双指双击弹出设置UI--测试群里大佬制作。"
-},
-
+                    "class": "DepictionMarkdownView",
+                    "markdown": " 主要功能\n 首页视频界面双指双击弹出设置UI--测试群里大佬制作。",
+                    "useSpacing": true
+                },
 {
 "class": "DepictionSeparatorView"
 },
@@ -67,29 +67,29 @@
 {
 "tabname": "更新日志",
 "views": [
-                {
-                    "class": "DepictionLayerView",
-                    "views": [
-                        {
-                            "class": "DepictionLabelView",
-                            "text": "1.1.6",
-                            "fontWeight": "bold",
-                            "fontSize": 16
-                        },
-                        {
-                            "class": "DepictionLabelView",
-                            "text": "2023-12-27",
-                            "fontWeight": "semibold",
-                            "fontSize": 16,
-                            "textColor": "#696969",
-                            "alignment": 2
-                        }
-                    ]
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- 增加移除右侧按钮长按功能(可以长按加速)\n- 增加底部隐藏(开启有说明)"
-                },
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.1.6",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "2023-12-27",
+"fontWeight": "semibold",
+"fontSize": 16,
+"textColor": "#696969",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "- 增加移除右侧按钮长按功能(可以长按加速)\n- 增加底部隐藏(开启有说明)"
+},
 {
 "title": "1.1.5",
 "useBoldText": true,
