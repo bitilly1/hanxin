@@ -11,18 +11,14 @@
 "itemSize": "{160, 275.41333333333336}",
 "screenshots": [
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png"
-},						                {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram2.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram2.png"
-},
-
-
-
-
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png"
+}
 ],
 "ipad": {
 "itemCornerRadius": 9,
@@ -40,9 +36,9 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n直接从3D菜单和偏好中添加应用程序修改版本号功能"
+"markdown": "## 主要功能\n直接从3D菜单和偏好中添加应用程序修改版本号功能。",
+"useSpacing": true
 },
-
 {
 "class": "DepictionSeparatorView"
 },
@@ -71,21 +67,29 @@
 {
 "tabname": "更新日志",
 "views": [
+"views": [
 {
-"title": "正式版2.0.3",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "正式版2.0.3",
+"fontWeight": "bold",
+"fontSize": 16
 },
 {
-"markdown": "\t\n\u2023 保存版本",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "2024.01.04",
+"fontWeight": "semibold",
+"fontSize": 16,
+"textColor": "#696969",
+"alignment": 2
+}
+]
 },
 {
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2024.01.04</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionMarkdownView",
+"markdown": "- 保存版本"
 }
 ],
 "class": "DepictionStackView"
