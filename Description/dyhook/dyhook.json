@@ -7,16 +7,14 @@
 "tabname": "详情",
 "views": [
 {
+"class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
 "itemSize": "{160, 275.41333333333336}",
 "screenshots": [
-{
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/dyhook/img_0.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/dyhook/img_0.png"
-},
-
-
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://apt.bitilly.cn/Description/dyhook/img_0.png"
+                        },
 
 
 ],
@@ -35,10 +33,10 @@
 "class": "DepictionScreenshotsView"
 },
 {
-                    "class": "DepictionMarkdownView",
-                    "markdown": " 主要功能\n 首页视频界面双指双击弹出设置UI--测试群里大佬制作。",
-                    "useSpacing": true
-                },
+"class": "DepictionMarkdownView",
+"markdown": "##主要功能\n 首页视频界面双指双击弹出设置UI--测试群里大佬制作。",
+"useSpacing": true
+},
 {
 "class": "DepictionSeparatorView"
 },
