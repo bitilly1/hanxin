@@ -18,16 +18,17 @@
 {
 "accessibilityText": "Screenshot",
 "url": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png"
-}
+},
+
+
 ],
 "ipad": {
 "itemCornerRadius": 9,
 "itemSize": "{350, 550.8266666666667}",
 "screenshots": [
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png"
 },
 ],
 "class": "DepictionScreenshotView"
@@ -67,7 +68,9 @@
 {
 "tabname": "更新日志",
 "views": [
-"views": [
+{
+"class": "DepictionLayerView",
+"views":   [
 {
 "class": "DepictionLayerView",
 "views": [
