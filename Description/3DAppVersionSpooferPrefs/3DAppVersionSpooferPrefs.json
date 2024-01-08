@@ -7,13 +7,9 @@
 "tabname": "详情",
 "views": [
 {
-"itemCornerRadius": 6,
-"itemSize": "{160, 275.41333333333336}",
-"screenshots": [
-{
 "class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
-"itemSize": "{160, 346.4533333333333}",
+"itemSize": "{160, 275.41333333333336}",
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
@@ -27,8 +23,9 @@
 "itemSize": "{350, 550.8266666666667}",
 "screenshots": [
 {
-"accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png"
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/3DAppVersionSpooferPrefs/diagram.png"
 },
 ],
 "class": "DepictionScreenshotView"
@@ -70,13 +67,10 @@
 "views": [
 {
 "class": "DepictionLayerView",
-"views":   [
-{
-"class": "DepictionLayerView",
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "正式版2.0.3",
+"text": "2.0.3",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -93,7 +87,8 @@
 {
 "class": "DepictionMarkdownView",
 "markdown": "- 保存版本"
-}
+},
+
 ],
 "class": "DepictionStackView"
 }
