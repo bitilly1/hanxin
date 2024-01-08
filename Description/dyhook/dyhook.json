@@ -103,10 +103,10 @@
 "title": "1.1.4",
 "useBoldText": true,
 "useBottomMargin": true,
-"class": "DepictionSubheaderView"
+"class": "DepictionMarkdownView"
 },
 {
-"markdown": "\t\n\u2023 新增一些小功能",
+"markdown": "\t\n\u2023 新增一些\n小功能",
 "useSpacing": false,
 "class": "DepictionMarkdownView"
 },
