@@ -68,20 +68,20 @@
 "tabname": "更新日志",
 "views": [
 {
-"title": "1.1.6",
+"text": "1.1.6",
 "useBoldText": true,
 "useBottomMargin": true,
-"class": "DepictionSubheaderView"
+"class": "DepictionLayerView"
 },
 {
-"markdown": "\t\n\u2023 修复2830抖音长按解析显示错误✨",
+"markdown": "\t\n\u2023 修复2830\n抖音长按解析显示错误✨",
 "useSpacing": false,
 "class": "DepictionMarkdownView"
 },
 {
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.27</small>",
+"text": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.27</small>",
 "useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView"
 },
 {
 "title": "1.1.5",
@@ -103,10 +103,10 @@
 "title": "1.1.4",
 "useBoldText": true,
 "useBottomMargin": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionSubheaderView"
 },
 {
-"markdown": "\t\n\u2023 新增一些\n小功能",
+"markdown": "\t\n\u2023 新增一些小功能",
 "useSpacing": false,
 "class": "DepictionMarkdownView"
 },
