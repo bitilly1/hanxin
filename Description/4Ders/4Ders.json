@@ -7,6 +7,7 @@
 "tabname": "详情",
 "views": [
 {
+"class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
 "itemSize": "{160, 275.41333333333336}",
 "screenshots": [
@@ -36,7 +37,8 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n 4Ders通过将iOS标准3x3布局增加到改进的4x4布局，使您的文件夹更大。"
+"markdown": "## 主要功能\n 4Ders通过将iOS标准3x3布局增加到改进的4x4布局，使您的文件夹更大。",
+"useSpacing": true
 },
 
 {
@@ -68,21 +70,29 @@
 "tabname": "更新日志",
 "views": [
 {
-"title": "正式版1.0.3",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.0.3",
+"fontWeight": "bold",
+"fontSize": 16
 },
 {
-"markdown": "\t\n\u2023 新发版本",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.15</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "2023.08.15",
+"fontWeight": "semibold",
+"fontSize": 16,
+"textColor": "#696969",
+"alignment": 2
 }
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "- 保存版本"
+},
+
 ],
 "class": "DepictionStackView"
 }
