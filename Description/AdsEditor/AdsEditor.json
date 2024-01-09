@@ -1,91 +1,98 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
-	"tintColor": "#3784d2",
-	"tabs": [
-		{
-			"tabname": "预览",
-			"views": [
-				{
-					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
-					"screenshots": [
-						{
-							"accessibilityText": "Featured Animes",
-							"url": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg",
-							"fullSizeURL": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg"
-						},
-											
-						
-						
-						
-					],
-					"ipad": {
-						"itemCornerRadius": 9,
-						"itemSize": "{350, 550.8266666666667}",
-						"screenshots": [
-							{
-								"accessibilityText": "Featured Animes",
-								"url": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg",
-								"fullSizeURL": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg"
-							},
-						],
-						"class": "DepictionScreenshotView"
-					},
-					"class": "DepictionScreenshotsView"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 主要功能\n视频加速，广告加速"
-				},
+"minVersion": "0.1",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"tabs": [
+{
+"tabname": "预览",
+"views": [
+{
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 275.41333333333336}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg"
+},
 
-				{
-					"class": "DepictionSeparatorView"
-				},
-				{
-					"title": "开发者",
-					"text": "@1_lj6",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "兼容",
-					"text": "11.0 - 14.8",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "支持设备",
-					"text": "6S-12PM",
-					"class": "DepictionTableTextView"
-				},				
-				{
-					"spacing": 8,
-					"class": "DepictionSpacerView"
-				}	
-			],
-			"class": "DepictionStackView"
-		},
-		{
-			"tabname": "更新",
-			"views": [
-				{
-					"title": "正式版1.1-1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},				
-				{
-					"markdown": "\t\n\u2023 新发版本",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.14</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
-			],
-			"class": "DepictionStackView"
-		}
-	],
-	"class": "DepictionTabView"
+
+
+
+],
+"ipad": {
+"itemCornerRadius": 9,
+"itemSize": "{350, 550.8266666666667}",
+"screenshots": [
+{
+"accessibilityText": "Featured Animes",
+"url": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg"
+},
+],
+"class": "DepictionScreenshotView"
+},
+"class": "DepictionScreenshotsView"
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n视频加速，广告加速",
+"useSpacing": true
+},
+
+{
+"class": "DepictionSeparatorView"
+},
+{
+"title": "开发者",
+"text": "@1_lj6",
+"class": "DepictionTableTextView"
+},
+{
+"title": "兼容",
+"text": "11.0 - 14.8",
+"class": "DepictionTableTextView"
+},
+{
+"title": "支持设备",
+"text": "6S-12PM",
+"class": "DepictionTableTextView"
+},
+{
+"spacing": 8,
+"class": "DepictionSpacerView"
+}
+],
+"class": "DepictionStackView"
+},
+{
+"tabname": "更新",
+"views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.1-1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "- 保存版本"
+},
+{
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.14</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+},
+
+],
+"class": "DepictionStackView"
+}
+],
+"class": "DepictionTabView"
 }
