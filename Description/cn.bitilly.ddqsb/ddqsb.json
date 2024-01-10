@@ -16,10 +16,6 @@
 "url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
 "fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png"
 },
-
-
-
-
 ],
 "ipad": {
 "itemCornerRadius": 9,
@@ -37,13 +33,8 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。",
+"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。\n[已注入版](https://www.123pan.com/s/DuR5Vv-fYJwv.html)",
 "useSpacing": true
-},
-{
-"title": "已注入版",
-"action": "https://www.123pan.com/s/DuR5Vv-fYJwv.html",
-"class": "DepictionTableButtonView"
 },
 {
 "class": "DepictionSeparatorView"
@@ -132,11 +123,8 @@
 "markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.05.18</small>",
 "useRawFormat": true,
 "class": "DepictionMarkdownView"
-},
-],
-"class": "DepictionStackView"
-}
-
-],
-"class": "DepictionTabView"
-}
+      }
+     ]
+    }
+   ]
+  }
