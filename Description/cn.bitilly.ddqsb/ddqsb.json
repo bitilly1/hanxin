@@ -13,7 +13,7 @@
 "screenshots": [
 {
 "accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png"
+"url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
 "fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png"
 },
 
@@ -37,7 +37,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。\n该插件无设置项，安装注销立即生效，请不要用屏蔽插件禁用注入软件"
+"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。",
 "useSpacing": true
 },
 {
