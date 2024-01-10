@@ -82,6 +82,7 @@
 "fontWeight": "bold",
 "fontSize": 16
 },
+
 {
 "class": "DepictionMarkdownView",
 "markdown": "\t\n\u2023 新增去除首次打开软件接单设置弹窗"
@@ -91,6 +92,7 @@
 "useRawFormat": true,
 "class": "DepictionMarkdownView"
 },
+]
 {
 "class": "DepictionLayerView",
 "views": [
@@ -109,6 +111,7 @@
 "useRawFormat": true,
 "class": "DepictionMarkdownView"
 },
+]
 {
 "class": "DepictionLayerView",
 "views": [
@@ -118,7 +121,6 @@
 "fontWeight": "bold",
 "fontSize": 16
 },
-]
 },
 {
 "class": "DepictionMarkdownView",
