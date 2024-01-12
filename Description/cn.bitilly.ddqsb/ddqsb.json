@@ -132,12 +132,9 @@
 "fontSize": 16
 },
 {
-"class": "DepictionLabelView",
-"text": "2023-5-20",
-"fontWeight": "semibold",
-"fontSize": 16,
-"textColor": "#696969",
-"alignment": 2
+"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.20</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
 }
 ]
 },
