@@ -128,9 +128,9 @@
 "fontSize": 16
 },
 {
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.20</small>",
+"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.5.20</small></div>",
 "useRawFormat": true,
-"alignment": 2,
+"alignment": 1,
 "class": "DepictionMarkdownView"
 }
 ]
