@@ -6,7 +6,7 @@
 "tabs": [
 {
 "class": "DepictionStackView",
-"tabname": "描述",
+"tabname": "详情",
 "views": [
 {
 "class": "DepictionScreenshotsView",
@@ -49,7 +49,7 @@
 {
 "class": "DepictionTableTextView",
 "text": "bitilly",
-"title": "作者"
+"title": "插件作者"
 },
 {
 "class": "DepictionTableTextView",
@@ -58,13 +58,13 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "7.0-16.6.1",
-"title": "支持系统范围"
+"text": "7.0 - 16.6.1",
+"title": "支持系统"
 },
 {
 "class": "DepictionTableTextView",
-"text": "2023年11月04日",
-"title": "最后更新日期"
+"text": "6S - 14PM",
+"title": "兼容设备"
 },
 {
 "class": "DepictionSpacerView",
