@@ -86,12 +86,9 @@
 "fontSize": 16
 },
 {
-"class": "DepictionLabelView",
-"text": "2023-11-04",
-"fontWeight": "semibold",
-"fontSize": 16,
-"textColor": "#696969",
-"alignment": 2
+"markdown": "\n <small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.04</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
 }
 ]
 },
@@ -109,12 +106,9 @@
 "fontSize": 16
 },
 {
-"class": "DepictionLabelView",
-"text": "2023-5-22",
-"fontWeight": "semibold",
-"fontSize": 16,
-"textColor": "#696969",
-"alignment": 2
+"markdown": "\n <small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.22</small>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
 }
 ]
 },
@@ -132,7 +126,7 @@
 "fontSize": 16
 },
 {
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.20</small>",
+"markdown": "\n <small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.20</small>",
 "useRawFormat": true,
 "class": "DepictionMarkdownView"
 }
