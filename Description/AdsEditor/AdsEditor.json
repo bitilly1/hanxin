@@ -1,73 +1,80 @@
 {
-"minVersion": "0.1",
+"class": "DepictionTabView",
 "headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
 "tintColor": "#3784d2",
+"minVersion": "0.3",
 "tabs": [
 {
-"tabname": "预览",
+"class": "DepictionStackView",
+"tabname": "详情",
 "views": [
 {
 "class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
-"itemSize": "{160, 275.41333333333336}",
+"itemSize": "{160, 346.4533333333333}",
 "screenshots": [
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg",
-"fullSizeURL": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg"
 },
 
-
-
-
-],
-"ipad": {
-"itemCornerRadius": 9,
-"itemSize": "{350, 550.8266666666667}",
-"screenshots": [
-{
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg",
-"fullSizeURL": "https://apt.bitilly.cn/Description/AdsEditor/Showcase.jpg"
-},
-],
-"class": "DepictionScreenshotView"
-},
-"class": "DepictionScreenshotsView"
+]
 },
 {
 "class": "DepictionMarkdownView",
 "markdown": "## 主要功能\n视频加速，广告加速",
 "useSpacing": true
 },
-
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
 {
 "class": "DepictionSeparatorView"
 },
 {
-"title": "开发者",
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
 "text": "@1_lj6",
-"class": "DepictionTableTextView"
+"title": "开发作者"
 },
 {
-"title": "兼容",
+"class": "DepictionTableTextView",
+"text": "1.1-1",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
 "text": "11.0 - 14.8",
-"class": "DepictionTableTextView"
+"title": "兼容系统"
 },
 {
-"title": "支持设备",
-"text": "6S-12PM",
-"class": "DepictionTableTextView"
+"class": "DepictionTableTextView",
+"text": "6S - 12PM",
+"title": "支持设备"
 },
 {
-"spacing": 8,
-"class": "DepictionSpacerView"
+"class": "DepictionSpacerView",
+"spacing": 16
 }
-],
-"class": "DepictionStackView"
+]
 },
 {
-"tabname": "更新",
+"class": "DepictionStackView",
+"tabname": "更新日志",
 "views": [
 {
 "class": "DepictionLayerView",
@@ -78,21 +85,18 @@
 "fontWeight": "bold",
 "fontSize": 16
 },
+{
+"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.08.14</small></div>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
+}
 ]
 },
 {
 "class": "DepictionMarkdownView",
 "markdown": "- 保存版本"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.14</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-
-],
-"class": "DepictionStackView"
 }
-],
-"class": "DepictionTabView"
+]
+}
+]
 }

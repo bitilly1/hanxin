@@ -56,7 +56,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.0.2",
+"text": "2.0.3",
 "title": "最新版本"
 },
 {
@@ -67,7 +67,7 @@
 {
 "class": "DepictionTableTextView",
 "text": "6S - 13PM",
-"title": "兼容设备"
+"title": "支持设备"
 },
 {
 "class": "DepictionSpacerView",
@@ -97,7 +97,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "- 新增去除首次打开软件接单设置弹窗"
+"markdown": "- 保存版本"
 }
 ]
 }

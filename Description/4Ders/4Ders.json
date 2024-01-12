@@ -1,72 +1,79 @@
 {
-"minVersion": "0.1",
+"class": "DepictionTabView",
 "headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
 "tintColor": "#3784d2",
+"minVersion": "0.3",
 "tabs": [
 {
+"class": "DepictionStackView",
 "tabname": "详情",
 "views": [
 {
 "class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
-"itemSize": "{160, 275.41333333333336}",
+"itemSize": "{160, 346.4533333333333}",
 "screenshots": [
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/4Ders/Showcase.jpg",
-"fullSizeURL": "https://apt.bitilly.cn/Description/4Ders/Showcase.jpg"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/4Ders/Showcase.jpg"
 },
 
-
-
-
-],
-"ipad": {
-"itemCornerRadius": 9,
-"itemSize": "{350, 550.8266666666667}",
-"screenshots": [
-{
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/4Ders/Showcase.jpg",
-"fullSizeURL": "https://apt.bitilly.cn/Description/4Ders/Showcase.jpg"
-},
-],
-"class": "DepictionScreenshotView"
-},
-"class": "DepictionScreenshotsView"
+]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n 4Ders通过将iOS标准3x3布局增加到改进的4x4布局，使您的文件夹更大。",
+"markdown": "## 主要功能\n4Ders通过将iOS标准3x3布局增加到改进的4x4布局，使您的文件夹显示更多。",
 "useSpacing": true
 },
-
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
 {
 "class": "DepictionSeparatorView"
 },
 {
-"title": "开发作者",
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
 "text": "Ginsu",
-"class": "DepictionTableTextView"
+"title": "开发作者"
 },
 {
-"title": "兼容系统",
+"class": "DepictionTableTextView",
+"text": "1.0.3",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
 "text": "11.0 - 14.8",
-"class": "DepictionTableTextView"
+"title": "兼容系统"
 },
 {
-"title": "支持设备",
+"class": "DepictionTableTextView",
 "text": "6S - 12PM",
-"class": "DepictionTableTextView"
+"title": "支持设备"
 },
 {
-"spacing": 8,
-"class": "DepictionSpacerView"
+"class": "DepictionSpacerView",
+"spacing": 16
 }
-],
-"class": "DepictionStackView"
+]
 },
 {
+"class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
 {
@@ -79,23 +86,17 @@
 "fontSize": 16
 },
 {
-"class": "DepictionLabelView",
-"text": "2023.08.15",
-"fontWeight": "semibold",
-"fontSize": 16,
-"textColor": "#696969",
-"alignment": 2
+"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.08.15</small></div>",
+"useRawFormat": true,
+"class": "DepictionMarkdownView"
 }
 ]
 },
 {
 "class": "DepictionMarkdownView",
 "markdown": "- 保存版本"
-},
-
-],
-"class": "DepictionStackView"
 }
-],
-"class": "DepictionTabView"
+]
+}
+]
 }
