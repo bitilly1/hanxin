@@ -86,7 +86,7 @@
 "fontSize": 16
 },
 {
-"markdown": "\n <small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.04</small>",
+"markdown": "\n\n<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.04</small>",
 "useRawFormat": true,
 "class": "DepictionMarkdownView"
 }
@@ -106,7 +106,7 @@
 "fontSize": 16
 },
 {
-"markdown": "\n <small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.22</small>",
+"markdown": "\n\n<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.22</small>",
 "useRawFormat": true,
 "class": "DepictionMarkdownView"
 }
@@ -126,7 +126,7 @@
 "fontSize": 16
 },
 {
-"markdown": "\n <small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.20</small>",
+"markdown": "\n\n<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.5.20</small>",
 "useRawFormat": true,
 "class": "DepictionMarkdownView"
 }
