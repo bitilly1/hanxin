@@ -170,7 +170,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\t\n\u2023 1、重新编译，极致优化，增强稳定性，解决可能内存泄露溢出等导致无故注销潜在问题；\t\n\u2023 \n2、修复功能菜单显示不完整等异常问题；\t\n\u2023 \n3、修复后台、禁止注入功能无法开启问题；\t\n\u2023 \n4、解决解锁屏幕后可能卡顿掉帧的问题。"
+"markdown": "\t\n\u2023 1、重新编译，极致优化，增强稳定性，解决可能内存泄露溢出等导致无故注销潜在问题；\n\n\u2023 2、修复功能菜单显示不完整等异常问题；\n\n\u2023 3、修复后台、禁止注入功能无法开启问题；\n\n\u2023 4、解决解锁屏幕后可能卡顿掉帧的问题。"
 },
 {
 "class": "DepictionLayerView",
@@ -182,9 +182,12 @@
 "fontSize": 16
 },
 {
-"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.06.28</small></div>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.06.28",
+"fontWeight": "semibold",
+"fontSize": 10,
+"textColor": "#696969",
+"alignment": 2
 }
 ]
 },
