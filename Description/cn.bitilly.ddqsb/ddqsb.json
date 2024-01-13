@@ -86,15 +86,18 @@
 "fontSize": 16
 },
 {
-"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.11.04</small></div>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.11.04",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
 }
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "- 新增去除首次打开软件接单设置弹窗"
+"markdown": "\n\u2023 新增去除首次打开软件接单设置弹窗"
 },
 {
 "class": "DepictionLayerView",
@@ -106,15 +109,18 @@
 "fontSize": 16
 },
 {
-"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.5.22</small></div>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.05.22",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
 }
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "- 新增屏蔽越狱"
+"markdown": "\n\u2023 新增屏蔽越狱"
 },
 {
 "class": "DepictionLayerView",
@@ -126,15 +132,18 @@
 "fontSize": 16
 },
 {
-"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.5.20</small></div>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.05.20",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
 }
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "- 新发版本"
+"markdown": "\n\u2023 新发版本"
 }
 ]
 }

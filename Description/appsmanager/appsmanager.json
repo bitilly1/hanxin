@@ -53,7 +53,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "自用版本1.8.2-5",
+"text": "自用1.8.2-5",
 "title": "最新版本"
 },
 {
@@ -81,14 +81,17 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "自用版本1.8.2-5",
+"text": "自用1.8.2-5",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
-"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.08.16</small></div>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.08.16",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
 }
 ]
 },

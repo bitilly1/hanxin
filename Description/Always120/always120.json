@@ -101,14 +101,17 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "有根版1.0.9&无根版1.1.0",
+"text": "有根1.0.9&无根1.1.0",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
-"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.12.12</small></div>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.12",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
 }
 ]
 },

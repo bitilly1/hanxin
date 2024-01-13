@@ -86,15 +86,18 @@
 "fontSize": 16
 },
 {
-"markdown": "<div style=\"text-align: right;\"><small style=\"color: #999;\">日志更新于 2023.08.16</small></div>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.08.16",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
 }
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\t\n\u2023 保存版本"
+"markdown": "\n\u2023 保存版本"
 }
 ]
 }

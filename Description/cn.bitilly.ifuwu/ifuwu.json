@@ -1,90 +1,105 @@
 {
-"minVersion": "0.1",
+"class": "DepictionTabView",
 "headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
 "tintColor": "#3784d2",
+"minVersion": "0.3",
 "tabs": [
 {
+"class": "DepictionStackView",
 "tabname": "详情",
 "views": [
 {
+"class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
-"itemSize": "{160, 275.41333333333336}",
+"itemSize": "{160, 346.4533333333333}",
 "screenshots": [
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.png"
 },
 
-
-
-
-],
-"ipad": {
-"itemCornerRadius": 9,
-"itemSize": "{350, 550.8266666666667}",
-"screenshots": [
-{
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ifuwu/ifuwu.png"
-},
-],
-"class": "DepictionScreenshotView"
-},
-"class": "DepictionScreenshotsView"
+]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n去除弹窗提醒。"
+"markdown": "## 主要功能\n去除弹窗提醒。",
+"useSpacing": true
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
 },
 {
 "class": "DepictionSeparatorView"
 },
 {
-"title": "开发作者",
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
 "text": "bitilly",
-"class": "DepictionTableTextView"
+"title": "开发作者"
 },
 {
-"title": "兼容系统",
+"class": "DepictionTableTextView",
+"text": "测试版1.0.0",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
 "text": "11.0 - 15.4.1",
-"class": "DepictionTableTextView"
+"title": "兼容系统"
 },
 {
-"title": "支持设备",
+"class": "DepictionTableTextView",
 "text": "6S - 13PM",
-"class": "DepictionTableTextView"
+"title": "支持设备"
 },
 {
-"spacing": 8,
-"class": "DepictionSpacerView"
+"class": "DepictionSpacerView",
+"spacing": 16
 }
-],
-"class": "DepictionStackView"
+]
 },
 {
+"class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
 {
-"title": "测试版1.0.0",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "测试版1.0.0",
+"fontWeight": "bold",
+"fontSize": 16
 },
 {
-"markdown": "\t\n\u2023 新发版本",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.05.29",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
 },
 {
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.05.29</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 保存版本"
 }
-],
-"class": "DepictionStackView"
+]
 }
-],
-"class": "DepictionTabView"
+]
 }
