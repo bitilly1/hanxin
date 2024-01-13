@@ -2467,6 +2467,24 @@ Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
 Name: AppTools15(Rootless)
 Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools15.json
 
+Package: com.flex2areo.apptools15rootless
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 1056
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.flex2areo.apptools15rootless_1.2.5_iphoneos-arm64.deb
+Size: 194720
+MD5sum: 89a2d25fa9e46d3e7b6185d31ade7f40
+SHA1: c89de7911f20f25328728183d33890d8802937c8
+SHA256: 08e966e8b5a975bf266e9062e02f4bcae0e78e87b57d52adbf60e44a7e8d703c
+Section: 功能助手
+Description: AppTools for iOS15 Rootless
+Author: aReo
+Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
+Name: AppTools15(Rootless)
+Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools15.json
+
 Package: com.ios.wechat
 Version: 1.1.5
 Architecture: iphoneos-arm
