@@ -1,68 +1,79 @@
 {
-"minVersion": "0.1",
+"class": "DepictionTabView",
 "headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
 "tintColor": "#3784d2",
+"minVersion": "0.3",
 "tabs": [
 {
+"class": "DepictionStackView",
 "tabname": "详情",
 "views": [
 {
 "class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
-"itemSize": "{160, 275.41333333333336}",
+"itemSize": "{160, 346.4533333333333}",
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
 "url": "https://apt.bitilly.cn/Description/dyhook/img_0.png"
 },
 
-
-],
-"ipad": {
-"itemCornerRadius": 9,
-"itemSize": "{350, 550.8266666666667}",
-"screenshots": [
-{
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/dyhook/img_0.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/dyhook/img_0.png"
-},
-],
-"class": "DepictionScreenshotView"
-},
-"class": "DepictionScreenshotsView"
+]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n 首页视频界面双指双击弹出设置UI--测试群里大佬制作。",
+"markdown": "## 主要功能\n首页视频界面双指双击弹出设置UI--测试群里大佬制作。",
 "useSpacing": true
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
 },
 {
 "class": "DepictionSeparatorView"
 },
 {
-"title": "开发作者",
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
 "text": "x✨",
-"class": "DepictionTableTextView"
+"title": "开发作者"
 },
 {
-"title": "兼容系统",
+"class": "DepictionTableTextView",
+"text": "1.1.6",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
 "text": "13.0 - 15.4.1",
-"class": "DepictionTableTextView"
+"title": "兼容系统"
 },
 {
-"title": "支持设备",
+"class": "DepictionTableTextView",
 "text": "6S - 13PM",
-"class": "DepictionTableTextView"
+"title": "支持设备"
 },
 {
-"spacing": 8,
-"class": "DepictionSpacerView"
+"class": "DepictionSpacerView",
+"spacing": 16
 }
-],
-"class": "DepictionStackView"
+]
 },
 {
+"class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
 {
@@ -76,245 +87,135 @@
 },
 {
 "class": "DepictionLabelView",
-"text": "2023-12-27",
+"text": "日志更新于 2023.12.27",
 "fontWeight": "semibold",
-"fontSize": 16,
-"textColor": "#696969",
+"fontSize": 12,
+"textColor": "#999",
 "alignment": 2
 }
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "- 增加移除右侧按钮长按功能(可以长按加速)\n- 增加底部隐藏(开启有说明)"
+"markdown": "\n\u2023 - 增加移除右侧按钮长按功能(可以长按加速)\n- 增加底部隐藏(开启有说明)"
 },
 {
-"title": "1.1.5",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.1.5",
+"fontWeight": "bold",
+"fontSize": 16
 },
 {
-"markdown": "\t\n\u2023 新增一些小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.21</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.1.4",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 新增一些小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.17</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.1.3",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 新增一些小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.16</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.1.2",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 新增一些小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.16</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.1.1",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 新增一些小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.16</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.1.0",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 新增一些小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.16</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.0.9",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 新增一些小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.16</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.0.8",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 新增一些小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.07</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.0.7",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 新增评论区图片双击保存",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.05</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.0.6",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 解析接口换了个更快的 旧的备用了",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.30</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.0.5",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 增加接口解析，复制文案小功能",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.29</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.0.4",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 Add video, image, and audio analysis and remove small advertisements",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.29</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.0.3",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 New Tiktok tool, transparent adjustment of layers, modification of typesetting, and addition of hidden bottom functions",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.24</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "1.0.2",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 兼容TikTok",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.11.19</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.21",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
 }
-],
-"class": "DepictionStackView"
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 新增一些小功能"
 }
-],
-"class": "DepictionTabView"
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.1.4",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.17",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 新增一些小功能"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.1.3",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.16",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 新增一些小功能"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.1.2",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.16",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 新增一些小功能"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.1.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.16",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 新增一些小功能"
+},
+
+]
+}
+]
 }
