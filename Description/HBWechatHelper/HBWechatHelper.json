@@ -1,95 +1,110 @@
 {
-"minVersion": "0.1",
+"class": "DepictionTabView",
 "headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
 "tintColor": "#3784d2",
+"minVersion": "0.3",
 "tabs": [
 {
+"class": "DepictionStackView",
 "tabname": "详情",
 "views": [
 {
+"class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
-"itemSize": "{160, 275.41333333333336}",
+"itemSize": "{160, 346.4533333333333}",
 "screenshots": [
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png"
-},						                {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase2.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase2.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png"
 },
-
-
-
-
-],
-"ipad": {
-"itemCornerRadius": 9,
-"itemSize": "{350, 550.8266666666667}",
-"screenshots": [
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase1.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/HBWechatHelper/Showcase2.png"
 },
-],
-"class": "DepictionScreenshotView"
-},
-"class": "DepictionScreenshotsView"
+
+]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n一个微信插件文本转语音以及点歌，发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包、自定义信息尾巴、自定义拍一拍、百变小尾巴、实时尾巴时间等功能"
+"markdown": "## 主要功能\n一个微信插件文本转语音以及点歌，发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包、自定义信息尾巴、自定义拍一拍、百变小尾巴、实时尾巴时间等功能",
+"useSpacing": true
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
 },
 {
 "class": "DepictionSeparatorView"
 },
 {
-"title": "开发作者",
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
 "text": "HuangBai",
-"class": "DepictionTableTextView"
+"title": "开发作者"
 },
 {
-"title": "兼容系统",
+"class": "DepictionTableTextView",
+"text": "1.6.7",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
 "text": "7.0 - 15.4.1",
-"class": "DepictionTableTextView"
+"title": "兼容系统"
 },
 {
-"title": "支持设备",
+"class": "DepictionTableTextView",
 "text": "6S - 13PM",
-"class": "DepictionTableTextView"
+"title": "支持设备"
 },
 {
-"spacing": 8,
-"class": "DepictionSpacerView"
+"class": "DepictionSpacerView",
+"spacing": 16
 }
-],
-"class": "DepictionStackView"
+]
 },
 {
+"class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
 {
-"title": "1.6.7",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.6.7",
+"fontWeight": "bold",
+"fontSize": 16
 },
 {
-"markdown": "\t\n\u2023 1.新增随机音色显示发送后的音色 2.新增禁用回到引用位置显示3.修复音乐转语音闪退的问题4.修复无法显示提示框的问题5.修复朋友圈去广告的问题6.修复长按语音无法呼出",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.13",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.12.13</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"markdown": "\n\u2023 1.新增随机音色显示发送后的音色\n\n2.新增禁用回到引用位置显示\n\n3.修复音乐转语音闪退的问题\n\n4.修复无法显示提示框的问题\n\n5.修复朋友圈去广告的问题\n\n6.修复长按语音无法呼出"
+},
+
+]
 }
-],
-"class": "DepictionStackView"
-}
-],
-"class": "DepictionTabView"
+]
 }
