@@ -3065,6 +3065,25 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
 
+Package: xc.lzsxcl.o2
+Version: 7.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 26932
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootfull/xc.lzsxcl.o2_7.1_iphoneos-arm.deb
+Size: 16901964
+MD5sum: 911a05678107ecfe1aab71cf1a1ca3d6
+SHA1: 351294a3bee3f93fea80823ad75397eeae3050d1
+SHA256: 322c805616d5bf313e5ee98fd89a26b618dac064e2202d95f2db33869611ebf2
+Section: 分屏工具
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
+
 Package: xc.lzsxcl.o2.rootless
 Version: 4.1
 Architecture: iphoneos-arm64
@@ -3208,6 +3227,25 @@ Size: 20937120
 MD5sum: 305853ff239be92f0337d8660fda4248
 SHA1: a52d5a4cca5c4439211c3a8b9986c6e52d2544d6
 SHA256: 748d9955be143dd9e077a89d94ad397bfb01c0602f2638e3057b24ee8faed338
+Section: 分屏工具
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro rootless
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
+
+Package: xc.lzsxcl.o2.rootless
+Version: 7.1
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 26932
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_7.1_iphoneos-arm64.deb
+Size: 16913028
+MD5sum: f735b217881f1245fddf3319fd94ac77
+SHA1: 2ce2128c3312f1ffb53e3d7d1d8ba1f7a9196293
+SHA256: 0bee8ab0778b53c29f1e7d7132f0853b94ef832e55c503344cde54a752b41cca
 Section: 分屏工具
 Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
 Author: lzsxcl
