@@ -1,212 +1,138 @@
 {
-"minVersion": "0.1",
+"class": "DepictionTabView",
 "headerImage": "https://apt.bitilly.cn/Description/O2pro/IMG_3753.png",
 "tintColor": "#3784d2",
+"minVersion": "0.3",
 "tabs": [
 {
+"class": "DepictionStackView",
 "tabname": "详情",
 "views": [
 {
+"class": "DepictionScreenshotsView",
 "itemCornerRadius": 6,
-"itemSize": "{160, 275.41333333333336}",
+"itemSize": "{160, 346.4533333333333}",
 "screenshots": [
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png"
 },
 {
-"accessibilityText": "Recently Viewed",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3773.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3773.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3773.png"
 },
 {
-"accessibilityText": "Search",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3774.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3774.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3774.png"
 },
 {
-"accessibilityText": "Search Results",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3775.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3775.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3775.png"
 },
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3776.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3776.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3776.png"
 },
 {
-"accessibilityText": "Recently Viewed",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3777.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3777.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3777.png"
 },
 {
-"accessibilityText": "Search",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3778.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3778.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3778.png"
 },
 {
-"accessibilityText": "Search Results",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3779.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3779.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3779.png"
 },
 {
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3780.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3780.png"
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3780.png"
 },
 
-
-
-],
-"ipad": {
-"itemCornerRadius": 9,
-"itemSize": "{350, 550.8266666666667}",
-"screenshots": [
-{
-"accessibilityText": "Featured Animes",
-"url": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/O2pro/IMG_3772.png"
-},
-],
-"class": "DepictionScreenshotView"
-},
-"class": "DepictionScreenshotsView"
+]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 核心功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。"
+"markdown": "## 主要功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。\n\no2Tonken务必备份，丢失不补。\n\n[获取授文件](https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003127650346%26chInfo%3DCTerminalShare%26page%3Dpages%252FgoToCTerminal%252Findex%253Fpid%253D2088502810731355%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DD779648F-26A2-4C32-9C26-7F3C3968B698%26shareBizType%3DztokenV0_zRCswMEt)",
+"useSpacing": true
 },
 {
-"title": "获取授权码",
-"action": "https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003127650346%26chInfo%3DCTerminalShare%26page%3Dpages%252FgoToCTerminal%252Findex%253Fpid%253D2088502810731355%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DD779648F-26A2-4C32-9C26-7F3C3968B698%26shareBizType%3DztokenV0_zRCswMEt",
-"class": "DepictionTableButtonView"
+"class": "DepictionSpacerView",
+"spacing": 16
 },
 {
 "class": "DepictionSeparatorView"
 },
 {
-"title": "开发作者",
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
 "text": "lzsxcl",
-"class": "DepictionTableTextView"
+"title": "开发作者"
 },
 {
-"title": "兼容系统",
-"text": "13.0 - 15.4.1",
-"class": "DepictionTableTextView"
+"class": "DepictionTableTextView",
+"text": "7.1",
+"title": "最新版本"
 },
 {
-"title": "支持设备",
+"class": "DepictionTableTextView",
+"text": "14.0 - 15.4.1",
+"title": "兼容系统"
+},
+{
+"class": "DepictionTableTextView",
 "text": "6S - 13PM",
-"class": "DepictionTableTextView"
+"title": "支持设备"
 },
 {
-"spacing": 8,
-"class": "DepictionSpacerView"
+"class": "DepictionSpacerView",
+"spacing": 16
 }
-],
-"class": "DepictionStackView"
+]
 },
 {
+"class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
 {
-"title": "关服版7.0",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "7.1",
+"fontWeight": "bold",
+"fontSize": 16
 },
 {
-"markdown": "\t\n\u2023 1.新增水晶球、推土机2.加强图钉功能5.新增一些其他功能6.修复一些已知问题。",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.10.07</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "关服版6.0",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 1.新增图钉2.新增通知小窗接3.极简模式开放自定义4.横屏键盘窗口自适应5.新增一些其他功能6.修复一些已知问题7.全新的设置界面，提示：ios15无根arm64需要卸载旧版后再安装，已统一有根与无根安装包标识符。",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.09.13</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},				{
-"title": "关服版5.2",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 o2Pro服务器关闭后第一个版本，请自行保存Token，丢失无法激活。",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.08.01</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},				{
-"title": "猪叫版5.1",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 5.1修复5.0耗电尿崩问题和烫死人的问题，以及优化用户反馈内容，立即，马上，现在，即刻更新到5.1版本，性能提升150%，耗电爆降100%，感受流畅和丝滑的酸爽可能是功耗最低的o2Pro版本。",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.27</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "开发者5.0",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 1. 极简模式，2. *台前调度，3. 竖屏下横屏游戏，4. 重新优化ui布局，5. 重新整理设置项，6. 修复横屏问题，7. 调整窗口调度，8. 修复各种水土不服，9. 历经一千多个debug版本，让每次更新都有进步。",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.22</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
-},
-{
-"title": "开发者很忙",
-"useBoldText": true,
-"useBottomMargin": true,
-"class": "DepictionSubheaderView"
-},
-{
-"markdown": "\t\n\u2023 Bug很多，随缘更新",
-"useSpacing": false,
-"class": "DepictionMarkdownView"
-},
-{
-"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2023.07.18</small>",
-"useRawFormat": true,
-"class": "DepictionMarkdownView"
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.28",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
 }
-],
-"class": "DepictionStackView"
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 优化bug、版本号不变"
+},
+
+]
 }
-],
-"class": "DepictionTabView"
+]
 }
