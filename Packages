@@ -1735,20 +1735,16 @@ Architecture: iphoneos-arm
 Maintainer: Laila Azmi <Lailaazmi@my.com>
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/cn.bitilly.surge_5.0.5_iphoneos-arm.deb
-Size: 157536
-MD5sum: f28d65a1232a78aa4d867a68170980b1
-SHA1: 961b9ec471ae90940dffad563368f1502b066e7e
-SHA256: 55f456707bab4140d149cde2b082c9086e66e4cd19689c8b8c1375507cadb226
+Size: 157356
+MD5sum: 6c63a8a6ec028a648b1d3edbc70fda00
+SHA1: b9fe22bb9a3ef938231fb6f55a8dbe3b4bd6bff3
+SHA256: 2cfa1a670311137389337bb83450a2561aba75de616a58f3c834e17d95a16d60
 Section: 软件优化
-Description:
-  • Unlocked All Features
-  • Remove Ads & Banners
-  • Premium & Vip Access
-  • Enjoy Premium Lifetime
+Description: •解锁所有功能•删除广告和横•高级和Vip访问•享受高级终身服务
 Author: Laila Azmi <Lailaazmi@my.com>
-Depiction: https://azmilaila.github.io/depic/web/com.azmilaila.surge.html
 Icon: https://apt.bitilly.cn/Description/surge/AppIcon.png
 Name: Surge5® Vip
+Sileodepiction: https://apt.bitilly.cn/Description/surge/surge.json
 
 Package: cn.bitilly.tiktokhooks
 Version: 1.1-4
@@ -1767,6 +1763,23 @@ Author: Netskao
 Icon: https://apt.bitilly.cn/images/douyin.png
 Name: TikTok Hooks
 Sileodepiction: https://apt.bitilly.cn/Description/TikTok/TikTok.json
+
+Package: cn.bitilly.tuboshuhook
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 土拨鼠
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.tuboshuhook_0.0.1-1_iphoneos-arm.deb
+Size: 17184
+MD5sum: 174d565500b10e8e78ec3b21bd8bbfb5
+SHA1: 6e695fa00aad9b282d556f9e364544b8c1c8d86d
+SHA256: 58162221f0a38d1ced249dcc5f3d3359ed87ec44d2e66de8fc21a5b443e96e76
+Section: 功能助手
+Description: An awesome MobileSubstrate tweak!
+Author: 土拨鼠
+Icon: https://apt.bitilly.cn/Description/tuboshu/icon.png
+Name: 土拨鼠个人插件
+Sileodepiction: https://apt.bitilly.cn/Description/tuboshu/tuboshu.json
 
 Package: cn.bitilly.tw3so
 Version: 1.1-1
@@ -2148,22 +2161,6 @@ Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: Shuffle
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
-
-Package: com.ejiaogl.tuboshuhook
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Maintainer: 土拨鼠
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.ejiaogl.tuboshuhook_0.0.1-1_iphoneos-arm.deb
-Size: 17180
-MD5sum: 79e96107b8d54734b9813d30fd27de71
-SHA1: 7348ef2c4ea5b4963c7f247d0623b8deaac49049
-SHA256: 9be721827aa3bc5e36be4d526cf5a9592b62eff2f80420a559d4321ccc230503
-Section: 功能助手
-Description: An awesome MobileSubstrate tweak!
-Author: 土拨鼠
-Icon: https://apt.bitilly.cn/Description/tuboshu/icon.png
-Name: 土拨鼠个人插件
 
 Package: com.eliofeghali.souvenir
 Version: 1.13

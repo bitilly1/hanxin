@@ -15,14 +15,14 @@
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/TikTok/IMG_0592.JPG"
+"url": "https://apt.bitilly.cn/images/Showcase.png"
 },
 
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\nTikTok保存无水印视频，点击原始共享按钮使用，可以在设置页面上选择TikTok区域，仅支持20.7.0及以上版本。\n\n[已注入版](https://www.123pan.com/s/DuR5Vv-NwJwve.html)",
+"markdown": "## 主要功能\nAn awesome MobileSubstrate tweak!",
 "useSpacing": true
 },
 {
@@ -48,17 +48,17 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "Netskao",
+"text": "土拨鼠",
 "title": "开发作者"
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.1-4",
+"text": "0.0.1-1",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "11.0 - 14.9",
+"text": "11.0 - 14.8.1",
 "title": "兼容系统"
 },
 {
@@ -81,13 +81,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "TikTokhooks1.1-4",
+"text": "0.0.1-1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2023.11.06",
+"text": "日志更新于 2023.08.18",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
