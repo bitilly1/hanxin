@@ -1537,15 +1537,15 @@ Architecture: all
 Maintainer: bitilly
 Depends: firmware (>= 15.0)
 Filename: ./debs/rootless/cn.bitilly.mwzt_1.0_all.deb
-Size: 839080
-MD5sum: c61bc298b85f7524f5ddf274712e41c2
-SHA1: 411ca91dd2f1c4f2af9e05e4cc9fdd84dcab009d
-SHA256: d0e863bd48866fbec4e6e2ee087586d41235a3355f5373230b277964a9c8ce99
+Size: 838624
+MD5sum: 8b403c4f65d0f62cb6549fe1ef1792e1
+SHA1: 152415162684bc579aa0521044aa1f57ffe0cd86
+SHA256: ede0133f41def6e78a8a9241ea69bf18999721b5ad0811b2cd133581fb07182d
 Section: 字体文件
 Description: 盲文字体搜集于网络,无根越狱安装之前需先挂载
 Author: bitilly
 Icon: file:///Applications/Cydia.app/Sections/Fonts.png
-Name: 盲文字体
+Name: 盲文字体（15-16）
 Sponsor: kupord
 
 Package: cn.bitilly.nobetaalert
