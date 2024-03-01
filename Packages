@@ -1532,15 +1532,15 @@ Name: MilkyWay3 (iOS 14 - 15)
 Sileodepiction: https://apt.bitilly.cn/Description/MilkyWay3/MilkyWay3.json
 
 Package: cn.bitilly.mwzt
-Version: 0.0.1
+Version: 1.0
 Architecture: all
 Maintainer: bitilly
 Depends: firmware (>= 15.0)
-Filename: ./debs/rootless/cn.bitilly.mwzt_0.0.1_all.deb
+Filename: ./debs/rootless/cn.bitilly.mwzt_1.0_all.deb
 Size: 839012
-MD5sum: 39bd5f95dac58c8bf3297e14342c6b82
-SHA1: 7829e62aa10e81da71e27c4196e556ca129a3b82
-SHA256: d502e16311059a3a0d7187abee5f63b7bf08d3e9dcedad9c84392698423712d2
+MD5sum: acb64e9d3f0922719ede4b7711f20f72
+SHA1: 9af5fb9133c0600be3363df624e634582f4b275d
+SHA256: f8cf0941de6872d0ba7c7aca7963cbb64cf055fb78a21f3d0853fe3c5d17f8f0
 Section: 字体文件
 Description: 盲文字体搜集于网络,无根越狱安装之前需先挂载
 Author: bitilly
