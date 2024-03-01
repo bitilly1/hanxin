@@ -1531,23 +1531,6 @@ Icon: https://apt.bitilly.cn/Description/MilkyWay3/icon.png
 Name: MilkyWay3 (iOS 14 - 15)
 Sileodepiction: https://apt.bitilly.cn/Description/MilkyWay3/MilkyWay3.json
 
-Package: cn.bitilly.mwzt
-Version: 0.0.1
-Architecture: all
-Maintainer: bitilly
-Depends: firmware (>= 15.0)
-Filename: ./debs/rootless/cn.bitilly.mwzt_0.0.1_all.deb
-Size: 838624
-MD5sum: e4613d127da66ea2dd7fa50b0d5a7052
-SHA1: dc2047c888a23db076772b54a28e64e974484cc0
-SHA256: 698deb8893421368b4a1c51060260d4c104adc083f7c9fed46afc2941e015a95
-Section: 字体文件
-Description: 盲文字体搜集于网络,无根越狱安装之前需先挂载
-Author: bitilly
-Icon: file:///Applications/Cydia.app/Sections/Fonts.png
-Name: 盲文字体（15-16）
-Sponsor: kupord
-
 Package: cn.bitilly.nobetaalert
 Version: 1.0.0
 Architecture: iphoneos-arm
