@@ -1479,6 +1479,24 @@ Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
 Name: Kayoko 剪切板-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
 
+Package: cn.bitilly.kzzx
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Depends: firmware (>= 14.2)
+Filename: ./debs/rootfull/cn.bitilly.kzzx_1.0_iphoneos-arm.deb
+Size: 1308468
+MD5sum: ccc57fa8e6339322f9eb9edd0d6f48a5
+SHA1: 2d2318658961d1d39680227dcab72af46557d928
+SHA256: 03d6e38bdf8d35ae00aaec9be6eb2d4ca8dab95931257ed502d031f6fc67878a
+Section: 主题美化
+Description: 主题收集于网络
+Author: bitilly
+Icon: https://apt.bitilly.cn/images/zt.png
+Name: 控制中心图标
+Sileodepiction: https://apt.bitilly.cn/Description/kzzx/kzzx.json
+Sponsor: bitilly
+
 Package: cn.bitilly.ldid
 Version: 2.1.5-2
 Architecture: iphoneos-arm
