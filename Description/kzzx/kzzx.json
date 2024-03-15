@@ -53,7 +53,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "自用版1.0",
+"text": "自用版1.1",
 "title": "最新版本"
 },
 {
@@ -76,6 +76,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "自用版1.1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2024.03.15",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 新增放大器图标"
+},
 {
 "class": "DepictionLayerView",
 "views": [
