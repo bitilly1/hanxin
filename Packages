@@ -1497,6 +1497,24 @@ Name: 控制中心图标
 Sileodepiction: https://apt.bitilly.cn/Description/kzzx/kzzx.json
 Sponsor: bitilly
 
+Package: cn.bitilly.kzzx
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Depends: firmware (>= 14.2)
+Filename: ./debs/rootfull/cn.bitilly.kzzx_1.1_iphoneos-arm.deb
+Size: 1308452
+MD5sum: ec21054bd28f2aa152a013ed0ca7166d
+SHA1: c825e79eda5c14646001d08b1e67d75d3b780db0
+SHA256: c45d1a0d0d3429c2bc9d36e6f1cc49ae84facd5f4fde4cffc9e1e4e984e7fe9c
+Section: 主题美化
+Description: 主题收集于网络
+Author: bitilly
+Icon: https://apt.bitilly.cn/images/zt.png
+Name: 控制中心图标
+Sileodepiction: https://apt.bitilly.cn/Description/kzzx/kzzx.json
+Sponsor: bitilly
+
 Package: cn.bitilly.ldid
 Version: 2.1.5-2
 Architecture: iphoneos-arm
