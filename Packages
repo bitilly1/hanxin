@@ -2769,6 +2769,23 @@ Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 酸果 - SG WX美化增强工具
 
+Package: com.xybp888.szapp.root
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: xybp888
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.xybp888.szapp.root_0.0.1_iphoneos-arm.deb
+Size: 3568
+MD5sum: e33e792fc2fcdd9f1807a5b6e8ac658b
+SHA1: a68ce0da66a775842ea6c9acfd26f27d62a048ac
+SHA256: 64833cbfd23563cedc5d97d4e72b03f0c7dcf4f1f34b66e20157e31ba3795d63
+Section: 功能助手
+Description: An awesome MobileSubstrate tweak!
+Author: xybp888
+Depiction: https://apt.htv123.com/view/697
+Name: 数字APP越狱屏蔽(iOS14)
+Sileodepiction: https://apt.htv123.com/sileo/697
+
 Package: jp.dcsyhi.zetsu
 Version: 1.4.1
 Architecture: iphoneos-arm
