@@ -98,18 +98,18 @@
 "fontSize": 16
 },
 {
-"class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1.修复15返回桌面系统崩溃问题;2.修复隐藏后台卡片图标名称不生效问题。"
-},
-{
 "class": "DepictionLabelView",
-"text": "日志更新于 2024.04.13",
+"text": "日志更新于 2024.04.11",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
 "alignment": 2
 }
 ]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1.修复15返回桌面系统崩溃问题;2.修复隐藏后台卡片图标名称不生效问题。"
 },
 {
 "class": "DepictionLayerView",
@@ -119,10 +119,6 @@
 "text": "AppTools15 v1.2.5",
 "fontWeight": "bold",
 "fontSize": 16
-},
-{
-"class": "DepictionMarkdownView",
-"markdown": "\n\u2023 修复Xina2左滑闪退。"
 },
 {
 "class": "DepictionLabelView",
@@ -135,6 +131,10 @@
 ]
 },
 {
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 修复Xina2左滑闪退。"
+},
+{
 "class": "DepictionLayerView",
 "views": [
 {
@@ -142,10 +142,6 @@
 "text": "AppTools15 v1.2.4",
 "fontWeight": "bold",
 "fontSize": 16
-},
-{
-"class": "DepictionMarkdownView",
-"markdown": "\n\u2023 修复无根手势触发功能失效问题。"
 },
 {
 "class": "DepictionLabelView",
