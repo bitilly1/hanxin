@@ -93,6 +93,29 @@
 "views": [
 {
 "class": "DepictionLabelView",
+"text": "AppTools15 v1.2.6",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1.修复15返回桌面系统崩溃问题;2.修复隐藏后台卡片图标名称不生效问题。"
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.20",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
 "text": "AppTools15 v1.2.5",
 "fontWeight": "bold",
 "fontSize": 16
