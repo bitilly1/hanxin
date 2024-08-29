@@ -529,6 +529,42 @@ Name: 抖音净化旧版-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/douyin/douyin.json
 Sponsor: Netskao
 
+Package: cn.bitilly.batian
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: bitilly
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.bitilly.batian_0.0.1_iphoneos-arm.deb
+Size: 5388
+MD5sum: add75556acb3a0bb2fb31dc747d000d8
+SHA1: c3b485449139ba83ce524f461a4668a1b70d067e
+SHA256: 0e6571ba119716f7b53e56f2fa2764130bcc1b7502d17cd79aba4d43aa81f5f0
+Section: 软件优化
+Description: 去除广告
+Author: bitilly
+Icon: https://apt.bitilly.cn/Description/batian/AppIcon.png
+Name: 霸天安云优化
+Sileodepiction: https://apt.bitilly.cn/Description/batian/batian.json
+
+Package: cn.bitilly.batian
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: bitilly
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.bitilly.batian_0.0.1_iphoneos-arm64.deb
+Size: 4960
+MD5sum: 6bc8182afea856804250444ade37354c
+SHA1: 1770da0cce1449999487b9e07274306b307ecc5e
+SHA256: 8bbb71d59acc71edb9fe76d407e597448fe48435eee12a3970e7ff507f5c2889
+Section: 软件优化
+Description: 去除广告
+Author: bitilly
+Icon: https://apt.bitilly.cn/Description/batian/AppIcon.png
+Name: 霸天安云优化
+Sileodepiction: https://apt.bitilly.cn/Description/batian/batian.json
+
 Package: cn.bitilly.bdtbnoads
 Version: 1.2-8
 Architecture: iphoneos-arm
