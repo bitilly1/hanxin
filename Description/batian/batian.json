@@ -15,14 +15,14 @@
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/cn.bitilly.ddqsb/ddqsb.png"
+"url": "https://apt.bitilly.cn/Description/batian/batian.png",
+"fullSizeURL": "https://apt.bitilly.cn/Description/batian/batian.png"
 }
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。\n\n[已注入版](https://www.123pan.com/s/DuR5Vv-fYJwv.html)",
+"markdown": "## 主要功能\n去除广告\n\n",
 "useSpacing": true
 },
 {
@@ -53,7 +53,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.0.2",
+"text": "0.0.1",
 "title": "最新版本"
 },
 {
@@ -81,59 +81,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "1.0.2",
+"text": "0.0.1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2023.11.04",
-"fontWeight": "semibold",
-"fontSize": 12,
-"textColor": "#999",
-"alignment": 2
-}
-]
-},
-{
-"class": "DepictionMarkdownView",
-"markdown": "\n\u2023 新增去除首次打开软件接单设置弹窗"
-},
-{
-"class": "DepictionLayerView",
-"views": [
-{
-"class": "DepictionLabelView",
-"text": "1.0.1",
-"fontWeight": "bold",
-"fontSize": 16
-},
-{
-"class": "DepictionLabelView",
-"text": "日志更新于 2023.05.22",
-"fontWeight": "semibold",
-"fontSize": 12,
-"textColor": "#999",
-"alignment": 2
-}
-]
-},
-{
-"class": "DepictionMarkdownView",
-"markdown": "\n\u2023 新增屏蔽越狱"
-},
-{
-"class": "DepictionLayerView",
-"views": [
-{
-"class": "DepictionLabelView",
-"text": "1.0.0",
-"fontWeight": "bold",
-"fontSize": 16
-},
-{
-"class": "DepictionLabelView",
-"text": "日志更新于 2023.05.20",
+"text": "日志更新于 2024.08.29",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
