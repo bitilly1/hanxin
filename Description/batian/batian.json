@@ -15,14 +15,14 @@
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/batian/batian.png",
-"fullSizeURL": "https://apt.bitilly.cn/Description/batian/batian.png"
-}
+"url": "https://apt.bitilly.cn/Description/batian/batian.png"
+},
+
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n去除广告\n\n",
+"markdown": "## 主要功能\n去除广告",
 "useSpacing": true
 },
 {
@@ -49,7 +49,7 @@
 {
 "class": "DepictionTableTextView",
 "text": "bitilly",
-"title": "插件作者"
+"title": "开发作者"
 },
 {
 "class": "DepictionTableTextView",
@@ -58,13 +58,13 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "7.0 - 16.6.1",
-"title": "支持系统"
+"text": "11.0 - 16.5.1",
+"title": "兼容系统"
 },
 {
 "class": "DepictionTableTextView",
 "text": "6S - 14PM",
-"title": "兼容设备"
+"title": "支持设备"
 },
 {
 "class": "DepictionSpacerView",
@@ -97,7 +97,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 新发版本"
+"markdown": "- 新发版本"
 }
 ]
 }
