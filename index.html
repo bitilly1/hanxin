@@ -1,67 +1,84 @@
 <html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
-		<title>添加软件源</title>
-		<script>
-			addEventListener("load", function () {
-				setTimeout(hideURLbar, 0);
-			}, false);
-			function hideURLbar() {
-				window.scrollTo(0, 1);
-			}
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
+<title>添加软件源</title>
+<script>
+addEventListener("load", function () {
+setTimeout(hideURLbar, 0);
+}, false);
+function hideURLbar() {
+window.scrollTo(0, 1);
+}
 window.addEventListener('DOMContentLoaded', (event) => {
-        const bgMusic = document.getElementById('bg-music');
-        bgMusic.play();
-    });
-		</script>
-		<link rel="stylesheet" href="./css/style.css" type="text/css" media="all" />
-		<link href="css/animate.css" rel="stylesheet">
-	</head>
-	<body>
-		<div class="top-content-style"/>
-		<img class="rotate-img" src="./images/hanxin.png" alt=""/>
+const bgMusic = document.getElementById('bg-music');
+bgMusic.play();
+});
+</script>
+<link rel="stylesheet" href="./css/style.css" type="text/css" media="all" />
+<link href="css/animate.css" rel="stylesheet">
+</head>
+<body>
+<div class="top-content-style"/>
+<img class="rotate-img" src="./images/hanxin.png" alt=""/>
 </br>
-	   <audio id="bg-music" src="music/yylx.mp3" loop autoplay controls></audio>
-      </div>
-		<div class="main-bg"/>
-		<h1>Bitilly hanxin</h1>
-		<div class="sub-main-w3" style="text-align: center;">
+<div class="audio-container">
+    <select id="music-select">
+        <option value="music/yylx.mp3">遥遥领先</option>
+        <option value="music/yqlai.aac">好运来</option>
+    </select>
+    <audio id="bg-music" loop autoplay controls></audio>
+</div>
+
+<script>
+const musicSelect = document.getElementById('music-select');
+const bgMusic = document.getElementById('bg-music');
+
+musicSelect.addEventListener('change', function() {
+bgMusic.src = this.value;
+bgMusic.play();
+});
+</script>
+
+</div>
+<div class="main-bg"/>
+<h1>Bitilly hanxin</h1>
+<div class="sub-main-w3" style="text-align: center;">
 
 <center>
 <div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlcydia">
- <div class="cydiablur zoom">
-  <div class="cydiablur-inside">
-    <img onclick="location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.bitilly.cn/';" src="./images/cydia.png" style="width: 60px; height: 60px" class="filter">
-  </div>
- </div>
+<div class="cydiablur zoom">
+<div class="cydiablur-inside">
+<img onclick="location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.bitilly.cn/';" src="./images/cydia.png" style="width: 60px; height: 60px" class="filter">
+</div>
+</div>
 <div class="filter animated fadecydia" id="caption">Cydia</div>
 </div>
 
 <div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlsileo">
- <div class="sileoblur zoom">
-  <div class="sileoblur-inside">
-    <img onclick="location.href='sileo://source/https://apt.bitilly.cn/';" src="./images/sileo.png" style="width: 60px; height: 60px" class="filter">
-  </div>
- </div>
+<div class="sileoblur zoom">
+<div class="sileoblur-inside">
+<img onclick="location.href='sileo://source/https://apt.bitilly.cn/';" src="./images/sileo.png" style="width: 60px; height: 60px" class="filter">
+</div>
+</div>
 <div class="filter animated fadesileo" id="caption">Sileo</div>
 </div>
 
 <div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlzebra">
- <div class="zebrablur zoom">
-  <div class="zebrablur-inside">
-    <img onclick="location.href='zbra://sources/add/https://apt.bitilly.cn/';" src="./images/zebra.png" style="width: 60px; height: 60px" class="filter">
-  </div>
- </div>
+<div class="zebrablur zoom">
+<div class="zebrablur-inside">
+<img onclick="location.href='zbra://sources/add/https://apt.bitilly.cn/';" src="./images/zebra.png" style="width: 60px; height: 60px" class="filter">
+</div>
+</div>
 <div class="filter animated fadezebra" id="caption">Zebra</div>
-</div>		
+</div>
 </center>
 </br>
 </br>
-    <p class="legend"></span></p>
-		<a href="./problems.html" id="caption"/>其他问题</a>
-		</br>
-		</br>
-		</br>
-		</div>
-	</body>
+<p class="legend"></span></p>
+<a href="./problems.html" id="caption"/>其他问题</a>
+</br>
+</br>
+</br>
+</div>
+</body>
 </html>
