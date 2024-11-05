@@ -21,22 +21,19 @@ bgMusic.play();
 <div class="top-content-style"/>
 <img class="rotate-img" src="./images/hanxin.png" alt=""/>
 </br>
-<div class="audio-container">
-    <select id="music-select">
-        <option value="music/yylx.mp3">遥遥领先</option>
-        <option value="music/yqlai.aac">好运来</option>
-    </select>
-    <audio id="bg-music" loop autoplay controls></audio>
+<audio id="bg-music" loop autoplay controls>
+<source src="music/yylx.mp3" type="audio/mpeg"> <!-- 默认音乐文件 -->
+您的浏览器不支持音频元素。
+</audio>
 </div>
 
 <script>
-const musicSelect = document.getElementById('music-select');
-const bgMusic = document.getElementById('bg-music');
+// 可以在这里添加 JavaScript 以动态更改音频源
+const audio = document.getElementById('bg-music');
 
-musicSelect.addEventListener('change', function() {
-bgMusic.src = this.value;
-bgMusic.play();
-});
+// 你可以在这里设置其他音乐文件，或根据需要更改
+audio.src = 'music/yqlai.aac'; // 例如更改为另一个音频文件
+audio.play(); // 开始播放
 </script>
 
 </div>

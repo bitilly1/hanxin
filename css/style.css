@@ -587,11 +587,12 @@ background-repeat: no-repeat;
 }
 
 .audio-container {
-    display: flex; /* 使用flexbox布局 */
-    align-items: center; /* 垂直居中对齐 */
+display: flex; /* 使用flexbox布局 */
+align-items: center; /* 垂直居中对齐 */
 }
 
 select {
-    margin-right: 10px; /* 添加一些右边距以分隔下拉菜单和音频控件 */
+margin-left: 20px;
+margin-right: 5px; /* 添加一些右边距以分隔下拉菜单和音频控件 */
 }
 
