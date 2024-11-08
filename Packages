@@ -1580,6 +1580,44 @@ Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbT
 Name: PTools(keyboard) (15-16)
 Sileodepiction: https://apt.bitilly.cn/Description/PanelTools/PT.json
 
+Package: cn.octoforce.squidextender
+Version: 2.2.2
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 10088
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/rootfull/cn.octoforce.squidextender_2.2.2_iphoneos-arm.deb
+Size: 2244092
+MD5sum: b2e346fa266ad3c90ff51a9105961e62
+SHA1: 996c1a0ef738ca2304ad170cfc6100a8bf495852
+SHA256: 55aac71b27c5b5b9b870cf8705a8a88a65e325ac9e862dd0f993f50ec0356f9c
+Section: 功能助手
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Icon: https://apt.bitilly.cn/Description/SquidExtender/icon.png
+Name: SquidExtender(激活码版iOS14)
+Sileodepiction: https://apt.bitilly.cn/Description/SquidExtender/SE.json
+
+Package: cn.octoforce.squidextender
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 10072
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/rootless/cn.octoforce.squidextender_2.2.2_iphoneos-arm64.deb
+Size: 2238200
+MD5sum: 5b547c60cb7615417473715132e72b31
+SHA1: bcc9f6b3415956463afec8aac6e88cb4d0a21fcc
+SHA256: 27fa69eef229fea094ec72b65e0e0c40fcb3e0d17907467051316366698c070e
+Section: 功能助手
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Icon: https://apt.bitilly.cn/Description/SquidExtender/icon.png
+Name: SquidExtender(激活码版iOS15-16)
+Sileodepiction: https://apt.bitilly.cn/Description/SquidExtender/SE.json
+
 Package: com.25mao.MiYou
 Version: 3.6-6
 Architecture: iphoneos-arm
