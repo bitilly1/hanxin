@@ -1526,6 +1526,60 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 虚拟视频
 Sileodepiction: https://apt.bitilly.cn/Description/xnsp/xnsp.json
 
+Package: cn.llld.kbtool
+Version: 3.4.0-1
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 10384
+Depends: mobilesubstrate
+Filename: ./debs/roothide/cn.llld.kbtool_3.4.0-1_iphoneos-arm64e.deb
+Size: 3304620
+MD5sum: bdf8669cc0c7b3c8efee033225fd9769
+SHA1: 1d0d64dedafb931ad3720591021f8e31434d9796
+SHA256: db4c2032438533e330c65e036d55ff00d7d4c6afd2f48542a6835b3778719dd3
+Section: 功能助手
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (半越狱or隐根)
+Sileodepiction: https://apt.bitilly.cn/Description/PanelTools/PT.json
+
+Package: cn.llld.kbtool
+Version: 3.5.0-1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Installed-Size: 10336
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.llld.kbtool_3.5.0-1_iphoneos-arm.deb
+Size: 3318380
+MD5sum: c8e5dd53bc6720735b6bfcdbc9b0d7fe
+SHA1: 0d8222ea5e470eb317dc675d489d5b0940eaa763
+SHA256: 603d3c524a55ffc00e4546bf2948a324fec99cab15a122c051b0f773645626d4
+Section: 功能助手
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (iOS14)
+Sileodepiction: https://apt.bitilly.cn/Description/PanelTools/PT.json
+
+Package: cn.llld.kbtool
+Version: 3.5.0-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 10400
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.llld.kbtool_3.5.0-1_iphoneos-arm64.deb
+Size: 3319788
+MD5sum: 959027355d3311cea9517268a5816009
+SHA1: 201f8431811a81d28fcf53e05a00d0987b4b5570
+SHA256: 767a947fdc31258e4cc00c1f23b50d282b78d77b7ecb37ae2cd4e6c31e97a2a8
+Section: 功能助手
+Description: Convenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具条（用于键盘辅助）上下左右长按功能自定义。---传统的复制,粘贴,全选,换行,左移,右移,关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等大几十功能都有，自定义高度宽度按钮，文字大小，文生图文字颜色,高度自定义等。支持呼出Copylog，Copyvault和kayoko新的旧的改的粘贴板，snapper2和ft悬浮和82妙写 交互，更多待新增功能补充或看更新日志。
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbTool.png
+Name: PTools(keyboard) (15-16)
+Sileodepiction: https://apt.bitilly.cn/Description/PanelTools/PT.json
+
 Package: com.25mao.MiYou
 Version: 3.6-6
 Architecture: iphoneos-arm
