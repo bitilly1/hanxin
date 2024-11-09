@@ -1762,6 +1762,25 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信助手
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou
+Version: 3.8-0
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.25mao.miyou_3.8-0_iphoneos-arm.deb
+Size: 10146420
+MD5sum: 54721473a03b4d21c67284f9392b5865
+SHA1: e4c2c9e01d532e3d67d9bc1b82ff7e3ec06fb4b4
+SHA256: bc664e538e4cccbc72689183326aeb8178bb7688333dd64acc94e74442a76e23
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友
+Author: Mao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信助手(有根)
+Sileodepiction: https://apt.bitilly.cn/Description/miyou/my.json
+Sponsor: admin@25mao.com
+
 Package: com.25mao.miyou.rootless
 Version: 3.6-8
 Architecture: iphoneos-arm64
