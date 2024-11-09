@@ -1,0 +1,105 @@
+{
+"class": "DepictionTabView",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"minVersion": "0.3",
+"tabs": [
+{
+"class": "DepictionStackView",
+"tabname": "详情",
+"views": [
+{
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/miyou/IMG_3263.JPG",
+"fullSizeURL": "https://apt.bitilly.cn/Description/miyou/IMG_3263.JPG"
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n功能有点多，不想写，安装后查看插件设置，所有功能均有使用说明，免越狱注入请勿重命名插件/越狱设备请不要使用屏蔽插件屏蔽微信。\n\n使用ChatGPT有需要key的可以去注册一个,两块钱可以用好久了\n\n[去注册](http://ai.bitilly.cn/register?aff=ahZ8)\n\n",
+"useSpacing": true
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
+"text": "Mao",
+"title": "插件作者"
+},
+{
+"class": "DepictionTableTextView",
+"text": "3.8-0",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
+"text": "所有系统",
+"title": "支持系统"
+},
+{
+"class": "DepictionTableTextView",
+"text": "6S - 15PM",
+"title": "兼容设备"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+}
+]
+},
+{
+"class": "DepictionStackView",
+"tabname": "更新日志",
+"views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "3.8-0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2024.08.07",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 修复上一版本勿扰模式自动挂断后无法回拨问题"
+}
+]
+}
+]
+}
