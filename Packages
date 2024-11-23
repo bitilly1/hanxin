@@ -1618,6 +1618,44 @@ Icon: https://apt.bitilly.cn/Description/SquidExtender/icon.png
 Name: SquidExtender(激活码版iOS15-16)
 Sileodepiction: https://apt.bitilly.cn/Description/SquidExtender/SE.json
 
+Package: cn.octoforce.squidextender
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 11236
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/rootfull/cn.octoforce.squidextender_3.0.2_iphoneos-arm.deb
+Size: 2515364
+MD5sum: a45789fdbbf4b86ed8c437658e29599b
+SHA1: 21b322d881c29dddd91771d576459822cf25d529
+SHA256: ac4de0d382bb31efccda0f2955f40ea604ab3b1a6b56d1b545970a4c162e9146
+Section: 功能助手
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Icon: https://apt.bitilly.cn/Description/SquidExtender/icon.png
+Name: SquidExtender(激活码版iOS14)
+Sileodepiction: https://apt.bitilly.cn/Description/SquidExtender/SE.json
+
+Package: cn.octoforce.squidextender
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 11188
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debs/rootless/cn.octoforce.squidextender_3.0.2_iphoneos-arm64.deb
+Size: 2492560
+MD5sum: 227ff50928858adf106020e434c1bba7
+SHA1: e72b78972bcc2109418ef5c844aa048fe2fdc088
+SHA256: 25fc96b59f93adf17681f32a507796dd872d4c072dd446adb08e3ff328827dbd
+Section: 功能助手
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Icon: https://apt.bitilly.cn/Description/SquidExtender/icon.png
+Name: SquidExtender(激活码版iOS15-16)
+Sileodepiction: https://apt.bitilly.cn/Description/SquidExtender/SE.json
+
 Package: com.25mao.MiYou
 Version: 3.6-6
 Architecture: iphoneos-arm
