@@ -76,7 +76,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "2.2.2",
+"text": "3.0.2",
 "title": "最新版本"
 },
 {
@@ -99,6 +99,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "3.0.2",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2024.11.23",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1. 优化：使粘贴动作在更多输入框可用\n\n2. 修复一些bug"
+},
 {
 "class": "DepictionLayerView",
 "views": [
