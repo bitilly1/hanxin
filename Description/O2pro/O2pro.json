@@ -54,7 +54,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。\n\no2Tonken务必备份，丢失不补。\n\n[获取授文件](https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003127650346%26chInfo%3DCTerminalShare%26page%3Dpages%252FgoToCTerminal%252Findex%253Fpid%253D2088502810731355%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DD779648F-26A2-4C32-9C26-7F3C3968B698%26shareBizType%3DztokenV0_zRCswMEt)",
+"markdown": "## 主要功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。注重设计与用户体验的优雅产品，o2Pro逐步免费开放小组件功能（来电视频）已免费开放给所有用户及非购买用户\n\no2Tonken务必备份，丢失不补。\n\n[获取授文件](https://m.tb.cn/h.TSeDmXw?tk=Qeu6eZk8xbI MF3543)",
 "useSpacing": true
 },
 {
@@ -85,7 +85,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "7.1",
+"text": "7.2",
 "title": "最新版本"
 },
 {
@@ -113,13 +113,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "7.1",
+"text": "7.2",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2023.12.28",
+"text": "日志更新于 2024.12.31",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -129,7 +129,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 优化bug、版本号不变"
+"markdown": "\n\u2023 优化bug、"
 },
 
 ]
