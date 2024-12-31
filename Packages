@@ -2886,6 +2886,44 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
 
+Package: xc.lzsxcl.o2
+Version: 7.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 26932
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootfull/xc.lzsxcl.o2_7.2_iphoneos-arm.deb
+Size: 16909484
+MD5sum: 7c5199f81a8d956dc2e649ac4c01bef0
+SHA1: 6d848620667d651388939b77fe971c379140998b
+SHA256: e1897e39b7eef5944716b30fec0d66e6a0add16ae4b7c3c947b4d2cec552c352
+Section: 分屏工具
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
+
+Package: xc.lzsxcl.o2
+Version: 7.2
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 26948
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2_7.2_iphoneos-arm64.deb
+Size: 16905212
+MD5sum: bbf96511f0d86c4c018fe01e14d0c57b
+SHA1: 559989ead698577da9b7bbcb6557a70100ed32b8
+SHA256: cd31d65268611c78b55560fb8365d93b55d584e26bf2c5bc11d8eee15f3fa019
+Section: 分屏工具
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
+
 Package: xc.lzsxcl.o2.rootless
 Version: 4.1
 Architecture: iphoneos-arm64
