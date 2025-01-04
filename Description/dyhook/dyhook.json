@@ -22,7 +22,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n首页视频界面双指双击弹出设置UI--测试群里大佬制作。",
+"markdown": "## 主要功能\n首页视频界面双指双击弹出设置UI自己看",
 "useSpacing": true
 },
 {
@@ -53,17 +53,17 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.0.6",
+"text": "2.0.8-8",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "13.0 - 15.4.1",
+"text": "13.0 - 16.5.1",
 "title": "兼容系统"
 },
 {
 "class": "DepictionTableTextView",
-"text": "6S - 13PM",
+"text": "6S - 14PM",
 "title": "支持设备"
 },
 {
@@ -76,6 +76,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "2.0.8-8",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.01.04",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 修复某些功能导致闪退的问题"
+},
 {
 "class": "DepictionLayerView",
 "views": [

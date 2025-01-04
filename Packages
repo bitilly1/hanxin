@@ -804,15 +804,15 @@ Maintainer: x✨
 Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/cn.bitilly.dyhook_1.0.1_iphoneos-arm64.deb
-Size: 34836
-MD5sum: 14b3e3bc35b5eda231b5d03d6a5f651c
-SHA1: 5cece5ea14105304ed88a136ed038279f583bcfb
-SHA256: 98c65b03b30b4f730c85974442e57755e0106e8c961ae6f8cd255645080e3995
+Size: 34548
+MD5sum: 1c9a4ea249eb5d2a825c143686f39c34
+SHA1: 6f0c53362947871369fb279c7647b6945428a5db
+SHA256: ac3a2c923ac7bea92a8fc2fda5575ef10e65e1b830e58f155b65bd032f354ea1
 Section: 软件优化
 Description: 首页视频界面双指双击弹出设置UI-- 测试群里大佬制作
 Author: x✨
 Icon: https://apt.bitilly.cn/images/douyin.png
-Name: 抖音透明
+Name: 抖音图层
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.dyhook
@@ -840,15 +840,15 @@ Maintainer: x✨
 Installed-Size: 188
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/cn.bitilly.dyhook_1.0.2_iphoneos-arm64.deb
-Size: 34264
-MD5sum: f6278be01d2f8c88b153fae60948251b
-SHA1: cb01bfd088c003f285b9f95afe437281fcd16a40
-SHA256: 9609e12e87a4019ab5e7bb4d25bdc1a94b3d338ac1f9188d8666aa9726a1a049
+Size: 34232
+MD5sum: 4278b8e901bfb7ad6c0fa90d86abb408
+SHA1: 5159c34bb19793c632a4b8fc2b59650f84af0595
+SHA256: 08dc2aecaa70d557a9ebd14f609f4276cc7cdc610759ad294c300f83f7794eb0
 Section: 软件优化
 Description: 首页视频界面双指双击弹出设置UI--测试群里大佬制作
 Author: x✨
 Icon: https://apt.bitilly.cn/images/douyin.png
-Name: 抖音透明
+Name: 抖音图层
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.dyhook
@@ -876,15 +876,33 @@ Maintainer: x✨
 Installed-Size: 224
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/cn.bitilly.dyhook_1.0.3_iphoneos-arm64.deb
-Size: 41608
-MD5sum: c8544c76a758378745ed831ec3b9de14
-SHA1: b862de9949edeef907cb8d518d16771d77e2156b
-SHA256: b97540038268941f9d9010d1dac7e27191d1593e7268ceb0241475a67067985c
+Size: 41684
+MD5sum: 70de377078e3386ba4737a0960c1771c
+SHA1: 4a168889936b285cf7e9412619d80c4a49b5460c
+SHA256: 0eb9629f3acf3f60f86a2511c3b2cfcef4d709341c904db5b65320950c24b918
 Section: 软件优化
 Description: 首页视频界面双指双击弹出设置UI--测试群里大佬制作
 Author: x✨
 Icon: https://apt.bitilly.cn/images/douyin.png
-Name: 抖音透明
+Name: 抖音图层
+Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
+
+Package: cn.bitilly.dyhook
+Version: 2.0.8+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 8652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.bitilly.dyhook_2.0.8+8_iphoneos-arm64.deb
+Size: 2665976
+MD5sum: 5d4b8157a022e8754886514e0b2f0325
+SHA1: d5f1da765226358b2405719e36230a429765e80a
+SHA256: ed81ff517ae4b18c625e97d45b42cc5824b79effdc3b635aebe2d8a9a90b07b1
+Section: 软件优化
+Description: 自用 越狱食用
+Author: x✨
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: 抖音图层
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.ena
