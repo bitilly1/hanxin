@@ -65,7 +65,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools15 v1.2.6",
+"text": "AppTools15 v1.3.4",
 "title": "最新版本"
 },
 {
@@ -88,6 +88,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools15 v1.3.4",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.01.02",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复自动保存布局功能注销后恢复问题；\n\n\u2023 2、修复备份和恢复插件配置问题。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
