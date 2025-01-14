@@ -69,7 +69,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools14 v2.0.8",
+"text": "AppTools14 v2.0.9",
 "title": "最新版本"
 },
 {
@@ -92,6 +92,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools14 v2.0.9",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.01.14",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 修复更换图标的小bug。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
