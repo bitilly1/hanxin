@@ -1598,6 +1598,41 @@ Icon: file:///var/jb/Library/PreferenceBundles/Kbllldprefs.bundle/icons-llld/KbT
 Name: PTools(keyboard) (15-16)
 Sileodepiction: https://apt.bitilly.cn/Description/PanelTools/PT.json
 
+Package: cn.llld.snapshottool
+Version: 1.4.0-1
+Architecture: iphoneos-arm
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/cn.llld.snapshottool_1.4.0-1_iphoneos-arm.deb
+Size: 847812
+MD5sum: 153680e4d428f083426429d55dc52337
+SHA1: 2aa3b104ae5a583f7c4a5f721ef26b6f40171c61
+SHA256: 2351ac1033ba2dacf2a365f5ac30bdf205e0c11a43851676928a74e313d1161a
+Section: 功能助手
+Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
+
+Package: cn.llld.snapshottool
+Version: 1.4.0-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 3044
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.llld.snapshottool_1.4.0-1_iphoneos-arm64.deb
+Size: 866924
+MD5sum: 12299f74e30b8c4bc328e62e1ac756dd
+SHA1: b07c298b5d1df149136c56f97d418b4d3a978d56
+SHA256: 022112eae9016db2a55648aab31f27c353392518618f6ad1521810477c4cc69d
+Section: 功能助手
+Description: ---对于应用软件的图片，（无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool无根
+Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
+
 Package: cn.octoforce.squidextender
 Version: 2.2.2
 Architecture: iphoneos-arm

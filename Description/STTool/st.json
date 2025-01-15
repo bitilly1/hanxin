@@ -1,0 +1,110 @@
+{
+"class": "DepictionTabView",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"minVersion": "0.3",
+"tabs": [
+{
+"class": "DepictionStackView",
+"tabname": "详情",
+"views": [
+{
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/STTool/IMG_3739.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/STTool/IMG_3739.jpg"
+}
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/STTool/IMG_3740.jpg",
+"fullSizeURL": "https://apt.bitilly.cn/Description/STTool/IMG_3740.jpg"
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n对于应用软件的图片无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册\n\n[获取授文件](https://m.tb.cn/h.T9IUEHb?tk=zVTNed6ElmI)",
+"useSpacing": true
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
+"text": "来了老弟",
+"title": "插件作者"
+},
+{
+"class": "DepictionTableTextView",
+"text": "1.4.0-1",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
+"text": "14.0 - 16.6.1",
+"title": "支持系统"
+},
+{
+"class": "DepictionTableTextView",
+"text": "6S - 14PM",
+"title": "兼容设备"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+}
+]
+},
+{
+"class": "DepictionStackView",
+"tabname": "更新日志",
+"views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.4.0-1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2024.10.09",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 保存版本"
+}
+]
+}
+]
+}
