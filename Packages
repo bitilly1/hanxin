@@ -2288,6 +2288,24 @@ Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
 Name: AppTools15-16(Roothide)
 Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools15.json
 
+Package: com.flex2areo.apptools15roothide
+Version: 1.3.6
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2492
+Depends: mobilesubstrate
+Filename: ./debs/roothide/com.flex2areo.apptools15roothide_1.3.6_iphoneos-arm64e.deb
+Size: 634896
+MD5sum: c2d7cdb616da6ecea4468a5aa5988324
+SHA1: 8bb3534263680e1e50636487d8df1b24b8915e0a
+SHA256: 6d53ebb46c1da7736a87ffecc38f1d23c7aa53d83d614699ae994f7e587337ed
+Section: 功能助手
+Description: AppTools for iOS15-16 Roothide
+Author: aReo
+Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
+Name: AppTools15-16(Roothide)
+Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools15.json
+
 Package: com.flex2areo.apptools15rootless
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -2389,6 +2407,24 @@ Size: 641512
 MD5sum: 0a2f0097d264fdbbeea17830fe96ca70
 SHA1: 5195f9be59ce84de3cbedb7e1e807da731aeef81
 SHA256: 64f6853fdbd2472009a0118017d7384768da4130139ecc603d7d6c0d4f595568
+Section: 功能助手
+Description: AppTools for iOS15-16 Rootless
+Author: aReo
+Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
+Name: AppTools15-16(Rootless)
+Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools15.json
+
+Package: com.flex2areo.apptools15rootless
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2524
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.flex2areo.apptools15rootless_1.3.6_iphoneos-arm64.deb
+Size: 641472
+MD5sum: e071e143af79550db64911743d0559f3
+SHA1: fa65e961de0a4df1f8fe50ede6fd448ad38e53a7
+SHA256: bf5f72737adee886ec28f5f8a643d4b83c3d3d9ad2e60356441cf3159fbeebe0
 Section: 功能助手
 Description: AppTools for iOS15-16 Rootless
 Author: aReo
