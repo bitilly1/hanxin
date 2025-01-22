@@ -69,7 +69,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "17.0",
+"text": "17.0.1",
 "title": "最新版本"
 },
 {
@@ -92,6 +92,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "17.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.01.22",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）支持键盘、跑马灯、不想努力了、宠物（不包含自定义）"
+},
 {
 "class": "DepictionLayerView",
 "views": [
