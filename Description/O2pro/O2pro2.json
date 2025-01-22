@@ -97,7 +97,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "17.0",
+"text": "17.0.1",
 "fontWeight": "bold",
 "fontSize": 16
 },
