@@ -22,8 +22,26 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。\n\n[已注入版](https://www.123pan.com/s/DuR5Vv-fYJwv.html)",
+"markdown": "## 主要功能\n屏蔽越狱检测，去除启动广告，首页横幅推荐，接单设置弹窗，透明刷新回归简洁接单模式。",
 "useSpacing": true
+},
+{
+"text": "已注插件版本",
+"action": "https://www.123pan.com/s/DuR5Vv-fYJwv.html",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服企鹅",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
+"openExternal": 1,
+"class": "DepictionButtonView"
 },
 {
 "class": "DepictionSpacerView",

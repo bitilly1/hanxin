@@ -22,8 +22,26 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n功能有点多，不想写，安装后查看插件设置，所有功能均有使用说明，免越狱注入请勿重命名插件/越狱设备请不要使用屏蔽插件屏蔽微信。\n\n使用ChatGPT有需要key的可以去注册一个,两块钱可以用好久了\n\n[去注册](http://ai.bitilly.cn/register?aff=ahZ8)\n\n",
+"markdown": "## 主要功能\n功能有点多，不想写，安装后查看插件设置，所有功能均有使用说明，免越狱注入请勿重命名插件/越狱设备请不要使用屏蔽插件屏蔽微信。\n\n使用ChatGPT有需要key的可以去注册一个,两块钱可以用好久了",
 "useSpacing": true
+},
+{
+"text": "注册签到白嫖",
+"action": "http://ai.bitilly.cn/register?aff=ahZ8",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服企鹅",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
+"openExternal": 1,
+"class": "DepictionButtonView"
 },
 {
 "class": "DepictionSpacerView",

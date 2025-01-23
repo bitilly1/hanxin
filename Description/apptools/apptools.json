@@ -38,8 +38,26 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n备份应用、自定图标、锁定高刷、清理缓存、清理角标、自定义分辨率、禁止插件注入等强大的App类辅助插件，系付费插件，点下面授权激活优惠5元。\n\n[授权激活](https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003127650346%26chInfo%3DCTerminalShare%26page%3Dpages%252FgoToCTerminal%252Findex%253Fpid%253D2088502810731355%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DD779648F-26A2-4C32-9C26-7F3C3968B698%26shareBizType%3DztokenV0_zRCswMEt)",
+"markdown": "## 主要功能\n备份应用、自定图标、锁定高刷、清理缓存、清理角标、自定义分辨率、禁止插件注入等强大的App类辅助插件，系付费插件，点下面授权激活优惠5元。",
 "useSpacing": true
+},
+{
+"text": "购买授权激活",
+"action": "https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021003127650346%26chInfo%3DCTerminalShare%26page%3Dpages%252FgoToCTerminal%252Findex%253Fpid%253D2088502810731355%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3DD779648F-26A2-4C32-9C26-7F3C3968B698%26shareBizType%3DztokenV0_zRCswMEt",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服企鹅",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
+"openExternal": 1,
+"class": "DepictionButtonView"
 },
 {
 "class": "DepictionSpacerView",

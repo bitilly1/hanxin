@@ -22,8 +22,26 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\nConvenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）\n\n---工具栏上下左右长按按钮功能自定义，传统的复制,粘贴,全选,换行,左移,右移,翻译，文本开头，文本结尾，关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，\n\n自定义高度宽度按钮，文字大小，文生图文字颜色，高度自定义，自定义API使用等，\n\n自带3.5，也可自定义GPT 链接，模型，人设角色，(支持openai官方样式的所有第三方gpt,功能强大，直接把GPT应用带到键盘上，文字直出输入框或弹窗模式 可出图）。有需要key的可以去注册一个,两块钱可以用好久了\n\n[去注册](http://ai.bitilly.cn/register?aff=ahZ8)\n\n呼出Copyvault和kayoko，Copylog剪切板，与snapper2和ft悬浮，妙写 交互，\n\n更多待新增功能补充或查看更新日志。配图为旧版本的，一切已安装包选项为准。1031:（提示：颜色若强制黑白色的先回3.0版本）\n\n键盘上没显示的应用，之后将做底栏键用于提供些许功能支持。",
+"markdown": "## 主要功能\nConvenient tools on the keyboard (Used for keyboard enhancement)。键盘上的便捷工具（用于键盘增强）\n\n---工具栏上下左右长按按钮功能自定义，传统的复制,粘贴,全选,换行,左移,右移,翻译，文本开头，文本结尾，关闭键盘,清空文本,替换文本,统计字符，注释内容，便签等功能都有，\n\n自定义高度宽度按钮，文字大小，文生图文字颜色，高度自定义，自定义API使用等，\n\n自带3.5，也可自定义GPT 链接，模型，人设角色，(支持openai官方样式的所有第三方gpt,功能强大，直接把GPT应用带到键盘上，文字直出输入框或弹窗模式 可出图）。有需要key的可以去注册一个,签到白嫖\n\n呼出Copyvault和kayoko，Copylog剪切板，与snapper2和ft悬浮，妙写 交互，\n\n更多待新增功能补充或查看更新日志。配图为旧版本的，一切已安装包选项为准。1031:（提示：颜色若强制黑白色的先回3.0版本）\n\n键盘上没显示的应用，之后将做底栏键用于提供些许功能支持。",
 "useSpacing": true
+},
+{
+"text": "注册签到白嫖",
+"action": "https://ai.bitilly.cn/register?aff=ahZ8",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服企鹅",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
+"openExternal": 1,
+"class": "DepictionButtonView"
 },
 {
 "class": "DepictionSpacerView",

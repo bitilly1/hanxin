@@ -29,6 +29,18 @@
 "useSpacing": true
 },
 {
+"text": "联系客服QQ",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
 "class": "DepictionSpacerView",
 "spacing": 16
 },

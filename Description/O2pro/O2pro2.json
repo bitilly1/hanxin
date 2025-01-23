@@ -38,21 +38,27 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。注重设计与用户体验的优雅产品，o2Pro逐步免费开放小组件功能（来电视频）已免费开放给所有用户及非购买用户\n\no2Tonken务必备份，丢失不补。\n\n[获取授文件](https://m.tb.cn/h.TSexGGK?tk=r7JMeZkk2xJ)",
+"markdown": "## 主要功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。注重设计与用户体验的优雅产品，o2Pro逐步免费开放小组件功能（来电视频）已免费开放给所有用户及非购买用户\n\no2Tonken务必备份，丢失不补。",
 "useSpacing": true
 },
 {
-          "text": "联系客服QQ",
-          "action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
-          "openExternal": 1,
-          "class": "DepictionButtonView"
-        },
-        {
-          "text": "购定制证书",
-          "action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
-          "openExternal": 1,
-          "class": "DepictionButtonView"
-        },
+"text": "获取授文件",
+"action": "https://m.tb.cn/h.TSexGGK?tk=r7JMeZkk2xJ",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服QQ",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
 {
 "class": "DepictionSpacerView",
 "spacing": 16

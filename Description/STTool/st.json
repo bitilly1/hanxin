@@ -25,8 +25,26 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n对于应用软件的图片无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册\n\n[点这里购买激活码比官方优惠5元](https://m.tb.cn/h.T9IUEHb?tk=zVTNed6ElmI)",
+"markdown": "## 主要功能\n对于应用软件的图片无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册\n\n点下面购买激活码比官方优惠5元",
 "useSpacing": true
+},
+{
+"text": "购买授权激活",
+"action": "https://m.tb.cn/h.T9IUEHb?tk=zVTNed6ElmI",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服企鹅",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
+"openExternal": 1,
+"class": "DepictionButtonView"
 },
 {
 "class": "DepictionSpacerView",
