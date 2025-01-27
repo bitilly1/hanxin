@@ -1,0 +1,128 @@
+{
+"class": "DepictionTabView",
+"headerImage": "https://apt.bitilly.cn/Description/apptools/apptools15.jpg",
+"tintColor": "#3784d2",
+"minVersion": "0.3",
+"tabs": [
+{
+"class": "DepictionStackView",
+"tabname": "详情",
+"views": [
+{
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/visibleisland/IMG_3881.PNG"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/visibleisland/IMG_3882.PNG"
+},
+
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n在旧设备上启用、修复和自定义灵动岛，搭配nice真灵动岛更灵动哦！iOS16以下更低版本系统，原生就有灵动岛的设备，请勿安装！。",
+"useSpacing": true
+},
+{
+"text": "Nice真灵动岛",
+"action": "https://m.tb.cn/h.TSAqUib?tk=Zfxne0mvtRa",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服企鹅",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://m.tb.cn/h.TO9d9tu?tk=0wFyeeFm72W",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
+"text": "ethxnn88",
+"title": "开发作者"
+},
+{
+"class": "DepictionTableTextView",
+"text": "2.0",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
+"text": "16.0 - 16.5.1",
+"title": "兼容系统"
+},
+{
+"class": "DepictionTableTextView",
+"text": "6S - 14PM",
+"title": "支持设备"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+}
+]
+},
+{
+"class": "DepictionStackView",
+"tabname": "更新日志",
+"views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "visibleisland 2.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.01.27",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 保存版本 "
+},
+
+]
+}
+]
+}

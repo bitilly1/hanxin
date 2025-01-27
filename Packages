@@ -1570,6 +1570,43 @@ Depiction: https://chariz.com/buy/velvet-2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Name: Velvet 2
 
+Package: cn.bitilly.visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: ethxnn88
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/rootless/cn.bitilly.visibleisland_2.0_iphoneos-arm64.deb
+Size: 28592
+MD5sum: a14b551579d526484efb6a6c685d1da7
+SHA1: 8b27482e26d994f9dbea6159c131f1407115091a
+SHA256: 1e61388d705cc642e8665b94200600ee155dc1e8020e2b4d7237e5e80f69c5fd
+Section: 功能助手
+Description: Enable, fix, and customize the Dynamic Island on older devices. VisibleIsland 是在旧设备上启用、修复和自定义灵动岛。iOS15及更低版本系统，原生就有灵动岛的设备，请勿安装！
+Author: ethxnn88
+Icon: https:/apt.bitilly.cn/Description/visibleisland/icon.png
+Name: VisibleIsland开启灵动岛-Rootless
+Sileodepiction: http://apt.bitilly.cn/Description/visibleisland/visibleisland.json
+Sponsor: ethxnn88
+
+Package: cn.bitilly.visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: ethxnn88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/roothide/cn.bitilly.visibleisland_2.0_iphoneos-arm64e.deb
+Size: 37896
+MD5sum: 9478794f2649636248d0d4e2ecb820c8
+SHA1: 7be4ac298cef33b56467d9f8d38c21959b112017
+SHA256: fa27dd0e780e4a098959e37531219755e6221c9ddc69ea4f4831b4590c261ac9
+Section: 功能助手
+Description: Enable, fix, and customize the Dynamic Island on older devices. VisibleIsland 是在旧设备上启用、修复和自定义灵动岛。iOS15及更低版本系统，原生就有灵动岛的设备，请勿安装！
+Author: ethxnn88
+Icon: https:/apt.bitilly.cn/Description/visibleisland/icon.png
+Name: VisibleIsland开启灵动岛-Rootless
+Sileodepiction: http://apt.bitilly.cn/Description/visibleisland/visibleisland.json
+Sponsor: ethxnn88
+
 Package: cn.bitilly.wfnoads
 Version: 1.6-6
 Architecture: iphoneos-arm
