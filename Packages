@@ -1595,15 +1595,15 @@ Maintainer: ethxnn88
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
 Filename: ./debs/roothide/cn.bitilly.visibleisland_2.0_iphoneos-arm64e.deb
-Size: 37896
-MD5sum: 9478794f2649636248d0d4e2ecb820c8
-SHA1: 7be4ac298cef33b56467d9f8d38c21959b112017
-SHA256: fa27dd0e780e4a098959e37531219755e6221c9ddc69ea4f4831b4590c261ac9
+Size: 31408
+MD5sum: b0502a010b73ec68ad225abd91d1019f
+SHA1: bae49753a253af6be0bb8cb236fa1a729c4aaafc
+SHA256: c60db3b2fe083edce5f03e91309e10726c99561d847d7ba22192d70d3b799d6b
 Section: 功能助手
 Description: Enable, fix, and customize the Dynamic Island on older devices. VisibleIsland 是在旧设备上启用、修复和自定义灵动岛。iOS15及更低版本系统，原生就有灵动岛的设备，请勿安装！
 Author: ethxnn88
 Icon: https:/apt.bitilly.cn/Description/visibleisland/icon.png
-Name: VisibleIsland开启灵动岛-Rootless
+Name: VisibleIsland开启灵动岛-Roothide
 Sileodepiction: http://apt.bitilly.cn/Description/visibleisland/visibleisland.json
 Sponsor: ethxnn88
 
