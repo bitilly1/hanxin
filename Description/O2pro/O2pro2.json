@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 本次更新：\n\n-）紧急修复分屏白屏bug"
+"markdown": "\n\u2023 本次更新：\n\n-）紧急修复分屏白屏bug\n\n-）修复安全模式及添加新用户"
 },
 {
 "class": "DepictionLayerView",
