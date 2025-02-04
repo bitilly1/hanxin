@@ -2675,6 +2675,42 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: lecho
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.lecho/js.json
 
+Package: com.netskao.awemedisablebar
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/rootfull/com.netskao.awemedisablebar_1.1-6_iphoneos-arm.deb
+Size: 305176
+MD5sum: c522ba949868580cc29a5955af074b34
+SHA1: 4cf9b606ff12af89762dc1403cae3eb26c4f8bdf
+SHA256: d20cbac9be6c2672fbf68cd10134b6332bf4aaa48adfbab2e89c0a4fe9c590f1
+Section: 软件优化
+Description: 禁用顶部/底部/右侧选项卡按钮。仅在30.3.0及以上版本上测试
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: AwemeDisableBar
+Sileodepiction: https://apt.bitilly.cn/Description/dydisablebar/dydisablebar.json
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemedisablebar_1.1-6_iphoneos-arm64.deb
+Size: 305260
+MD5sum: 7357c78af673e2cc9e060f6052ae43b3
+SHA1: cecd2b56be25e0b3a1e77c7b0480dff3f70b8f60
+SHA256: d94acec431342977d35000014e9167956d02649268536f849da6e7476002d6ef
+Section: 软件优化
+Description: 禁用顶部/底部/右侧选项卡按钮。仅在30.3.0及以上版本上测试
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: AwemeDisableBar-rootless
+Sileodepiction: https://apt.bitilly.cn/Description/dydisablebar/dydisablebar.json
+
 Package: com.netskao.awemedownloadmedia
 Version: 1.1-8
 Architecture: iphoneos-arm
