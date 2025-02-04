@@ -2675,6 +2675,42 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
 Name: lecho
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.lecho/js.json
 
+Package: com.netskao.awemedownloadmedia
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 456
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/rootfull/com.netskao.awemedownloadmedia_1.1-8_iphoneos-arm.deb
+Size: 147772
+MD5sum: 2b891ec7a243a0bf0dab7e1ac072e87f
+SHA1: cd0204bfc6a278fd0657270fa3f44278ff6221e0
+SHA256: bb7bb164de62749818609e8812cf3a86f77082b9124e6ceea467e3d92fdf7e72
+Section: 软件优化
+Description: Aweme无水印下载媒体。仅在31.7.0及以上版本上测试
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: AwemeDownloadMedia
+Sileodepiction: https://apt.bitilly.cn/Description/dydownload/dydownload.json
+
+Package: com.netskao.awemedownloadmedia
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 456
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/rootless/com.netskao.awemedownloadmedia_1.1-8_iphoneos-arm64.deb
+Size: 146744
+MD5sum: ec4aab7ea75b1dfa6aeb2833ed5ac551
+SHA1: a3408f52abbdaf18ecce3498f809ac042e46cfb8
+SHA256: f63aac034ab3db4b6939586fa8b24c5b326bad90681a9a5e9a2055a311a0c838
+Section: 软件优化
+Description: Aweme无水印下载媒体。仅在31.7.0及以上版本上测试
+Author: Netskao
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: AwemeDownloadMedia-rootless
+Sileodepiction: https://apt.bitilly.cn/Description/dydownload/dydownload.json
+
 Package: com.ryannair05.cylinder
 Version: 1.1.1
 Architecture: iphoneos-arm
