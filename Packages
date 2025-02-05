@@ -967,15 +967,15 @@ Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.dyhook
 Version: 2.0.8+8
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 8652
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.bitilly.dyhook_2.0.8+8_iphoneos-arm64.deb
-Size: 2665976
-MD5sum: 5d4b8157a022e8754886514e0b2f0325
-SHA1: d5f1da765226358b2405719e36230a429765e80a
-SHA256: ed81ff517ae4b18c625e97d45b42cc5824b79effdc3b635aebe2d8a9a90b07b1
+Filename: ./debs/rootfull/cn.bitilly.dyhook_2.0.8+8_iphoneos-arm.deb
+Size: 2850724
+MD5sum: 2877213845bed4dc25b7f1f47b1db58d
+SHA1: 861b824d4d53e5775212d80951907d72adc29364
+SHA256: 45fc2bcf2bd9ce4c56a7f5c66848279e594e1484a47fff0f158d2c0943f7e3a8
 Section: 软件优化
 Description: 自用 越狱食用
 Author: x✨
@@ -984,39 +984,21 @@ Name: 抖音图层
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.dyhook
-Version: 2.1.0
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 8796
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/cn.bitilly.dyhook_2.1.0_iphoneos-arm.deb
-Size: 2629200
-MD5sum: a75c1788e71c07d3b706683151a6ace6
-SHA1: 24ec88c9cbc0d43e58c4cab87b85ab55a7f4f73a
-SHA256: 93769846bf7edf72e6413db152f823c64b16d59b171f6ac7565c94af13164f7e
-Section: 软件优化
-Description: 自用 越狱食用
-Author: x✨
-Icon: https://apt.bitilly.cn/images/douyin.png
-Name: 抖音图层
-Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
-
-Package: cn.bitilly.dyhook
-Version: 2.1.0
+Version: 2.0.8+8
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 8796
+Installed-Size: 13908
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.bitilly.dyhook_2.1.0_iphoneos-arm64.deb
-Size: 2673620
-MD5sum: c479671c8ea29d04081b1216070aaef8
-SHA1: 62cc01f788df365151dd38d6efe7e59ec220bcc6
-SHA256: 9108bc0a8cf35e2ce6c020c103a7452141e4254944e870483a3a3557e7eca60d
+Filename: ./debs/rootless/cn.bitilly.dyhook_2.0.8+8_iphoneos-arm64.deb
+Size: 2891896
+MD5sum: fd28e69b06ff4c4855ca981eb8d767bf
+SHA1: 87f1ba46dc01ba6b5ae7ff56b2f31e21fc7ca2fd
+SHA256: 37e2115566dc9c63b383420a762748f5a3ffcdb31a265ba42d58ee572aa2eb15
 Section: 软件优化
-Description: 自用 越狱食用
+Description: 离线版本，长期使用，真正无限制的使用！
 Author: x✨
 Icon: https://apt.bitilly.cn/images/douyin.png
-Name: 抖音图层
+Name: Fuck·抖音图层
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.ena
