@@ -116,7 +116,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "1.0.6",
+"text": "1.0.3",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -132,7 +132,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 新增一些小功能"
+"markdown": "\n\u2023 不过期版本"
 },
 
 ]
