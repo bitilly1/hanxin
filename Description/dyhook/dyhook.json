@@ -65,7 +65,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "2.0.8-8",
+"text": "2.1.0",
 "title": "最新版本"
 },
 {
@@ -88,6 +88,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "2.1.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.02.05",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 保存版本"
+},
 {
 "class": "DepictionLayerView",
 "views": [
