@@ -990,15 +990,15 @@ Maintainer: x✨
 Installed-Size: 13908
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/cn.bitilly.dyhook_2.0.8+8_iphoneos-arm64.deb
-Size: 2891896
-MD5sum: fd28e69b06ff4c4855ca981eb8d767bf
-SHA1: 87f1ba46dc01ba6b5ae7ff56b2f31e21fc7ca2fd
-SHA256: 37e2115566dc9c63b383420a762748f5a3ffcdb31a265ba42d58ee572aa2eb15
+Size: 2893756
+MD5sum: 26988bc29b56978ef3624e30221f6c4c
+SHA1: 21ecd1f9281bb14b93684d1401fbf51bba7eab14
+SHA256: 5ea19a4d9af663cc3e9222d86541814e81ab9661e1dd5366cb10df96c0cc5a36
 Section: 软件优化
 Description: 离线版本，长期使用，真正无限制的使用！
 Author: x✨
 Icon: https://apt.bitilly.cn/images/douyin.png
-Name: Fuck·抖音图层
+Name: 抖音图层
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.ena
