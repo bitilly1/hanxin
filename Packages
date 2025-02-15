@@ -966,16 +966,16 @@ Name: 抖音图层
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.dyhook
-Version: 2.0.8+8
+Version: 2.0.8+9
 Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 8652
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/cn.bitilly.dyhook_2.0.8+8_iphoneos-arm.deb
-Size: 2850724
-MD5sum: 2877213845bed4dc25b7f1f47b1db58d
-SHA1: 861b824d4d53e5775212d80951907d72adc29364
-SHA256: 45fc2bcf2bd9ce4c56a7f5c66848279e594e1484a47fff0f158d2c0943f7e3a8
+Filename: ./debs/rootfull/cn.bitilly.dyhook_2.0.8+9_iphoneos-arm.deb
+Size: 2785204
+MD5sum: 2d0bdc35fb04099cdde4a89874aee47f
+SHA1: 58470b17762c2f943761caf017eaeabdef935355
+SHA256: 9f39d7ff05e58c367229dc9d62d194363b09d4974b5481d215418db0830fa9d7
 Section: 软件优化
 Description: 自用 越狱食用
 Author: x✨
@@ -984,16 +984,35 @@ Name: 抖音图层
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.dyhook
-Version: 2.0.8+8
+Version: 2.0.8+9
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 13908
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.bitilly.dyhook_2.0.8+8_iphoneos-arm64.deb
-Size: 2893756
-MD5sum: 26988bc29b56978ef3624e30221f6c4c
-SHA1: 21ecd1f9281bb14b93684d1401fbf51bba7eab14
-SHA256: 5ea19a4d9af663cc3e9222d86541814e81ab9661e1dd5366cb10df96c0cc5a36
+Filename: ./debs/rootless/cn.bitilly.dyhook_2.0.8+9_iphoneos-arm64.deb
+Size: 2828636
+MD5sum: c7d26e1fd6f3fd642887b807442e395a
+SHA1: 1b84982837d56541fc3960bc61d48ebc3715c220
+SHA256: f6eb47841b5b437c6556f0566ec147b81727bc89aad36639994ba5550ceae9bf
+Section: 软件优化
+Description: 离线版本，长期使用，真正无限制的使用！
+Author: x✨
+Icon: https://apt.bitilly.cn/images/douyin.png
+Name: 抖音图层
+Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
+
+Package: cn.bitilly.dyhook
+Version: 2.0.8+9
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 13908
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/cn.bitilly.dyhook_2.0.8+9_iphoneos-arm64e.deb
+Size: 7917086
+MD5sum: 7396ffe0d84c1fe68abe8bb82fe74391
+SHA1: 1b807bb4c5e27f6fc49164d7333ce20e055b4e85
+SHA256: 84ce76c3ef8685742ca23919353c18daa976fa34701ec5ada8a1e2f0014b5644
 Section: 软件优化
 Description: 离线版本，长期使用，真正无限制的使用！
 Author: x✨

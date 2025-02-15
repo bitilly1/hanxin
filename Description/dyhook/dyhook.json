@@ -65,7 +65,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "2.0.8+8",
+"text": "2.0.8+9",
 "title": "最新版本"
 },
 {
@@ -93,13 +93,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "2.0.8+8",
+"text": "2.0.8+9",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.02.06",
+"text": "日志更新于 2025.02.15",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -109,7 +109,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 修复某些功能导致闪退的问题"
+"markdown": "\n\u2023 修复某些功能导致失效的问题"
 },
 {
 "class": "DepictionLayerView",
