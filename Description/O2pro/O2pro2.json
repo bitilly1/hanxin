@@ -43,7 +43,7 @@
 },
 {
 "text": "获取授文件",
-"action": "https://h5.m.goofish.com/item?forceFlush=1&id=863487326546&ut_sk=1.Z6eVLDR/YLEDAB8d8uW3uX7u_12431167_1739681427477.Copy.detail.863487326546.665867260",
+"action": "https://h5.m.goofish.com/item?forceFlush=1&id=863487326546",
 "openExternal": 1,
 "class": "DepictionButtonView"
 },
@@ -55,7 +55,7 @@
 },
 {
 "text": "购买定制证书",
-"action": "https://apt.iosudid.net/#",
+"action": "https://h5.m.goofish.com/item?forceFlush=1&id=881031348265",
 "openExternal": 1,
 "class": "DepictionButtonView"
 },
