@@ -2226,6 +2226,42 @@ Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
 Name: Souvenir-rootless
 Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
 
+Package: com.flex2areo.appprotectroothide
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2044
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/roothide/com.flex2areo.appprotectroothide_2.0.1_iphoneos-arm64e.deb
+Size: 516256
+MD5sum: d9244221aebf4453a3c43394af439940
+SHA1: 809f3e4c5580b1b1e589fe10f62126dcadec3cd1
+SHA256: 70819f9dedda94bec5d3dedd757e4409f1b3cdaf06a3013e33a6c460dfb878fb
+Section: 功能助手
+Description: App 隐私保护
+Author: aReo
+Icon: http://apt.bitilly.cn/Description/AppProtect/icon.png
+Name: AppProtect(Roothide)
+Sileodepiction: http://apt.bitilly.cn/Description/AppProtect/AppProtect.json
+
+Package: com.flex2areo.appprotectrootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2176
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/rootless/com.flex2areo.appprotectrootless_2.0.1_iphoneos-arm64.deb
+Size: 538380
+MD5sum: fdbbdaaaa74c9c7d26cbee2656deffe5
+SHA1: 7b868e2cb668bda446d998e357799614e788f62d
+SHA256: 03f1f316943f6c9c98c4313b1cc95c1d85011574d503b9226b445de4b9327c5c
+Section: 功能助手
+Description: App 隐私保护
+Author: aReo
+Icon: http://apt.bitilly.cn/Description/AppProtect/icon.png
+Name: AppProtect(Rootless)
+Sileodepiction: http://apt.bitilly.cn/Description/AppProtect/AppProtect.json
+
 Package: com.flex2areo.apptools14
 Version: 1.9.4
 Architecture: iphoneos-arm

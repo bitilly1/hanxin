@@ -1,6 +1,6 @@
 {
 "class": "DepictionTabView",
-"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"headerImage": "https://apt.bitilly.cn/Description/AppProtect/AppProtect.jpg",
 "tintColor": "#3784d2",
 "minVersion": "0.3",
 "tabs": [
@@ -15,18 +15,40 @@
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/images/Showcase.png"
+"url": "https://apt.bitilly.cn/Description/AppProtect/IMG_0480.JPG"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/AppProtect/IMG_0481.JPG"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/AppProtect/IMG_0482.JPG"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/AppProtect/IMG_0483.JPG"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/AppProtect/IMG_0484.JPG"
 },
 
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n禁用顶部/底部/右侧选项卡按钮，仅在30.3.0及以上版本上测试。",
+"markdown": "## 主要功能\n隐私加密、隐藏应用、静默验证、后台模糊、锁屏清理角标、删除过滤号码记录、联网控制等强大的App类隐私加密插件，系付费插件，点下面授权激活优惠5元。",
 "useSpacing": true
 },
 {
-"text": "联系客服QQ",
+"text": "购买授权激活",
+"action": "https://ur.alipay.com/_6KpPdtkaeTggpt78bs8Afx",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服企鹅",
 "action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
 "openExternal": 1,
 "class": "DepictionButtonView"
@@ -60,17 +82,17 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "Netskao",
+"text": "aReo",
 "title": "开发作者"
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.1-6",
+"text": "AppProtect v2.0.1",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "12.0 - 16.6.1",
+"text": "15.0 - 16.5.1",
 "title": "兼容系统"
 },
 {
@@ -93,13 +115,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "1.1-6",
+"text": "AppProtect v2.0.1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2024.02.04",
+"text": "日志更新于 2025.04.05",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -109,8 +131,9 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 保存版本"
-}
+"markdown": "\n\u2023 一、修复\n\n1、修复上个版本个别用户出现的崩溃问题；\n\n2、修复卸载验证静默不生效问题；\n\n\u2023 二、优化\n\n1、优化加密设置中时间设置；\n\n2、优化锁屏关闭程序，锁屏关闭应用时自动清理后台。"
+},
+
 ]
 }
 ]
