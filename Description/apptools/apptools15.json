@@ -219,7 +219,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1.修复15返回桌面系统崩溃问题;2.修复隐藏后台卡片图标名称不生效问题。"
+"markdown": "\n\u2023 1.修复15返回桌面系统崩溃问题;\n\n\u2023 2.修复隐藏后台卡片图标名称不生效问题。"
 },
 {
 "class": "DepictionLayerView",
