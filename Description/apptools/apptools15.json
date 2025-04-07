@@ -83,7 +83,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools15 v1.3.6",
+"text": "AppTools15 v1.3.7",
 "title": "最新版本"
 },
 {
@@ -106,6 +106,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools15 v1.3.7",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.04.07",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 解决注销可能导致的掉激活问题！"
+},
 {
 "class": "DepictionLayerView",
 "views": [
