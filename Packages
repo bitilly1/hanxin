@@ -660,6 +660,41 @@ Icon: https://apt.bitilly.cn/Description/bdtbnoads/AppIcon.png
 Name: 百度贴吧 NoAds
 Sileodepiction: https://apt.bitilly.cn/Description/bdtbnoads/bdtbnoads.json
 
+Package: cn.bitilly.bdtbnoads
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/rootless/cn.bitilly.bdtbnoads_1.2-8_iphoneos-arm64.deb
+Size: 65712
+MD5sum: f592e1859d04b4cb01d73debd2f5bb6c
+SHA1: 462a0fe380ada0c837a64324fe5237d6a3f13c2d
+SHA256: e2230ce4b6224b95f2ba25e6031c654ee4c1b4400f785b380ddc1ca2370e75a6
+Section: 软件优化
+Description: 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/bdtbnoads/AppIcon.png
+Name: 百度贴吧 NoAds
+Sileodepiction: https://apt.bitilly.cn/Description/bdtbnoads/bdtbnoads.json
+
+Package: cn.bitilly.bdtbnoads
+Version: 1.2-8
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/roothide/cn.bitilly.bdtbnoads_1.2-8_iphoneos-arm64e.deb
+Size: 90590
+MD5sum: 6bd0bb42453fc36de3c37f728ed4bda4
+SHA1: b9c48cabcb2b0906860dfbd9b35f3d16c48c2079
+SHA256: 6f8bba48a572d1c884dec5f1a56d77a09ef417bdd046135da1c53475c10e55d2
+Section: 软件优化
+Description: 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册
+Author: Netskao
+Icon: https://apt.bitilly.cn/Description/bdtbnoads/AppIcon.png
+Name: 百度贴吧 NoAds
+Sileodepiction: https://apt.bitilly.cn/Description/bdtbnoads/bdtbnoads.json
+
 Package: cn.bitilly.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm
