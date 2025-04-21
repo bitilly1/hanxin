@@ -127,7 +127,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、修复更换图标不生效；\n\u2023 2、解决挂V注销掉激活。"
+"markdown": "\n\u2023 1、修复更换图标不生效；\n\n\u2023 2、解决挂V注销掉激活。"
 },
 {
 "class": "DepictionLayerView",
