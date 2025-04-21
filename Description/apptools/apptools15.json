@@ -83,7 +83,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools15 v1.3.7",
+"text": "AppTools v1.3.8",
 "title": "最新版本"
 },
 {
@@ -111,7 +111,30 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.3.7",
+"text": "AppTools v1.3.8",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.04.21",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复更换图标不生效；\n\u2023 2、解决挂V注销掉激活。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.3.7",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -134,7 +157,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.3.6",
+"text": "AppTools v1.3.6",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -157,7 +180,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.3.5",
+"text": "AppTools v1.3.5",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -180,7 +203,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.3.4",
+"text": "AppTools v1.3.4",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -203,7 +226,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.2.6",
+"text": "AppTools v1.2.6",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -226,7 +249,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.2.5",
+"text": "AppTools v1.2.5",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -249,7 +272,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.2.4",
+"text": "AppTools v1.2.4",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -272,7 +295,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.2.3",
+"text": "AppTools v1.2.3",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -295,7 +318,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools15 v1.2.2",
+"text": "AppTools v1.2.2",
 "fontWeight": "bold",
 "fontSize": 16
 },
