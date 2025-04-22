@@ -1,0 +1,13 @@
+name: "remove all old actions"
+
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types: 
+      - completed
+
+jobs:
+
+  remove_all_old_actions:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    uses: invalidunit/action/.github/workflows/remove_all_actions.yml@main
