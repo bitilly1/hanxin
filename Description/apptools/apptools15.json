@@ -83,7 +83,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v1.3.8",
+"text": "AppTools v1.3.9",
 "title": "最新版本"
 },
 {
@@ -106,6 +106,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.3.9",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.04.28",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复激活时可能出现的安全模式；\n\n\u2023 2、移除自动保存布局功能，解决可能出现的图标乱序问题；\n\n\u2023 3、大幅优化代码和UI细节，资源和内存占用更少！"
+},
 {
 "class": "DepictionLayerView",
 "views": [
