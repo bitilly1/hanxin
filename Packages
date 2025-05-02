@@ -2491,6 +2491,24 @@ Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
 Name: AppTools for iOS14
 Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools.json
 
+Package: com.flex2areo.apptools14
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: aReo
+Installed-Size: 2104
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.flex2areo.apptools14_2.1.0_iphoneos-arm.deb
+Size: 442300
+MD5sum: 6b80df7907853cc0bbc43ad94f09aa1d
+SHA1: d9fd2cc8ad133fe652abbd7ba2b26e339cc06436
+SHA256: dfb763909bd5180e535aae5cbe8597fb5a55c153df4c4f10f6cbf55c59a38a74
+Section: 功能助手
+Description: An icon tool.
+Author: aReo
+Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
+Name: AppTools for iOS14
+Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools.json
+
 Package: com.flex2areo.apptools15roothide
 Version: 1.3.4
 Architecture: iphoneos-arm64e
