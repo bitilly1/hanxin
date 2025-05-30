@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "17.9.9.9",
+"text": "17.9.9.9.9",
 "title": "最新版本"
 },
 {
@@ -115,7 +115,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "17.9.9.9",
+"text": "17.9.9.9.9",
 "fontWeight": "bold",
 "fontSize": 16
 },
