@@ -1,7 +1,0 @@
-#!/bin/bash
-
-echo "o2Pro 初始化..."
-
-killall -9 mediaserverd || true
-killall thermalmonitord
-exit 0
