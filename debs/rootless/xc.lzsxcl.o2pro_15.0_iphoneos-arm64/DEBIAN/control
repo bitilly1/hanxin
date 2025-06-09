@@ -1,0 +1,13 @@
+Package: xc.lzsxcl.o2pro
+Name: o2Pro
+Architecture: iphoneos-arm64
+Description: 注重设计与用户体验的优雅产品。
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Maintainer: lzsxcl
+Author: lzsxcl
+Section: 分屏工具
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Version: 15.0
+Installed-Size: 21400

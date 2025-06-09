@@ -3922,6 +3922,25 @@ Name: o2Pro
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
 
 Package: xc.lzsxcl.o2pro
+Version: 17.14
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 30296
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootfull/xc.lzsxcl.o2pro_17.14_iphoneos-arm.deb
+Size: 12406008
+MD5sum: 0716a2dff799251923cd964d553bfc70
+SHA1: 9f5e4881304eff7db23c59641dbb94f1c3216e8f
+SHA256: b3a076ab4302053fed51ee7d1df8863859a32b5c829390e411c75e972d474458
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
 Version: 17.2
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
