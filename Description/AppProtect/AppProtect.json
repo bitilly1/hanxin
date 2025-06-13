@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.0.5",
+"text": "AppProtect v2.0.6",
 "title": "最新版本"
 },
 {
@@ -110,6 +110,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppProtect v2.0.6",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.06.13",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、新增相册验证功能：支持微信、QQ应用内打开相册验证；\n\u2023 2、优化激活文件位置：防止被误清理后导致掉激活问题；\n\u2023 3、其它优化。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
