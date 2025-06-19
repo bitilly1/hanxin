@@ -83,7 +83,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v1.3.9",
+"text": "AppTools v1.4.1",
 "title": "最新版本"
 },
 {
@@ -106,6 +106,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.4.1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.06.18",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复降级应用失效问题；\n\n\u2023 2、优化激活文件位置，防止被误清理后导致掉激活问题；\n\n\u2023 3、其它优化。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
