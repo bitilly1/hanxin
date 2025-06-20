@@ -1,6 +1,6 @@
 {
 "class": "DepictionTabView",
-"headerImage": "https://apt.bitilly.cn/Description/apptools/apptools.jpg",
+"headerImage": "https://apt.bitilly.cn/Description/apptools/apptools15.jpg",
 "tintColor": "#3784d2",
 "minVersion": "0.3",
 "tabs": [
@@ -15,23 +15,19 @@
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/apptools/img1.jpg"
+"url": "https://apt.bitilly.cn/Description/apptools/img_1.jpg"
 },
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/apptools/img2.jpg"
+"url": "https://apt.bitilly.cn/Description/apptools/img_2.jpg"
 },
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/apptools/img3.jpg"
+"url": "https://apt.bitilly.cn/Description/apptools/img_3.jpg"
 },
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/apptools/img4.jpg"
-},
-{
-"accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/apptools/img5.jpg"
+"url": "https://apt.bitilly.cn/Description/apptools/img_4.jpg"
 },
 
 ]
@@ -43,7 +39,7 @@
 },
 {
 "text": "购买授权激活",
-"action": "https://h5.m.goofish.com/item?id=941342425683",
+"action": "https://ur.alipay.com/_6KpPdtkaeTggpt78bs8Afx",
 "openExternal": 1,
 "class": "DepictionButtonView"
 },
@@ -55,7 +51,7 @@
 },
 {
 "text": "购买定制证书",
-"action": "https://h5.m.goofish.com/item?forceFlush=1&id=881031348265",
+"action": "https://shop.wangchengq.com/details/4021681A",
 "openExternal": 1,
 "class": "DepictionButtonView"
 },
@@ -87,17 +83,17 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools14 v2.1.1",
+"text": "AppTools v1.4.1",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "14.0 - 14.9",
+"text": "15.0 - 16.5.1",
 "title": "兼容系统"
 },
 {
 "class": "DepictionTableTextView",
-"text": "6S - 12PM",
+"text": "6S - 14PM",
 "title": "支持设备"
 },
 {
@@ -115,13 +111,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools14 v2.1.1",
+"text": "AppTools v1.4.1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.05.24",
+"text": "日志更新于 2025.06.18",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,20 +127,20 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 设置页UI更新"
+"markdown": "\n\u2023 1、修复降级应用失效问题；\n\n\u2023 2、优化激活文件位置，防止被误清理后导致掉激活问题；\n\n\u2023 3、其它优化。"
 },
 {
 "class": "DepictionLayerView",
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools14 v2.1.0",
+"text": "AppTools v1.3.9",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.05.02",
+"text": "日志更新于 2025.04.28",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -154,20 +150,20 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 修复系统失效的问题。"
+"markdown": "\n\u2023 1、修复激活时可能出现的安全模式；\n\n\u2023 2、移除自动保存布局功能，解决可能出现的图标乱序问题；\n\n\u2023 3、大幅优化代码和UI细节，资源和内存占用更少！"
 },
 {
 "class": "DepictionLayerView",
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools14 v2.0.9",
+"text": "AppTools v1.3.8",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.01.14",
+"text": "日志更新于 2025.04.21",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -177,20 +173,20 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 修复更换图标的小bug。"
+"markdown": "\n\u2023 1、修复更换图标不生效；\n\n\u2023 2、解决挂V注销掉激活。"
 },
 {
 "class": "DepictionLayerView",
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools14 v2.0.8",
+"text": "AppTools v1.3.7",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.01.04",
+"text": "日志更新于 2025.04.07",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -200,20 +196,158 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 新增保存布局开关。"
+"markdown": "\n\u2023 解决注销可能导致的掉激活问题！"
 },
 {
 "class": "DepictionLayerView",
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools14 v2.0.6",
+"text": "AppTools v1.3.6",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2023.08.29",
+"text": "日志更新于 2025.01.15",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复个别用户修改图标后点击图标时恢复问题；\n\n\u2023 2、修复roothide版本重启后图标失效问题。 "
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.3.5",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.01.08",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、解决降级应用失败问题；\n\n\u2023 2、重置权限新增重置定位功能。 "
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.3.4",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.01.02",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复自动保存布局功能注销后恢复问题；\n\n\u2023 2、修复备份和恢复插件配置问题。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.2.6",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2024.04.11",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1.修复15返回桌面系统崩溃问题;\n\n\u2023 2.修复隐藏后台卡片图标名称不生效问题。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.2.5",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.12.20",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 修复Xina2左滑闪退。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.2.4",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.10.20",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 修复无根手势触发功能失效问题。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v1.2.3",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2023.10.20",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -230,7 +364,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppTools14 v2.0.5",
+"text": "AppTools v1.2.2",
 "fontWeight": "bold",
 "fontSize": 16
 },
@@ -246,76 +380,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 修复恢复图标安全模式问题。"
-},
-{
-"class": "DepictionLayerView",
-"views": [
-{
-"class": "DepictionLabelView",
-"text": "AppTools14 v2.0.4",
-"fontWeight": "bold",
-"fontSize": 16
-},
-{
-"class": "DepictionLabelView",
-"text": "日志更新于 2023.07.17",
-"fontWeight": "semibold",
-"fontSize": 12,
-"textColor": "#999",
-"alignment": 2
-}
-]
-},
-{
-"class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、修复紧致角标不立即生效问题；\n\n\u2023 2、修复备份文档问题。"
-},
-{
-"class": "DepictionLayerView",
-"views": [
-{
-"class": "DepictionLabelView",
-"text": "AppTools14 v2.0.3",
-"fontWeight": "bold",
-"fontSize": 16
-},
-{
-"class": "DepictionLabelView",
-"text": "日志更新于 2023.07.11",
-"fontWeight": "semibold",
-"fontSize": 12,
-"textColor": "#999",
-"alignment": 2
-}
-]
-},
-{
-"class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、重新编译，极致优化，增强稳定性，解决可能内存泄露溢出等导致无故注销潜在问题；\n\n\u2023 2、修复功能菜单显示不完整等异常问题；\n\n\u2023 3、修复后台、禁止注入功能无法开启问题；\n\n\u2023 4、解决解锁屏幕后可能卡顿掉帧的问题。"
-},
-{
-"class": "DepictionLayerView",
-"views": [
-{
-"class": "DepictionLabelView",
-"text": "AppTools14 v2.0.2",
-"fontWeight": "bold",
-"fontSize": 16
-},
-{
-"class": "DepictionLabelView",
-"text": "日志更新于 2023.06.28",
-"fontWeight": "semibold",
-"fontSize": 12,
-"textColor": "#999",
-"alignment": 2
-}
-]
-},
-{
-"class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、新增白灰和黑灰UI菜单；\n\n\u2023 2、修复文件夹菜单崩溃问题；\n\n\u2023 3、优化编译,解决可能无故注销等问题。"
+"markdown": "\n\u2023 修复菜单功能显示不全问题。"
 },
 
 ]
