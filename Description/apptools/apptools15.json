@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.1.1",
+"text": "AppTools v2.1.2",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.1.2",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.02",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复未下载完成的应用打开菜单崩溃问题；\n\n\u2023 2、优化常驻后台显示逻辑，当应用运行时才显示后台小图标；\n\n\u2023 3、优化功能逻辑，开启禁止卸载功能后，首页卸载应用功能将不可用。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
