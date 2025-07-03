@@ -2117,6 +2117,47 @@ Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
 Name: Shuffle
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
 
+Package: com.cureux.cc26
+Version: 0.4.3b
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/rootless/com.cureux.cc26_0.4.3b_iphoneos-arm64.deb
+Size: 12444
+MD5sum: fae33aa6304dca9ded01791ff82d0a4b
+SHA1: db7b4d51189396f8d48369a4700f5ddada880625
+SHA256: fa4041eae3298de7ed3c2ec427399b51801532444fa174de9e36e68dfd58f3f7
+Section: 功能助手
+Description: 仿iOS26样式的控制中心插件，安装之后注销生效
+Author: therealhoodboy
+Icon: https://apt.bitilly.cn/Description/cc26/icon.png
+Name: CC26
+Sileodepiction: http://apt.bitilly.cn/Description/cc26/cc26.json
+
+Package: com.cureux.cc26
+Version: 0.4.3b
+Architecture: iphoneos-arm64e
+Maintainer: therealhoodboy
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/roothide/com.cureux.cc26_0.4.3b_iphoneos-arm64e.deb
+Size: 13496
+MD5sum: 16f9a708df8acce2755ce9df8f638fa7
+SHA1: b97dc20330f3205c6143b0f69481faac70abd646
+SHA256: 84113b8b8e4cfb80188cd3283be191e8e7c5a368b57f19365363b4da6de2b68f
+Section: 功能助手
+Description: 仿iOS26样式的控制中心插件，安装之后注销生效
+Author: therealhoodboy
+Icon: https://apt.bitilly.cn/Description/cc26/icon.png
+Name: CC26
+Sileodepiction: http://apt.bitilly.cn/Description/cc26/cc26.json
+
 Package: com.eliofeghali.souvenir
 Version: 1.13
 Architecture: iphoneos-arm64

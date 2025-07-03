@@ -1,0 +1,118 @@
+{
+"class": "DepictionTabView",
+"headerImage": "https://apt.bitilly.cn/Description/cc26/CC26.jpg",
+"tintColor": "#3784d2",
+"minVersion": "0.3",
+"tabs": [
+{
+"class": "DepictionStackView",
+"tabname": "详情",
+"views": [
+{
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/cc26/img_01.jpg"
+},
+
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n仿iOS26样式的控制中心插件，安装之后注销生效。",
+"useSpacing": true
+},
+{
+"text": "联系客服企鹅",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://shop.wangchengq.com/details/4021681A",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
+"text": "therealhoodboy",
+"title": "开发作者"
+},
+{
+"class": "DepictionTableTextView",
+"text": "CC26 0.4.3b",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
+"text": "15.0 - 16.5.1",
+"title": "兼容系统"
+},
+{
+"class": "DepictionTableTextView",
+"text": "6S - 14PM",
+"title": "支持设备"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+}
+]
+},
+{
+"class": "DepictionStackView",
+"tabname": "更新日志",
+"views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "CC26 0.4.3b",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.03",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 保存版本。"
+},
+
+]
+}
+]
+}
