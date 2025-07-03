@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.1.3",
+"text": "AppTools v2.1.4",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.1.4",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.03",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复正在更新的应用使用菜单崩溃问题；\n\n\u2023 2、修复资源库搜索里的应用使用菜单崩溃问题；\n\n\u2023 3、重装或者更新插件时不再覆盖已替换的主题；\n\n\u2023 4、优化激活和注销逻辑，使用插件设置中的注销功能将不再关闭 V，部分地区（福建）等激活不了的用户请尝试挂 V 激活。激活后，激活不再受 V 影响；\n\n\u2023 5、其它已知问题修复和优化。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
