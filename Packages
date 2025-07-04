@@ -2158,6 +2158,47 @@ Icon: https://apt.bitilly.cn/Description/cc26/icon.png
 Name: CC26
 Sileodepiction: http://apt.bitilly.cn/Description/cc26/cc26.json
 
+Package: com.cureux.cc26
+Version: 0.4.9.1b
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/rootless/com.cureux.cc26_0.4.9.1b_iphoneos-arm64.deb
+Size: 15448
+MD5sum: 543a4f3363b4878fc586d92092a9f541
+SHA1: 640b67003a007acbcef65e71fb20818119473ea2
+SHA256: cf2e6ccd5d71300f11f7a20d1bf6d2bce0fe9002007f530e3cd4d70ffdf0853c
+Section: 功能助手
+Description: 仿iOS26样式的控制中心插件，安装之后注销生效
+Author: therealhoodboy
+Icon: https://apt.bitilly.cn/Description/cc26/icon.png
+Name: CC26
+Sileodepiction: http://apt.bitilly.cn/Description/cc26/cc26.json
+
+Package: com.cureux.cc26
+Version: 0.4.9.1b
+Architecture: iphoneos-arm64e
+Maintainer: therealhoodboy
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/roothide/com.cureux.cc26_0.4.9.1b_iphoneos-arm64e.deb
+Size: 16496
+MD5sum: 7422a12520f64daf9b7a73778586d4fb
+SHA1: 5a177d416e65abc6455f909bf918f7388c4fcdd8
+SHA256: 55498f383249bda418ffd3ce6ab98cc54c367da6f578bb474e4bfc5e54d40d0b
+Section: 功能助手
+Description: 仿iOS26样式的控制中心插件，安装之后注销生效
+Author: therealhoodboy
+Icon: https://apt.bitilly.cn/Description/cc26/icon.png
+Name: CC26
+Sileodepiction: http://apt.bitilly.cn/Description/cc26/cc26.json
+
 Package: com.eliofeghali.souvenir
 Version: 1.13
 Architecture: iphoneos-arm64
