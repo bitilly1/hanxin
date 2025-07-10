@@ -65,7 +65,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "CC26 0.4.9.1b",
+"text": "CC26 0.4.9.3b",
 "title": "最新版本"
 },
 {
@@ -88,6 +88,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "CC26 0.4.9.3b",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.07",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 保存不安全模式版本"
+},
 {
 "class": "DepictionLayerView",
 "views": [
