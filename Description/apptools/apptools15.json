@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.1.6",
+"text": "AppTools v2.1.7",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.1.7",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.13",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复更改桌面布局后，资源库搜索页面布局显示异常问题；\n\n\u2023 2、优化布局功能，修改后无需注销立即生效；\n\n\u2023 3、优化图标大小功能，解决文件夹返回时跳动问题；\n\n\u2023 4、其它细节优化。\n\n弱安装插件后遇到问题，请清楚配置或排查冲突。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
