@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.2.0",
+"text": "AppTools v2.2.1",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.2.1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.23",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复安装docker栏插件后修改图标不生效问题；\n\n\u2023 2、优化布局功能，新增单页设置、PageDot设置、禁用布局等功能，支持小组件自动调整；\n\n\u2023 3、其它修复与优化。\n\n如安装插件后遇到问题，请清除配置或排查冲突。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
