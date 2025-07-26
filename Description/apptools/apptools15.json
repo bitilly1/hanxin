@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.2.2",
+"text": "AppTools v2.2.3",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.2.3",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.26",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复安装 Dock 插件后使用降级功能导致的 Dock 栏消失问题；\n\n\u2023 2、修复布局默认布局问题；\n\n\u2023 3、新增动态调整小组件开关功能。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
