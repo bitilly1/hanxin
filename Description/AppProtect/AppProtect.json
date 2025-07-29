@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.0.6",
+"text": "AppProtect v2.0.7",
 "title": "最新版本"
 },
 {
@@ -115,6 +115,29 @@
 "views": [
 {
 "class": "DepictionLabelView",
+"text": "AppProtect v2.0.7",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.22",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、优化激活逻辑；\n\n\u2023 2、移除小组件 3DTouch 菜单。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
 "text": "AppProtect v2.0.6",
 "fontWeight": "bold",
 "fontSize": 16
@@ -131,7 +154,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、新增相册验证功能：支持微信、QQ应用内打开相册验证；\n\u2023 2、优化激活文件位置：防止被误清理后导致掉激活问题；\n\u2023 3、其它优化。"
+"markdown": "\n\u2023 1、新增相册验证功能：支持微信、QQ应用内打开相册验证；\n\n\u2023 2、优化激活文件位置：防止被误清理后导致掉激活问题；\n\n\u2023 3、其它优化。"
 },
 {
 "class": "DepictionLayerView",
