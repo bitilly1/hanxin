@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.2.3",
+"text": "AppTools v2.3.0",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.3.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.07.31",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、新增文件夹功能：包括更换图标、图标透明、图标布局、禁止打开等功能；\n\n\u2023 2、新增文件夹3DTouch菜单；\n\n\u2023 3、去掉壁纸模糊，新增文件夹扩展宽高功能；\n\n\u2023 4、优化一些功能逻辑，无需注销即可生效。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
