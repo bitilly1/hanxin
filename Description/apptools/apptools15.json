@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.3.0",
+"text": "AppTools v2.3.1",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.3.1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.08.03",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复桌面 PageDot 搜索问题；\n\n\u2023 2、优化文件夹自动布局，使用布局功能时自动打开文件夹；\n\n\u2023 3、新增壁纸透明和图标边框透明功能；\n\n\u2023 4、禁用布局功能移至插件设置中；\n\n\u2023 5、其它细节优化。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
