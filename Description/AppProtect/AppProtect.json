@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.0.7",
+"text": "AppProtect v2.1.0",
 "title": "最新版本"
 },
 {
@@ -110,6 +110,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppProtect v2.1.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.08.07",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、新增重启保护，非越狱状态下无法打开已加密应用；\n\n\u2023 2、修复关机验证时会截图的问题；\n\n\u2023 3、优化激活验证逻辑。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
