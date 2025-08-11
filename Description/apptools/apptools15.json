@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.3.2",
+"text": "AppTools v2.3.3",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.3.3",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.08.11",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、修复隐根桌面添加小组件时可能出现的问题；\n\n\u2023 2、优化移动文件夹图标后出现的边框闪现问题；\n\n\u2023 3、优化文件夹布局功能，编辑布局时不自动关闭文件夹。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
