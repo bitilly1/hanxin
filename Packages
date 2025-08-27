@@ -2492,6 +2492,24 @@ Icon: http://apt.bitilly.cn/Description/AppProtect/icon.png
 Name: AppProtect(Roothide)
 Sileodepiction: http://apt.bitilly.cn/Description/AppProtect/AppProtect.json
 
+Package: com.flex2areo.appprotectroothide
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2112
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/roothide/com.flex2areo.appprotectroothide_2.1.1_iphoneos-arm64e.deb
+Size: 533456
+MD5sum: d601846ebad1b828deea372e2ff89bf4
+SHA1: 3f0b2e5d453453367c1efec7c3eddfa4d6918f6e
+SHA256: 3ae95ec7cbf5dc7d352257f5be77e8afa2f3a01147903cfabea2524ea2be7b67
+Section: 功能助手
+Description: App 隐私保护
+Author: aReo
+Icon: https://apt.bitilly.cn/Description/AppProtect/icon.png
+Name: AppProtect(Roothide)
+Sileodepiction: https://apt.bitilly.cn/Description/AppProtect/AppProtect.json
+
 Package: com.flex2areo.appprotectrootless
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -2581,6 +2599,24 @@ Author: aReo
 Icon: http://apt.bitilly.cn/Description/AppProtect/icon.png
 Name: AppProtect(Rootless)
 Sileodepiction: http://apt.bitilly.cn/Description/AppProtect/AppProtect.json
+
+Package: com.flex2areo.appprotectrootless
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2180
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/rootless/com.flex2areo.appprotectrootless_2.1.1_iphoneos-arm64.deb
+Size: 557384
+MD5sum: 83fe5ad468ecf34bbd8cce64a3f43214
+SHA1: 2178a16db141447fc646fd3fe418eeb5232f0f85
+SHA256: 469e4aabeb9ac310157afef3894787360494aa4e14fe562c6d84d3f10cbc92f3
+Section: 功能助手
+Description: App 隐私保护
+Author: aReo
+Icon: https://apt.bitilly.cn/Description/AppProtect/icon.png
+Name: AppProtect(Rootless)
+Sileodepiction: https://apt.bitilly.cn/Description/AppProtect/AppProtect.json
 
 Package: com.flex2areo.apptools14
 Version: 1.9.4
