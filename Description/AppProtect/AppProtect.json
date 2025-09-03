@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.1.1",
+"text": "AppProtect v2.1.3",
 "title": "最新版本"
 },
 {
@@ -115,13 +115,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppProtect v2.1.1",
+"text": "AppProtect v2.1.3",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.08.07",
+"text": "日志更新于 2025.09.03",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、重磅新增分屏加密验证；\n\n\u2023 2、修复打开重启保护功能后，打开文件夹崩溃问题；\n\n\u2023 3、其它优化。"
+"markdown": "\n\u2023 1、修复打开加密文件夹崩溃问题；\n\n\u2023 2、设置里添加重启保护使用方法说明；\n\n\u2023 3、其它优化。"
 }
 ]
 }
