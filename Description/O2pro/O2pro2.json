@@ -42,7 +42,7 @@
 "useSpacing": true
 },
 {
-"text": "获取授文件",
+"text": "获取授权文件",
 "action": "https://h5.m.goofish.com/item?forceFlush=1&id=863487326546",
 "openExternal": 1,
 "class": "DepictionButtonView"
