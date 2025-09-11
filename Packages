@@ -2094,6 +2094,46 @@ Icon: file:///Library/PreferenceBundles/volumemixer.bundle/icon@2x.png
 Name: VolumeMixer
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.creaturecoding.libcspreferences
+Version: 1.5.8
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2332
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debs/rootless/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
+Size: 334600
+MD5sum: 3044487cdeb81b8348e603fdbc234355
+SHA1: e3fe770e2f97c849c571190e7694f82a4f57d1ca
+SHA256: f70036d704f058eb03424a6de282fba9c12769a2089240222e01905b17c9f270
+Section: 插件依赖
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Name: libCSPreferences
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
+Package: com.creaturecoding.libcspreferences
+Version: 1.5.8
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2332
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debs/roothide/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e.deb
+Size: 336388
+MD5sum: 3b454938f87b11f7b438ceb492bf7f3a
+SHA1: a2e0ac1684406c9caa44cb5b9bb3446eead9da9d
+SHA256: bb800ad530325e296b4d3e6e6a4f4a2536e6b5e7fb5b759309d96df965b63c70
+Section: 依赖插件
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://apt.bitilly.cn/Description/shuffle/shuffle.json
+Name: libCSPreferences
+Sileodepiction: https://apt.bitilly.cn/Description/shuffle/shuffle.json
+
 Package: com.creaturecoding.shuffle
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -2103,19 +2143,67 @@ Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
 Filename: ./debs/rootfull/com.creaturecoding.shuffle_1.6.1_iphoneos-arm.deb
-Size: 329752
-MD5sum: 596a9a9281cbfdb7cff16cbcb512af6f
-SHA1: c3f47605f942a76bb2de47189e4621ea699f5c21
-SHA256: e2e96e0467dba553f702eec93e7bda11e42072302fdb5b3d14bfac85a3a1bf1a
+Size: 329852
+MD5sum: 79c405811a470d571676c74a17987c09
+SHA1: 355238f3196c789a47cfb06cf6f10e80df4ad204
+SHA256: cba8e6b47a23c89231cd000458ca335a349a3c3203b749d1f4cad2bc2b31234d
 Section: 功能助手
 Homepage: https://creaturecoding.com/
 Description: Organize your settings
 Tag: purpose::extension, compatible_min::ios10
 Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
-Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Depiction: https://apt.bitilly.cn/Description/shuffle/shuffle.json
+Icon: https://apt.bitilly.cn/Description/shuffle/icon.png
 Name: Shuffle
-Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+Sileodepiction: https://apt.bitilly.cn/Description/shuffle/shuffle.json
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1484
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/rootless/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64.deb
+Size: 253576
+MD5sum: efe3c7ecdd40d3bd7a646ec14a912253
+SHA1: db5821c46686135b7af37132e502c128ae470c3c
+SHA256: 8ca71dd0c8b9ee3c72e8bb51ebd0b0863955689e8e85d3f41aec833cad33f2a5
+Section: 功能助手
+Homepage: https://creaturecoding.com/
+Description: Organize your settings
+Tag: purpose::extension, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://apt.bitilly.cn/Description/shuffle/shuffle.json
+Icon: https://apt.bitilly.cn/Description/shuffle/icon.png
+Name: Shuffle
+Sileodepiction: https://apt.bitilly.cn/Description/shuffle/shuffle.json
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1484
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/roothide/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64e.deb
+Size: 258852
+MD5sum: 42f9ff6cde303ed087b7935483e2fd87
+SHA1: a7a9f7987825832478ec68fc0c93048ae130e24f
+SHA256: a5f669522b9e03ecb0a7d54c29bc8ea1370f9358098cf7d19c85872bcbe293df
+Section: 功能助手
+Homepage: https://creaturecoding.com/
+Description: Organize your settings
+Tag: purpose::extension, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://apt.bitilly.cn/Description/shuffle/shuffle.json
+Icon: https://apt.bitilly.cn/Description/shuffle/icon.png
+Name: Shuffle
+Sileodepiction: https://apt.bitilly.cn/Description/shuffle/shuffle.json
 
 Package: com.cureux.cc26
 Version: 0.4.3b
