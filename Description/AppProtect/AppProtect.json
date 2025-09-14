@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.2.1",
+"text": "AppProtect v2.2.4",
 "title": "最新版本"
 },
 {
@@ -115,13 +115,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppProtect v2.2.1",
+"text": "AppProtect v2.2.4",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.09.10",
+"text": "日志更新于 2025.09.14",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、新增隐藏设置选项功能（隐藏设置-隐藏设置选项），可隐藏设置应用里任意功能选项；\n\n\u2023 2、其它优化。"
+"markdown": "\n\u2023 1、优化后台模糊残影，更流畅丝滑；\n\n\u2023 2、优化隐藏功能，桌面下拉搜索输入口令后自动清除内容。"
 }
 ]
 }
