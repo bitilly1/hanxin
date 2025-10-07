@@ -5657,6 +5657,64 @@ Name: o2Pro
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
 
 Package: xc.lzsxcl.o2pro
+Version: 17.26.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 30392
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootfull/xc.lzsxcl.o2pro_17.26.2_iphoneos-arm.deb
+Size: 12449584
+MD5sum: c4e28e4b20c6600d86aed928ee052aaa
+SHA1: f453fa98a8f985a357e08190a95076b2ee5b426d
+SHA256: 63b46796d5e60e7f7474d889c6c15ac60b7041e0badc3f09fba0d1b7a84904c6
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 17.26.2
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 30424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2pro_17.26.2_iphoneos-arm64.deb
+Size: 12444312
+MD5sum: 3a5dd208c0e0c6f661845fd3ecd879e3
+SHA1: 1513e3a1f727f399ec7887cfd7f0e6a0b053c959
+SHA256: 593e8a6acff9b403cd021442859a540cdf666483a0ccfbdf33eec76abc87e936
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 17.26.2
+Architecture: iphoneos-arm64e
+Maintainer: lzsxcl
+Installed-Size: 30424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/roothide/xc.lzsxcl.o2pro_17.26.2_iphoneos-arm64e.deb
+Size: 31455998
+MD5sum: 7a8037b9b5d2bac6bd994705c23663e8
+SHA1: 5fa313d68067bc4b10492667acdaaddbf8b59d08
+SHA256: 01ffe4fd7bb87418074ef9d700b405dab140c4699a639340edd3f09a3ab4cd50
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
 Version: 17.3.1
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
