@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.2.6",
+"text": "AppProtect v2.3.2",
 "title": "最新版本"
 },
 {
@@ -121,7 +121,7 @@
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.09.18",
+"text": "日志更新于 2025.10.08",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、优化个别功能。"
+"markdown": "\n\u2023 1、网址屏蔽新增白名单功能，若屏蔽规则导致其它应用闪退，可开启白名单程序过滤。"
 }
 ]
 }
