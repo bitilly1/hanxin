@@ -6331,3 +6331,58 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
 
+Package: xc.lzsxcl.w2
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 4996
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/xc.lzsxcl.w2_0.8_iphoneos-arm.deb
+Size: 1469384
+MD5sum: 239c176b759b0b9ed8fa3bc32768bd92
+SHA1: f9ab7ed6b6b9e63c36326aff5dfd439d9dbe89a0
+SHA256: 732ae7cb8c58fffee681a42e828e26123dcfb1f148a649249164c77436420194
+Section: 功能助手
+Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
+Name: w2 Pro
+Sileodepiction: http://apt.bitilly.cn/Description/w2pro/w2pro.json
+
+Package: xc.lzsxcl.w2
+Version: 0.8
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 5012
+Depends: mobilesubstrate
+Filename: ./debs/rootless/xc.lzsxcl.w2_0.8_iphoneos-arm64.deb
+Size: 1434448
+MD5sum: 128e304d3b0bb705616e476736b1582e
+SHA1: 70efc57113026cf4042528a30512387dfc41ee80
+SHA256: 9d7e1c5df4bbae8ffc2d7d3637897a7a54f692f83af315ab0a146c90ae6f7463
+Section: 功能助手
+Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
+Name: w2 Pro
+Sileodepiction: http://apt.bitilly.cn/Description/w2pro/w2pro.json
+
+Package: xc.lzsxcl.w2
+Version: 0.8
+Architecture: iphoneos-arm64e
+Maintainer: lzsxcl
+Installed-Size: 5012
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/roothide/xc.lzsxcl.w2_0.8_iphoneos-arm64e.deb
+Size: 1437888
+MD5sum: e40567159492c7703c893293ee85e8ff
+SHA1: 3975b821dd171dac4b9057f6f93fd27ad30844a6
+SHA256: 02c121524dfdae1b0ebeeaef4331cb24cec26cb225d620f056de49b10be16664
+Section: 功能助手
+Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
+Name: w2 Pro
+Sileodepiction: http://apt.bitilly.cn/Description/w2pro/w2pro.json
+
