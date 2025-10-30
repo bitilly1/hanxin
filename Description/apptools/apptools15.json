@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.3.8",
+"text": "AppTools v2.4.0",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.4.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.10.30",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、新增去开屏广告功能，支持大部分应用（个别小众编程语言暂不支持）；\n\n\u2023 2、屏蔽通知功能增强改名为沉浸模式，开启功能后，在使用程序期间自动屏蔽横幅通知，且关闭下滑控制中心功能，防止误触；\n\n\u2023 3、优化文件夹扩展宽高功能；\n\n 另请注意：\n\n\u2023 1、开屏去广功能替代动态组件功能位置，后者默认开启；\n\n\u2023 2、此次更新涉及域名更换，请务必在 11.15 号前完成升级，避免后期出现插件无法激活、实效等情况；\n\n\u2023 3、随着功能不断增加，11月起，作者那边将大概率执行新的赞助价格，届时本源购买价格也将进行调整！总体优惠政策不变，还没入手的伙伴抓紧时间上车哦！"
+},
 {
 "class": "DepictionLayerView",
 "views": [
