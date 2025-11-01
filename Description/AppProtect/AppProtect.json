@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.3.2",
+"text": "AppProtect v2.3.4",
 "title": "最新版本"
 },
 {
@@ -115,13 +115,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppProtect v2.3.2",
+"text": "AppProtect v2.3.4",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.10.08",
+"text": "日志更新于 2025.10.31",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、网址屏蔽新增白名单功能，若屏蔽规则导致其它应用闪退，可开启白名单程序过滤。"
+"markdown": "\n\u2023 1、修复 Ipad 设备切换后台可能导致崩溃的问题；\n\n\u2023 2、优化后台模糊功能，新增全局开关（已使用此功能的用户需打开开关）；\n\n\u2023 3、其它优化。"
 }
 ]
 }
