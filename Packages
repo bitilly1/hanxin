@@ -3325,10 +3325,10 @@ Maintainer: aReo
 Installed-Size: 2748
 Depends: mobilesubstrate
 Filename: ./debs/roothide/com.flex2areo.apptools15roothide_2.4.3_iphoneos-arm64e.deb
-Size: 697636
-MD5sum: a15fb14ac1b518a91032abb68ce8b24d
-SHA1: 626139d399616a498df26ddb656f9f3ef63969be
-SHA256: f1e2ea382f2327f73f67ab35bbde2cc8e42b39273f582eb17ce1f4c5712befb8
+Size: 696524
+MD5sum: 57bd3c48bf303d7e1be60226da70dbda
+SHA1: 26d57092de7532a660de0e5767df94d6794ac64c
+SHA256: 93057d16da8da37441a19a7e1a0b33d6c106f9989e51c37b9083b995f89561ec
 Section: 功能助手
 Description: AppTools for iOS15-16 Roothide
 Author: aReo
