@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.4.3",
+"text": "AppTools v2.4.4",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.4.4",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.11.12",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、优化和增强开屏去广功能，解决个别应用可能出现的异常和某些文字不显示问题；\n\n\u2023 2、其它优化。\n\n说明：\n\n\u2023 1、此功能不能保证对所有App有效，如无效果请反馈，或使用专门的补丁；\n\n\u2023 2、新版已增加针对单个应用的设置延迟和关闭去广功能，使用方法：在要生效的应用呼出菜单，长按开屏去广功能；\n\n\u2023 3、设置延迟功能说明：如个别应用遇到卡顿等异常，或广告显示时间过长，可设置延迟去广时间（建议0.5-2秒）。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
