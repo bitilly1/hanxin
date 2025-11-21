@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.3.4",
+"text": "AppProtect v2.3.5",
 "title": "最新版本"
 },
 {
@@ -115,13 +115,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppProtect v2.3.4",
+"text": "AppProtect v2.3.5",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.10.31",
+"text": "日志更新于 2025.11.21",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、修复 Ipad 设备切换后台可能导致崩溃的问题；\n\n\u2023 2、优化后台模糊功能，新增全局开关（已使用此功能的用户需打开开关）；\n\n\u2023 3、其它优化。"
+"markdown": "\n\u2023 1、优化未开启后台模糊功能时，后台卡片可能出现卡顿掉帧的问题；\n\n\u2023 2、优化隐藏功能输入显示口令卡顿一下的问题；\n\n\u2023 3、修复备份配置只保存首次备份文件的问题。"
 }
 ]
 }
