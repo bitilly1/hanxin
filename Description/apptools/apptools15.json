@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.4.5",
+"text": "AppTools v2.4.6",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.4.6",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.11.27",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、增强开屏去广功能；\n\n\u2023 2、沉浸模式改名为勿扰模式，长按图标可启用/禁用控制中心功能；\n\n\u2023 3、优化广告加速功能，解决加速视频广告可能出现崩溃的问题。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
