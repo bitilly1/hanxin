@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.4.6",
+"text": "AppTools v2.4.7",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.4.7",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.11.30",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 修复和优化若干问题。\n\n使用插件过程中如果遇到崩溃，请按以下步骤操作排查：\n\n\u2023 1、清除配置；\n\n\u2023 2、排查冲突，特别是有相似功能的插件，例如：Atria、AppData等；\n\n\u2023 3、安装 Cr4shed 插件查看崩溃日志。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
