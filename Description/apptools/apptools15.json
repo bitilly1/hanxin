@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.4.7",
+"text": "AppTools v2.5.0",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.5.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.12.01",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、新增图标阴影功能，且长按图标可设置阴影大小，实现遮照效果；（保存布局功能移至桌面布局功能里）\n\n\u2023 2、增强屏蔽弹窗功能，长按图标可开启“屏蔽系统弹窗”功能；\n\n\u2023 3、优化开屏跳广功能；\n\n\u2023 4、其它优化。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
