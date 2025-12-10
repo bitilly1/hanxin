@@ -84,7 +84,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "15.0 - 16.5.1",
+"text": "15.0 - 17.0",
 "title": "兼容系统"
 },
 {
@@ -124,6 +124,29 @@
 {
 "class": "DepictionMarkdownView",
 "markdown": "\n\u2023 1、修复 IOS17 文件夹显首图标崩溃问题；\n\n\u2023 2、优化文件夹壁纸透明显示效果；\n\n\u2023 3、优化开屏跳广、阴影图标功能；\n\n\u2023 4、优化一些卡顿和已知 bug。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.5.1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.12.09",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 版本不稳定没更新。"
 },
 {
 "class": "DepictionLayerView",
