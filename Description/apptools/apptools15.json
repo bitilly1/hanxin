@@ -15,22 +15,58 @@
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/apptools/img1475.jpg"
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3088.jpg"
 },
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/apptools/img1476.jpg"
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3089.jpg"
 },
 {
 "accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/apptools/img1477.jpg"
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3090.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3091.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3092.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3093.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3094.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3095.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3096.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3097.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3098.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/apptools/IMG_3099.jpg"
 },
 
 ]
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n备份应用、自定图标、锁定高刷、清理缓存、清理角标、自定义分辨率、禁止插件注入等强大的App类辅助插件，系付费插件，点下面授权激活优惠5元。",
+"markdown": "## 主要功能\n备份应用、自定图标、锁定高刷、清理缓存、清理角标、自定义分辨率、禁止插件注入等强大的App类辅助插件，由于部分原因，不得不遗憾的告诉大家，优惠活动提前终止！需要购买的请直接赞助作者！感谢一直信任我的狱友们~~",
 "useSpacing": true
 },
 {
@@ -113,7 +149,7 @@
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.12.15",
+"text": "日志更新于 2025.12.19",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -123,7 +159,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、修复 IOS17 新建壁纸和负一屏小组件崩溃问题；\n\n\u2023 2、优化一些细节。"
+"markdown": "\n\u2023 1、修复 IOS17 新建壁纸和负一屏小组件崩溃问题；\n\n\u2023 2、新增隐藏应用名称阴影功能，使用方法：长按图标阴影功能;\n\n\u2023 3、优化降级线路，将无需二次验证的线路二调整为线路一。"
 },
 {
 "class": "DepictionLayerView",
