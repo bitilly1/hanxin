@@ -6571,11 +6571,11 @@ Maintainer: lzsxcl
 Installed-Size: 30908
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2pro-17_18.0-Beta3-17_iphoneos-arm64.deb
-Size: 12736316
-MD5sum: 2ffb9162ff69722fc70d7ac1e4bdb29f
-SHA1: be90327aab24ccb5586517d973366e857476c53f
-SHA256: f875143f6ad971d221aa226c6ae95a2bd99468d6e3c610e63fd65dc9c021d0ce
-Section: Tweaks
+Size: 12737408
+MD5sum: f709d479a5ca8ee01906246115a13d63
+SHA1: 3f0c3368a4c4cdf096b8b8f2bfed67e2ee2341f9
+SHA256: 1bebc35678d342a9ea226d080e2bc69965b3e863e373ec7fe84a7504223ea044
+Section: 分屏工具
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
