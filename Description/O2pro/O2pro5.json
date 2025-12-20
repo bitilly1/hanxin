@@ -1,0 +1,209 @@
+{
+"class": "DepictionTabView",
+"headerImage": "https://apt.bitilly.cn/Description/O2pro/IMG_3753.png",
+"tintColor": "#3784d2",
+"minVersion": "0.3",
+"tabs": [
+{
+"class": "DepictionStackView",
+"tabname": "详情",
+"views": [
+{
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/compressed0.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/compressed1.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/compressed2.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/compressed3.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/O2pro/compressed4.jpg"
+},
+
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。注重设计与用户体验的优雅产品，o2Pro逐步免费开放小组件功能（来电视频）已免费开放给所有用户及非购买用户\n\no2Tonken务必备份，丢失包补！前提是点下面链接购买的，如自己其它渠道购买请勿打扰！",
+"useSpacing": true
+},
+{
+"text": "获取授文件",
+"action": "https://h5.m.goofish.com/item?forceFlush=1&id=863487326546",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服QQ",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://www.wcfaka.com/details/4021681A",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
+"text": "lzsxcl",
+"title": "开发作者"
+},
+{
+"class": "DepictionTableTextView",
+"text": "18.0-Beta3-17",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
+"text": "17.0",
+"title": "兼容系统"
+},
+{
+"class": "DepictionTableTextView",
+"text": "XR - 15PM",
+"title": "支持设备"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+}
+]
+},
+{
+"class": "DepictionStackView",
+"tabname": "更新日志",
+"views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.0-Beta3-17",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.12.20",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）优化稳定性及适配灵动岛下拉点击分屏。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.0-Beta3-1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.12.19",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）适配灵动岛下拉、点击、长按打开分屏。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.0-Beta1-13",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.12.12",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）修复 iOS17.0 某些机型的安全模式。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.0-Beta1-2",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2025.12.11",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）适配 iOS17.0（目前适配分屏功能，其他逐步更新中）。"
+},
+
+]
+}
+]
+}
