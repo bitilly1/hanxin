@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppProtect v2.3.5",
+"text": "AppProtect v2.3.6",
 "title": "最新版本"
 },
 {
@@ -115,13 +115,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppProtect v2.3.5",
+"text": "AppProtect v2.3.6",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2025.11.21",
+"text": "日志更新于 2025.12.19",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、优化未开启后台模糊功能时，后台卡片可能出现卡顿掉帧的问题；\n\n\u2023 2、优化隐藏功能输入显示口令卡顿一下的问题；\n\n\u2023 3、修复备份配置只保存首次备份文件的问题。"
+"markdown": "\n\u2023 1、增加音量加减+电源键的关机验证；\n\n\u2023 2、默认自动保存布局，解决可能出现的图标乱跑情况。"
 }
 ]
 }

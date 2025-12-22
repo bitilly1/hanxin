@@ -2076,6 +2076,43 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootless
+Version: 3.8-9
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/rootless/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64.deb
+Size: 5147220
+MD5sum: 8318b98ebb12cfffa8268e24ac284108
+SHA1: 91f92d9e70569401ab3c84ab24493235b799be7b
+SHA256: 129cf492ea004dfbd4041bc3b80d7178591240b40f80db044ba4c3c5365dd2bb
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootless
+Version: 3.8-9
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/roothide/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64e.deb
+Size: 10202080
+MD5sum: 99e61d0394c60abdb070fccd4e5fd885
+SHA1: 346c7ae230213b633ebad5ed910e7c4051da6461
+SHA256: 6fc5c8ecb386f1964e8a99b33d567b119fc1b4b68c7fd052bd30a2bd27b57b07
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://apt.bitilly.cn/images/WeChat.png
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.brend0n.volumemixer
 Version: 0.0.6~beta2
 Architecture: iphoneos-arm
@@ -2579,6 +2616,44 @@ Size: 666864
 MD5sum: 08cce7cbb457e52061067cfbff0dfa66
 SHA1: 55558183d0f96f58142f58aa01a77eea9c14c7e8
 SHA256: a2ecc9dced1eed4f4edcb81e16edd8c7925922a3ac47feeae7adb96af99f9232
+Section: 功能助手
+Description: App 隐私保护
+Author: aReo
+Icon: https://apt.bitilly.cn/Description/AppProtect/icon.png
+Name: AppProtect(Roothide)
+Sileodepiction: https://apt.bitilly.cn/Description/AppProtect/AppProtect.json
+
+Package: com.flex2areo.appprotect
+Version: 2.3.6
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Installed-Size: 2696
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotectroothide,  com.flex2areo.appprotectrootless
+Filename: ./debs/rootless/com.flex2areo.appprotect_2.3.6_iphoneos-arm64.deb
+Size: 712228
+MD5sum: 3c30a93015baa5153aa9134dc7578727
+SHA1: 8419197b4021ab8fafb3a00b56bfcc8997bfa14d
+SHA256: 6cb889f057d6e3a37ea4db70bea96a2d2715fb17daec20ed2e45ce87aa1073fe
+Section: 功能助手
+Description: App 隐私保护
+Author: aReo
+Icon: https://apt.bitilly.cn/Description/AppProtect/icon.png
+Name: AppProtect(Rootless)
+Sileodepiction: https://apt.bitilly.cn/Description/AppProtect/AppProtect.json
+
+Package: com.flex2areo.appprotect
+Version: 2.3.6
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Installed-Size: 2536
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotectroothide,  com.flex2areo.appprotectrootless
+Filename: ./debs/roothide/com.flex2areo.appprotect_2.3.6_iphoneos-arm64e.deb
+Size: 671904
+MD5sum: 8673346f27b30c3ea076bc81fe4340d5
+SHA1: 1e66fefd0158e5dffe48d738c61766562d284f77
+SHA256: f686964fe942ad43f35edb0153bd7f3058b8f8c7dc0542dc24c161e7a1d45c61
 Section: 功能助手
 Description: App 隐私保护
 Author: aReo
