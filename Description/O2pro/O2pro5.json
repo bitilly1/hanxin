@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 本次更新：\n\n-）小折叠功能（内部独享）；\n\n-）修复侧栏问题。"
+"markdown": "\n\u2023 本次更新：\n\n-）小折叠功能（内部独享）；\n\n-）修复侧栏问题。\n\n此版本 iOS16/17.0 均可使用"
 },
 {
 "class": "DepictionLayerView",
