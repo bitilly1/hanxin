@@ -121,7 +121,7 @@
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2024.12.31",
+"text": "日志更新于 2026.1.1",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 优化bug、"
+"markdown": "\n\u2023 7.2 停止维护免费升级 o2Pro 18.0+内测 需准备：同udid+同设备+付款记录注意：不可换设备（iOS14-iOS15）"
 },
 
 ]
