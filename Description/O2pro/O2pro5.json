@@ -87,12 +87,12 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "18.0-Beta6-5",
+"text": "18.1-14",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "17.0",
+"text": "15.0-17.0",
 "title": "兼容系统"
 },
 {
@@ -110,6 +110,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.1-14",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.1.3",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）修复窗口异常；\n\n-）修复侧栏问题。\n\n此版本 iOS15-17.0 均可使用"
+},
 {
 "class": "DepictionLayerView",
 "views": [
