@@ -65,17 +65,17 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "自用版1.4-1",
+"text": "保存版1.5-7",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "11.0 - 15.4.1",
+"text": "14.0 - 16.5.1",
 "title": "兼容系统"
 },
 {
 "class": "DepictionTableTextView",
-"text": "6S - 13PM",
+"text": "6S - 14PM",
 "title": "支持设备"
 },
 {
@@ -93,13 +93,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "自用版1.4-1",
+"text": "保存版1.5-7",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2023.08.15",
+"text": "日志更新于 2026.01.03",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
