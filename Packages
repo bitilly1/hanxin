@@ -2263,27 +2263,6 @@ Name: CC26
 Sileodepiction: http://apt.bitilly.cn/Description/cc26/cc26.json
 
 Package: com.cureux.cc26
-Version: 0.4.3b
-Architecture: iphoneos-arm64e
-Maintainer: therealhoodboy
-Installed-Size: 172
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
-Conflicts: com.dvntm.cc18
-Provides: com.cureux.cc26
-Filename: ./debs/roothide/com.cureux.cc26_0.4.3b_iphoneos-arm64e.deb
-Size: 13496
-MD5sum: 16f9a708df8acce2755ce9df8f638fa7
-SHA1: b97dc20330f3205c6143b0f69481faac70abd646
-SHA256: 84113b8b8e4cfb80188cd3283be191e8e7c5a368b57f19365363b4da6de2b68f
-Section: 功能助手
-Description: 仿iOS26样式的控制中心插件，安装之后注销生效
-Author: therealhoodboy
-Icon: https://apt.bitilly.cn/Description/cc26/icon.png
-Name: CC26
-Sileodepiction: http://apt.bitilly.cn/Description/cc26/cc26.json
-
-Package: com.cureux.cc26
 Version: 0.4.9.1b
 Architecture: iphoneos-arm64
 Maintainer: therealhoodboy
@@ -2296,27 +2275,6 @@ Size: 15448
 MD5sum: 543a4f3363b4878fc586d92092a9f541
 SHA1: 640b67003a007acbcef65e71fb20818119473ea2
 SHA256: cf2e6ccd5d71300f11f7a20d1bf6d2bce0fe9002007f530e3cd4d70ffdf0853c
-Section: 功能助手
-Description: 仿iOS26样式的控制中心插件，安装之后注销生效
-Author: therealhoodboy
-Icon: https://apt.bitilly.cn/Description/cc26/icon.png
-Name: CC26
-Sileodepiction: http://apt.bitilly.cn/Description/cc26/cc26.json
-
-Package: com.cureux.cc26
-Version: 0.4.9.1b
-Architecture: iphoneos-arm64e
-Maintainer: therealhoodboy
-Installed-Size: 204
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
-Conflicts: com.dvntm.cc18
-Provides: com.cureux.cc26
-Filename: ./debs/roothide/com.cureux.cc26_0.4.9.1b_iphoneos-arm64e.deb
-Size: 16496
-MD5sum: 7422a12520f64daf9b7a73778586d4fb
-SHA1: 5a177d416e65abc6455f909bf918f7388c4fcdd8
-SHA256: 55498f383249bda418ffd3ce6ab98cc54c367da6f578bb474e4bfc5e54d40d0b
 Section: 功能助手
 Description: 仿iOS26样式的控制中心插件，安装之后注销生效
 Author: therealhoodboy
@@ -4096,85 +4054,44 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
 
-Package: xc.lzsxcl.o2pro-17
-Version: 18.0-Beta4-7
-Architecture: iphoneos-arm64
+Package: xc.lzsxcl.o2pro
+Version: 18.2-1
+Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Installed-Size: 31472
+Installed-Size: 31724
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: xc.lzsxcl.o2pro,  xc.lzsxcl.o2.rootless
-Filename: ./debs/rootless/xc.lzsxcl.o2pro-17_18.0-Beta4-7_iphoneos-arm64.deb
-Size: 13183204
-MD5sum: e309805336fd3403e6b48f60f13343c9
-SHA1: 45f445b9f7e2c59bbd2ba4cc8c36a344bf9f3441
-SHA256: 3b606c7bda76cd312beec11e0c21e305f1dee87c5df0872db1ed2763bed8572a
+Filename: ./debs/rootfull/xc.lzsxcl.o2pro_18.2-1_iphoneos-arm.deb
+Size: 13351556
+MD5sum: c574b354314292a9579daf340358756d
+SHA1: af456963e72ea7232c6102115a2cff1050786d7e
+SHA256: 0751138963a72805e57d2f2197cddb92962089b629ec8ef5f42a60cde84213ce
 Section: 分屏工具
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2Pro 17专版
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro5.json
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
 
-Package: xc.lzsxcl.o2pro-17
-Version: 18.0-Beta6-5
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 31656
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: xc.lzsxcl.o2pro,  xc.lzsxcl.o2.rootless
-Filename: ./debs/rootless/xc.lzsxcl.o2pro-17_18.0-Beta6-5_iphoneos-arm64.deb
-Size: 13324664
-MD5sum: 96b887210dfbe14a14d3753308d68fc1
-SHA1: d4ae82eb3a2fd15e2fbbac439054d2029d6ef0c1
-SHA256: 2a8bf0050ce9a9b719eec7176c6ac630dc0b44910fe2f9746e16a04922c4e850
-Section: 分屏工具
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2Pro 17专版
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro5.json
-
-Package: xc.lzsxcl.o2pro-17
-Version: 18.1-14
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 31628
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: xc.lzsxcl.o2pro,  xc.lzsxcl.o2.rootless
-Filename: ./debs/rootless/xc.lzsxcl.o2pro-17_18.1-14_iphoneos-arm64.deb
-Size: 13319564
-MD5sum: 5f64b3ca97b4d8aebb014bc0f03b5982
-SHA1: e97167999ec3dfc30d4acdbeb218532b97efe81b
-SHA256: a46b650b30f25cc1e61ef56828b64f04b8282b0c5d514ed162f6991ef55e7c8f
-Section: 分屏工具
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2Pro 17专版
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro5.json
-
-Package: xc.lzsxcl.o2pro-17
+Package: xc.lzsxcl.o2pro
 Version: 18.2-1
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
 Installed-Size: 31660
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: xc.lzsxcl.o2pro,  xc.lzsxcl.o2.rootless
-Filename: ./debs/rootless/xc.lzsxcl.o2pro-17_18.2-1_iphoneos-arm64.deb
-Size: 13324800
-MD5sum: 934515a299f18a735663bbf3fdee2b84
-SHA1: 3454bf587391ee0e26d4c50618b91ceabe034545
-SHA256: c2fc39263fe94ca948d4efc54cf4c5038fd4f0871dcb8ab0b060b0f5cf33dd8d
+Conflicts: xc.lzsxcl.o2pro-17,  xc.lzsxcl.o2.rootless
+Filename: ./debs/rootless/xc.lzsxcl.o2pro_18.2-1_iphoneos-arm64.deb
+Size: 13325128
+MD5sum: 3c8b904b1421e208d14383b99388b4a3
+SHA1: 1555387a16b4fc4a187bcd6b1fa41c0569c42c79
+SHA256: d6b7c75dc14a95987b7d569457909e5226a0c0d9f1cb670db063d39b9d187e1d
 Section: 分屏工具
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2Pro 17专版
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro5.json
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
 
 Package: xc.lzsxcl.w2
 Version: 0.8

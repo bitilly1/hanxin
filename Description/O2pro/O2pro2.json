@@ -87,12 +87,12 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "17.27.0-3",
+"text": "18.2-1",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "14.0 - 16.6.1",
+"text": "14.0 - 17.0",
 "title": "兼容系统"
 },
 {
@@ -110,6 +110,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.2-1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.01.06",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）修复横屏闪退问题。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
