@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 本次更新：\n\n-）新增URL跳转跟导播台预览。"
+"markdown": "\n\u2023 本次更新：\n\n-）新增小折叠、URL跳转跟导播台预览。"
 },
 {
 "class": "DepictionLayerView",
