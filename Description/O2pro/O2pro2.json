@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "18.4-1",
+"text": "18.5-1",
 "title": "最新版本"
 },
 {
@@ -115,13 +115,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "18.2-1",
+"text": "18.5-1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2026.01.06",
+"text": "日志更新于 2026.01.09",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
