@@ -107,6 +107,29 @@
 "views": [
 {
 "class": "DepictionLabelView",
+"text": "AppTools v2.5.7",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.01.23",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、解决桌面卡顿掉帧问题；\n\n\u2023 2、修复 17 系统 BootStrap 越狱文件夹显示首图标等崩溃问题。"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
 "text": "AppTools v2.5.6",
 "fontWeight": "bold",
 "fontSize": 16
