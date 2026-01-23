@@ -123,7 +123,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、解决桌面卡顿掉帧问题；\n\n\u2023 2、修复 17 系统 BootStrap 越狱文件夹显示首图标等崩溃问题。"
+"markdown": "\n\u2023 1、解决桌面卡顿掉帧问题；\n\n\u2023 2、修复 17 系统 BootStrap 越狱文件夹显示首图标等崩溃问题。\n\n\u2023 3、优化菜单窗口优先级。"
 },
 {
 "class": "DepictionLayerView",
