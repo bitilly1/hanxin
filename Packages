@@ -1445,6 +1445,23 @@ Icon: https://apt.bitilly.cn/Description/Speedster/icon.png
 Name: Speedster
 Sileodepiction: https://apt.bitilly.cn/Description/Speedster/Speedster.json
 
+Package: cn.bitilly.squidextender
+Version: 1.0
+Architecture: all
+Maintainer: bitilly
+Depends: firmware (>= 15.0)
+Filename: ./debs/rootless/cn.bitilly.squidextender_1.0_all.deb
+Size: 11056
+MD5sum: 829819be0ad81dfd666139575ea49d4e
+SHA1: d5e82e28d3a47c6211ed6ccebe5a8aa0f1f52d91
+SHA256: eca0b44656270ea5e52398de0284d85ffc92e156c9f512e0b0c8581bd00bea05
+Section: 配置文件
+Description: 自用配置，安装后直接去插件重置设置即可，部分配置不生效目前还在研究中
+Author: bitilly
+Icon: https://apt.bitilly.cn/images/pzwj.png
+Name: SE配置文件（15-16）
+Sponsor: bitilly
+
 Package: cn.bitilly.storeswitcher2
 Version: 1.0.3
 Architecture: iphoneos-arm
