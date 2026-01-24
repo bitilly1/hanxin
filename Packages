@@ -4103,6 +4103,45 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
 
+Package: xc.lzsxcl.o2pro
+Version: 18.8-1
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32236
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2pro_18.8-1_iphoneos-arm64.deb
+Size: 13575536
+MD5sum: d577fe06591d4c34ab52911879138b85
+SHA1: f950c5c74a5276d62ad083e063278f91a87601d4
+SHA256: f3a7d2edd8130fc770bfe1cdb62affa88d53e8297410201877ac1e175fbd63f2
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.8-1
+Architecture: iphoneos-arm64e
+Maintainer: lzsxcl
+Installed-Size: 32236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/roothide/xc.lzsxcl.o2pro_18.8-1_iphoneos-arm64e.deb
+Size: 33900750
+MD5sum: 30708764c0b16cdad44dd4d5dc502d31
+SHA1: 4457b2fa87808258aa4b6700cdd331830f113af4
+SHA256: 462dc3f45a54c4626f4bf7528144da365486f645d42175abc64e045e5bf2afc8
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
 Package: xc.lzsxcl.w2
 Version: 0.8
 Architecture: iphoneos-arm

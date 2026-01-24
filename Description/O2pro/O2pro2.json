@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "18.5-1",
+"text": "18.8-1",
 "title": "最新版本"
 },
 {
@@ -110,6 +110,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.8-1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.01.24",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）提升稳定性；\n\n-）优化小折叠 URL 内部可用；\n\n-）修复贴贴乐冻屏；\n\n-）新增 pull 模式内部可用。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
