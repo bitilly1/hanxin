@@ -156,6 +156,23 @@ Icon: https://apt.bitilly.cn/Description/4Ders/Icon.png
 Name: 4Ders
 Sileodepiction: https://apt.bitilly.cn/Description/4Ders/4Ders.json
 
+Package: cn.bitilly.FloatingReplacement
+Version: 1.0
+Architecture: all
+Maintainer: bitilly
+Depends: firmware (>= 15.0)
+Filename: ./debs/rootless/cn.bitilly.FloatingReplacement_1.0_all.deb
+Size: 4284
+MD5sum: b7fc162eb605ba139a6f40f1b79a2cea
+SHA1: a2813509a0ae03362f749dd078b935f60c1fdf46
+SHA256: 17dcec34f512c596aa67e5eaa1144c591330d56998bd874a9e1f313ad464f368
+Section: 配置文件
+Description: 自用配置，请注意！安装后需要重新激活，如忘记激活码请卸载自动还原配置激活
+Author: bitilly
+Icon: https://apt.bitilly.cn/images/pzwj.png
+Name: FT配置文件（15-16）
+Sponsor: bitilly
+
 Package: cn.bitilly.HBWechatHelper
 Version: 1.5.9-2
 Architecture: iphoneos-arm
