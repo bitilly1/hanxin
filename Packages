@@ -156,6 +156,23 @@ Icon: https://apt.bitilly.cn/Description/4Ders/Icon.png
 Name: 4Ders
 Sileodepiction: https://apt.bitilly.cn/Description/4Ders/4Ders.json
 
+Package: cn.bitilly.CallAssist
+Version: 1.0
+Architecture: all
+Maintainer: bitilly
+Depends: firmware (>= 15.0)
+Filename: ./debs/rootless/cn.bitilly.CallAssist_1.0_all.deb
+Size: 84296
+MD5sum: 9fb5ede5bd602cb1b34bf6e9a8be2ac4
+SHA1: 66831a9e8366958728302bd313a9361e1254a86b
+SHA256: f2cf3dbe35aeaa8cb40358d0c404872d8e3d5048f7c1ecd0ca23d65cd72538b2
+Section: 配置文件
+Description: 自用配置，请注意！安装后可能需要重新激活，如忘记激活码请卸载自动还原配置激活
+Author: bitilly
+Icon: https://apt.bitilly.cn/images/pzwj.png
+Name: 电话助手配置文件（15-16）
+Sponsor: bitilly
+
 Package: cn.bitilly.FloatingReplacement
 Version: 1.1
 Architecture: all
