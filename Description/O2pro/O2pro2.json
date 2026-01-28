@@ -131,8 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 本次更新：\n\n-）新增悬浮 watch 动画 加预览模式
-内部可用。"
+"markdown": "\n\u2023 本次更新：\n\n-）新增悬浮 watch 动画 加预览模式 内部可用。"
 },
 {
 "class": "DepictionLayerView",
