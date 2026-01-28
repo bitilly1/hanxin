@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.5.6",
+"text": "AppTools v2.5.8",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.5.8",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.01.24",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、解决桌面隐藏显示图标、滑动后台等各种卡顿掉帧问题。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
