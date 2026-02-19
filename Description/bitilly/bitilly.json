@@ -1,0 +1,124 @@
+{
+"class": "DepictionTabView",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"minVersion": "0.3",
+"tabs": [
+{
+"class": "DepictionStackView",
+"tabname": "详情",
+"views": [
+{
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/bitilly/IMG_4101.jpg"
+},
+
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 重要提醒\n所有的配置文件下载后均在/var/mobile/Documents目录下（无根隐根都是一样的）下载后自己去翻即可。",
+"useSpacing": true
+},
+{
+"text": "关注公众号",
+"action": "https://weixin.qq.com/r/mp/C3VgeDPEx264rXcb9yAZ",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服QQ",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://www.wcfaka.com/details/4021681A",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
+"text": "bitilly",
+"title": "开发作者"
+},
+{
+"class": "DepictionTableTextView",
+"text": "1.0",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
+"text": "14.0 - 17.0",
+"title": "兼容系统"
+},
+{
+"class": "DepictionTableTextView",
+"text": "6S - 15PM",
+"title": "支持设备"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+}
+]
+},
+{
+"class": "DepictionStackView",
+"tabname": "更新日志",
+"views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.0",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.1.1",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 微信公众号搜索 珍惜生命 关注一下！"
+},
+
+]
+}
+]
+}
