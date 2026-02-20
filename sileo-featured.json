@@ -2,7 +2,7 @@
 
 "class": "FeaturedBannersView",
 
-"itemSize": "{390, 190}",
+"itemSize": "{390, 140}",
 
 "itemCornerRadius": 10,
 
@@ -12,9 +12,9 @@
 
 "url": "https://apt.bitilly.cn/images/IMG_2988.JPG",
 
-"title": "霸天安云优化",
+"title": "公告",
 
-"package": "cn.bitilly.batian",
+"package": "apt.bitilly.cn",
 
 "hideShadow": false
 
