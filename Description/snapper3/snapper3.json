@@ -62,6 +62,12 @@
 "useSpacing": true
 },
 {
+"text": "关注公众号",
+"action": "https://weixin.qq.com/r/mp/C3VgeDPEx264rXcb9yAZ",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
 "text": "联系客服QQ",
 "action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
 "openExternal": 1,

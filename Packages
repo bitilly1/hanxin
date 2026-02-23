@@ -1213,41 +1213,6 @@ Icon: https://apt.bitilly.cn/Description/Jade/Icon.png
 Name: Jade
 Sileodepiction: https://apt.bitilly.cn/Description/Jade/Jade.json
 
-Package: cn.bitilly.kayoko
-Version: 1.4.2
-Architecture: iphoneos-arm
-Maintainer: Traurige <hello@traurige.dev>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/rootfull/cn.bitilly.kayoko_1.4.2_iphoneos-arm.deb
-Size: 88112
-MD5sum: 5450e0f322b51745dcd9dc342be02f90
-SHA1: 5a61c3d88699f0fed9e9274cb21276f5ae50fbfd
-SHA256: 0328025677d58a78b09351d599e27ce8b6a3b98cd588b80000462ea139aae776
-Section: 功能助手
-Description: 功能丰富的iOS剪贴板管理器
-Author: Traurige <hello@traurige.dev>
-Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
-Name: Kayoko
-Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
-
-Package: cn.bitilly.kayoko
-Version: 1.4.2
-Architecture: iphoneos-arm64
-Maintainer: Traurige <hello@traurige.dev>
-Installed-Size: 956
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/rootless/cn.bitilly.kayoko_1.4.2_iphoneos-arm64.deb
-Size: 80076
-MD5sum: 38d94c08cc94307aa8ab0f6284773fc4
-SHA1: d4ae66021cdad39db6876f479e867e80fff6b669
-SHA256: 5ae5da653c6ab8c9163f701193176e294ce0859a928155ba09c22b9ede0512f2
-Section: 功能助手
-Description: 功能丰富的iOS剪贴板管理器
-Author: Traurige <hello@traurige.dev>
-Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
-Name: Kayoko 剪切板-Rootless
-Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
-
 Package: cn.bitilly.kzzx
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1945,6 +1910,94 @@ Author: SquidForce, Backup
 Icon: https://apt.bitilly.cn/Description/SquidExtender/icon.png
 Name: SquidExtender(激活码版iOS15-16)
 Sileodepiction: https://apt.bitilly.cn/Description/SquidExtender/SE.json
+
+Package: codes.aurora.kayoko
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Traurige <hello@traurige.dev>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/rootfull/codes.aurora.kayoko_1.4.2_iphoneos-arm.deb
+Size: 88220
+MD5sum: 2c6fed3131a7312404fe713b6cf4b5a8
+SHA1: 1cc07a7516ec35385ecf7dc4c5c7249c09dceafe
+SHA256: 565b4771f3fb665e82cb3452d6db5d3d1d3af7241d8924d691f85add525303c2
+Section: 功能助手
+Description: 功能丰富的iOS剪贴板管理器
+Author: Traurige <hello@traurige.dev>
+Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
+
+Package: codes.aurora.kayoko
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 956
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/rootless/codes.aurora.kayoko_1.4.2_iphoneos-arm64.deb
+Size: 79752
+MD5sum: 285d11e273d41f654c4248dce7fbe1f1
+SHA1: b19f274694c7bedc3de4a11325c41dc5993807f4
+SHA256: 17dc1f32d651112b62d8d6945569ea76f1bcb642359c60071ae491f60fb4635c
+Section: 功能助手
+Description: 功能丰富的iOS剪贴板管理器
+Author: Traurige <hello@traurige.dev>
+Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
+Name: Kayoko 剪切板-Rootless
+Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
+
+Package: codes.aurora.kayoko
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/rootfull/codes.aurora.kayoko_3.0_iphoneos-arm.deb
+Size: 131496
+MD5sum: f5ac01f35bfe81d6483407d7ce047d5f
+SHA1: b688d4bea577a78e05b53cba77c3b6b4e9b12a6e
+SHA256: 999eae2ada1a4c6543a2b2763d7182d3ed117119f89fe7ff6f241bb33d6cbbd6
+Section: 功能助手
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
+
+Package: codes.aurora.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/rootless/codes.aurora.kayoko_3.0_iphoneos-arm64.deb
+Size: 131136
+MD5sum: 5734f3edf22cdfe9ceb73e24a25185d0
+SHA1: c4ca3011895f102668f51b3643882af9dca2dab7
+SHA256: 4880e627415ff6cc9f84c1aa0a6658499fed71a29d834a819aba08531abd957a
+Section: 功能助手
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
+
+Package: codes.aurora.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/roothide/codes.aurora.kayoko_3.0_iphoneos-arm64e.deb
+Size: 131624
+MD5sum: 55440dded6ccab5438cc74d4a1e2709a
+SHA1: e7ef22f8daf182a107f95a8492c33ac552f14163
+SHA256: cec9b34ce8834c904d2f810ba7642c6045e02c40cdf1e8e257647068fe89ffe5
+Section: 功能助手
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
+Name: Kayoko
+Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
 
 Package: com.25mao.MiYou
 Version: 3.6-6

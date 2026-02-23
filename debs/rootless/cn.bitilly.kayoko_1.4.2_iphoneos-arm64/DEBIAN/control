@@ -1,0 +1,12 @@
+Package: codes.aurora.kayoko
+Section: 功能助手
+Maintainer: Traurige <hello@traurige.dev>
+Architecture: iphoneos-arm64
+Version: 1.4.2
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Description: 功能丰富的iOS剪贴板管理器
+Name: Kayoko 剪切板-Rootless
+Author: Traurige <hello@traurige.dev>
+Sileodepiction: https://apt.bitilly.cn/Description/kayoko/kayoko.json
+Icon: https://apt.bitilly.cn/Description/kayoko/Icon.png
+Installed-Size: 956

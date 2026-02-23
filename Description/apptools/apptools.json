@@ -38,12 +38,12 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n备份应用、自定图标、锁定高刷、清理缓存、清理角标、自定义分辨率、禁止插件注入等强大的App类辅助插件，系付费插件，点下面授权激活优惠5元。",
+"markdown": "## 主要功能\n备份应用、自定图标、锁定高刷、清理缓存、清理角标、自定义分辨率、禁止插件注入等强大的App类辅助插件，系付费插件，需要的自行购买。",
 "useSpacing": true
 },
 {
-"text": "购买授权激活",
-"action": "https://h5.m.goofish.com/item?id=941342425683",
+"text": "关注公众号",
+"action": "https://weixin.qq.com/r/mp/C3VgeDPEx264rXcb9yAZ",
 "openExternal": 1,
 "class": "DepictionButtonView"
 },

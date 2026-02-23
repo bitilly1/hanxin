@@ -38,12 +38,12 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。注重设计与用户体验的优雅产品，o2Pro逐步免费开放小组件功能（来电视频）已免费开放给所有用户及非购买用户\n\no2Tonken务必备份，丢失包补！前提是点下面链接购买的，如自己其它渠道购买请勿打扰！",
+"markdown": "## 主要功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。注重设计与用户体验的优雅产品，o2Pro逐步免费开放小组件功能（来电视频）已免费开放给所有用户及非购买用户\n\no2Tonken务必备份，丢失包补！前提是点下面公众号购买的，如自己其它渠道购买请勿打扰！",
 "useSpacing": true
 },
 {
-"text": "获取授文件",
-"action": "https://h5.m.goofish.com/item?forceFlush=1&id=863487326546",
+"text": "关注公众号",
+"action": "https://weixin.qq.com/r/mp/C3VgeDPEx264rXcb9yAZ",
 "openExternal": 1,
 "class": "DepictionButtonView"
 },

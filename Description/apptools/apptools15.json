@@ -34,8 +34,8 @@
 "useSpacing": true
 },
 {
-"text": "购买授权激活",
-"action": "https://h5.m.goofish.com/item?id=941342425683",
+"text": "关注公众号",
+"action": "https://weixin.qq.com/r/mp/C3VgeDPEx264rXcb9yAZ",
 "openExternal": 1,
 "class": "DepictionButtonView"
 },

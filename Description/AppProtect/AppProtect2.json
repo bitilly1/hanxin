@@ -38,12 +38,12 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n隐私加密、隐藏应用、静默验证、后台模糊、锁屏清理角标、删除过滤号码记录、联网控制等强大的App类隐私加密插件，系付费插件，点下面授权激活优惠5元。",
+"markdown": "## 主要功能\n隐私加密、隐藏应用、静默验证、后台模糊、锁屏清理角标、删除过滤号码记录、联网控制等强大的App类隐私加密插件，系付费插件，需要的自行购买。",
 "useSpacing": true
 },
 {
-"text": "购买授权激活",
-"action": "https://h5.m.goofish.com/item?id=941730363939",
+"text": "关注公众号",
+"action": "https://weixin.qq.com/r/mp/C3VgeDPEx264rXcb9yAZ",
 "openExternal": 1,
 "class": "DepictionButtonView"
 },
