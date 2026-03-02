@@ -75,17 +75,17 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.7-8",
+"text": "2.0.4",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "7.0 - 16.6.1",
+"text": "7.0 - 17.0",
 "title": "兼容系统"
 },
 {
 "class": "DepictionTableTextView",
-"text": "6S - 14PM",
+"text": "6S - 15PM",
 "title": "支持设备"
 },
 {
@@ -103,13 +103,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "1.7-8",
+"text": "2.0.4",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2024.11.12",
+"text": "日志更新于 2026.03.02",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -142,7 +142,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1.新增随机音色显示发送后的音色\n\n2.新增禁用回到引用位置显示\n\n3.修复音乐转语音闪退的问题\n\n4.修复无法显示提示框的问题\n\n5.修复朋友圈去广告的问题\n\n6.修复长按语音无法呼出"
+"markdown": "\n\u2023 修复了过于流畅的bug"
 },
 
 ]

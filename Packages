@@ -2034,16 +2034,16 @@ Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
 Package: com.HBWechatHelper.ailun
-Version: 1.8.7
+Version: 2.0.4
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.HBWechatHelper.ailun_1.8.7_iphoneos-arm.deb
-Size: 11623776
-MD5sum: b1e5349afd018eda6fe55ecafa1996c4
-SHA1: d5f63cbd9ac89f9198d249224be4712a09fc7200
-SHA256: 15d5070426483e37718e78417659b95e4695563f972bb85cd930dd747337d47d
-Section: Mao
+Filename: ./debs/rootfull/com.HBWechatHelper.ailun_2.0.4_iphoneos-arm.deb
+Size: 13573668
+MD5sum: 7e01e6c7b55a775751c272cbcf1ba6ff
+SHA1: 0c203be38ce9e3d3e2e0cc0823299d0fe5acded2
+SHA256: 0976ee5051938acfb94364750f3a6fc1fc5b10d91494e594874c011d238c07a8
+Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://apt.bitilly.cn/images/WeChat.png
@@ -2051,16 +2051,16 @@ Name: 黄白助手(微信插件)
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
 Package: com.HBWechatHelper.ailun
-Version: 1.8.7
+Version: 2.0.4
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: ./debs/rootless/com.HBWechatHelper.ailun_1.8.7_iphoneos-arm64.deb
-Size: 11400636
-MD5sum: 827027f5e23fc33ea2eee71159e08c39
-SHA1: c0b33ac0dddc92b7b7b15112e6e127d4f121e140
-SHA256: 9134acca00011e7c04b41adf110a11c4e027f7e5667e43456ac2f2135eea9c3c
-Section: Mao
+Filename: ./debs/rootless/com.HBWechatHelper.ailun_2.0.4_iphoneos-arm64.deb
+Size: 13319468
+MD5sum: 132d93df9d26c221d393e22b058e4be1
+SHA1: 3e0581ccfb87b4de5b11e4ddbe15982c990b95b0
+SHA256: 86c88493734c2ba394cdbfdaa898c24428d5fab99502617fc7effccb0be28d12
+Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://apt.bitilly.cn/images/WeChat.png
@@ -2068,17 +2068,17 @@ Name: 黄白助手(微信插件)
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
 Package: com.HBWechatHelper.ailun
-Version: 1.8.7
+Version: 2.0.4
 Architecture: iphoneos-arm64e
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: ./debs/roothide/com.HBWechatHelper.ailun_1.8.7_iphoneos-arm64e.deb
-Size: 22780508
-MD5sum: 83d31d464a9bc52af9f8b6b1d81e95d1
-SHA1: a633b1c6c6177d0320179f2f4d47129baa4cfbf5
-SHA256: b2d66d804ce760c2bd178fc20673cb9e10993a6669f28a571aa37d26d074e0cc
-Section: Mao
+Filename: ./debs/roothide/com.HBWechatHelper.ailun_2.0.4_iphoneos-arm64e.deb
+Size: 37846326
+MD5sum: 194def66d509a15d056f25d1aa5174bb
+SHA1: 249e95cfde02a3022a65ec2b5124ac10015ece4a
+SHA256: 076b1ed9d060a5448d10b2612d9b788ee79eda274cbbb05d2c2adbf6a87e3194
+Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://apt.bitilly.cn/images/WeChat.png
