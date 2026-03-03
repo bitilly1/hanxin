@@ -75,7 +75,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "2.1-1",
+"text": "2.1.1",
 "title": "最新版本"
 },
 {
@@ -103,7 +103,7 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "2.1-1",
+"text": "2.1.1",
 "fontWeight": "bold",
 "fontSize": 16
 },
