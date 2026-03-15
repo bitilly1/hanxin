@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.5.8",
+"text": "AppTools v2.6.2",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.6.2",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.03.13",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 1、可单独使用勿扰模式中的“允许/禁用通知与控制中心”功能；\n\u2023 2、长按图标阴影功能中新增“定位阴影素材”，方便更换。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
