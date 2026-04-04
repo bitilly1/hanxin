@@ -2968,6 +2968,23 @@ Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
 Name: injectipa
 Sileodepiction: https://apt.bitilly.cn/Description/injectipa/injectipa.json
 
+Package: com.roothide.lockdown
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/com.roothide.lockdown_1.0.2_iphoneos-arm64e.deb
+Size: 5192
+MD5sum: 40467e529298a273d9a7a75375d294e2
+SHA1: d111e1d9ca867a8f1d45f9b94a0b2c794dfba243
+SHA256: cde32a8d62ddeef71cd98989dd9d9bb9cd3d789da807d3396efb306e8c299dae
+Section: 附加
+Description: JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Three security levels: balanced, strict, maximum.
+Author: roothide
+Name: lockdown
+Sileodepiction: http://apt.bitilly.cn/Description/lockdown/lockdown.json
+
 Package: com.ryannair05.cylinder
 Version: 1.1.1
 Architecture: iphoneos-arm

@@ -1,0 +1,124 @@
+{
+"class": "DepictionTabView",
+"headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
+"tintColor": "#3784d2",
+"minVersion": "0.3",
+"tabs": [
+{
+"class": "DepictionStackView",
+"tabname": "详情",
+"views": [
+{
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/lockdown/lockdown.jpg"
+},
+
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "## 主要功能\n此功能用于对 **Web 内容进程** 进行 **JavaScriptCore (JSC)** 引擎的安全加固。\n它会调整 JavaScriptCore 的底层配置，旨在阻断常见的黑客攻击手段（例如：地址泄露/伪造对象、JIT 即时编译类型混淆、垃圾回收机制中的释放后使用漏洞）。\n您可以选择三种安全等级：**均衡模式**、**严格模式** 或 **最高安全模式**。",
+"useSpacing": true
+},
+{
+"text": "关注公众号",
+"action": "https://weixin.qq.com/r/mp/C3VgeDPEx264rXcb9yAZ",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "联系客服QQ",
+"action": "https://h5.qun.qq.com/h5/jump-page/index.html?sid=1&isQim=false&url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DotCbauE5MZWRCOr6Ugh_cCsszdZuFHj3%23%26jump_from%3D%26auth%3D%26app_name%3D%26authSig%3D%26source_id%3D2_40001",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"text": "购买定制证书",
+"action": "https://shop.wangchengq.com/details/4021681A",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionSeparatorView"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+},
+{
+"class": "DepictionHeaderView",
+"title": "详情",
+"useBoldText": true,
+"useBottomMargin": false
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 8
+},
+{
+"class": "DepictionTableTextView",
+"text": "roothide",
+"title": "开发作者"
+},
+{
+"class": "DepictionTableTextView",
+"text": "1.0.2",
+"title": "最新版本"
+},
+{
+"class": "DepictionTableTextView",
+"text": "13.0 - 17.3.1",
+"title": "兼容系统"
+},
+{
+"class": "DepictionTableTextView",
+"text": "6S - 15PM",
+"title": "支持设备"
+},
+{
+"class": "DepictionSpacerView",
+"spacing": 16
+}
+]
+},
+{
+"class": "DepictionStackView",
+"tabname": "更新日志",
+"views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "1.0.2",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.04.04",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 保存版本"
+},
+
+]
+}
+]
+}
