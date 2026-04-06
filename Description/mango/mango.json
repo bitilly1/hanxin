@@ -1,5 +1,6 @@
 {
 "class": "DepictionTabView",
+"itemSize": "{390, 140}",
 "headerImage": "https://apt.bitilly.cn/images/IMG_2988.JPG",
 "tintColor": "#3784d2",
 "minVersion": "0.3",
