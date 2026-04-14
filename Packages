@@ -2874,6 +2874,42 @@ Icon: http://apt.bitilly.cn/Description/mango/icon.png
 Name: mango
 Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
 
+Package: com.go.mango
+Version: 0.0.4.4-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 948
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.go.mango_0.0.4.4-1_iphoneos-arm64.deb
+Size: 274068
+MD5sum: 5c8e48adb26abddda6f94ab69b1f27e3
+SHA1: ca12f73491bdc7a7fc2754c40dcfb6451dd2f52f
+SHA256: 0dab10be8cac8a9091219044c2e831da21a191507f1d24b11af913c75c826999
+Section: 分屏工具
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
+Package: com.go.mango
+Version: 0.0.4.4-1
+Architecture: iphoneos-arm64e
+Maintainer: go
+Installed-Size: 948
+Depends: mobilesubstrate
+Filename: ./debs/roothide/com.go.mango_0.0.4.4-1_iphoneos-arm64e.deb
+Size: 273248
+MD5sum: 80ee17cc4e451cda2afb4ad169778d7e
+SHA1: 124d0c3dd6e333f9ba104a210ccd8e60ccaafe7b
+SHA256: 36f8e09fbd2939282de6083394cd84f5d8afe684da24888f20cc2b99a03307f0
+Section: 分屏工具
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
 Package: com.ios.wechat
 Version: 1.1.5
 Architecture: iphoneos-arm
