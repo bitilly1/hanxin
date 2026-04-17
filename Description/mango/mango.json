@@ -30,6 +30,12 @@
 "useSpacing": true
 },
 {
+"text": "购买后使用",
+"action": "https://h5.m.goofish.com/item?id=1043904918016",
+"openExternal": 1,
+"class": "DepictionButtonView"
+},
+{
 "text": "关注公众号",
 "action": "https://weixin.qq.com/r/mp/C3VgeDPEx264rXcb9yAZ",
 "openExternal": 1,
