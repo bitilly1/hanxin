@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>index</key>
+	<array>
+		<dict>
+			<key>content</key>
+			<string>async function main(str) {
+var url = "{{PASTEBOARD}}";
+// 使用正则表达式提取国家代码和ID部分
+const regex = /https:\/\/apps\.apple\.com\/([a-z]{2})\/app\/.*\/id(\d+)/;
+const match = url.match(regex);
+
+if (match) {
+// 构建精简后的链接
+const countryCode = match[1];
+const appId = match[2];
+const simplifiedUrl = `https://apps.apple.com/${countryCode}/app/id${appId}`;
+return simplifiedUrl;
+} else {
+return "Invalid URL";
+}
+}</string>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>精简商店链接</string>
+			<key>uuid</key>
+			<string>893B0F95-C00D-49AA-8407-5AD68B198B66</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>async function main(str) {
+return str.split('').reverse().join('');
+}</string>
+			<key>enable</key>
+			<true/>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>反转文字</string>
+			<key>uuid</key>
+			<string>313CBF23-D49C-4E94-ABA3-D6DD3A4A232F</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>async function main(str) {
+arr = str.split("\n");
+arr.forEach((item, index)=&gt;{
+if(!item){
+arr.splice(index, 1);
+}
+})
+return arr;
+}</string>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>换行分割</string>
+			<key>uuid</key>
+			<string>B25B4DB7-8093-4DE5-A425-6514C2959127</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>async function main(str) {
+// 创建一个字符串数组
+const strs = [];
+// 处理字符串，去除所有空格
+const processedStr = str.replace(/\s/g, "");
+// 将处理后的字符串添加到数组中
+strs.push(processedStr);
+// 返回字符串数组
+return strs;
+}</string>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>去除空格</string>
+			<key>uuid</key>
+			<string>0FCDBD95-4FFC-42C2-9900-DB6B57D297E9</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>async function main(str) {
+const bullet = '-';
+return `${bullet} ` + str.split(/\r?\n/).join(`\n${bullet} `);
+}</string>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>MD  清单</string>
+			<key>uuid</key>
+			<string>F19A889B-9041-4C1A-A4A9-AB4A30AAD940</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>async function main(text) {
+// 使用正则表达式匹配并在中英字符、数字、标点和货币符号之间添加空格
+return text.replace(/([\u4e00-\u9fa5])([a-zA-Z0-9¥$€£₹₩₽₺₨₦₫₴₭₲₡₣₤₱])/g, '$1 $2')
+.replace(/([a-zA-Z0-9¥$€£₹₩₽₺₨₦₫₴₭₲₡₣₤₱])([\u4e00-\u9fa5])/g, '$1 $2')
+.replace(/([\u4e00-\u9fa5])([,.!?;:¥$€£₹₩₽₺₨₦₫₴₭₲₡₣₤₱])/g, '$1$2')
+.replace(/([,.!?;:¥$€£₹₩₽₺₨₦₫₴₭₲₡₣₤₱])([\u4e00-\u9fa5])/g, '$1 $2');
+}</string>
+			<key>replaceOrigin</key>
+			<true/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>中英排版</string>
+			<key>uuid</key>
+			<string>F4853087-DDAA-496D-B211-870670D1164C</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>// 根据输入框中文字或剪贴板中文字联网获取二维码图片，并自动粘贴示例
+async function main(str) {
+if(str == "") {
+str = $pb.readString();
+}
+const image = await getQR(str);
+console.log("image: " + image);
+$pb.writeImage(image);
+$pb.paste();
+
+return null;
+}
+
+async function getQR(str) {
+const baseURL = "https://api.qrtool.cn/?text=" + str;
+
+var headers = {
+'accept': 'application/json;charset=UTF-8'
+}
+
+// 由于输入文字可能有中韩日文或标点等特殊字符，所以使用encodeURI()进行一次URL编码
+const req = {
+url: encodeURI(baseURL),
+headers: headers
+};
+const result = await $http.get(req);
+console.log("get result: "+ result);
+
+return result;
+}
+</string>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>转二维码</string>
+			<key>uuid</key>
+			<string>E3446F64-CCBB-477B-A54F-D17FB7B2D51F</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>//万能搜索
+
+async function main(str) {
+
+const createSearchEntry = (title, url) =&gt; ({
+
+type: 'function',
+
+title: title,
+
+content: 'openAppSearch',
+
+args: [url],
+
+});
+
+
+
+const encodedStr = encodeURIComponent(str);
+
+return [
+
+createSearchEntry('京东搜索', `openjd://virtual?params=%7B%22des%22:%22productList%22,%22keyWord%22:%22${encodedStr}%22,%22from%22:%22search%22,%22category%22:%22jump%22%7D`),
+
+createSearchEntry('淘宝搜索', `taobao://s.taobao.com/?q=${encodedStr}`),
+
+createSearchEntry('拼多多搜索', `pinduoduo://com.xunmeng.pinduoduo/search_result.html?search_key=${encodedStr}`),
+
+createSearchEntry('小红书搜索', `xhsdiscover://search/result?keyword=${encodedStr}`),
+
+createSearchEntry('抖音搜索', `snssdk1128://search?keyword=${encodedStr}`),
+
+createSearchEntry('AppStore搜索', `itms-apps://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?media=software&amp;term=${encodedStr}`),
+
+];
+
+}
+
+async function openAppSearch(url){
+
+$url.open(url)
+
+}</string>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>搜索整合</string>
+			<key>uuid</key>
+			<string>B36F1917-087B-4E1B-A3E5-537B96D9A7E2</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>async function main(str) {
+    // 货币映射字典
+    const currencyMap = {
+        '美元': 'USD',
+        '$': 'USD',
+        '刀': 'USD',
+        '欧元': 'EUR',
+        '欧元': 'EUR',
+        '元': 'CNY',
+        '人民币': 'CNY',
+        '港币': 'HKD',
+        '日元': 'JPY',
+        '€': 'EUR',
+        '£': 'GBP',
+        '英镑': 'GBP',
+        '新台币':'TWD',
+        '卢比': 'INR',
+        '泰铢': 'THB',
+        '越南盾': 'VND',
+        '比索': 'PHP',
+        '法郎': 'CHF',
+        // 其他货币可以在这里添加
+    };
+    // 将输入字符串按空格分割
+    const parts = str.split(' ');
+    let amount, fromCurrency, toCurrency;
+    
+    // 处理第一个部分（金额和货币）
+    if (parts.length &gt; 0) {
+        amount = parts[0]; // 第一部分是金额和货币
+        fromCurrency = amount.replace(/[0-9.]+/, '').trim(); // 提取货币类型
+        amount = parseFloat(amount.replace(fromCurrency, '').trim()); // 提取金额
+    }
+    
+    // 处理第二部分（目标货币）
+    if (parts.length &gt; 1) {
+        toCurrency = parts[1]; // 第二部分是目标货币
+    } else {
+        toCurrency = '元'; // 默认目标货币为元
+    }
+    // 如果目标货币不在字典中，返回错误
+    if (!currencyMap[toCurrency]) {
+        throw new Error(`不支持的目标货币: ${toCurrency}`);
+    }
+    const fromCurrencyCode = currencyMap[fromCurrency];
+    const toCurrencyCode = currencyMap[toCurrency];
+    if (!fromCurrencyCode) {
+        throw new Error(`不支持的源货币: ${fromCurrency}`);
+    }
+    try {
+        const baseURL = "https://api.exchangerate-api.com/v4/latest/";
+        const req = {
+            url: baseURL + fromCurrencyCode,
+            header: {
+                'content-type': 'application/json;charset=UTF-8'
+            }
+        };
+        // 使用 $http.get 获取汇率数据
+        const response = await $http.get(req);
+        const responseJson = JSON.parse(response); // 解析响应
+        const rates = responseJson.rates;
+        // 进行货币转换
+        if (rates[toCurrencyCode]) {
+            const convertedAmount = amount * rates[toCurrencyCode];
+            return `${amount} ${fromCurrency} = ${convertedAmount.toFixed(2)} ${toCurrency}`;
+        } else {
+            throw new Error(`获取汇率失败: ${toCurrencyCode}`);
+        }
+    } catch (error) {
+        throw new Error(`获取汇率时出错: ${error.message}`);
+    }
+}</string>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>汇率转换</string>
+			<key>uuid</key>
+			<string>19441518-B1D2-4ADE-AF9C-737645CDA67E</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>// 根据输入框中文字或剪贴板中文字联网获取图片，并自动粘贴示例
+async function main(str) {
+if(str == "") {
+str = $pb.readString();
+}
+const image = await getQR(str);
+console.log("image: " + image);
+$pb.writeImage(image);
+$pb.paste();
+
+return null;
+}
+
+async function getQR(str) {
+const baseURL = "https://api.andeer.top/API/jupai.php?text=" + str;
+
+var headers = {
+'accept': 'application/json;charset=UTF-8'
+}
+
+// 由于输入文字可能有中韩日文或标点等特殊字符，所以使用encodeURI()进行一次URL编码
+const req = {
+url: encodeURI(baseURL),
+headers: headers
+};
+const result = await $http.get(req);
+console.log("get result: "+ result);
+
+return result;
+}
+</string>
+			<key>replaceOrigin</key>
+			<true/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>举黄牌子</string>
+			<key>uuid</key>
+			<string>FBF4BF8B-6340-4061-89CB-9636C4796524</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>// 全局变量
+
+const requestHeader = { 'content-type': 'application/json;charset=UTF-8' };
+
+
+
+//文生图整合
+
+async function main(str) {
+
+const createListBtn = (title, req) =&gt; ({
+
+type: 'function',
+
+title: title,
+
+content: 'txtToImages',
+
+args: [req],
+
+});
+
+
+
+// 优化后的输入判断
+
+const inputTxt = (str &amp;&amp; typeof str === 'string' &amp;&amp; str.trim() !== '') ? str : "默认文本";
+
+return [
+
+createListBtn('鲁迅话多', { url: encodeURI(`https://api.andeer.top/API/img_luxun.php?text=${inputTxt}`), headers: requestHeader }),
+
+createListBtn('举黄牌子', { url: encodeURI(`https://api.andeer.top/API/jupai.php?text=${inputTxt}`), headers: requestHeader }),
+
+createListBtn('诺基亚说', { url: encodeURI(`https://api.andeer.top/API/img_nokia.php?data=${inputTxt}`), headers: requestHeader }),
+
+createListBtn('手写本子', { url: encodeURI(`https://api.yujn.cn/api/shouxie.php?text=${inputTxt}`), headers: requestHeader }),
+
+createListBtn('黑丝举牌', { url: encodeURI(`http://api.yujn.cn/api/hsjp1.php?msg=${inputTxt}&amp;rgb1=1`), headers: requestHeader }),
+
+createListBtn('滚出QQ(输入QQ号)', { url: encodeURI(`http://api.yujn.cn/api/gun.php?qq=${inputTxt}`), headers: requestHeader }),
+
+createListBtn('撕开QQ(输入QQ号)', { url: encodeURI(`https://api.lolimi.cn/API/si/?QQ=${inputTxt}`), headers: requestHeader }),
+
+];
+
+}
+
+
+
+async function txtToImages(req) {
+
+try {
+
+const result = await $http.get(req);
+
+// 尝试解析为 JSON
+
+let jsonData;
+
+try {
+
+jsonData = JSON.parse(result); // 尝试解析为 JSON
+
+//console.log("返回的结果是 JSON:", jsonData);
+
+const imageUrl = jsonData.data; // 假设 JSON 中有一个 data 字段
+
+//console.log(imageUrl);
+
+const reqData = { url: encodeURI(imageUrl), headers: requestHeader };
+
+const resultData = await $http.get(reqData);
+
+$pb.writeImage(resultData); // 确保 resultData 是有效的图像数据
+
+$pb.paste();
+
+return null;
+
+} catch (error) {
+
+//console.error("返回的结果不是JSON:", error);
+
+$pb.writeImage(result);
+
+$pb.paste();
+
+return null;
+
+}
+
+
+
+} catch (error) {
+
+console.error("请求失败:", error);
+
+}
+
+}
+
+
+
+
+
+</string>
+			<key>replaceOrigin</key>
+			<true/>
+			<key>testContent</key>
+			<string>大大咧咧</string>
+			<key>title</key>
+			<string>文生图集</string>
+			<key>uuid</key>
+			<string>1E750030-5941-4C1E-81BA-5794CDC0AF89</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>async function main() {
+const createMenuEntry = (title, func) =&gt; ({
+type: 'js',
+title: title,
+content: `
+(async () =&gt; {
+const x = await ${func}();
+console.log("${title}返回结果: " + x);
+$pb.writeImage(x);
+$pb.paste();
+})();
+`,
+});
+
+return [
+createMenuEntry('黑丝一', 'getHeiSi'),
+createMenuEntry('黑丝二', 'getHeiSi2'),
+createMenuEntry('白丝一', 'getBaiSi'),
+createMenuEntry('白丝二', 'getBaiSi2'),
+createMenuEntry('福利姬', 'getFuLiJi'),
+createMenuEntry('妹子腿', 'getMeiZi'),
+];
+}
+
+async function getHeiSi() {
+const baseURL = "https://api.lbbb.cc/api/heisi";
+const headers = { 'content-type': 'application/json;charset=UTF-8' };
+const req = { url: baseURL, headers: headers };
+const result = await $http.get(req);
+return result;
+}
+
+async function getHeiSi2() {
+const baseURL = "https://api.lbbb.cc/api/heisi";
+const headers = { 'content-type': 'http://api.yujn.cn/api/heisi.php?' };
+const req = { url: baseURL, headers: headers };
+const result = await $http.get(req);
+console.log("黑丝二 API 返回数据类型: " + typeof result + "\n返回结果: " + result);
+return result;
+}
+
+async function getBaiSi() {
+const baseURL = "http://api.yujn.cn/api/baisi.php?";
+const headers = { 'content-type': 'application/json;charset=UTF-8' };
+const req = { url: baseURL, headers: headers };
+const result = await $http.get(req);
+return result;
+}
+
+async function getBaiSi2() {
+const baseURL = "https://api.lbbb.cc/api/baisi";
+const headers = { 'content-type': 'application/json;charset=UTF-8' };
+const req = { url: baseURL, headers: headers };
+const result = await $http.get(req);
+console.log("白丝二 API 返回数据类型: " + typeof result + "\n返回结果: " + result);
+return result;
+}
+
+async function getFuLiJi() {
+const baseURL = "https://api.vvhan.com/api/wallpaper/pcGirl";
+const headers = { 'content-type': 'application/json;charset=UTF-8' };
+const req = { url: baseURL, headers: headers };
+const result = await $http.get(req);
+return result;
+}
+
+async function getMeiZi() {
+const baseURL = "https://api.lolimi.cn/API/meizi/api.php";
+const headers = { 'content-type': 'application/json;charset=UTF-8' };
+const req = { url: encodeURI(baseURL), headers: headers };
+const result = await $http.get(req);
+const resultJson = JSON.parse(result);
+const imageURL = resultJson.text;
+const imageReq = { url: imageURL };
+const resultImage = await $http.get(imageReq);
+console.log("获取到的图片链接: " + imageURL);
+return resultImage;
+}</string>
+			<key>replaceOrigin</key>
+			<false/>
+			<key>testContent</key>
+			<string></string>
+			<key>title</key>
+			<string>老司机集</string>
+			<key>uuid</key>
+			<string>129C1F2B-53A1-4021-8D41-9A4189E7EB39</string>
+		</dict>
+		<dict>
+			<key>content</key>
+			<string>async function main(input) {
+    // 1. 获取待处理文本（输入框优先 &gt; 剪贴板）
+    const textToProcess = await getProcessingText(input);
+    
+    // 2. 空内容处理
+    if (!textToProcess) {
+        return {
+            type: "txt",
+            content: "📭 输入框和剪贴板均为空",
+            ignore: true
+        };
+    }
+
+    // 3. 执行加密/解密操作
+    return await processContent(textToProcess);
+}
+
+// 核心：获取处理文本（输入框 &gt; 剪贴板）
+async function getProcessingText(input) {
+    // 情况1：输入框有内容（支持字符串或对象参数）
+    if (typeof input === 'string' &amp;&amp; input.trim()) {
+        return input.trim();
+    }
+    if (input?.data?.trim()) {
+        return input.data.trim();
+    }
+
+    // 情况2：检测剪贴板
+    try {
+        const clipboardText = await $pb.readString();
+        return clipboardText?.trim() || null;
+    } catch (e) {
+        console.error("剪贴板读取失败:", e);
+        return null;
+    }
+}
+
+// 处理内容（自动判断操作类型）
+async function processContent(content) {
+    // 如果是加密指令
+    if (content.startsWith("encrypt:")) {
+        return await handleEncrypt(content.replace("encrypt:", ""));
+    }
+    
+    // 如果是解密指令
+    if (content.startsWith("decrypt:")) {
+        return await handleDecrypt(content.replace("decrypt:", ""));
+    }
+
+    // 默认显示操作菜单
+    return [
+        {
+            type: "function",
+            content: "handleEncrypt",
+            args: [content],
+            title: "🔒 加密"
+        },
+        {
+            type: "function",
+            content: "handleDecrypt", 
+            args: [content],
+            title: "🔓 解密"
+        }
+    ];
+}
+
+// 加密处理
+async function handleEncrypt(data) {
+    try {
+        const encrypted = $base64?.encode?.(data) || btoa(unescape(encodeURIComponent(data)));
+        await $pb.writeString(encrypted);
+        return {
+            type: "txt",
+            content: `${encrypted.slice(0, 50)}${encrypted.length &gt; 50 ? "..." : ""}`
+        };
+    } catch (e) {
+        return {
+            type: "txt",
+            content: `${e.message}`,
+            ignore: true
+        };
+    }
+}
+
+// 解密处理 
+async function handleDecrypt(data) {
+    try {
+        const decrypted = $base64?.decode?.(data) || decodeURIComponent(escape(atob(data)));
+        await $pb.writeString(decrypted);
+        return {
+            type: "txt",
+            content: `${decrypted.slice(0, 100)}${decrypted.length &gt; 100 ? "..." : ""}`
+        };
+    } catch (e) {
+        return {
+            type: "txt", 
+            content: `${e.message}`,
+            ignore: true
+        };
+    }
+}
+</string>
+			<key>replaceOrigin</key>
+			<true/>
+			<key>testContent</key>
+			<string>好用吧</string>
+			<key>title</key>
+			<string>加密解密</string>
+			<key>uuid</key>
+			<string>99E9516D-7E43-45D4-B838-D909C6F5A164</string>
+		</dict>
+	</array>
+</dict>
+</plist>

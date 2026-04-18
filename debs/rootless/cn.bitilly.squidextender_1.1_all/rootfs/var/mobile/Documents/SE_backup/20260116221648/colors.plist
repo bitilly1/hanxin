@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBackgroundColorD</key>
+	<string>535354FF</string>
+	<key>buttonBackgroundColorL</key>
+	<string>ACB1BBF8</string>
+	<key>buttonBorderColorD</key>
+	<string>FFFFFFFF</string>
+	<key>buttonBorderColorL</key>
+	<string>000000FF</string>
+	<key>buttonImageColorL</key>
+	<string>000000F7</string>
+	<key>panelBackgroundColorD</key>
+	<string>00000000</string>
+	<key>panelBackgroundColorL</key>
+	<string>FFFFFF00</string>
+</dict>
+</plist>

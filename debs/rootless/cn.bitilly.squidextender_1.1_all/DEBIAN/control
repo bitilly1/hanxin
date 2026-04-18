@@ -1,0 +1,12 @@
+Package: cn.bitilly.squidextender
+Section: 配置文件
+Maintainer: bitilly
+Architecture: all
+Version: 1.1
+Depends: firmware (>= 15.0)
+Description: 自用配置，安装后直接去插件恢复备份即可。
+ModernDepiction:
+Name: SE配置文件（15-16）
+Author: bitilly
+Sponsor: bitilly
+Icon: https://apt.bitilly.cn/images/pzwj.png
