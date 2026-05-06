@@ -1,93 +1,111 @@
-<html>
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
-<title>添加软件源</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8"/>
+<title>寒心软件源</title>
+<!-- 网站缩略图 + 浏览器标签图标 + 微信QQ分享封面 -->
+<link rel="shortcut icon" href="./images/hanxin.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="./images/hanxin.png" />
+<meta property="og:image" content="https://apt.bitilly.cn/images/hanxin.png" />
+
+<style>
+/* 简单补点基础样式，防止布局错乱 */
+body { margin: 0; padding: 20px; background: #111; color: #fff; text-align: center; font-family: sans-serif; }
+.rotate-img { width: 120px; margin: 30px 0; }
+#bg-music { margin: 20px 0; }
+a { color: #409eff; text-decoration: none; }
+.row { margin: 30px 0; }
+#caption { margin-top: 8px; display: block; }
+</style>
 <script>
+// 隐藏地址栏
 addEventListener("load", function () {
-setTimeout(hideURLbar, 0);
+    setTimeout(hideURLbar, 0);
 }, false);
 function hideURLbar() {
-window.scrollTo(0, 1);
+    window.scrollTo(0, 1);
 }
-window.addEventListener('DOMContentLoaded', (event) => {
-const bgMusic = document.getElementById('bg-music');
-bgMusic.play();
-});
 </script>
 <link rel="stylesheet" href="./css/style.css" type="text/css" media="all" />
 <link href="css/animate.css" rel="stylesheet">
 </head>
 <body>
-<div class="top-content-style"/>
-<img class="rotate-img" src="./images/hanxin.png" alt=""/>
-</br>
-        <audio id="bg-music" loop controls>
-            <source src="music/yylx.mp3" type="audio/mpeg"> <!-- 默认音乐文件 -->
-            您的浏览器不支持音频元素。
-        </audio>
+
+<div class="top-content-style">
+    <img class="rotate-img" src="./images/hanxin.png" alt="寒心软件源">
+    <br>
+    <audio id="bg-music" loop controls>
+        <source src="music/yylx.mp3" type="audio/mpeg">
+        您的浏览器不支持音频元素。
+    
 </div>
 
-    <script>
-        const audio = document.getElementById('bg-music');
-        const tracks = [
-            'music/yylx.mp3', // 遥遥领先
-            'music/yqlai.aac' // 好运来
-        ];
-        let currentTrackIndex = 0;
+<div class="main-bg">
+    <h1>Bitilly hanxin</h1>
+    <div class="sub-main-w3" style="text-align: center;">
+        <div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlcydia">
+            <div class="cydiablur zoom">
+                <div class="cydiablur-inside">
+                    <img onclick="location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.bitilly.cn/';" 
+                         src="./images/cydia.png" style="width: 60px; height: 60px" class="filter">
+                </div>
+            </div>
+            <div class="filter animated fadecydia" id="caption">Cydia</div>
+        </div>
 
-        // 准备播放第一个音频文件
-        audio.src = tracks[currentTrackIndex];
-        
-        // 当音频播放结束时，切换到下一个音频文件
-        audio.addEventListener('ended', () => {
-            currentTrackIndex = (currentTrackIndex + 1) % tracks.length; // 循环播放
-            audio.src = tracks[currentTrackIndex];
-            audio.play(); // 播放下一个音频
-        });
+        <div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlsileo">
+            <div class="sileoblur zoom">
+                <div class="sileoblur-inside">
+                    <img onclick="location.href='sileo://source/https://apt.bitilly.cn/';" 
+                         src="./images/sileo.png" style="width: 60px; height: 60px" class="filter">
+                </div>
+            </div>
+            <div class="filter animated fadesileo" id="caption">Sileo</div>
+        </div>
 
-        audio.play(); // 开始播放第一个音频
-    </script>
+        <div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlzebra">
+            <div class="zebrablur zoom">
+                <div class="zebrablur-inside">
+                    <img onclick="location.href='zbra://sources/add/https://apt.bitilly.cn/';" 
+                         src="./images/zebra.png" style="width: 60px; height: 60px" class="filter">
+                </div>
+            </div>
+            <div class="filter animated fadezebra" id="caption">Zebra</div>
+        </div>
 
-</div>
-<div class="main-bg"/>
-<h1>Bitilly hanxin</h1>
-<div class="sub-main-w3" style="text-align: center;">
-
-<center>
-<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlcydia">
-<div class="cydiablur zoom">
-<div class="cydiablur-inside">
-<img onclick="location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.bitilly.cn/';" src="./images/cydia.png" style="width: 60px; height: 60px" class="filter">
-</div>
-</div>
-<div class="filter animated fadecydia" id="caption">Cydia</div>
-</div>
-
-<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlsileo">
-<div class="sileoblur zoom">
-<div class="sileoblur-inside">
-<img onclick="location.href='sileo://source/https://apt.bitilly.cn/';" src="./images/sileo.png" style="width: 60px; height: 60px" class="filter">
-</div>
-</div>
-<div class="filter animated fadesileo" id="caption">Sileo</div>
+        <br><br>
+        <p class="legend"></p>
+        <a href="./problems.html">其他问题</a>
+        <br><br><br>
+    </div>
 </div>
 
-<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlzebra">
-<div class="zebrablur zoom">
-<div class="zebrablur-inside">
-<img onclick="location.href='zbra://sources/add/https://apt.bitilly.cn/';" src="./images/zebra.png" style="width: 60px; height: 60px" class="filter">
-</div>
-</div>
-<div class="filter animated fadezebra" id="caption">Zebra</div>
-</div>
-</center>
-</br>
-</br>
-<p class="legend"></span></p>
-<a href="./problems.html" id="caption"/>其他问题</a>
-</br>
-</br>
-</br>
-</div>
+<script>
+const audio = document.getElementById('bg-music');
+// 音乐列表
+const tracks = [
+    'music/yylx.mp3',
+    'music/yqlai.aac'
+];
+let currentTrackIndex = 0;
+
+// 初始化音源
+audio.src = tracks[currentTrackIndex];
+
+// 播放结束自动切歌循环
+audio.addEventListener('ended', () => {
+    currentTrackIndex = (currentTrackIndex + 1) % tracks.length;
+    audio.src = tracks[currentTrackIndex];
+    audio.play();
+});
+
+// 解决浏览器自动播放限制：首次点击页面后开启音乐
+document.addEventListener('click', function autoPlayMusic() {
+    audio.play();
+    // 只触发一次
+    document.removeEventListener('click', autoPlayMusic);
+});
+</script>
+
 </body>
 </html>
