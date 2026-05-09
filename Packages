@@ -2804,16 +2804,16 @@ Name: mango
 Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
 
 Package: com.go.mango
-Version: 0.0.6-1
+Version: 0.0.7
 Architecture: iphoneos-arm64
 Maintainer: go
-Installed-Size: 1048
+Installed-Size: 1164
 Depends: mobilesubstrate
-Filename: ./debs/rootless/com.go.mango_0.0.6-1_iphoneos-arm64.deb
-Size: 296624
-MD5sum: b1415c15945e2acc85928b92a44cd34f
-SHA1: 4fccc948e963a28f1303bbe07ab108bc07e38b01
-SHA256: 56e3f8d12a0b872ae69b98b98e8fbd38ac842791c73dc6c990c673e0fda1be0a
+Filename: ./debs/rootless/com.go.mango_0.0.7_iphoneos-arm64.deb
+Size: 330352
+MD5sum: 342095d53570af7a35c989d5e2ae4cc7
+SHA1: 5dde26f6988b2c7f34c9897bd3d19b60be71e601
+SHA256: bfeb270d4927ab1ed9e58664fe1404873a67b8cab4fad1290186d106491435c1
 Section: 分屏工具
 Description: 芒果，轻量分屏，舒适，顺手。
 Author: go
@@ -2822,16 +2822,16 @@ Name: mango
 Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
 
 Package: com.go.mango
-Version: 0.0.6-1
+Version: 0.0.7
 Architecture: iphoneos-arm64e
 Maintainer: go
-Installed-Size: 1032
+Installed-Size: 1148
 Depends: mobilesubstrate
-Filename: ./debs/roothide/com.go.mango_0.0.6-1_iphoneos-arm64e.deb
-Size: 295764
-MD5sum: e37feb0cc361bc61bc60c524ab416ef6
-SHA1: 619779254eec4d491cc7377cca8995f5ac182ef3
-SHA256: 1b700090a534819c2265ef33f59cb5b608d1382b00f9a05793349e84df938274
+Filename: ./debs/roothide/com.go.mango_0.0.7_iphoneos-arm64e.deb
+Size: 329624
+MD5sum: 5aa1706cbd5f99afa331b7d5262f14d7
+SHA1: 60bcbc2c95923ecc485e8e156537ce6deb9d2396
+SHA256: 9b782c1f1652da198771f92aa280dafef6352f92f353599cdc7bec471f29b47a
 Section: 分屏工具
 Description: 芒果，轻量分屏，舒适，顺手。
 Author: go
