@@ -115,13 +115,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "AppProtect v2.3.9",
+"text": "AppProtect v2.4.1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2026.03.13",
+"text": "日志更新于 2026.05.11",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -131,7 +131,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\u2023 1、优化隐藏功能，未设置口令情况下隐藏功能不生效；\n\n\u2023 2、优化功能使用说明。"
+"markdown": "\n\u2023 1、优化功能文字和性能。"
 }
 ]
 }
