@@ -66,7 +66,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 商品讲解\n翁源三华李是广东韶关翁源地理标志农产品，因原产龙仙镇三华村得名，拥有五百余年栽培历史，是国内三华李原产地。主要分为大蜜李、小蜜李等品种，大蜜李品质最佳。果实表皮紫红覆白霜，果小核薄、果肉厚实脆爽，汁水充沛，蜜甜微酸、果香浓郁，被誉为岭南夏令佳果。每年6月集中成熟上市，鲜果期较短。当地种植规模庞大，是县域特色支柱产业，鲜果畅销粤港澳，除鲜食外，还可加工成果脯、果酒。有需要的可以点击下方关注公众号后橱窗选购。",
+"markdown": "## 重要提醒\n所有的配置文件下载后均在/var/mobile/Documents目录下（无根隐根都是一样的）下载后自己去翻即可。",
 "useSpacing": true
 },
 {
@@ -115,7 +115,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.1",
+"text": "1.0",
 "title": "最新版本"
 },
 {
@@ -143,13 +143,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "1.1",
+"text": "1.0",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2026.6.3",
+"text": "日志更新于 2026.1.1",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
