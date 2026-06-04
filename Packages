@@ -66,15 +66,15 @@ Name: MisakaHelper
 Sileodepiction: https://apt.bitilly.cn/Description/misaka/misaka.json
 
 Package: apt.bitilly.cn
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: bitilly
 Depends: sudo
-Filename: ./debs/rootfull/apt.bitilly.cn_1.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/apt.bitilly.cn_1.2_iphoneos-arm.deb
 Size: 1232
-MD5sum: 2e962683ee8a741c5830564ce2f74e5a
-SHA1: 0f8108f3ce2a248c196875d0e16fbe1b101e5ebc
-SHA256: dd564796b6486ff6ada2cc8638c48e9b23cd8dec2a73eb369548eb2cf93729db
+MD5sum: 89cdcbadd1f61dd08fb03ad1fa698cd5
+SHA1: 7123bd8a487001bc4a5a9c541e2cd51b1efa7f83
+SHA256: 2fbf00391315ded2109ad9c714fb1cea9b6c69530d2a78aabddcd691fa83fbf5
 Section: 附加
 Description: 翁源三华李是广东韶关翁源地理标志农产品，因原产龙仙镇三华村得名，拥有五百余年栽培历史，是国内三华李原产地。主要分为大蜜李、小蜜李等品种，大蜜李品质最佳。果实表皮紫红覆白霜，果小核薄、果肉厚实脆爽，汁水充沛，蜜甜微酸、果香浓郁，被誉为岭南夏令佳果。每年6月集中成熟上市，鲜果期较短。当地种植规模庞大，是县域特色支柱产业，鲜果畅销粤港澳，除鲜食外，还可加工成果脯、果酒。
 Tag: cydia::commercial
@@ -84,15 +84,15 @@ Name: 打个广告
 Sileodepiction: http://apt.bitilly.cn/Description/bitilly/bitilly.json
 
 Package: apt.bitilly.cn
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: bitilly
 Depends: sudo
-Filename: ./debs/rootless/apt.bitilly.cn_1.1_iphoneos-arm64.deb
-Size: 1240
-MD5sum: 218827283a6fcd293f1515bcf3019cad
-SHA1: a2608d4bb3167fbebab7b73b9985141d9b55158c
-SHA256: 299cdddb0285be39811b5b9df3f92d66cdd8ff676c7a90ff32015c5e6db6e362
+Filename: ./debs/rootless/apt.bitilly.cn_1.2_iphoneos-arm64.deb
+Size: 1236
+MD5sum: b3fcfd9e051c6a921182163b643d8d4f
+SHA1: fda76e60dff42f555015f5c4ce44d4405df58e5d
+SHA256: 99f5c5aba12de51f3369f7c4ec3fc1001dccac098e84cefbab2fa13398fa2cd8
 Section: 附加
 Description: 翁源三华李是广东韶关翁源地理标志农产品，因原产龙仙镇三华村得名，拥有五百余年栽培历史，是国内三华李原产地。主要分为大蜜李、小蜜李等品种，大蜜李品质最佳。果实表皮紫红覆白霜，果小核薄、果肉厚实脆爽，汁水充沛，蜜甜微酸、果香浓郁，被誉为岭南夏令佳果。每年6月集中成熟上市，鲜果期较短。当地种植规模庞大，是县域特色支柱产业，鲜果畅销粤港澳，除鲜食外，还可加工成果脯、果酒。
 Tag: cydia::commercial
@@ -102,15 +102,15 @@ Name: 打个广告
 Sileodepiction: http://apt.bitilly.cn/Description/bitilly/bitilly.json
 
 Package: apt.bitilly.cn
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: bitilly
 Depends: sudo
-Filename: ./debs/roothide/apt.bitilly.cn_1.1_iphoneos-arm64e.deb
+Filename: ./debs/roothide/apt.bitilly.cn_1.2_iphoneos-arm64e.deb
 Size: 1236
-MD5sum: 9015c85bcfb3ea422fbb6b25f647865c
-SHA1: a61b692784c9b4f9928efc0da9b316ff3ab3877b
-SHA256: 7c2f6bfd897657d1246372f4e9a75a82b7869d05959ba7f3887037916675e293
+MD5sum: 16e291433f1f7b2163fd540b1cbd0ed3
+SHA1: 095c1d46519634ceb2b57a2baf35c9226c62e372
+SHA256: 035e751faff40872c75a740634fa5b2c923d9ac6a199a3aab5f1bfa2c3b63d81
 Section: 附加
 Description: 翁源三华李是广东韶关翁源地理标志农产品，因原产龙仙镇三华村得名，拥有五百余年栽培历史，是国内三华李原产地。主要分为大蜜李、小蜜李等品种，大蜜李品质最佳。果实表皮紫红覆白霜，果小核薄、果肉厚实脆爽，汁水充沛，蜜甜微酸、果香浓郁，被誉为岭南夏令佳果。每年6月集中成熟上市，鲜果期较短。当地种植规模庞大，是县域特色支柱产业，鲜果畅销粤港澳，除鲜食外，还可加工成果脯、果酒。
 Tag: cydia::commercial
@@ -4075,6 +4075,45 @@ Size: 33453466
 MD5sum: 1e9211bfbd08ff092f84fc5d34fd973c
 SHA1: 3b0df5fe1c4541026220549ae0222a29c1fde61b
 SHA256: 2a4320c65b24f38126bccc339d6780b0fdb404eedf4c7f7b14915d502514e97a
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.9.17-5
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32180
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2pro_18.9.17-5_iphoneos-arm64.deb
+Size: 13304372
+MD5sum: 9d4ee4c78d6675667265988ea31a1d0f
+SHA1: 16252f99769c591f22085934c249e82975dc2b6d
+SHA256: 48904c572c2008584827f18d19d1c80ca5ba94ec5d54cfcec8929fa1dcf22a8c
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.9.17-5
+Architecture: iphoneos-arm64e
+Maintainer: lzsxcl
+Installed-Size: 32180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/roothide/xc.lzsxcl.o2pro_18.9.17-5_iphoneos-arm64e.deb
+Size: 13151392
+MD5sum: c4f36219a3ece9803ef6169930ae4cae
+SHA1: 3d6e22f4b3115977cf71dacf1415611d71ada055
+SHA256: 9e75c989b635f78e2159744d99b069c09c651f01d8b2b17faf2bef22315e4362
 Section: 分屏工具
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
