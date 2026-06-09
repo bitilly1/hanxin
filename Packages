@@ -2839,6 +2839,39 @@ Icon: http://apt.bitilly.cn/Description/mango/icon.png
 Name: mango
 Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
 
+Package: com.ibreak.switchcolor
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: iBreak <(null)>
+Installed-Size: 344
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/rootless/com.ibreak.switchcolor_0.0.1_iphoneos-arm64.deb
+Size: 7040
+MD5sum: 9de139f00d440680672d9b7a66c70ae0
+SHA1: f8eb8a6743d60b188d8c6c673f76d0e05695fa9e
+SHA256: 9e0f411f0533623dc1b68e788180cc822a620d26fb0edf5e6c2ef7f76b46eeb7
+Section: 功能助手
+Description: 全局开关颜色，你可以自定义颜色。建议开启开关标签效果会更好，开启方法：前往“设置 - 通用 - 辅助功能 - 开/关标签”
+Author: iBreak <(null)>
+Name: iOS 全局开关颜色 (新版) ™
+
+Package: com.ibreak.switchcolor
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: iBreak <(null)>
+Installed-Size: 344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/roothide/com.ibreak.switchcolor_0.0.1_iphoneos-arm64e.deb
+Size: 7084
+MD5sum: dd1a78bc5584ea3279a563622b2b55d7
+SHA1: 2a91c76591760e54cec40c8586e020e9422b9740
+SHA256: 8ec185efcd829490a6c8cccc722d12e4780e123fef2b7697dbea7a993b4d2960
+Section: 功能助手
+Description: 全局开关颜色，你可以自定义颜色。建议开启开关标签效果会更好，开启方法：前往“设置 - 通用 - 辅助功能 - 开/关标签”
+Author: iBreak <(null)>
+Name: iOS 全局开关颜色 (新版) ™
+
 Package: com.ios.wechat
 Version: 1.1.5
 Architecture: iphoneos-arm
