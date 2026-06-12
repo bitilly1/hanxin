@@ -81,7 +81,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "0.0.7",
+"text": "0.0.14-1",
 "title": "最新版本"
 },
 {
@@ -109,13 +109,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "0.0.8-1",
+"text": "0.0.14-1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2026.05.20",
+"text": "日志更新于 2026.06.12",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -125,7 +125,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\n更了什么自己安装就知道了"
+"markdown": "\n\n1. 深度优化蜜蜂启动器与应用资源库整体运行逻辑\n\n2. 修复蜜蜂启动器偶发卡顿异常\n\n3. 解决应用资源库间歇性布局错乱问题\n\n4. 横屏、竖屏场景可独立选择蜜蜂启动器或资源库启动方式\n\n5. 重构蜜蜂启动器启动动画视觉效果\n\n6. 对配置设置菜单进行全新改版设计\n\n7. 优化无界拖动逻辑，规避频繁调用已释放函数引发的低概率内存崩溃\n\n8. 分屏描边新增毛玻璃样式，支持开关自定义\n\n9. 移除无界屏功能，添加至付费定制群\n\n10. 重新设计台前调度操控手柄样式与交互逻辑"
 },
 
 ]
