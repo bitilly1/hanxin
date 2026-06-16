@@ -2768,6 +2768,24 @@ Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools15.json
 
 Package: com.go.mango
 Version: 0.0.12-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 1472
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.go.mango_0.0.12-1_iphoneos-arm64.deb
+Size: 416032
+MD5sum: 9aa27739e479f68dbd6c35d8401a16cb
+SHA1: 3adf60b27ac23ed569fa72e658904395078e8933
+SHA256: 9592e52c61fff0dcd46b22ce9df286896c5de1082016cdd873fd824a299d84d6
+Section: 分屏工具
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
+Package: com.go.mango
+Version: 0.0.12-1
 Architecture: iphoneos-arm64e
 Maintainer: go
 Installed-Size: 1472
@@ -2777,24 +2795,6 @@ Size: 413720
 MD5sum: a7d22e70d760a320521eaff0fd3482c7
 SHA1: cca64207468ce538ba951e4270a574236a85d7f6
 SHA256: e3114b379a0bf2d9e782a0534bea26074422f29f39217536013a2a94fb1ac5a2
-Section: 分屏工具
-Description: 芒果，轻量分屏，舒适，顺手。
-Author: go
-Icon: http://apt.bitilly.cn/Description/mango/icon.png
-Name: mango
-Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
-
-Package: com.go.mango
-Version: 0.0.12.1-1
-Architecture: iphoneos-arm64
-Maintainer: go
-Installed-Size: 1472
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.go.mango_0.0.12.1-1_iphoneos-arm64.deb
-Size: 416152
-MD5sum: 6e4c7a157a812f8e70bff7c4cbc79198
-SHA1: bb3a43c9ddbd555c17ed54435944c01cba6c09c5
-SHA256: 2bb0a6b652492d1c2fc620568420b62422463905da03b1949fbc1943f2356911
 Section: 分屏工具
 Description: 芒果，轻量分屏，舒适，顺手。
 Author: go
@@ -4219,6 +4219,45 @@ Size: 13151392
 MD5sum: c4f36219a3ece9803ef6169930ae4cae
 SHA1: 3d6e22f4b3115977cf71dacf1415611d71ada055
 SHA256: 9e75c989b635f78e2159744d99b069c09c651f01d8b2b17faf2bef22315e4362
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.9.17-6
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32212
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2pro_18.9.17-6_iphoneos-arm64.deb
+Size: 13308184
+MD5sum: 80fe85686bf65349374740c2c1ae3c1d
+SHA1: 761fa9d9a0b6dfc5b1a6e551eaf2d61fbe2567bf
+SHA256: fd022300ab34fce1c12eb600584633ffa2013bcc89f3b7d1ee7d34421ea253aa
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.9.17-6
+Architecture: iphoneos-arm64e
+Maintainer: lzsxcl
+Installed-Size: 32212
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/roothide/xc.lzsxcl.o2pro_18.9.17-6_iphoneos-arm64e.deb
+Size: 13158944
+MD5sum: 52ab50103790ae30a4b292fda8e434d6
+SHA1: b64088d18b88601ffaa5b1962bcaa5adff57c4eb
+SHA256: 4268fa44075905cc50928126d01692523c515e9f882f6c1badb52ba25bcb9ee4
 Section: 分屏工具
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl

@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "18.9.17-5",
+"text": "18.9.17-6",
 "title": "最新版本"
 },
 {
@@ -110,6 +110,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.9.17-6",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.06.05",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）优化 Watch功能，修复卡顿、假注销问题，修复来电视频不生效问题（iOS17.0 以下）"
+},
 {
 "class": "DepictionLayerView",
 "views": [
