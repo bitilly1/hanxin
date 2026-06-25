@@ -81,7 +81,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "0.0.16-1",
+"text": "0.0.17-1",
 "title": "最新版本"
 },
 {
@@ -109,13 +109,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "0.0.16-1",
+"text": "0.0.17-1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2026.06.20",
+"text": "日志更新于 2026.06.25",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -125,7 +125,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\n1.支持多视频同时播放\n\n2.修复新的台前手柄异常问题\n\n3.新的关闭动画（可选）\n\n4.修复滑动索引问题\n\n5.快捷如果开启了星标栏则独立到星标栏"
+"markdown": "\n\n1.修复bug和定制群的隐私屏保"
 },
 
 ]
