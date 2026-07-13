@@ -1,13 +1,32 @@
-name: "remove all old actions"
-
+name: Clean Old Pages Deployments
 on:
   workflow_run:
     workflows: ["pages-build-deployment"]
-    types: 
-      - completed
+    types: [completed]
 
 jobs:
+  clean-old-deploy:
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      actions: write
+    steps:
+      - name: Fetch all pages deployments
+        id: get_deploys
+        run: |
+          DEPLOYS=$(gh api repos/${{ github.repository }}/pages/deployments --jq '.[].id')
+          # 保留最新1条部署，其余全部删除
+          echo "DEPLOY_LIST=($DEPLOYS)" >> $GITHUB_ENV
 
-  remove_all_old_actions:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    uses: invalidunit/action/.github/workflows/remove_all_actions.yml@main
+      - name: Delete outdated deployments
+        run: |
+          arr=($DEPLOY_LIST)
+          # 剔除数组第一个元素（最新部署），循环删除剩余
+          for id in "${arr[@]:1}"; do
+            gh api -X DELETE repos/${{ github.repository }}/pages/deployments/$id
+            echo "Deleted deployment ID: $id"
+          done
+        env:
+          GH_TOKEN: ${{ github.token }}
