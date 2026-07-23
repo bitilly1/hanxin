@@ -1627,11 +1627,11 @@ Maintainer: 来了老弟
 Installed-Size: 2676
 Depends: mobilesubstrate
 Filename: ./debs/rootless/cn.llld.snapshottool_4.2-3+debug_iphoneos-arm64.deb
-Size: 1539268
-MD5sum: 33ca1b13a62748b1aa6f3ae877565c85
-SHA1: 45081e49c7f8693a690346ecd7a4df0414498464
-SHA256: 506fa39f7743fe6b8e43e965ccba6cd3f403232137c4ed087983f19f465d62f0
-Section: rootless应用插件
+Size: 1538452
+MD5sum: 6b75eeb3db1138aff9144e9a65cd3169
+SHA1: f2bd58bc9023071e271bddae66a8444fe91c9c4d
+SHA256: 1215b3fad7da02cf6b0badbaef42d774556419b0907d9f753b651cb1d5e89a38
+Section: 功能助手
 Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
@@ -1646,11 +1646,11 @@ Installed-Size: 2676
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/roothide/cn.llld.snapshottool_4.2-3+debug_iphoneos-arm64e.deb
-Size: 1544504
-MD5sum: c4000b4af02b349a71fc409c8ecd6628
-SHA1: 0697cc7ed0a4f8a2b1653f6d1a1c71e0aee800f0
-SHA256: 0c50be6979841114f58176526fb77839594c14024e54934d42bff344f5e6c6d4
-Section: rootless应用插件
+Size: 1544468
+MD5sum: 2e7e7bbeb5f7957696add9fd6e10c1b6
+SHA1: 9b9c7061d7a42ba9b1cec0e4cce0b985a7e9a5c3
+SHA256: d1c4b78e6edc31754d2e4e79fc500139c10fb264924394a7bd9a6d748cbeab35
+Section: 功能助手
 Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
 Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png

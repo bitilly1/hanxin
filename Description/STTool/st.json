@@ -74,12 +74,12 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.4.0-1",
+"text": "4.2-3+debug",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "14.0 - 16.6.1",
+"text": "15.0 - 16.6.1",
 "title": "支持系统"
 },
 {
@@ -102,13 +102,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "1.4.0-1",
+"text": "4.2-3",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2024.10.09",
+"text": "日志更新于 2026.7.22",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
