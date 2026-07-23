@@ -1620,6 +1620,43 @@ Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-ll
 Name: STTool无根
 Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
 
+Package: cn.llld.snapshottool
+Version: 4.2-3+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 2676
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.llld.snapshottool_4.2-3+debug_iphoneos-arm64.deb
+Size: 1539268
+MD5sum: 33ca1b13a62748b1aa6f3ae877565c85
+SHA1: 45081e49c7f8693a690346ecd7a4df0414498464
+SHA256: 506fa39f7743fe6b8e43e965ccba6cd3f403232137c4ed087983f19f465d62f0
+Section: rootless应用插件
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
+
+Package: cn.llld.snapshottool
+Version: 4.2-3+debug
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 2676
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/roothide/cn.llld.snapshottool_4.2-3+debug_iphoneos-arm64e.deb
+Size: 1544504
+MD5sum: c4000b4af02b349a71fc409c8ecd6628
+SHA1: 0697cc7ed0a4f8a2b1653f6d1a1c71e0aee800f0
+SHA256: 0c50be6979841114f58176526fb77839594c14024e54934d42bff344f5e6c6d4
+Section: rootless应用插件
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
+
 Package: cn.octoforce.squidextender
 Version: 2.2.2
 Architecture: iphoneos-arm
