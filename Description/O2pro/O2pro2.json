@@ -87,17 +87,17 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "18.9.17-6",
+"text": "18.9.17-7",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "14.0 - 17.0",
+"text": "14.0 - 17.3.1",
 "title": "兼容系统"
 },
 {
 "class": "DepictionTableTextView",
-"text": "6S - 14PM",
+"text": "6S - 15PM",
 "title": "支持设备"
 },
 {
@@ -110,6 +110,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.9.17-7",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.08.03",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）优化 o2Pro 分屏细节，优化神经网络的过度动画，适配新越狱的侧栏及 whach"
+},
 {
 "class": "DepictionLayerView",
 "views": [
