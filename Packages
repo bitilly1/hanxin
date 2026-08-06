@@ -2753,13 +2753,13 @@ Package: com.flex2areo.apptools15roothide
 Version: 2.7.8
 Architecture: iphoneos-arm64e
 Maintainer: aReo
-Installed-Size: 3884
+Installed-Size: 3932
 Depends: mobilesubstrate
 Filename: ./debs/roothide/com.flex2areo.apptools15roothide_2.7.8_iphoneos-arm64e.deb
-Size: 1215452
-MD5sum: 4853c3bdfe53154a428fcf259d84acb5
-SHA1: fa72130af8cdc05221c9a37e93f8d976a7092879
-SHA256: f01999c8894c4f4441d90adef0b4d827ee92a8201cc202e2dcfc57e0452791b2
+Size: 1227288
+MD5sum: 17bde1d47ac22e1ff36ee0589817dab0
+SHA1: fcd25c76be6e93ab36c253045b988de08ac797ae
+SHA256: b04fdcfa36a51cda17a4f5b437b134818f77cb8a4be21646f9459bd824b3503c
 Section: 功能助手
 Description: AppTools for iOS15-17 Roothide
 Author: aReo
@@ -2789,13 +2789,13 @@ Package: com.flex2areo.apptools15rootless
 Version: 2.7.8
 Architecture: iphoneos-arm64
 Maintainer: aReo
-Installed-Size: 3980
+Installed-Size: 4012
 Depends: mobilesubstrate
 Filename: ./debs/rootless/com.flex2areo.apptools15rootless_2.7.8_iphoneos-arm64.deb
-Size: 1243292
-MD5sum: 798983f9d641c4939bedcf9a6fea3694
-SHA1: 794cc433799477e2b277999786a5cf442b582f8e
-SHA256: 96617562898e3b531be1923711bff1ddaa30ec0a9a2539560ac3731c3aee3413
+Size: 1248592
+MD5sum: 57a66b3121ff7ca4533a2d64ba076a3e
+SHA1: f377f14167e4d21391966d45b9cac008b2708e2a
+SHA256: 002bcfb61f54860f2db9a930655d0ff4bf35346729f2367f94d2f4692392b90f
 Section: 功能助手
 Description: AppTools for iOS15-17 Rootless
 Author: aReo
@@ -4334,6 +4334,45 @@ Size: 13154712
 MD5sum: 9f7cb17d70e7177016ebbd9fb7e8898d
 SHA1: 8aada31597036c71c6bb0b6aaa93bb8700aa534d
 SHA256: 5a058448f612b5395e84528f415a9a847b3a6037748a9e14ea283d90dbf7b0d0
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.9.17-8
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32200
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/rootless/xc.lzsxcl.o2pro_18.9.17-8_iphoneos-arm64.deb
+Size: 13313116
+MD5sum: 6584b18683d116753492110b6e71f062
+SHA1: 04af4e7aaf8b8ea1e3b81528fe54e834425f96ca
+SHA256: 98fd2220179ee59df54be382f15985c9c4b0662a96755ed3d7b75717e87be870
+Section: 分屏工具
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro2.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.9.17-8
+Architecture: iphoneos-arm64e
+Maintainer: lzsxcl
+Installed-Size: 32200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/roothide/xc.lzsxcl.o2pro_18.9.17-8_iphoneos-arm64e.deb
+Size: 13161352
+MD5sum: a25e39767aa98335adfbef2c6896befb
+SHA1: d5a2ffeac40383242901e529f41d41ab12923731
+SHA256: 0a8bb63200af958836bf8575cea8b95047ca6fcd20fd1f0c28ad70861536a3ec
 Section: 分屏工具
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
