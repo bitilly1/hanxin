@@ -4349,10 +4349,10 @@ Maintainer: lzsxcl
 Installed-Size: 32200
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/rootless/xc.lzsxcl.o2pro_18.9.17-8_iphoneos-arm64.deb
-Size: 13313116
-MD5sum: 6584b18683d116753492110b6e71f062
-SHA1: 04af4e7aaf8b8ea1e3b81528fe54e834425f96ca
-SHA256: 98fd2220179ee59df54be382f15985c9c4b0662a96755ed3d7b75717e87be870
+Size: 13314568
+MD5sum: c9dc4abceb83505a55ad82b3801d0a80
+SHA1: 7ec1d4b5752581fba2d6c84fb380ec8d4fdfbef7
+SHA256: 2522fc0133c9a2b192404f339b14d1e41a0769f02e444b985c3ce03db747e497
 Section: 分屏工具
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
@@ -4369,10 +4369,10 @@ Installed-Size: 32200
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/roothide/xc.lzsxcl.o2pro_18.9.17-8_iphoneos-arm64e.deb
-Size: 13161352
-MD5sum: a25e39767aa98335adfbef2c6896befb
-SHA1: d5a2ffeac40383242901e529f41d41ab12923731
-SHA256: 0a8bb63200af958836bf8575cea8b95047ca6fcd20fd1f0c28ad70861536a3ec
+Size: 13161420
+MD5sum: 90d18fa10fdc486fa0b288fce572a5ef
+SHA1: f9451d122b5a1a34a71bf7f7ea45d999f089763e
+SHA256: fbf674f102c1879761523c03ffa04fb3632380d4f207b37fd884e452fc2e64c7
 Section: 分屏工具
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
