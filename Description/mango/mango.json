@@ -15,6 +15,14 @@
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/mango/mango4.jpg"
+},
+{
+"accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/mango/mango5.jpg"
+},
+{
+"accessibilityText": "Screenshot",
 "url": "https://apt.bitilly.cn/Description/mango/mango2.jpg"
 },
 {
@@ -26,7 +34,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "## 主要功能\n芒果，轻量分屏，舒适，顺手。\n\n即日起不再优惠出售了，有需要的直接去联系作者吧，各位有缘再会！",
+"markdown": "## 主要功能\n分屏，真液态玻璃，视频壁纸等一些实用功能。\n\n即日起不再优惠出售了，有需要的直接去联系作者吧，各位有缘再会！",
 "useSpacing": true
 },
 {
@@ -81,12 +89,12 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "0.0.17-1",
+"text": "1.0-Beta5-1",
 "title": "最新版本"
 },
 {
 "class": "DepictionTableTextView",
-"text": "15.0 - 17.0",
+"text": "15.0 - 17.3.1",
 "title": "兼容系统"
 },
 {
@@ -109,13 +117,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "0.0.17-1",
+"text": "1.0-Beta5-1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2026.06.25",
+"text": "日志更新于 2026.09.04",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -125,7 +133,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\n1.修复bug和定制群的隐私屏保"
+"markdown": "\n\n1.重新设计 mango\n\n2.新 iOS 27 增液态玻璃\n\n3.新增视频壁纸等\n\n4. 修复用户反馈的部分 bug"
 },
 
 ]
