@@ -1657,6 +1657,43 @@ Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-ll
 Name: STTool
 Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
 
+Package: cn.llld.snapshottool
+Version: 4.7.0.26
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1824
+Depends: mobilesubstrate
+Filename: ./debs/rootless/cn.llld.snapshottool_4.7.0.26_iphoneos-arm64.deb
+Size: 734552
+MD5sum: 5ac50433c0262136c04006912b47e7e1
+SHA1: d5d68256cb6fd33d0c5b4692b0ef2231fd8ea014
+SHA256: 68b3a232e64d2fb5da58284e0e6a521677363933cb9bf3aa0e5ed98723342b27
+Section: 功能助手
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
+
+Package: cn.llld.snapshottool
+Version: 4.7.0.26
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 1824
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/roothide/cn.llld.snapshottool_4.7.0.26_iphoneos-arm64e.deb
+Size: 726356
+MD5sum: 2b95458bf7af88c17cee42c84a9aad04
+SHA1: 6d2a954095713a0b03173cc59c9d51093b50f602
+SHA256: 71e3d263bf9a48e0fc2f9100e46f50faa702862d0460e4b12b2b9836879d9354
+Section: 功能助手
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
+
 Package: cn.octoforce.squidextender
 Version: 2.2.2
 Architecture: iphoneos-arm
@@ -2979,6 +3016,42 @@ SHA1: 88e4649d8be343eb00a8eaf244e35aa30dff8694
 SHA256: 7bbdf2535059d636eb2d529985d77dece5ad6c3eae588d181aef4e3174502574
 Section: 分屏工具
 Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
+Package: com.go.mango
+Version: 1.0-Beta7-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 3888
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.go.mango_1.0-Beta7-1_iphoneos-arm64.deb
+Size: 962532
+MD5sum: b887dc49b42b6254d731faa1f582b4fb
+SHA1: d86e37354244960d8ec6b981231a454f0638e6d3
+SHA256: 57cab953e39441708738f74c82ddf8c8ad87cf6c298df1519cd32346c86feec3
+Section: 分屏工具
+Description: 分屏，微信小液，真液态玻璃，视频壁纸等一些实用功能。
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
+Package: com.go.mango
+Version: 1.0-Beta7-1
+Architecture: iphoneos-arm64e
+Maintainer: go
+Installed-Size: 3888
+Depends: mobilesubstrate
+Filename: ./debs/roothide/com.go.mango_1.0-Beta7-1_iphoneos-arm64e.deb
+Size: 961780
+MD5sum: b7cc8bbde8fb429191fcee38acbb7b2b
+SHA1: a4966986deb0660f735b0609a1a8bc342ef83938
+SHA256: ae47c461f043bf775fcda6b116eef209c21e3334429df18344bfba20bbcf1757
+Section: 分屏工具
+Description: 分屏，微信小液，真液态玻璃，视频壁纸等一些实用功能。
 Author: go
 Icon: http://apt.bitilly.cn/Description/mango/icon.png
 Name: mango

@@ -89,7 +89,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.0-Beta5-1",
+"text": "1.0-Beta7-1",
 "title": "最新版本"
 },
 {
@@ -117,13 +117,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "1.0-Beta5-1",
+"text": "1.0-Beta7-1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2026.09.04",
+"text": "日志更新于 2026.09.10",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -133,7 +133,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\n1.重新设计 mango\n\n2.新 iOS 27 增液态玻璃\n\n3.新增视频壁纸等\n\n4. 修复用户反馈的部分 bug"
+"markdown": "\n\n1.修复用户反馈的部分 bug"
 },
 
 ]
