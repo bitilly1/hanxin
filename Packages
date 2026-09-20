@@ -1627,14 +1627,14 @@ Maintainer: 来了老弟
 Installed-Size: 2676
 Depends: mobilesubstrate
 Filename: ./debs/rootless/cn.llld.snapshottool_4.2-3+debug_iphoneos-arm64.deb
-Size: 1538452
-MD5sum: 6b75eeb3db1138aff9144e9a65cd3169
-SHA1: f2bd58bc9023071e271bddae66a8444fe91c9c4d
-SHA256: 1215b3fad7da02cf6b0badbaef42d774556419b0907d9f753b651cb1d5e89a38
+Size: 1539348
+MD5sum: fe58f13f364165236ddfda901b420b60
+SHA1: 6dacdf6a1255a8bc987ebe5de64afea0e7d02ca1
+SHA256: d6e4d8d06d957c751a9bca2258eb881880dce035f5f20b631e477798715a6837
 Section: 功能助手
 Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
 Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Icon: http://apt.bitilly.cn/Description/STTool/icon.png
 Name: STTool
 Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
 
@@ -1646,47 +1646,10 @@ Installed-Size: 2676
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/roothide/cn.llld.snapshottool_4.2-3+debug_iphoneos-arm64e.deb
-Size: 1544468
-MD5sum: 2e7e7bbeb5f7957696add9fd6e10c1b6
-SHA1: 9b9c7061d7a42ba9b1cec0e4cce0b985a7e9a5c3
-SHA256: d1c4b78e6edc31754d2e4e79fc500139c10fb264924394a7bd9a6d748cbeab35
-Section: 功能助手
-Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: STTool
-Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
-
-Package: cn.llld.snapshottool
-Version: 4.7.0.26
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 1824
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.llld.snapshottool_4.7.0.26_iphoneos-arm64.deb
-Size: 734552
-MD5sum: 5ac50433c0262136c04006912b47e7e1
-SHA1: d5d68256cb6fd33d0c5b4692b0ef2231fd8ea014
-SHA256: 68b3a232e64d2fb5da58284e0e6a521677363933cb9bf3aa0e5ed98723342b27
-Section: 功能助手
-Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
-Author: 来了老弟
-Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
-Name: STTool
-Sileodepiction: https://apt.bitilly.cn/Description/STTool/st.json
-
-Package: cn.llld.snapshottool
-Version: 4.7.0.26
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 1824
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/roothide/cn.llld.snapshottool_4.7.0.26_iphoneos-arm64e.deb
-Size: 726356
-MD5sum: 2b95458bf7af88c17cee42c84a9aad04
-SHA1: 6d2a954095713a0b03173cc59c9d51093b50f602
-SHA256: 71e3d263bf9a48e0fc2f9100e46f50faa702862d0460e4b12b2b9836879d9354
+Size: 1531180
+MD5sum: a7fd6e6e8b2361109b3a7c0cf46fbbde
+SHA1: f15f9236ed4c3c2ca32ee885540f47a5f4f7fc9f
+SHA256: 435ad288099b9649eec0236aa79284740ad019ae99932b010eede8a75394b48f
 Section: 功能助手
 Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
 Author: 来了老弟
