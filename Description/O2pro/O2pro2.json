@@ -87,7 +87,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "18.9.17-9",
+"text": "18.9.18-10",
 "title": "最新版本"
 },
 {
@@ -115,7 +115,30 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "18.9.17-9",
+"text": "18.9.18-10",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.10.04",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\u2023 本次更新：\n\n-）更新了版本号+修复了手机放裤衩子不热的问题"
+},
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "18.9.18-9",
 "fontWeight": "bold",
 "fontSize": 16
 },
