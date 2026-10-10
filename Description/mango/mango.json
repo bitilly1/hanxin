@@ -89,7 +89,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "1.0-Beta7-1",
+"text": "1.0-Beta9-1",
 "title": "最新版本"
 },
 {
@@ -117,13 +117,13 @@
 "views": [
 {
 "class": "DepictionLabelView",
-"text": "1.0-Beta7-1",
+"text": "1.0-Beta9-1",
 "fontWeight": "bold",
 "fontSize": 16
 },
 {
 "class": "DepictionLabelView",
-"text": "日志更新于 2026.09.10",
+"text": "日志更新于 2026.10.05",
 "fontWeight": "semibold",
 "fontSize": 12,
 "textColor": "#999",
@@ -133,7 +133,7 @@
 },
 {
 "class": "DepictionMarkdownView",
-"markdown": "\n\n1.修复用户反馈的部分 bug"
+"markdown": "\n\n1.新增·截图涂鸦。\n\n2.新增·App资源库/蜜蜂启动器支持快捷指令。\n\n3.新增·重写URL跳转，并做了细分。\n\n4.新增·URL拦截，可屏蔽部分流氓软件。\n\n5.新增·全新的墓碑常驻。\n\n6.新增·蜜蜂或者app资源库可单独设置全屏/分屏。\n\n7.修复·修复视频横竖屏的切换问题。\n\n8.优化·横幅支持全屏/分屏打开。\n\n9.优化·墓碑手柄图标支持长按退出。\n\n10.修复·修复b8部分用户打不开分屏开关的问题。\n\n11.修复·小芒在横屏贴边的问题。\n\n12.优化·微信液友支持在分屏侧栏隐藏。\n\n13.优化·小芒同学通知小悬浮支持隐藏。\n\n14优化·开放分屏左右滑动的入口调整。"
 },
 
 ]
