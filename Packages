@@ -2094,56 +2094,61 @@ Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
 Package: com.HBWechatHelper.ailun
-Version: 2.0.4
+Version: 2.1.9
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.HBWechatHelper.ailun_2.0.4_iphoneos-arm.deb
-Size: 13573668
-MD5sum: 7e01e6c7b55a775751c272cbcf1ba6ff
-SHA1: 0c203be38ce9e3d3e2e0cc0823299d0fe5acded2
-SHA256: 0976ee5051938acfb94364750f3a6fc1fc5b10d91494e594874c011d238c07a8
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/rootfull/com.HBWechatHelper.ailun_2.1.9_iphoneos-arm.deb
+Size: 7239664
+MD5sum: fbfe52b92d8747c08b86a87b84d52335
+SHA1: a7b0243ea301d19b67b7736a598ea266de6d4d75
+SHA256: 7c7c5bb8f2549d15280e652018bfd0ed5cc2da83b8f807e42810504612cda139
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
+Dev: HuangBai
 Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信插件)
+Name: 黄白助手(微信娱乐插件)
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+Sponsor: Mao
 
 Package: com.HBWechatHelper.ailun
-Version: 2.0.4
+Version: 2.1.9
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.HBWechatHelper.ailun_2.0.4_iphoneos-arm64.deb
-Size: 13319468
-MD5sum: 132d93df9d26c221d393e22b058e4be1
-SHA1: 3e0581ccfb87b4de5b11e4ddbe15982c990b95b0
-SHA256: 86c88493734c2ba394cdbfdaa898c24428d5fab99502617fc7effccb0be28d12
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/rootless/com.HBWechatHelper.ailun_2.1.9_iphoneos-arm64.deb
+Size: 7240480
+MD5sum: 8d93015ae7e8d7d5cfd04569e1307c9c
+SHA1: d07c50c42f54a090404f1902ca7e49af9dcbf8f2
+SHA256: 13a9d133b37b467480ba29df5548f681be797ee8da602c2db876f388a2e0a859
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
+Dev: HuangBai
 Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信插件)
+Name: 黄白助手(微信娱乐插件)
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+Sponsor: Mao
 
 Package: com.HBWechatHelper.ailun
-Version: 2.0.4
+Version: 2.1.9
 Architecture: iphoneos-arm64e
 Maintainer: HuangBai <QQ:1343309363@qq.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/roothide/com.HBWechatHelper.ailun_2.0.4_iphoneos-arm64e.deb
-Size: 37846326
-MD5sum: 194def66d509a15d056f25d1aa5174bb
-SHA1: 249e95cfde02a3022a65ec2b5124ac10015ece4a
-SHA256: 076b1ed9d060a5448d10b2612d9b788ee79eda274cbbb05d2c2adbf6a87e3194
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/roothide/com.HBWechatHelper.ailun_2.1.9_iphoneos-arm64e.deb
+Size: 7239664
+MD5sum: 2a51b8d97e0cacf5f1437fd01eebe2d8
+SHA1: f8f0a6a95571084fbe1589630eadb3c337bf446c
+SHA256: 9c9e16b8f3e09839eea25391af79095112090a35f43ca3ae6969cfd019059ef8
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
+Dev: HuangBai
 Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信插件)
+Name: 黄白助手(微信娱乐插件)
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
+Sponsor: Mao
 
 Package: com.brend0n.volumemixer
 Version: 0.0.6~beta2
@@ -2943,6 +2948,43 @@ SHA1: 291758bdff2d88411a1d94e81f7d18d6da7d5407
 SHA256: 4fc8933f33d3b7597405728a073f8ededbfbbb9f6545407f6858dc7e2fc0b224
 Section: 分屏工具
 Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
+Package: com.go.mango
+Version: 1.0-Beta12-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 40320
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.go.mango_1.0-Beta12-1_iphoneos-arm64.deb
+Size: 17118496
+MD5sum: 366f2b4aa80209e71449d26d65685cb1
+SHA1: ab8e97e836feaac1e6c2116beff07afe578fb84a
+SHA256: 648fd01c1eaa4dc3daefc0dec7b7ee879b8044993b95132cfc2a520eb9164213
+Section: 分屏工具
+Description: Mango分屏，小液微信液态美化，系统级真液态玻璃，全局返回小芒，视频壁纸等一些实用功能。
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
+Package: com.go.mango
+Version: 1.0-Beta12-1
+Architecture: iphoneos-arm64e
+Maintainer: go
+Installed-Size: 40320
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/roothide/com.go.mango_1.0-Beta12-1_iphoneos-arm64e.deb
+Size: 16923684
+MD5sum: 8c43a409f2bc3d4ea5dd38c0bdb57781
+SHA1: 5b04d70632dceaa5daa32253a8e5d54f32f89134
+SHA256: a75a087edaded06b8c00a43d77d1270b1d2f1f08a5b505c2431f64d61a7a3e47
+Section: 分屏工具
+Description: Mango分屏，小液微信液态美化，系统级真液态玻璃，全局返回小芒，视频壁纸等一些实用功能。
 Author: go
 Icon: http://apt.bitilly.cn/Description/mango/icon.png
 Name: mango
