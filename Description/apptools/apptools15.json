@@ -79,7 +79,7 @@
 },
 {
 "class": "DepictionTableTextView",
-"text": "AppTools v2.9.0",
+"text": "AppTools v2.9.6",
 "title": "最新版本"
 },
 {
@@ -102,6 +102,29 @@
 "class": "DepictionStackView",
 "tabname": "更新日志",
 "views": [
+{
+"class": "DepictionLayerView",
+"views": [
+{
+"class": "DepictionLabelView",
+"text": "AppTools v2.9.6",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.11.17",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\n\u2023 1、新增弹出菜单烟花特效（菜单右上角显示样式设置里打开）\n\n\u2023 2、优化跳转文件逻辑；\n\n\u2023 3、修复无根备份文档可能崩溃的问题；\n\n\u2023 4、优化打开功能菜单时横屏切换的问题。"
+},
 {
 "class": "DepictionLayerView",
 "views": [
