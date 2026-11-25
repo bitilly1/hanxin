@@ -15,6 +15,10 @@
 "screenshots": [
 {
 "accessibilityText": "Screenshot",
+"url": "https://apt.bitilly.cn/Description/mango/Description.jpg"
+},
+{
+"accessibilityText": "Screenshot",
 "url": "https://apt.bitilly.cn/Description/mango/mango4.jpg"
 },
 {
@@ -113,13 +117,27 @@
 "tabname": "更新日志",
 "views": [
 {
-"class": "DepictionScreenshotsView",
-"itemCornerRadius": 6,
-"itemSize": "{160, 346.4533333333333}",
-"screenshots": [
+"class": "DepictionLayerView",
+"views": [
 {
-"accessibilityText": "Screenshot",
-"url": "https://apt.bitilly.cn/Description/mango/Description.jpg"
+"class": "DepictionLabelView",
+"text": "1.0.2-1",
+"fontWeight": "bold",
+"fontSize": 16
+},
+{
+"class": "DepictionLabelView",
+"text": "日志更新于 2026.11.26",
+"fontWeight": "semibold",
+"fontSize": 12,
+"textColor": "#999",
+"alignment": 2
+}
+]
+},
+{
+"class": "DepictionMarkdownView",
+"markdown": "\n\n1.更新了一堆"
 },
 {
 "class": "DepictionLayerView",
