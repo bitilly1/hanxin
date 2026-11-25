@@ -113,24 +113,10 @@
 "tabname": "更新日志",
 "views": [
 {
-"class": "DepictionLayerView",
-"views": [
-{
-"class": "DepictionLabelView",
-"text": "1.0.2-1",
-"fontWeight": "bold",
-"fontSize": 16
-},
-{
-"class": "DepictionLabelView",
-"text": "日志更新于 2026.11.25",
-"fontWeight": "semibold",
-"fontSize": 12,
-"textColor": "#999",
-"alignment": 2
-}
-]
-},
+"class": "DepictionScreenshotsView",
+"itemCornerRadius": 6,
+"itemSize": "{160, 346.4533333333333}",
+"screenshots": [
 {
 "accessibilityText": "Screenshot",
 "url": "https://apt.bitilly.cn/Description/mango/Description.jpg"
