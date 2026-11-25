@@ -3136,6 +3136,42 @@ Icon: http://apt.bitilly.cn/Description/mango/icon.png
 Name: mango
 Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
 
+Package: com.go.mango
+Version: 1.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 46252
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.go.mango_1.0.2-1_iphoneos-arm64.deb
+Size: 19887108
+MD5sum: 217de7f409880b11251f2c1a604f6dd2
+SHA1: 5349e452b2a7cd4d78f9b79c251e3d3567ef3213
+SHA256: 82b619bc5da4a8876d5e24f794527050ac73d4111361f2249141016bcda79ab7
+Section: 分屏工具
+Description: 芒果
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
+Package: com.go.mango
+Version: 1.0.2-1
+Architecture: iphoneos-arm64e
+Maintainer: go
+Installed-Size: 46352
+Depends: mobilesubstrate
+Filename: ./debs/roothide/com.go.mango_1.0.2-1_iphoneos-arm64e.deb
+Size: 19919760
+MD5sum: 62ae41ff365b9576fd20fa51137f1a66
+SHA1: 51dbc8a68859fd4af054950ec8e692906f6cf25d
+SHA256: 179f91562a5a08b0cfbc55b1e9beadc11d54bec6913cb94e0472cdedbaee9721
+Section: 分屏工具
+Description: 芒果
+Author: go
+Icon: http://apt.bitilly.cn/Description/mango/icon.png
+Name: mango
+Sileodepiction: http://apt.bitilly.cn/Description/mango/mango.json
+
 Package: com.ibreak.switchcolor
 Version: 0.0.1
 Architecture: iphoneos-arm64
